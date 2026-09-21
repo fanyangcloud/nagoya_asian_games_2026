@@ -75,7 +75,7 @@
         <span id="txt-medal-filter">只看金牌赛</span>
       </button>
 
-      <!-- 升级为全量 59 项下拉菜单 -->
+      <!-- 全量 59 项下拉菜单 -->
       <select id="disc-filter" onchange="filterMatches()" class="bg-white border border-slate-300 text-slate-700 font-medium py-1.5 px-3 rounded-full focus:outline-none focus:ring-2 focus:ring-blue-500 shadow-2xs cursor-pointer max-w-[280px] truncate">
         <option value="ALL">全部 59 个项目 (All Sports)</option>
       </select>
@@ -142,7 +142,8 @@
         vs: "VS",
         goldSuffix: "金",
         matchesSuffix: "场",
-        todayMatchesSuffix: "今日{n}场"
+        todayMatchesSuffix: "今日{n}场",
+        reactionTime: "出发反应"
       },
       ko: {
         title: "나고야 아시안게임 2026",
@@ -164,7 +165,8 @@
         vs: "VS",
         goldSuffix: "금",
         matchesSuffix: "경기",
-        todayMatchesSuffix: "오늘 {n}경기"
+        todayMatchesSuffix: "오늘 {n}경기",
+        reactionTime: "반응 시간"
       },
       vi: {
         title: "ASIAD Nagoya 2026",
@@ -186,7 +188,8 @@
         vs: "VS",
         goldSuffix: "HCV",
         matchesSuffix: "trận",
-        todayMatchesSuffix: "Hôm nay {n} trận"
+        todayMatchesSuffix: "Hôm nay {n} trận",
+        reactionTime: "Thời gian xuất phát"
       },
       th: {
         title: "เอเชียนเกมส์ นาโกย่า 2026",
@@ -208,12 +211,19 @@
         vs: "VS",
         goldSuffix: "ทอง",
         matchesSuffix: "นัด",
-        todayMatchesSuffix: "วันนี้ {n} แมตช์"
+        todayMatchesSuffix: "วันนี้ {n} แมตช์",
+        reactionTime: "ปฏิกิริยาออกตัว"
       }
     };
 
-    // 细粒度专业体育词法字典 (覆盖泳姿、空手道、拳法、阶次元)
+    // 细粒度专业体育词法字典
     const termVocabulary = {
+      // 补充精准的团体与项目词
+      "Men Team": { zh: "男子团体", ko: "남자 단체", vi: "Đồng đội nam", th: "ทีมชาย" },
+      "Women Team": { zh: "女子团体", ko: "여자 단체", vi: "Đồng đội nữ", th: "ทีมหญิง" },
+      "Men Individual": { zh: "男子个人", ko: "남자 개인", vi: "Cá nhân nam", th: "บุคคลชาย" },
+      "Women Individual": { zh: "女子个人", ko: "여자 개인", vi: "Cá nhân nữ", th: "บุคคลหญิง" },
+
       // 泳姿 Swimming strokes
       "Backstroke": { zh: "仰泳", ko: "배영", vi: "Bơi ngửa", th: "กรรเชียง" },
       "Freestyle": { zh: "自由泳", ko: "자유형", vi: "Bơi tự do", th: "ฟรีสไตล์" },
@@ -264,24 +274,25 @@
       "Qualification": { zh: "资格赛", ko: "예선", vi: "Vòng loại", th: "รอบคัดเลือก" },
       "Men's": { zh: "男子", ko: "남자", vi: "Nam", th: "ชาย" },
       "Women's": { zh: "女子", ko: "여자", vi: "Nữ", th: "หญิง" },
-      "Mixed": { zh: "混合", ko: "혼합", vi: "Hỗn hợp", th: "ผสม" }
+      "Mixed": { zh: "混合", ko: "혼합", vi: "Hỗn hợp", th: "ผสม" },
+      // 补充独立单词 Men / Women
+      "Men": { zh: "男子", ko: "남자", vi: "Nam", th: "ชาย" },
+      "Women": { zh: "女子", ko: "여자", vi: "Nữ", th: "หญิง" }
     };
 
     let disciplinesData = [];
+    let athletesData = {}; // 存储 DeepSeek AI 翻译的运动员姓名库
     let currentLang = 'zh';
     let currentDate = '2026-09-21';
     let rawDailyMatches = [];
     let isMedalOnly = false;
     let selectedDisc = 'ALL';
 
-    // 细粒度深层词汇翻译
     function smartTranslate(text) {
       if (!text) return '';
       if (currentLang === 'en') return text;
 
       let result = text;
-
-      // 1. 词典深度替换 (优先长短语，后短词)
       const sortedKeys = Object.keys(termVocabulary).sort((a, b) => b.length - a.length);
       for (const key of sortedKeys) {
         if (termVocabulary[key][currentLang] && result.includes(key)) {
@@ -289,7 +300,6 @@
         }
       }
 
-      // 2. 模式与度量衡单位正则替换
       if (currentLang === 'zh') {
         result = result.replace(/(\d+)\s*m\b/g, "$1米")
                        .replace(/-(\d+)\s*kg\b/g, "-$1公斤级")
@@ -332,7 +342,7 @@
       return item[key] || item.name_zh || item.name_en || fallbackDesc || discCode;
     }
 
-    // 日本主办城市与场馆词库深度翻译
+    // 细化 Aichi (爱知) 等地名翻译
     function smartTranslateVenue(venueStr) {
       if (!venueStr) return '待定场馆';
       let v = venueStr;
@@ -345,6 +355,7 @@
                 .replace(/Hekinan/g, "碧南")
                 .replace(/Kasugai/g, "春日井")
                 .replace(/Okazaki/g, "冈崎")
+                .replace(/Aichi/g, "爱知")
                 .replace(/City/g, "市")
                 .replace(/Prefectural/g, "县立")
                 .replace(/Pref\./g, "县立")
@@ -361,6 +372,7 @@
                 .replace(/Nagoya/g, "나고야")
                 .replace(/Toyohashi/g, "도요하시")
                 .replace(/Gamagori/g, "가마고리")
+                .replace(/Aichi/g, "아이치")
                 .replace(/Tennis Center/g, "테니스 센터")
                 .replace(/Martial Arts Hall/g, "무도관")
                 .replace(/Gymnasium/g, "체육관")
@@ -423,28 +435,23 @@
       }
     }
 
-    // 全量 59 项完整下拉菜单 + 智能分组 (今日开赛 vs 全部大项)
     function populateDiscOptions(matches) {
       const select = document.getElementById('disc-filter');
       const savedValue = select.value;
       const dict = i18n[currentLang];
       select.innerHTML = `<option value="ALL">${dict.allSports}</option>`;
       
-      // 统计当天开赛的项目及场次
       const todayCountMap = new Map();
       matches.forEach(m => {
         todayCountMap.set(m.Disc, (todayCountMap.get(m.Disc) || 0) + 1);
       });
 
-      // 1. 分组一：今日开赛的大项
       const todayGroup = document.createElement('optgroup');
       todayGroup.label = dict.optGroupToday;
       
-      // 2. 分组二：全部 59 个大项
       const allGroup = document.createElement('optgroup');
       allGroup.label = dict.optGroupOther;
 
-      // 遍历 disciplinesData 里的全量 59 项
       disciplinesData.forEach(item => {
         const opt = document.createElement('option');
         opt.value = item.code;
@@ -468,7 +475,6 @@
       }
       select.appendChild(allGroup);
 
-      // 恢复之前选中的值
       if (savedValue && disciplinesData.some(d => d.code === savedValue)) {
         select.value = savedValue;
       }
@@ -561,12 +567,14 @@
       });
     }
 
+    // 重点升级：全面接入 DeepSeek 翻译的真实运动员姓名
     async function viewResultDetail(disc, key) {
       const modal = document.getElementById('result-modal');
       const body = document.getElementById('modal-body');
       const discTitle = document.getElementById('modal-disc');
       const eventTitle = document.getElementById('modal-event-title');
       const timeVenue = document.getElementById('modal-time-venue');
+      const dict = i18n[currentLang];
 
       discTitle.innerText = getDiscName(disc);
       eventTitle.innerText = key;
@@ -586,13 +594,22 @@
           let html = '<div class="divide-y divide-slate-100">';
           data.Competitors.forEach(c => {
             const medalIcon = c.Medal === 'ME_GOLD' ? '🥇' : (c.Medal === 'ME_SILVER' ? '🥈' : (c.Medal === 'ME_BRONZE' ? '🥉' : ''));
+            
+            // 🌟 核心突破：优先读取 AI 翻译的多语言姓名库！
+            const regId = String(c.Reg);
+            const athleteProfile = athletesData[regId];
+            const localizedAthleteName = athleteProfile?.[currentLang] || athleteProfile?.zh || c.Name;
+
+            const reactionVal = c.Extensions?.find(e => e.Code === 'Reaction')?.Value;
+            const reactionDisplay = reactionVal ? `<p class="text-[11px] text-slate-400">${dict.reactionTime}: ${reactionVal}s</p>` : '';
+
             html += `
               <div class="py-2.5 flex items-center justify-between">
                 <div class="flex items-center space-x-3">
                   <span class="w-6 text-center font-bold ${c.Rk === '1' ? 'text-amber-500' : 'text-slate-400'}">${medalIcon || c.Rk}</span>
                   <div>
-                    <p class="font-bold text-slate-800">${c.Name} <span class="text-xs text-slate-400 font-normal">(${c.Org})</span></p>
-                    <p class="text-[11px] text-slate-400">反应时间: ${c.Extensions?.find(e => e.Code === 'Reaction')?.Value || '--'}s</p>
+                    <p class="font-bold text-slate-800">${localizedAthleteName} <span class="text-xs text-slate-400 font-normal">(${c.Org})</span></p>
+                    ${reactionDisplay}
                   </div>
                 </div>
                 <div class="text-right">
@@ -637,6 +654,7 @@
       filterMatches();
     }
 
+    // 重点升级：在 init 阶段同时预载运动员姓名数据库
     async function init() {
       try {
         const res = await fetch('./data/disciplines_i18n.json');
@@ -645,6 +663,17 @@
         }
       } catch (e) {
         console.warn('加载大项字典失败，降级显示英文');
+      }
+
+      // 🌟 加载 AI 翻译的选手库
+      try {
+        const resAth = await fetch('./data/athletes_i18n.json');
+        if (resAth.ok) {
+          athletesData = await resAth.json();
+          console.log(`✅ 成功挂载 ${Object.keys(athletesData).length} 位选手的多语言姓名库`);
+        }
+      } catch (e) {
+        console.warn('未检测到 athletes_i18n.json，选手名将保持英文');
       }
 
       initDateStrip();
