@@ -1,0 +1,214 @@
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "MMA",
+    "DiscDesc": "Mixed Martial Arts",
+    "Key": "W.T60KG-------------.FNL-.000100--",
+    "isH2H": true,
+    "Type": "A",
+    "Medal": "1",
+    "Status": "START_LIST",
+    "StatusDesc": "Start List",
+    "DateTimeRaw": "2026-09-22T14:30:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "",
+    "HideLocation": false,
+    "Venue": "ISC",
+    "VenueDesc": "Nagoya City Inae Sports Center",
+    "VenueDescS": "Nagoya City Inae Sports Center",
+    "Loc": "ISC",
+    "LocDesc": "Nagoya City Inae Sports Center",
+    "LocDescS": "Nagoya City Inae Sports Center",
+    "Event": "W.T60KG-------------",
+    "EventDesc": "Women's Traditional -60kg",
+    "Phase": "W.T60KG-------------.FNL-",
+    "PhaseOrder": 42,
+    "PhaseDesc": "Women's Traditional -60kg Final",
+    "PhaseDescS": "Women's Traditional -60kg Final",
+    "PhaseDescA": "Final",
+    "UnitDesc": "Women's Traditional -60kg Final",
+    "UnitDescS": "Women's Traditional -60kg Final",
+    "UnitDescA": "Women's Traditional -60kg Final",
+    "UnitNum": "47",
+    "IsLive": false,
+    "ShowResults": false,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "",
+    "ResDetail": "",
+    "Duration": "",
+    "CurrentPeriod": 0,
+    "Current": "",
+    "Last": "",
+    "Extensions": [],
+    "Periods": [],
+    "Paralympic": false
+  },
+  "Competitors": [
+    {
+      "Reg": "7578804",
+      "Bib": "",
+      "Org": "SGP",
+      "StartOrder": "1",
+      "StartSortOrder": 1,
+      "Rk": "",
+      "RkEq": false,
+      "RkPo": 0,
+      "WLT": "",
+      "Result": "",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Result",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        }
+      ],
+      "Name": "TEO Hui Hoon",
+      "NameS": "TEO HH",
+      "OrgDesc": "Singapore",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "",
+      "Members": [
+        {
+          "Reg": "7578804",
+          "Org": "SGP",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Gender": "W",
+          "Order": 1,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "IRM": "",
+          "Result": "",
+          "Extensions": [],
+          "Guides": [],
+          "Name": "TEO Hui Hoon",
+          "NameS": "TEO HH",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        }
+      ],
+      "TeamOfficials": [
+        {
+          "Reg": "",
+          "Org": "",
+          "Order": 1,
+          "Function": "",
+          "Extensions": [],
+          "Name": "",
+          "NameS": "",
+          "FuncDesc": ""
+        }
+      ]
+    },
+    {
+      "Reg": "10213626",
+      "Bib": "",
+      "Org": "UZB",
+      "StartOrder": "2",
+      "StartSortOrder": 2,
+      "Rk": "",
+      "RkEq": false,
+      "RkPo": 0,
+      "WLT": "",
+      "Result": "",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Result",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        }
+      ],
+      "Name": "KHIOLA SOBIROVA",
+      "NameS": "KHIOLA SOBIROVA",
+      "OrgDesc": "Uzbekistan",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "",
+      "Members": [
+        {
+          "Reg": "10213626",
+          "Org": "UZB",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Gender": "W",
+          "Order": 1,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "IRM": "",
+          "Result": "",
+          "Extensions": [],
+          "Guides": [],
+          "Name": "KHIOLA SOBIROVA",
+          "NameS": "KHIOLA SOBIROVA",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        }
+      ],
+      "TeamOfficials": [
+        {
+          "Reg": "",
+          "Org": "",
+          "Order": 1,
+          "Function": "",
+          "Extensions": [],
+          "Name": "",
+          "NameS": "",
+          "FuncDesc": ""
+        }
+      ]
+    }
+  ],
+  "Legends": {
+    "records": [],
+    "irms": [],
+    "qs": [],
+    "funcs": [
+      {
+        "DescS": "AA01",
+        "Desc": "Athlete"
+      }
+    ]
+  }
+}

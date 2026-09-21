@@ -1,0 +1,3220 @@
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "WPO",
+    "DiscDesc": "Water Polo",
+    "Key": "W.TEAM7-------------.FNL-.001500--",
+    "isH2H": true,
+    "Type": "T",
+    "Medal": "1",
+    "Status": "SCHEDULED",
+    "StatusDesc": "Scheduled",
+    "DateTimeRaw": "2026-09-24T18:55:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "",
+    "HideLocation": false,
+    "Venue": "GEG",
+    "VenueDesc": "Nagoya City General Gymnasium [Rainbow Pool]",
+    "VenueDescS": "Nagoya General Gymnasium [Rainbow Pool]",
+    "Loc": "001",
+    "LocDesc": "Nagoya General Gymnasium[Rainbow Pool]",
+    "LocDescS": "Nagoya General Gymnasium[Rainbow Pool]",
+    "Event": "W.TEAM7-------------",
+    "EventDesc": "Women",
+    "Phase": "W.TEAM7-------------.FNL-",
+    "PhaseOrder": 26,
+    "PhaseDesc": "Women Round Robin",
+    "PhaseDescS": "Women Round Robin",
+    "PhaseDescA": "Round Robin",
+    "UnitDesc": "Women Round Robin Match 15",
+    "UnitDescS": "Women Round Robin M 15",
+    "UnitDescA": "Match 15",
+    "UnitNum": "15",
+    "IsLive": false,
+    "ShowResults": false,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "",
+    "ResDetail": "",
+    "Duration": "",
+    "CurrentPeriod": 0,
+    "Current": "",
+    "Last": "",
+    "Extensions": [
+      {
+        "Type": "UNIT_INFO",
+        "Code": "ConsoleFouls",
+        "Pos": 0,
+        "Value": "N",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "CurrentSplitColorado",
+        "Pos": 0,
+        "Value": null,
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "HasPSO",
+        "Pos": 0,
+        "Value": "N",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "InfoMatch",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "InfoTeam",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "PSOResult",
+        "Pos": 0,
+        "Value": "",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "RegularTimeResult",
+        "Pos": 0,
+        "Value": "(0-0)",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "ResultDetailedWPO",
+        "Pos": 0,
+        "Value": null,
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "ServerHomeAway",
+        "Pos": 0,
+        "Value": "",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "ShootOutPeriod",
+        "Pos": 0,
+        "Value": "5",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "ShootOutVisible",
+        "Pos": 0,
+        "Value": "false",
+        "Extensions": []
+      }
+    ],
+    "Periods": [
+      {
+        "Order": 1,
+        "Duration": "",
+        "Distance": "0",
+        "ResHome": "0",
+        "ResAway": "0",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "Quarter 1",
+        "DescS": "Q1"
+      },
+      {
+        "Order": 2,
+        "Duration": "",
+        "Distance": "0",
+        "ResHome": "0",
+        "ResAway": "0",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "Quarter 2",
+        "DescS": "Q2"
+      },
+      {
+        "Order": 3,
+        "Duration": "",
+        "Distance": "0",
+        "ResHome": "0",
+        "ResAway": "0",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "Quarter 3",
+        "DescS": "Q3"
+      },
+      {
+        "Order": 4,
+        "Duration": "",
+        "Distance": "0",
+        "ResHome": "0",
+        "ResAway": "0",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "Quarter 4",
+        "DescS": "Q4"
+      },
+      {
+        "Order": 5,
+        "Duration": "",
+        "Distance": "0",
+        "ResHome": "0",
+        "ResAway": "0",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "Penalty Shoot-out",
+        "DescS": "PSO"
+      }
+    ],
+    "Paralympic": false
+  },
+  "Competitors": [
+    {
+      "Reg": "WPOWTEAM7------CHN01",
+      "Bib": "",
+      "Org": "CHN",
+      "StartOrder": "1",
+      "StartSortOrder": 1,
+      "Rk": "",
+      "RkEq": false,
+      "RkPo": 0,
+      "WLT": "T",
+      "Result": "",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "PREV_RESULT",
+          "Code": "UNIT_KEY",
+          "Pos": 1,
+          "Value": "W.TEAM7-------------.FNL-.000100--",
+          "Extensions": [
+            {
+              "Type": "RESULT",
+              "Code": "Register",
+              "Pos": 1,
+              "Value": "WPOWTEAM7------CHN01"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "RegisterOpp",
+              "Pos": 1,
+              "Value": "WPOWTEAM7------UZB01"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "Result",
+              "Pos": 1,
+              "Value": "32-6"
+            }
+          ]
+        },
+        {
+          "Type": "PREV_RESULT",
+          "Code": "UNIT_KEY",
+          "Pos": 2,
+          "Value": "W.TEAM7-------------.FNL-.000600--",
+          "Extensions": [
+            {
+              "Type": "RESULT",
+              "Code": "Register",
+              "Pos": 2,
+              "Value": "WPOWTEAM7------CHN01"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "RegisterOpp",
+              "Pos": 2,
+              "Value": "WPOWTEAM7------THA01"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "Result",
+              "Pos": 2,
+              "Value": "21-6"
+            }
+          ]
+        },
+        {
+          "Type": "PREV_RESULT",
+          "Code": "UNIT_KEY",
+          "Pos": 3,
+          "Value": "W.TEAM7-------------.FNL-.000900--",
+          "Extensions": [
+            {
+              "Type": "RESULT",
+              "Code": "Register",
+              "Pos": 3,
+              "Value": "WPOWTEAM7------CHN01"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "RegisterOpp",
+              "Pos": 3,
+              "Value": "WPOWTEAM7------SGP01"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "Result",
+              "Pos": 3,
+              "Value": ""
+            }
+          ]
+        },
+        {
+          "Type": "PREV_RESULT",
+          "Code": "UNIT_KEY",
+          "Pos": 4,
+          "Value": "W.TEAM7-------------.FNL-.001100--",
+          "Extensions": [
+            {
+              "Type": "RESULT",
+              "Code": "Register",
+              "Pos": 4,
+              "Value": "WPOWTEAM7------CHN01"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "RegisterOpp",
+              "Pos": 4,
+              "Value": "WPOWTEAM7------KAZ01"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "Result",
+              "Pos": 4,
+              "Value": ""
+            }
+          ]
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "AvailableVideoReferral",
+          "Pos": 0,
+          "Value": "Y",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ComesFromPhaseKey",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ComesFromRank",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ComesFromUnitKey",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PSO_Shooters",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PSOResult",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "RegularTimeResult",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "MemberServer",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "Server",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        },
+        {
+          "Type": "TIMEOUTS",
+          "Code": "TimeOuts",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        }
+      ],
+      "Name": "People's Republic of China",
+      "NameS": "China",
+      "OrgDesc": "People's Republic of China",
+      "Splits": [
+        {
+          "Category": "",
+          "Distance": "0",
+          "Rk": "0",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "0",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "0",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": []
+        },
+        {
+          "Category": "",
+          "Distance": "0",
+          "Rk": "0",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "0",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "0",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": []
+        },
+        {
+          "Category": "",
+          "Distance": "0",
+          "Rk": "0",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "0",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "0",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": []
+        },
+        {
+          "Category": "",
+          "Distance": "0",
+          "Rk": "0",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "0",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "0",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": []
+        },
+        {
+          "Category": "",
+          "Distance": "0",
+          "Rk": "0",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "0",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "0",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "",
+      "Members": [
+        {
+          "Reg": "4131591",
+          "Org": "CHN",
+          "Bib": "1",
+          "Function": "AA01",
+          "Position": "GK",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2000",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Handed",
+              "Pos": 0,
+              "Value": "R",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntGoals",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntMatches",
+              "Pos": 0,
+              "Value": "20",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Suspended",
+              "Pos": 0,
+              "Value": "N",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "Fouls",
+              "Pos": 0,
+              "Value": null,
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "IsExcluded",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 1,
+          "Substitute": true,
+          "Convoke": true,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "IRM": "OK",
+          "Result": "0",
+          "Guides": [],
+          "Name": "DU Xinyue",
+          "NameS": "DU X",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Goalkeeper"
+        },
+        {
+          "Reg": "4137631",
+          "Org": "CHN",
+          "Bib": "2",
+          "Function": "AA01",
+          "Position": "D",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2006",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Handed",
+              "Pos": 0,
+              "Value": "R",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntGoals",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntMatches",
+              "Pos": 0,
+              "Value": "20",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Suspended",
+              "Pos": 0,
+              "Value": "N",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "Fouls",
+              "Pos": 0,
+              "Value": null,
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "IsExcluded",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 2,
+          "Substitute": true,
+          "Convoke": true,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "IRM": "OK",
+          "Result": "0",
+          "Guides": [],
+          "Name": "ZHANG Yumian",
+          "NameS": "ZHANG Y",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Driver"
+        },
+        {
+          "Reg": "4136007",
+          "Org": "CHN",
+          "Bib": "3",
+          "Function": "AA01",
+          "Position": "CF",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "1997",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Handed",
+              "Pos": 0,
+              "Value": "R",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntGoals",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntMatches",
+              "Pos": 0,
+              "Value": "60",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Suspended",
+              "Pos": 0,
+              "Value": "N",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "Fouls",
+              "Pos": 0,
+              "Value": null,
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "IsExcluded",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 3,
+          "Substitute": true,
+          "Convoke": true,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "IRM": "OK",
+          "Result": "0",
+          "Guides": [],
+          "Name": "YAN Jing",
+          "NameS": "YAN J",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Centre Forward"
+        },
+        {
+          "Reg": "4137937",
+          "Org": "CHN",
+          "Bib": "4",
+          "Function": "AA01",
+          "Position": "CF",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2003",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Handed",
+              "Pos": 0,
+              "Value": "R",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntGoals",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntMatches",
+              "Pos": 0,
+              "Value": "20",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Suspended",
+              "Pos": 0,
+              "Value": "N",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "Fouls",
+              "Pos": 0,
+              "Value": null,
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "IsExcluded",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 4,
+          "Substitute": true,
+          "Convoke": true,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "IRM": "OK",
+          "Result": "0",
+          "Guides": [],
+          "Name": "ZHOU Shang",
+          "NameS": "ZHOU S",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Centre Forward"
+        },
+        {
+          "Reg": "4135030",
+          "Org": "CHN",
+          "Bib": "5",
+          "Function": "AA01",
+          "Position": "D",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2004",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Handed",
+              "Pos": 0,
+              "Value": "R",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntGoals",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntMatches",
+              "Pos": 0,
+              "Value": "15",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Suspended",
+              "Pos": 0,
+              "Value": "N",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "Fouls",
+              "Pos": 0,
+              "Value": null,
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "IsExcluded",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 5,
+          "Substitute": true,
+          "Convoke": true,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "IRM": "OK",
+          "Result": "0",
+          "Guides": [],
+          "Name": "XIE Liyi",
+          "NameS": "XIE L",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Driver"
+        },
+        {
+          "Reg": "4134307",
+          "Org": "CHN",
+          "Bib": "6",
+          "Function": "AA01",
+          "Position": "CB",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2001",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Handed",
+              "Pos": 0,
+              "Value": "R",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntGoals",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntMatches",
+              "Pos": 0,
+              "Value": "30",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Suspended",
+              "Pos": 0,
+              "Value": "N",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "Fouls",
+              "Pos": 0,
+              "Value": null,
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "IsExcluded",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 6,
+          "Substitute": true,
+          "Convoke": true,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "IRM": "OK",
+          "Result": "0",
+          "Guides": [],
+          "Name": "WANG Shiyun",
+          "NameS": "WANG S",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Centre Back"
+        },
+        {
+          "Reg": "4133660",
+          "Org": "CHN",
+          "Bib": "7",
+          "Function": "AA01",
+          "Position": "D",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2007",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Handed",
+              "Pos": 0,
+              "Value": "L",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntGoals",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntMatches",
+              "Pos": 0,
+              "Value": "20",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Suspended",
+              "Pos": 0,
+              "Value": "N",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "Fouls",
+              "Pos": 0,
+              "Value": null,
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "IsExcluded",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 7,
+          "Substitute": true,
+          "Convoke": true,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "IRM": "OK",
+          "Result": "0",
+          "Guides": [],
+          "Name": "SHAO Yixin",
+          "NameS": "SHAO Y",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Driver"
+        },
+        {
+          "Reg": "4131311",
+          "Org": "CHN",
+          "Bib": "8",
+          "Function": "AA01",
+          "Position": "CB",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "1999",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Handed",
+              "Pos": 0,
+              "Value": "R",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntGoals",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntMatches",
+              "Pos": 0,
+              "Value": "8",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Suspended",
+              "Pos": 0,
+              "Value": "N",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "Fouls",
+              "Pos": 0,
+              "Value": null,
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "IsExcluded",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 8,
+          "Substitute": true,
+          "Convoke": true,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "IRM": "OK",
+          "Result": "0",
+          "Guides": [],
+          "Name": "CHEN Jiaqing",
+          "NameS": "CHEN J",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Centre Back"
+        },
+        {
+          "Reg": "4135591",
+          "Org": "CHN",
+          "Bib": "9",
+          "Function": "AA01",
+          "Position": "D",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2002",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Handed",
+              "Pos": 0,
+              "Value": "R",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntGoals",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntMatches",
+              "Pos": 0,
+              "Value": "60",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Suspended",
+              "Pos": 0,
+              "Value": "N",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "Fouls",
+              "Pos": 0,
+              "Value": null,
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "IsExcluded",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 9,
+          "Substitute": true,
+          "Convoke": true,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "IRM": "OK",
+          "Result": "0",
+          "Guides": [],
+          "Name": "YAN Siya",
+          "NameS": "YAN S",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Driver"
+        },
+        {
+          "Reg": "4133287",
+          "Org": "CHN",
+          "Bib": "10",
+          "Function": "AA01",
+          "Position": "CB",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "1998",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Handed",
+              "Pos": 0,
+              "Value": "R",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntGoals",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntMatches",
+              "Pos": 0,
+              "Value": "40",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Suspended",
+              "Pos": 0,
+              "Value": "N",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "Fouls",
+              "Pos": 0,
+              "Value": null,
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "IsExcluded",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 10,
+          "Substitute": true,
+          "Convoke": true,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "IRM": "OK",
+          "Result": "0",
+          "Guides": [],
+          "Name": "NONG Sanfeng",
+          "NameS": "NONG S",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Centre Back"
+        },
+        {
+          "Reg": "4136929",
+          "Org": "CHN",
+          "Bib": "11",
+          "Function": "AA01",
+          "Position": "D",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2004",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Handed",
+              "Pos": 0,
+              "Value": "L",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntGoals",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntMatches",
+              "Pos": 0,
+              "Value": "20",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Suspended",
+              "Pos": 0,
+              "Value": "N",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "Fouls",
+              "Pos": 0,
+              "Value": null,
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "IsExcluded",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 11,
+          "Substitute": true,
+          "Convoke": true,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "IRM": "OK",
+          "Result": "0",
+          "Guides": [],
+          "Name": "ZHANG Qishuo",
+          "NameS": "ZHANG Q",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Driver"
+        },
+        {
+          "Reg": "4134591",
+          "Org": "CHN",
+          "Bib": "12",
+          "Function": "AA01",
+          "Position": "CB",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2002",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Handed",
+              "Pos": 0,
+              "Value": "R",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntGoals",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntMatches",
+              "Pos": 0,
+              "Value": "40",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Suspended",
+              "Pos": 0,
+              "Value": "N",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "Fouls",
+              "Pos": 0,
+              "Value": null,
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "IsExcluded",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 12,
+          "Substitute": true,
+          "Convoke": true,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "IRM": "OK",
+          "Result": "0",
+          "Guides": [],
+          "Name": "WANG Xuan",
+          "NameS": "WANG X",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Centre Back"
+        },
+        {
+          "Reg": "4133807",
+          "Org": "CHN",
+          "Bib": "13",
+          "Function": "AA01",
+          "Position": "GK",
+          "Captain": true,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "1995",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Handed",
+              "Pos": 0,
+              "Value": "R",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntGoals",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntMatches",
+              "Pos": 0,
+              "Value": "60",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Suspended",
+              "Pos": 0,
+              "Value": "N",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "Fouls",
+              "Pos": 0,
+              "Value": null,
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "IsExcluded",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 13,
+          "Substitute": true,
+          "Convoke": true,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "IRM": "OK",
+          "Result": "0",
+          "Guides": [],
+          "Name": "SHEN Yineng",
+          "NameS": "SHEN Y",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Goalkeeper"
+        },
+        {
+          "Reg": "4136661",
+          "Org": "CHN",
+          "Bib": "14",
+          "Function": "AA01",
+          "Position": "D",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2008",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Handed",
+              "Pos": 0,
+              "Value": "R",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntGoals",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntMatches",
+              "Pos": 0,
+              "Value": "20",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Suspended",
+              "Pos": 0,
+              "Value": "N",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "Fouls",
+              "Pos": 0,
+              "Value": null,
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "IsExcluded",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 14,
+          "Substitute": true,
+          "Convoke": true,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "IRM": "OK",
+          "Result": "0",
+          "Guides": [],
+          "Name": "ZHANG Jingwen",
+          "NameS": "ZHANG J",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Driver"
+        },
+        {
+          "Reg": "4138204",
+          "Org": "CHN",
+          "Bib": "15",
+          "Function": "AA01",
+          "Position": "D",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2005",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Handed",
+              "Pos": 0,
+              "Value": "R",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntGoals",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntMatches",
+              "Pos": 0,
+              "Value": "15",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Suspended",
+              "Pos": 0,
+              "Value": "N",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "Fouls",
+              "Pos": 0,
+              "Value": null,
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "IsExcluded",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 15,
+          "Substitute": true,
+          "Convoke": true,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "IRM": "OK",
+          "Result": "0",
+          "Guides": [],
+          "Name": "ZOU Yuhe",
+          "NameS": "ZOU Y",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Driver"
+        }
+      ],
+      "TeamOfficials": [
+        {
+          "Reg": "6571311",
+          "Org": "CHN",
+          "Order": 1,
+          "Function": "COACH",
+          "Extensions": [],
+          "Position": "",
+          "Name": "OCA GAIA Miguel Angel",
+          "NameS": "OCA GAIA M",
+          "FuncDesc": "Head Coach",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "6571562",
+          "Org": "CHN",
+          "Order": 2,
+          "Function": "TM_OFFIC",
+          "Extensions": [],
+          "Position": "",
+          "Name": "ANDREO GABAN Angel Luis",
+          "NameS": "ANDREO GABAN A",
+          "FuncDesc": "Team Official",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "6571827",
+          "Org": "CHN",
+          "Order": 3,
+          "Function": "TM_OFFIC",
+          "Extensions": [],
+          "Position": "",
+          "Name": "WU Zhiyu",
+          "NameS": "WU Z",
+          "FuncDesc": "Team Official",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "6572330",
+          "Org": "CHN",
+          "Order": 4,
+          "Function": "MEDIC",
+          "Extensions": [],
+          "Position": "",
+          "Name": "CHEN Chaomian",
+          "NameS": "CHEN C",
+          "FuncDesc": "Medical Official",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "12",
+          "Org": "CHN",
+          "Order": 5,
+          "Function": "MEDIC",
+          "Extensions": [],
+          "Position": "",
+          "Name": "YUANFA Chen",
+          "NameS": "YUANFA C",
+          "FuncDesc": "Medical Official",
+          "PosDesc": ""
+        }
+      ]
+    },
+    {
+      "Reg": "WPOWTEAM7------JPN01",
+      "Bib": "",
+      "Org": "JPN",
+      "StartOrder": "2",
+      "StartSortOrder": 2,
+      "Rk": "",
+      "RkEq": false,
+      "RkPo": 0,
+      "WLT": "T",
+      "Result": "",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "PREV_RESULT",
+          "Code": "UNIT_KEY",
+          "Pos": 1,
+          "Value": "W.TEAM7-------------.FNL-.000300--",
+          "Extensions": [
+            {
+              "Type": "RESULT",
+              "Code": "Register",
+              "Pos": 1,
+              "Value": "WPOWTEAM7------JPN01"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "RegisterOpp",
+              "Pos": 1,
+              "Value": "WPOWTEAM7------THA01"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "Result",
+              "Pos": 1,
+              "Value": "28-7"
+            }
+          ]
+        },
+        {
+          "Type": "PREV_RESULT",
+          "Code": "UNIT_KEY",
+          "Pos": 2,
+          "Value": "W.TEAM7-------------.FNL-.000500--",
+          "Extensions": [
+            {
+              "Type": "RESULT",
+              "Code": "Register",
+              "Pos": 2,
+              "Value": "WPOWTEAM7------JPN01"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "RegisterOpp",
+              "Pos": 2,
+              "Value": "WPOWTEAM7------KAZ01"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "Result",
+              "Pos": 2,
+              "Value": "25-10"
+            }
+          ]
+        },
+        {
+          "Type": "PREV_RESULT",
+          "Code": "UNIT_KEY",
+          "Pos": 3,
+          "Value": "W.TEAM7-------------.FNL-.000800--",
+          "Extensions": [
+            {
+              "Type": "RESULT",
+              "Code": "Register",
+              "Pos": 3,
+              "Value": "WPOWTEAM7------JPN01"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "RegisterOpp",
+              "Pos": 3,
+              "Value": "WPOWTEAM7------UZB01"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "Result",
+              "Pos": 3,
+              "Value": ""
+            }
+          ]
+        },
+        {
+          "Type": "PREV_RESULT",
+          "Code": "UNIT_KEY",
+          "Pos": 4,
+          "Value": "W.TEAM7-------------.FNL-.001200--",
+          "Extensions": [
+            {
+              "Type": "RESULT",
+              "Code": "Register",
+              "Pos": 4,
+              "Value": "WPOWTEAM7------JPN01"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "RegisterOpp",
+              "Pos": 4,
+              "Value": "WPOWTEAM7------SGP01"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "Result",
+              "Pos": 4,
+              "Value": ""
+            }
+          ]
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "AvailableVideoReferral",
+          "Pos": 0,
+          "Value": "Y",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ComesFromPhaseKey",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ComesFromRank",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ComesFromUnitKey",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PSO_Shooters",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PSOResult",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "RegularTimeResult",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "MemberServer",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "Server",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        },
+        {
+          "Type": "TIMEOUTS",
+          "Code": "TimeOuts",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        }
+      ],
+      "Name": "Japan",
+      "NameS": "Japan",
+      "OrgDesc": "Japan",
+      "Splits": [
+        {
+          "Category": "",
+          "Distance": "0",
+          "Rk": "0",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "0",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "0",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": []
+        },
+        {
+          "Category": "",
+          "Distance": "0",
+          "Rk": "0",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "0",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "0",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": []
+        },
+        {
+          "Category": "",
+          "Distance": "0",
+          "Rk": "0",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "0",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "0",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": []
+        },
+        {
+          "Category": "",
+          "Distance": "0",
+          "Rk": "0",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "0",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "0",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": []
+        },
+        {
+          "Category": "",
+          "Distance": "0",
+          "Rk": "0",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "0",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "0",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "",
+      "Members": [
+        {
+          "Reg": "16645940",
+          "Org": "JPN",
+          "Bib": "1",
+          "Function": "AA01",
+          "Position": "GK",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2002",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Handed",
+              "Pos": 0,
+              "Value": "R",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntGoals",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntMatches",
+              "Pos": 0,
+              "Value": "26",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Suspended",
+              "Pos": 0,
+              "Value": "N",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "Fouls",
+              "Pos": 0,
+              "Value": null,
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "IsExcluded",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 1,
+          "Substitute": true,
+          "Convoke": true,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "IRM": "OK",
+          "Result": "0",
+          "Guides": [],
+          "Name": "INABA Haruka",
+          "NameS": "INABA H",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Goalkeeper"
+        },
+        {
+          "Reg": "16647161",
+          "Org": "JPN",
+          "Bib": "2",
+          "Function": "AA01",
+          "Position": "CB",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "1997",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Handed",
+              "Pos": 0,
+              "Value": "R",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntGoals",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntMatches",
+              "Pos": 0,
+              "Value": "90",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Suspended",
+              "Pos": 0,
+              "Value": "N",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "Fouls",
+              "Pos": 0,
+              "Value": null,
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "IsExcluded",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 2,
+          "Substitute": true,
+          "Convoke": true,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "IRM": "OK",
+          "Result": "0",
+          "Guides": [],
+          "Name": "ARIMA Yumi",
+          "NameS": "ARIMA Y",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Centre Back"
+        },
+        {
+          "Reg": "16647265",
+          "Org": "JPN",
+          "Bib": "3",
+          "Function": "AA01",
+          "Position": "D",
+          "Captain": true,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "1998",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Handed",
+              "Pos": 0,
+              "Value": "R",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntGoals",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntMatches",
+              "Pos": 0,
+              "Value": "99",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Suspended",
+              "Pos": 0,
+              "Value": "N",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "Fouls",
+              "Pos": 0,
+              "Value": null,
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "IsExcluded",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 3,
+          "Substitute": true,
+          "Convoke": true,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "IRM": "OK",
+          "Result": "0",
+          "Guides": [],
+          "Name": "INABA Akari",
+          "NameS": "INABA A",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Driver"
+        },
+        {
+          "Reg": "16646938",
+          "Org": "JPN",
+          "Bib": "4",
+          "Function": "AA01",
+          "Position": "D",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2002",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Handed",
+              "Pos": 0,
+              "Value": "R",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntGoals",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntMatches",
+              "Pos": 0,
+              "Value": "50",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Suspended",
+              "Pos": 0,
+              "Value": "N",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "Fouls",
+              "Pos": 0,
+              "Value": null,
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "IsExcluded",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 4,
+          "Substitute": true,
+          "Convoke": true,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "IRM": "OK",
+          "Result": "0",
+          "Guides": [],
+          "Name": "URA Eruna",
+          "NameS": "URA E",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Driver"
+        },
+        {
+          "Reg": "16647057",
+          "Org": "JPN",
+          "Bib": "5",
+          "Function": "AA01",
+          "Position": "D",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "1999",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Handed",
+              "Pos": 0,
+              "Value": "L",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntGoals",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntMatches",
+              "Pos": 0,
+              "Value": "53",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Suspended",
+              "Pos": 0,
+              "Value": "N",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "Fouls",
+              "Pos": 0,
+              "Value": null,
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "IsExcluded",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 5,
+          "Substitute": true,
+          "Convoke": true,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "IRM": "OK",
+          "Result": "0",
+          "Guides": [],
+          "Name": "KAWAGUCHI Kako",
+          "NameS": "KAWAGUCHI K",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Driver"
+        },
+        {
+          "Reg": "16646817",
+          "Org": "JPN",
+          "Bib": "6",
+          "Function": "AA01",
+          "Position": "CF",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "1999",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Handed",
+              "Pos": 0,
+              "Value": "R",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntGoals",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntMatches",
+              "Pos": 0,
+              "Value": "50",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Suspended",
+              "Pos": 0,
+              "Value": "N",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "Fouls",
+              "Pos": 0,
+              "Value": null,
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "IsExcluded",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 6,
+          "Substitute": true,
+          "Convoke": true,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "IRM": "OK",
+          "Result": "0",
+          "Guides": [],
+          "Name": "SHITARA Hikaru",
+          "NameS": "SHITARA H",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Centre Forward"
+        },
+        {
+          "Reg": "16646311",
+          "Org": "JPN",
+          "Bib": "7",
+          "Function": "AA01",
+          "Position": "D",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2002",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Handed",
+              "Pos": 0,
+              "Value": "R",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntGoals",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntMatches",
+              "Pos": 0,
+              "Value": "44",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Suspended",
+              "Pos": 0,
+              "Value": "N",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "Fouls",
+              "Pos": 0,
+              "Value": null,
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "IsExcluded",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 7,
+          "Substitute": true,
+          "Convoke": true,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "IRM": "OK",
+          "Result": "0",
+          "Guides": [],
+          "Name": "SUNABE Ai",
+          "NameS": "SUNABE A",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Driver"
+        },
+        {
+          "Reg": "16645836",
+          "Org": "JPN",
+          "Bib": "8",
+          "Function": "AA01",
+          "Position": "D",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2003",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Handed",
+              "Pos": 0,
+              "Value": "R",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntGoals",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntMatches",
+              "Pos": 0,
+              "Value": "45",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Suspended",
+              "Pos": 0,
+              "Value": "N",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "Fouls",
+              "Pos": 0,
+              "Value": null,
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "IsExcluded",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 8,
+          "Substitute": true,
+          "Convoke": true,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "IRM": "OK",
+          "Result": "0",
+          "Guides": [],
+          "Name": "SEKINE Saya",
+          "NameS": "SEKINE S",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Driver"
+        },
+        {
+          "Reg": "16645291",
+          "Org": "JPN",
+          "Bib": "9",
+          "Function": "AA01",
+          "Position": "CB",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2004",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Handed",
+              "Pos": 0,
+              "Value": "R",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntGoals",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntMatches",
+              "Pos": 0,
+              "Value": "37",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Suspended",
+              "Pos": 0,
+              "Value": "N",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "Fouls",
+              "Pos": 0,
+              "Value": null,
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "IsExcluded",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 9,
+          "Substitute": true,
+          "Convoke": true,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "IRM": "OK",
+          "Result": "0",
+          "Guides": [],
+          "Name": "OTSUBO Riko",
+          "NameS": "OTSUBO R",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Centre Back"
+        },
+        {
+          "Reg": "16646668",
+          "Org": "JPN",
+          "Bib": "10",
+          "Function": "AA01",
+          "Position": "D",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2000",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Handed",
+              "Pos": 0,
+              "Value": "L",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntGoals",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntMatches",
+              "Pos": 0,
+              "Value": "24",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Suspended",
+              "Pos": 0,
+              "Value": "N",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "Fouls",
+              "Pos": 0,
+              "Value": null,
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "IsExcluded",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 10,
+          "Substitute": true,
+          "Convoke": true,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "IRM": "OK",
+          "Result": "0",
+          "Guides": [],
+          "Name": "NISHIYAMA Fuka",
+          "NameS": "NISHIYAMA F",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Driver"
+        },
+        {
+          "Reg": "16646423",
+          "Org": "JPN",
+          "Bib": "11",
+          "Function": "AA01",
+          "Position": "CB",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2003",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Handed",
+              "Pos": 0,
+              "Value": "R",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntGoals",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntMatches",
+              "Pos": 0,
+              "Value": "20",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Suspended",
+              "Pos": 0,
+              "Value": "N",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "Fouls",
+              "Pos": 0,
+              "Value": null,
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "IsExcluded",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 11,
+          "Substitute": true,
+          "Convoke": true,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "IRM": "OK",
+          "Result": "0",
+          "Guides": [],
+          "Name": "INOUE Momo",
+          "NameS": "INOUE M",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Centre Back"
+        },
+        {
+          "Reg": "16645603",
+          "Org": "JPN",
+          "Bib": "12",
+          "Function": "AA01",
+          "Position": "D",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2005",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Handed",
+              "Pos": 0,
+              "Value": "L",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntGoals",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntMatches",
+              "Pos": 0,
+              "Value": "32",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Suspended",
+              "Pos": 0,
+              "Value": "N",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "Fouls",
+              "Pos": 0,
+              "Value": null,
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "IsExcluded",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 12,
+          "Substitute": true,
+          "Convoke": true,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "IRM": "OK",
+          "Result": "0",
+          "Guides": [],
+          "Name": "KOBAYASHI Maho",
+          "NameS": "KOBAYASHI M",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Driver"
+        },
+        {
+          "Reg": "16646103",
+          "Org": "JPN",
+          "Bib": "13",
+          "Function": "AA01",
+          "Position": "GK",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2000",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Handed",
+              "Pos": 0,
+              "Value": "R",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntGoals",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntMatches",
+              "Pos": 0,
+              "Value": "22",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Suspended",
+              "Pos": 0,
+              "Value": "N",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "Fouls",
+              "Pos": 0,
+              "Value": null,
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "IsExcluded",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 13,
+          "Substitute": true,
+          "Convoke": true,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "IRM": "OK",
+          "Result": "0",
+          "Guides": [],
+          "Name": "NODA Manami",
+          "NameS": "NODA M",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Goalkeeper"
+        },
+        {
+          "Reg": "16645187",
+          "Org": "JPN",
+          "Bib": "14",
+          "Function": "AA01",
+          "Position": "D",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2009",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Handed",
+              "Pos": 0,
+              "Value": "R",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntGoals",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntMatches",
+              "Pos": 0,
+              "Value": "12",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Suspended",
+              "Pos": 0,
+              "Value": "N",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "Fouls",
+              "Pos": 0,
+              "Value": null,
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "IsExcluded",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 14,
+          "Substitute": true,
+          "Convoke": true,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "IRM": "OK",
+          "Result": "0",
+          "Guides": [],
+          "Name": "LOWREY Nina",
+          "NameS": "LOWREY N",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Driver"
+        },
+        {
+          "Reg": "16645499",
+          "Org": "JPN",
+          "Bib": "15",
+          "Function": "AA01",
+          "Position": "D",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2006",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Handed",
+              "Pos": 0,
+              "Value": "R",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntGoals",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "IntMatches",
+              "Pos": 0,
+              "Value": "24",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Suspended",
+              "Pos": 0,
+              "Value": "N",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "Fouls",
+              "Pos": 0,
+              "Value": null,
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_MATCH_INFO",
+              "Code": "IsExcluded",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 15,
+          "Substitute": true,
+          "Convoke": true,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "IRM": "OK",
+          "Result": "0",
+          "Guides": [],
+          "Name": "FUKUDA Shoka",
+          "NameS": "FUKUDA S",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Driver"
+        }
+      ],
+      "TeamOfficials": [
+        {
+          "Reg": "4584251",
+          "Org": "JPN",
+          "Order": 1,
+          "Function": "COACH",
+          "Extensions": [],
+          "Position": "",
+          "Name": "HAZUI Shota",
+          "NameS": "HAZUI S",
+          "FuncDesc": "Head Coach",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "4584037",
+          "Org": "JPN",
+          "Order": 2,
+          "Function": "TM_OFFIC",
+          "Extensions": [],
+          "Position": "",
+          "Name": "IZUO Makiko",
+          "NameS": "IZUO M",
+          "FuncDesc": "Team Official",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "4583823",
+          "Org": "JPN",
+          "Order": 3,
+          "Function": "TM_OFFIC",
+          "Extensions": [],
+          "Position": "",
+          "Name": "MORI Tsubasa",
+          "NameS": "MORI T",
+          "FuncDesc": "Team Official",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "6",
+          "Org": "JPN",
+          "Order": 4,
+          "Function": "TM_OFFIC",
+          "Extensions": [],
+          "Position": "",
+          "Name": "TSUKAGOSHI Yuta",
+          "NameS": "TSUKAGOSHI Y",
+          "FuncDesc": "Team Official",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "4583930",
+          "Org": "JPN",
+          "Order": 5,
+          "Function": "TM_OFFIC",
+          "Extensions": [],
+          "Position": "",
+          "Name": "NAKAZAWA Megumi",
+          "NameS": "NAKAZAWA M",
+          "FuncDesc": "Team Official",
+          "PosDesc": ""
+        }
+      ]
+    }
+  ],
+  "Legends": {
+    "records": [],
+    "irms": [],
+    "qs": [],
+    "funcs": [
+      {
+        "DescS": "AA01",
+        "Desc": "Athlete"
+      }
+    ],
+    "pos": [
+      {
+        "DescS": "GK",
+        "Desc": "Goalkeeper"
+      },
+      {
+        "DescS": "D",
+        "Desc": "Driver"
+      },
+      {
+        "DescS": "CF",
+        "Desc": "Centre Forward"
+      },
+      {
+        "DescS": "CB",
+        "Desc": "Centre Back"
+      }
+    ],
+    "captain": "legends.captain"
+  }
+}

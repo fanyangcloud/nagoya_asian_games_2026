@@ -1,0 +1,183 @@
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "SWM",
+    "DiscDesc": "Swimming",
+    "Key": "M.50MBR-------------.FNL-.000100--",
+    "isH2H": false,
+    "Type": "A",
+    "Medal": "1",
+    "Status": "SCHEDULED",
+    "StatusDesc": "Scheduled",
+    "DateTimeRaw": "2026-09-25T17:05:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "",
+    "HideLocation": false,
+    "Venue": "TAC",
+    "VenueDesc": "Tokyo Aquatics Centre",
+    "VenueDescS": "Tokyo Aquatics Centre",
+    "Loc": "001",
+    "LocDesc": "Swimming Pool",
+    "LocDescS": "Swimming Pool",
+    "Event": "M.50MBR-------------",
+    "EventDesc": "Men's 50m Breaststroke",
+    "Phase": "M.50MBR-------------.FNL-",
+    "PhaseOrder": 1,
+    "PhaseDesc": "Men's 50m Breaststroke Final",
+    "PhaseDescS": "Men's 50m Breaststroke F",
+    "PhaseDescA": "Final",
+    "UnitDesc": "Men's 50m Breaststroke Final",
+    "UnitDescS": "Men's 50m Breaststroke F",
+    "UnitDescA": "",
+    "UnitNum": "1",
+    "IsLive": false,
+    "ShowResults": false,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "",
+    "ResDetail": "",
+    "Duration": "",
+    "CurrentPeriod": 0,
+    "Current": "",
+    "Last": "",
+    "Extensions": [
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Distance",
+        "Pos": 0,
+        "Value": "50",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "EvOrder",
+        "Pos": 0,
+        "Value": "36",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "LAPSTOGO",
+        "Pos": 0,
+        "Value": "1",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "NHeat",
+        "Pos": 0,
+        "Value": "1",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "NHeats",
+        "Pos": 0,
+        "Value": "1",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "NLanes",
+        "Pos": 0,
+        "Value": "10",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "NMembers",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Priority",
+        "Pos": 0,
+        "Value": "4,5,3,6,2,7,1,8,0,9",
+        "Extensions": []
+      }
+    ],
+    "Periods": [
+      {
+        "Order": 1,
+        "Duration": "",
+        "Distance": "50",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "50 m.",
+        "DescS": "50 m."
+      }
+    ],
+    "Records": [
+      {
+        "EvCode": "M.50MBR-------------",
+        "Desc": "Men's 50m Breaststroke",
+        "DescS": "Men's 50m Breaststroke",
+        "Records": [
+          {
+            "Result": "25.95",
+            "Equalled": false,
+            "Indicator": "WR",
+            "Indicator1": "WR",
+            "Desc": "World Record",
+            "AreaDesc": "World",
+            "Loc": "BUDAPEST (HUN)",
+            "DateTimeRaw": "2017-07-25T00:00:00+09:00",
+            "ShowLinkBio": false,
+            "Reg": "R0038",
+            "Name": "PEATY Adam",
+            "Org": "GBR",
+            "OrgDesc": "Great Britain"
+          },
+          {
+            "Result": "26.20",
+            "Equalled": false,
+            "Indicator": "AR",
+            "Indicator1": "AR",
+            "Desc": "Asian Record",
+            "AreaDesc": "Asia",
+            "Loc": "FUKUOKA (JPN)",
+            "DateTimeRaw": "2023-07-25T00:00:00+09:00",
+            "ShowLinkBio": false,
+            "Reg": "R0052",
+            "Name": "QIN Haiyang",
+            "Org": "CHN",
+            "OrgDesc": "People's Republic of China"
+          },
+          {
+            "Result": "26.25",
+            "Equalled": false,
+            "Indicator": "GR",
+            "Indicator1": "GR",
+            "Desc": "Games Record",
+            "AreaDesc": "Asian Games",
+            "Loc": "HANGZHOU (CHN)",
+            "DateTimeRaw": "2023-09-29T00:00:00+09:00",
+            "ShowLinkBio": false,
+            "Reg": "R0052",
+            "Name": "QIN Haiyang",
+            "Org": "CHN",
+            "OrgDesc": "People's Republic of China"
+          }
+        ]
+      }
+    ],
+    "Paralympic": false
+  },
+  "Competitors": [],
+  "Legends": {
+    "records": [],
+    "irms": [],
+    "qs": []
+  }
+}

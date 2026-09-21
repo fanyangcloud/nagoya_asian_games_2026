@@ -1,0 +1,1624 @@
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "VVO",
+    "DiscDesc": "Volleyball",
+    "Key": "W.TEAM6-------------.FNL-.000100--",
+    "isH2H": true,
+    "Type": "T",
+    "Medal": "1",
+    "Status": "START_LIST",
+    "StatusDesc": "Start List",
+    "DateTimeRaw": "2026-09-22T19:20:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "",
+    "HideLocation": false,
+    "Venue": "PKA",
+    "VenueDesc": "Park Arena Komaki",
+    "VenueDescS": "Park Arena Komaki",
+    "Loc": "PKA",
+    "LocDesc": "Park Arena Komaki",
+    "LocDescS": "Park Arena Komaki",
+    "Event": "W.TEAM6-------------",
+    "EventDesc": "Women",
+    "Phase": "W.TEAM6-------------.FNL-",
+    "PhaseOrder": 32,
+    "PhaseDesc": "Women's Finals",
+    "PhaseDescS": "Women's Finals",
+    "PhaseDescA": "Finals",
+    "UnitDesc": "Women's Gold Medal Final - Match 37",
+    "UnitDescS": "Women's Gold Medal Final - Match 37",
+    "UnitDescA": "Women's Gold Medal Final - Match 37",
+    "UnitNum": "37",
+    "IsLive": false,
+    "ShowResults": false,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "",
+    "ResDetail": "",
+    "Duration": "00:00:00",
+    "Current": "",
+    "Last": "",
+    "Extensions": [
+      {
+        "Type": "GROUP_INFO",
+        "Code": "NSETS",
+        "Pos": 0,
+        "Value": "5",
+        "Extensions": []
+      }
+    ],
+    "Periods": [],
+    "Paralympic": false
+  },
+  "Competitors": [
+    {
+      "Reg": "VVOWTEAM6------JPN01",
+      "Bib": "",
+      "Org": "JPN",
+      "MedClass": "",
+      "StartOrder": "1",
+      "StartSortOrder": 1,
+      "Rk": "",
+      "RkEq": false,
+      "RkPo": 0,
+      "WLT": "",
+      "Result": "",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [],
+      "Name": "Japan",
+      "NameS": "Japan",
+      "OrgDesc": "Japan",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "",
+      "Members": [
+        {
+          "Reg": "13204169",
+          "Org": "JPN",
+          "Bib": "23",
+          "Function": "AA01",
+          "Position": "MB",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2006-01-22",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "180.00/5'11\"",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "ShirtName",
+              "Pos": 0,
+              "Value": "INOUE",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestSpike",
+              "Pos": 0,
+              "Value": "310",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestBlock",
+              "Pos": 0,
+              "Value": "280",
+              "Extensions": []
+            }
+          ],
+          "Order": 1,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "INOUE Miina",
+          "NameS": "INOUE M",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Middle Blocker"
+        },
+        {
+          "Reg": "221364",
+          "Org": "JPN",
+          "Bib": "22",
+          "Function": "AA01",
+          "Position": "OH",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2004-07-06",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "183.00/6'0\"",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "ShirtName",
+              "Pos": 0,
+              "Value": "KITAMADO",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestSpike",
+              "Pos": 0,
+              "Value": "304",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestBlock",
+              "Pos": 0,
+              "Value": "286",
+              "Extensions": []
+            }
+          ],
+          "Order": 2,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "KITAMADO Ayane",
+          "NameS": "KITAMADO A",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Outside Hitter"
+        },
+        {
+          "Reg": "221468",
+          "Org": "JPN",
+          "Bib": "21",
+          "Function": "AA01",
+          "Position": "OH",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2003-08-23",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "176.00/5'9\"",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "ShirtName",
+              "Pos": 0,
+              "Value": "HIROTA",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestSpike",
+              "Pos": 0,
+              "Value": "309",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestBlock",
+              "Pos": 0,
+              "Value": "289",
+              "Extensions": []
+            }
+          ],
+          "Order": 3,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "HIROTA Ai",
+          "NameS": "HIROTA A",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Outside Hitter"
+        },
+        {
+          "Reg": "221719",
+          "Org": "JPN",
+          "Bib": "16",
+          "Function": "AA01",
+          "Position": "OH",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2001-02-25",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "175.00/5'9\"",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "ShirtName",
+              "Pos": 0,
+              "Value": "SHIGIHARA",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestSpike",
+              "Pos": 0,
+              "Value": "296",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestBlock",
+              "Pos": 0,
+              "Value": "278",
+              "Extensions": []
+            }
+          ],
+          "Order": 4,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "SHIGIHARA Hinata",
+          "NameS": "SHIGIHARA H",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Outside Hitter"
+        },
+        {
+          "Reg": "221823",
+          "Org": "JPN",
+          "Bib": "13",
+          "Function": "AA01",
+          "Position": "MB",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "1999-03-13",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "176.00/5'9\"",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "ShirtName",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestSpike",
+              "Pos": 0,
+              "Value": "300",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestBlock",
+              "Pos": 0,
+              "Value": "290",
+              "Extensions": []
+            }
+          ],
+          "Order": 5,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "YAMAGUCHI Maki",
+          "NameS": "YAMAGUCHI M",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Middle Blocker"
+        },
+        {
+          "Reg": "222468",
+          "Org": "JPN",
+          "Bib": "19",
+          "Function": "AA01",
+          "Position": "L",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2002-05-01",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "158.00/5'2\"",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "ShirtName",
+              "Pos": 0,
+              "Value": "NISHIZAKI",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestSpike",
+              "Pos": 0,
+              "Value": "254",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestBlock",
+              "Pos": 0,
+              "Value": "251",
+              "Extensions": []
+            }
+          ],
+          "Order": 6,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "NISHIZAKI Mana",
+          "NameS": "NISHIZAKI M",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Libero"
+        },
+        {
+          "Reg": "222702",
+          "Org": "JPN",
+          "Bib": "26",
+          "Function": "AA01",
+          "Position": "OH",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2006-08-18",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "185.00/6'1\"",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "ShirtName",
+              "Pos": 0,
+              "Value": "AKIMOTO",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestSpike",
+              "Pos": 0,
+              "Value": "316",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestBlock",
+              "Pos": 0,
+              "Value": "296",
+              "Extensions": []
+            }
+          ],
+          "Order": 7,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "AKIMOTO Miku",
+          "NameS": "AKIMOTO M",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Outside Hitter"
+        },
+        {
+          "Reg": "222910",
+          "Org": "JPN",
+          "Bib": "1",
+          "Function": "AA01",
+          "Position": "OH",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2002-01-08",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "175.00/5'9\"",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "ShirtName",
+              "Pos": 0,
+              "Value": "WADA",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestSpike",
+              "Pos": 0,
+              "Value": "293",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestBlock",
+              "Pos": 0,
+              "Value": "282",
+              "Extensions": []
+            }
+          ],
+          "Order": 8,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "WADA Yukiko",
+          "NameS": "WADA Y",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Outside Hitter"
+        },
+        {
+          "Reg": "223231",
+          "Org": "JPN",
+          "Bib": "6",
+          "Function": "AA01",
+          "Position": "S",
+          "Captain": true,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "1999-06-12",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "171.00/5'7\"",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "ShirtName",
+              "Pos": 0,
+              "Value": "SEKI",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestSpike",
+              "Pos": 0,
+              "Value": "292",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestBlock",
+              "Pos": 0,
+              "Value": "273",
+              "Extensions": []
+            }
+          ],
+          "Order": 9,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "SEKI Nanami",
+          "NameS": "SEKI N",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Setter"
+        },
+        {
+          "Reg": "223647",
+          "Org": "JPN",
+          "Bib": "14",
+          "Function": "AA01",
+          "Position": "S",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "1999-09-15",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "174.00/5'9\"",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "ShirtName",
+              "Pos": 0,
+              "Value": "SHIODE",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestSpike",
+              "Pos": 0,
+              "Value": "285",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestBlock",
+              "Pos": 0,
+              "Value": "268",
+              "Extensions": []
+            }
+          ],
+          "Order": 10,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "SHIODE Hitomi",
+          "NameS": "SHIODE H",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Setter"
+        },
+        {
+          "Reg": "223751",
+          "Org": "JPN",
+          "Bib": "5",
+          "Function": "AA01",
+          "Position": "OH",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2001-11-12",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "178.00/5'10\"",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "ShirtName",
+              "Pos": 0,
+              "Value": "SATO",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestSpike",
+              "Pos": 0,
+              "Value": "305",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestBlock",
+              "Pos": 0,
+              "Value": "288",
+              "Extensions": []
+            }
+          ],
+          "Order": 11,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "SATO Yoshino",
+          "NameS": "SATO Y",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Outside Hitter"
+        },
+        {
+          "Reg": "223959",
+          "Org": "JPN",
+          "Bib": "11",
+          "Function": "AA01",
+          "Position": "MB",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2000-02-24",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "184.00/6'0\"",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "ShirtName",
+              "Pos": 0,
+              "Value": "YAMADA",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestSpike",
+              "Pos": 0,
+              "Value": "310",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestBlock",
+              "Pos": 0,
+              "Value": "288",
+              "Extensions": []
+            }
+          ],
+          "Order": 12,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "YAMADA Nichika",
+          "NameS": "YAMADA N",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Middle Blocker"
+        }
+      ],
+      "TeamOfficials": [
+        {
+          "Reg": "225694",
+          "Org": "JPN",
+          "Order": 1,
+          "Function": "Head Coach",
+          "Extensions": [],
+          "Name": "AKBAS Ferhat",
+          "NameS": "AKBAS F",
+          "FuncDesc": "Head Coach"
+        },
+        {
+          "Reg": "225463",
+          "Org": "JPN",
+          "Order": 3,
+          "Function": "Assistant Coach",
+          "Extensions": [],
+          "Name": "TOYOKIHARA Shun",
+          "NameS": "TOYOKIHARA S",
+          "FuncDesc": "Assistant Coach"
+        },
+        {
+          "Reg": "226117",
+          "Org": "JPN",
+          "Order": 5,
+          "Function": "Physiotherapist",
+          "Extensions": [],
+          "Name": "NIIMURA Hiroki",
+          "NameS": "NIIMURA H",
+          "FuncDesc": "Physiotherapist"
+        }
+      ]
+    },
+    {
+      "Reg": "VVOWTEAM6------CHN01",
+      "Bib": "",
+      "Org": "CHN",
+      "MedClass": "",
+      "StartOrder": "2",
+      "StartSortOrder": 2,
+      "Rk": "",
+      "RkEq": false,
+      "RkPo": 0,
+      "WLT": "",
+      "Result": "",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [],
+      "Name": "People's Republic of China",
+      "NameS": "China",
+      "OrgDesc": "People's Republic of China",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "",
+      "Members": [
+        {
+          "Reg": "11980091",
+          "Org": "CHN",
+          "Bib": "8",
+          "Function": "AA01",
+          "Position": "MB",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2005-10-08",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "197.00/6'6\"",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "ShirtName",
+              "Pos": 0,
+              "Value": "Chen H.Y.",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestSpike",
+              "Pos": 0,
+              "Value": "320",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestBlock",
+              "Pos": 0,
+              "Value": "315",
+              "Extensions": []
+            }
+          ],
+          "Order": 1,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "CHEN Houyu",
+          "NameS": "CHEN H",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Middle Blocker"
+        },
+        {
+          "Reg": "11980353",
+          "Org": "CHN",
+          "Bib": "13",
+          "Function": "AA01",
+          "Position": "OH",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2006-03-30",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "189.00/6'2\"",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "ShirtName",
+              "Pos": 0,
+              "Value": "Dong Y.H.",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestSpike",
+              "Pos": 0,
+              "Value": "317",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestBlock",
+              "Pos": 0,
+              "Value": "305",
+              "Extensions": []
+            }
+          ],
+          "Order": 2,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "DONG Yuhan",
+          "NameS": "DONG Y",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Outside Hitter"
+        },
+        {
+          "Reg": "11980583",
+          "Org": "CHN",
+          "Bib": "6",
+          "Function": "AA01",
+          "Position": "O",
+          "Captain": true,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "1997-04-21",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "189.00/6'2\"",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "ShirtName",
+              "Pos": 0,
+              "Value": "Gong X.Y.",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestSpike",
+              "Pos": 0,
+              "Value": "322",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestBlock",
+              "Pos": 0,
+              "Value": "313",
+              "Extensions": []
+            }
+          ],
+          "Order": 3,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "GONG Xiangyu",
+          "NameS": "GONG X",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Opposite"
+        },
+        {
+          "Reg": "11980684",
+          "Org": "CHN",
+          "Bib": "16",
+          "Function": "AA01",
+          "Position": "MB",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2009-06-03",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "190.00/6'3\"",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "ShirtName",
+              "Pos": 0,
+              "Value": "Guo Z.N.",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestSpike",
+              "Pos": 0,
+              "Value": "306",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestBlock",
+              "Pos": 0,
+              "Value": "300",
+              "Extensions": []
+            }
+          ],
+          "Order": 4,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "GUO Zhongnan",
+          "NameS": "GUO Z",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Middle Blocker"
+        },
+        {
+          "Reg": "11980901",
+          "Org": "CHN",
+          "Bib": "14",
+          "Function": "AA01",
+          "Position": "S",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2004-05-28",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "186.00/6'1\"",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "ShirtName",
+              "Pos": 0,
+              "Value": "Xie S.Y.",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestSpike",
+              "Pos": 0,
+              "Value": "300",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestBlock",
+              "Pos": 0,
+              "Value": "300",
+              "Extensions": []
+            }
+          ],
+          "Order": 5,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "XIE Shengyu",
+          "NameS": "XIE S",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Setter"
+        },
+        {
+          "Reg": "11981363",
+          "Org": "CHN",
+          "Bib": "3",
+          "Function": "AA01",
+          "Position": "OH",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2004-05-21",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "184.00/6'0\"",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "ShirtName",
+              "Pos": 0,
+              "Value": "Tang X.",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestSpike",
+              "Pos": 0,
+              "Value": "310",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestBlock",
+              "Pos": 0,
+              "Value": "305",
+              "Extensions": []
+            }
+          ],
+          "Order": 6,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "TANG Xin",
+          "NameS": "TANG X",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Outside Hitter"
+        },
+        {
+          "Reg": "11981474",
+          "Org": "CHN",
+          "Bib": "9",
+          "Function": "AA01",
+          "Position": "MB",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2007-11-15",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "196.00/6'5\"",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "ShirtName",
+              "Pos": 0,
+              "Value": "Wang A.Q.",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestSpike",
+              "Pos": 0,
+              "Value": "318",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestBlock",
+              "Pos": 0,
+              "Value": "303",
+              "Extensions": []
+            }
+          ],
+          "Order": 7,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "WANG Aoqian",
+          "NameS": "WANG A",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Middle Blocker"
+        },
+        {
+          "Reg": "11981580",
+          "Org": "CHN",
+          "Bib": "18",
+          "Function": "AA01",
+          "Position": "L",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "1995-11-14",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "173.00/5'8\"",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "ShirtName",
+              "Pos": 0,
+              "Value": "Wang M.J.",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestSpike",
+              "Pos": 0,
+              "Value": "294",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestBlock",
+              "Pos": 0,
+              "Value": "280",
+              "Extensions": []
+            }
+          ],
+          "Order": 8,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "WANG Mengjie",
+          "NameS": "WANG M",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Libero"
+        },
+        {
+          "Reg": "11981804",
+          "Org": "CHN",
+          "Bib": "1",
+          "Function": "AA01",
+          "Position": "OH",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2002-09-10",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "190.00/6'3\"",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "ShirtName",
+              "Pos": 0,
+              "Value": "Wu M.J.",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestSpike",
+              "Pos": 0,
+              "Value": "329",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestBlock",
+              "Pos": 0,
+              "Value": "311",
+              "Extensions": []
+            }
+          ],
+          "Order": 9,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "WU Mengjie",
+          "NameS": "WU M",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Outside Hitter"
+        },
+        {
+          "Reg": "11982016",
+          "Org": "CHN",
+          "Bib": "10",
+          "Function": "AA01",
+          "Position": "O",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2008-07-31",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "192.00/6'4\"",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "ShirtName",
+              "Pos": 0,
+              "Value": "Yang S.M.",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestSpike",
+              "Pos": 0,
+              "Value": "310",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestBlock",
+              "Pos": 0,
+              "Value": "300",
+              "Extensions": []
+            }
+          ],
+          "Order": 10,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "YANG Shuming",
+          "NameS": "YANG S",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Opposite"
+        },
+        {
+          "Reg": "11982127",
+          "Org": "CHN",
+          "Bib": "4",
+          "Function": "AA01",
+          "Position": "S",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2008-08-15",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "182.00/6'0\"",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "ShirtName",
+              "Pos": 0,
+              "Value": "Zhang Z.X.",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestSpike",
+              "Pos": 0,
+              "Value": "303",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestBlock",
+              "Pos": 0,
+              "Value": "298",
+              "Extensions": []
+            }
+          ],
+          "Order": 11,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "ZHANG Zixuan",
+          "NameS": "ZHANG Z",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Setter"
+        },
+        {
+          "Reg": "11982472",
+          "Org": "CHN",
+          "Bib": "2",
+          "Function": "AA01",
+          "Position": "OH",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2003-04-28",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "184.00/6'0\"",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "ShirtName",
+              "Pos": 0,
+              "Value": "Zhuang Y.S.",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestSpike",
+              "Pos": 0,
+              "Value": "315",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestBlock",
+              "Pos": 0,
+              "Value": "310",
+              "Extensions": []
+            }
+          ],
+          "Order": 12,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "ZHUANG Yushan",
+          "NameS": "ZHUANG Y",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Outside Hitter"
+        }
+      ],
+      "TeamOfficials": [
+        {
+          "Reg": "8085234",
+          "Org": "CHN",
+          "Order": 1,
+          "Function": "Head Coach",
+          "Extensions": [],
+          "Name": "ZHAO Yong",
+          "NameS": "ZHAO Y",
+          "FuncDesc": "Head Coach"
+        },
+        {
+          "Reg": "8085684",
+          "Org": "CHN",
+          "Order": 2,
+          "Function": "Assistant Coach",
+          "Extensions": [],
+          "Name": "YANG Hao",
+          "NameS": "YANG H",
+          "FuncDesc": "Assistant Coach"
+        },
+        {
+          "Reg": "8085897",
+          "Org": "CHN",
+          "Order": 3,
+          "Function": "Assistant Coach",
+          "Extensions": [],
+          "Name": "YUAN Lingxi",
+          "NameS": "YUAN L",
+          "FuncDesc": "Assistant Coach"
+        },
+        {
+          "Reg": "8086786",
+          "Org": "CHN",
+          "Order": 4,
+          "Function": "Doctor",
+          "Extensions": [],
+          "Name": "WANG Yuanjun",
+          "NameS": "WANG Y",
+          "FuncDesc": "Doctor"
+        }
+      ]
+    }
+  ],
+  "Legends": {
+    "records": [],
+    "irms": [],
+    "qs": [],
+    "funcs": [
+      {
+        "DescS": "AA01",
+        "Desc": "Athlete"
+      }
+    ],
+    "pos": [
+      {
+        "DescS": "MB",
+        "Desc": "Middle Blocker"
+      },
+      {
+        "DescS": "OH",
+        "Desc": "Outside Hitter"
+      },
+      {
+        "DescS": "L",
+        "Desc": "Libero"
+      },
+      {
+        "DescS": "S",
+        "Desc": "Setter"
+      },
+      {
+        "DescS": "O",
+        "Desc": "Opposite"
+      }
+    ],
+    "captain": "legends.captain"
+  }
+}

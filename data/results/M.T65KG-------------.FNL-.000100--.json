@@ -1,0 +1,214 @@
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "MMA",
+    "DiscDesc": "Mixed Martial Arts",
+    "Key": "M.T65KG-------------.FNL-.000100--",
+    "isH2H": true,
+    "Type": "A",
+    "Medal": "1",
+    "Status": "START_LIST",
+    "StatusDesc": "Start List",
+    "DateTimeRaw": "2026-09-22T14:20:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "",
+    "HideLocation": false,
+    "Venue": "ISC",
+    "VenueDesc": "Nagoya City Inae Sports Center",
+    "VenueDescS": "Nagoya City Inae Sports Center",
+    "Loc": "ISC",
+    "LocDesc": "Nagoya City Inae Sports Center",
+    "LocDescS": "Nagoya City Inae Sports Center",
+    "Event": "M.T65KG-------------",
+    "EventDesc": "Men's Traditional -65kg",
+    "Phase": "M.T65KG-------------.FNL-",
+    "PhaseOrder": 21,
+    "PhaseDesc": "Men's Traditional  -65kg Final",
+    "PhaseDescS": "Men's Traditional  -65kg Final",
+    "PhaseDescA": "Final",
+    "UnitDesc": "Men's Traditional  -65kg Final",
+    "UnitDescS": "Men's Traditional  -65kg Final",
+    "UnitDescA": "Men's Traditional  -65kg Final",
+    "UnitNum": "46",
+    "IsLive": false,
+    "ShowResults": false,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "",
+    "ResDetail": "",
+    "Duration": "",
+    "CurrentPeriod": 0,
+    "Current": "",
+    "Last": "",
+    "Extensions": [],
+    "Periods": [],
+    "Paralympic": false
+  },
+  "Competitors": [
+    {
+      "Reg": "10237797",
+      "Bib": "",
+      "Org": "TJK",
+      "StartOrder": "1",
+      "StartSortOrder": 1,
+      "Rk": "",
+      "RkEq": false,
+      "RkPo": 0,
+      "WLT": "",
+      "Result": "",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Result",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        }
+      ],
+      "Name": "RAJABOV Otabek",
+      "NameS": "RAJABOV O",
+      "OrgDesc": "Tajikistan",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "",
+      "Members": [
+        {
+          "Reg": "10237797",
+          "Org": "TJK",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Gender": "M",
+          "Order": 1,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "IRM": "",
+          "Result": "",
+          "Extensions": [],
+          "Guides": [],
+          "Name": "RAJABOV Otabek",
+          "NameS": "RAJABOV O",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        }
+      ],
+      "TeamOfficials": [
+        {
+          "Reg": "",
+          "Org": "",
+          "Order": 1,
+          "Function": "",
+          "Extensions": [],
+          "Name": "",
+          "NameS": "",
+          "FuncDesc": ""
+        }
+      ]
+    },
+    {
+      "Reg": "8468938",
+      "Bib": "",
+      "Org": "PHI",
+      "StartOrder": "2",
+      "StartSortOrder": 2,
+      "Rk": "",
+      "RkEq": false,
+      "RkPo": 0,
+      "WLT": "",
+      "Result": "",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Result",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        }
+      ],
+      "Name": "SACLAG Jean Claude",
+      "NameS": "SACLAG JC",
+      "OrgDesc": "Philippines",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "",
+      "Members": [
+        {
+          "Reg": "8468938",
+          "Org": "PHI",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Gender": "M",
+          "Order": 1,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "IRM": "",
+          "Result": "",
+          "Extensions": [],
+          "Guides": [],
+          "Name": "SACLAG Jean Claude",
+          "NameS": "SACLAG JC",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        }
+      ],
+      "TeamOfficials": [
+        {
+          "Reg": "",
+          "Org": "",
+          "Order": 1,
+          "Function": "",
+          "Extensions": [],
+          "Name": "",
+          "NameS": "",
+          "FuncDesc": ""
+        }
+      ]
+    }
+  ],
+  "Legends": {
+    "records": [],
+    "irms": [],
+    "qs": [],
+    "funcs": [
+      {
+        "DescS": "AA01",
+        "Desc": "Athlete"
+      }
+    ]
+  }
+}

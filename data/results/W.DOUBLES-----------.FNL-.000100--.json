@@ -1,0 +1,954 @@
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "TEQ",
+    "DiscDesc": "Teqball",
+    "Key": "W.DOUBLES-----------.FNL-.000100--",
+    "isH2H": true,
+    "Type": "D",
+    "Medal": "1",
+    "Status": "OFFICIAL",
+    "StatusDesc": "Official",
+    "DateTimeRaw": "2026-09-20T17:10:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "",
+    "HideLocation": false,
+    "Venue": "NHS",
+    "VenueDesc": "",
+    "VenueDescS": "",
+    "Loc": "001",
+    "LocDesc": "Table 1",
+    "LocDescS": "Table 1",
+    "Event": "W.DOUBLES-----------",
+    "EventDesc": "Women's Doubles",
+    "Phase": "W.DOUBLES-----------.FNL-",
+    "PhaseOrder": 1,
+    "PhaseDesc": "Women's Doubles Final",
+    "PhaseDescS": "WD F",
+    "PhaseDescA": "Final",
+    "UnitDesc": "Women's Doubles Final Gold Medal Match",
+    "UnitDescS": "WD F GM",
+    "UnitDescA": "Gold Medal Match",
+    "UnitNum": "9",
+    "IsLive": false,
+    "ShowResults": true,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "2-0",
+    "ResDetail": "12-6, 12-3",
+    "Duration": "00:20:00",
+    "CurrentPeriod": 2,
+    "Current": "",
+    "Last": "",
+    "Extensions": [
+      {
+        "Type": "UNIT_INFO",
+        "Code": "DurationHHMM",
+        "Pos": 0,
+        "Value": "20min",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "InfoMatch",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "InfoTeam",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "ResultDetailWinner",
+        "Pos": 0,
+        "Value": "12-6, 12-3",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "ServerHomeAway",
+        "Pos": 0,
+        "Value": "2",
+        "Extensions": []
+      }
+    ],
+    "Stats": {
+      "ST_AVERAGE_RALLY_SECONDS": "34",
+      "ST_BIGGEST_COMEBACK": "",
+      "ST_BIGGEST_LEAD": "",
+      "ST_BLACK_CARD": "",
+      "ST_GAME_POINTS": "",
+      "ST_LONGEST_RALLY_SECONDS": "75",
+      "ST_MATCH_POINTS": "",
+      "ST_MOST_CONSECUTIVE_POINTS": "",
+      "ST_POINTS_SCORED_NO_SERVICE": "",
+      "ST_POINTS_SCORED_SERVICE": "",
+      "ST_RED_CARD": "",
+      "ST_SHUTTLES_USED": "2",
+      "ST_TOTAL_POINTS_LOST": "33",
+      "ST_TOTAL_POINTS_PLAYED": "",
+      "ST_TOTAL_POINTS_WON": "33",
+      "ST_TOTAL_RALLIES_SECONDS": "1153",
+      "ST_YELLOW_CARD": ""
+    },
+    "Periods": [
+      {
+        "Order": 1,
+        "Duration": "12:00",
+        "Distance": "0",
+        "ResHome": "12",
+        "ResAway": "6",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Stats": {
+          "ST_AVERAGE_RALLY_SECONDS": "36",
+          "ST_BIGGEST_COMEBACK": "",
+          "ST_BIGGEST_LEAD": "",
+          "ST_BLACK_CARD": "",
+          "ST_GAME_POINTS": "",
+          "ST_LONGEST_RALLY_SECONDS": "75",
+          "ST_MATCH_POINTS": "",
+          "ST_MOST_CONSECUTIVE_POINTS": "",
+          "ST_POINTS_SCORED_NO_SERVICE": "",
+          "ST_POINTS_SCORED_SERVICE": "",
+          "ST_RED_CARD": "",
+          "ST_SHUTTLES_USED": "2",
+          "ST_TOTAL_POINTS_LOST": "18",
+          "ST_TOTAL_POINTS_PLAYED": "",
+          "ST_TOTAL_POINTS_WON": "18",
+          "ST_TOTAL_RALLIES_SECONDS": "665",
+          "ST_YELLOW_CARD": ""
+        },
+        "Desc": "Set 1",
+        "DescS": "S1"
+      },
+      {
+        "Order": 2,
+        "Duration": "8:00",
+        "Distance": "0",
+        "ResHome": "12",
+        "ResAway": "3",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Stats": {
+          "ST_AVERAGE_RALLY_SECONDS": "32",
+          "ST_BIGGEST_COMEBACK": "",
+          "ST_BIGGEST_LEAD": "",
+          "ST_BLACK_CARD": "",
+          "ST_GAME_POINTS": "",
+          "ST_LONGEST_RALLY_SECONDS": "59",
+          "ST_MATCH_POINTS": "",
+          "ST_MOST_CONSECUTIVE_POINTS": "",
+          "ST_POINTS_SCORED_NO_SERVICE": "",
+          "ST_POINTS_SCORED_SERVICE": "",
+          "ST_RED_CARD": "",
+          "ST_SHUTTLES_USED": "",
+          "ST_TOTAL_POINTS_LOST": "15",
+          "ST_TOTAL_POINTS_PLAYED": "",
+          "ST_TOTAL_POINTS_WON": "15",
+          "ST_TOTAL_RALLIES_SECONDS": "488",
+          "ST_YELLOW_CARD": ""
+        },
+        "Desc": "Set 2",
+        "DescS": "S2"
+      },
+      {
+        "Order": 3,
+        "Duration": "",
+        "Distance": "0",
+        "ResHome": "0",
+        "ResAway": "0",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "Set 3",
+        "DescS": "S3"
+      }
+    ],
+    "Officials": [
+      {
+        "Reg": "15106997",
+        "Org": "KUW",
+        "Order": 1,
+        "Function": "RE",
+        "Extensions": [],
+        "Bib": "",
+        "FuncOrder": "6",
+        "OrgDesc": "Kuwait",
+        "Name": "A E A EIDAN Husain",
+        "NameS": "A E A EIDAN Husain",
+        "FuncDesc": "Referee"
+      },
+      {
+        "Reg": "7780872",
+        "Org": "KUW",
+        "Order": 2,
+        "Function": "A_RE",
+        "Extensions": [],
+        "Bib": "",
+        "FuncOrder": "4",
+        "OrgDesc": "Kuwait",
+        "Name": "M H M S ALSHATTI Abdullateef",
+        "NameS": "M H M S ALSHATTI Abdullateef",
+        "FuncDesc": "Assistant Referee"
+      }
+    ],
+    "Paralympic": false
+  },
+  "Competitors": [
+    {
+      "Reg": "TEQWDOUBLES----THA01",
+      "Bib": "",
+      "Org": "THA",
+      "StartOrder": "1",
+      "StartSortOrder": 1,
+      "Rk": "1",
+      "RkEq": false,
+      "RkPo": 1,
+      "WLT": "W",
+      "Result": "2",
+      "ResDetail": "2",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BlackCard",
+          "Pos": 0,
+          "Value": "False",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BlackCardAwayScore",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BlackCardGame",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BlackCardHomeScore",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Game1DetailCards",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Game2DetailCards",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Game3DetailCards",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "NRedCard",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "RedCard",
+          "Pos": 0,
+          "Value": "False",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "RedCardDetail",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "WorldRanking",
+          "Pos": 0,
+          "Value": "2",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "YellowCard",
+          "Pos": 0,
+          "Value": "False",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "YellowCardAwayScore",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "YellowCardGame",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "YellowCardHomeScore",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "PREV_RESULT",
+          "Code": "UNIT_KEY",
+          "Pos": 1,
+          "Value": "W.DOUBLES-----------.GPA-.000100--",
+          "Extensions": [
+            {
+              "Type": "RESULT",
+              "Code": "Register",
+              "Pos": 1,
+              "Value": "TEQWDOUBLES----THA01"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "RegisterOpp",
+              "Pos": 1,
+              "Value": "TEQWDOUBLES----MYA01"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "Result",
+              "Pos": 1,
+              "Value": "2-0"
+            }
+          ]
+        },
+        {
+          "Type": "PREV_RESULT",
+          "Code": "UNIT_KEY",
+          "Pos": 2,
+          "Value": "W.DOUBLES-----------.GPA-.000300--",
+          "Extensions": [
+            {
+              "Type": "RESULT",
+              "Code": "Register",
+              "Pos": 2,
+              "Value": "TEQWDOUBLES----THA01"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "RegisterOpp",
+              "Pos": 2,
+              "Value": "TEQWDOUBLES----LBN01"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "Result",
+              "Pos": 2,
+              "Value": "2-0"
+            }
+          ]
+        },
+        {
+          "Type": "PREV_RESULT",
+          "Code": "UNIT_KEY",
+          "Pos": 3,
+          "Value": "W.DOUBLES-----------.GPA-.000600--",
+          "Extensions": [
+            {
+              "Type": "RESULT",
+              "Code": "Register",
+              "Pos": 3,
+              "Value": "TEQWDOUBLES----THA01"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "RegisterOpp",
+              "Pos": 3,
+              "Value": "TEQWDOUBLES----CAM01"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "Result",
+              "Pos": 3,
+              "Value": "2-0"
+            }
+          ]
+        },
+        {
+          "Type": "PREV_RESULT",
+          "Code": "UNIT_KEY",
+          "Pos": 4,
+          "Value": "W.DOUBLES-----------.SFNL.000100--",
+          "Extensions": [
+            {
+              "Type": "RESULT",
+              "Code": "Register",
+              "Pos": 4,
+              "Value": "TEQWDOUBLES----THA01"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "RegisterOpp",
+              "Pos": 4,
+              "Value": "TEQWDOUBLES----CAM01"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "Result",
+              "Pos": 4,
+              "Value": "2-0"
+            }
+          ]
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "MemberServer",
+          "Pos": 0,
+          "Value": "2",
+          "Extensions": []
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "Server",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        }
+      ],
+      "Stats": {},
+      "Name": "KUNTATONG Jutatip/WONGKHAMCHAN Suphawadi",
+      "NameS": "KUNTATONG J/WONGKHAMCHAN S",
+      "OrgDesc": "Thailand",
+      "Splits": [
+        {
+          "Category": "",
+          "Distance": "0",
+          "Rk": "1",
+          "RkEq": false,
+          "RkPo": 1,
+          "RkAcc": "0",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "12",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": [],
+          "Stats": {}
+        },
+        {
+          "Category": "",
+          "Distance": "0",
+          "Rk": "1",
+          "RkEq": false,
+          "RkPo": 1,
+          "RkAcc": "0",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "12",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": [],
+          "Stats": {}
+        },
+        {
+          "Category": "",
+          "Distance": "0",
+          "Rk": "0",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "0",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "0",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_GOLD",
+      "Members": [
+        {
+          "Reg": "13221748",
+          "Org": "THA",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Order": 1,
+          "Substitute": false,
+          "Result": "0",
+          "Extensions": [],
+          "Guides": [],
+          "Name": "KUNTATONG Jutatip",
+          "NameS": "KUNTATONG J",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "7627179",
+          "Org": "THA",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Order": 2,
+          "Substitute": false,
+          "Result": "0",
+          "Extensions": [],
+          "Guides": [],
+          "Name": "WONGKHAMCHAN Suphawadi",
+          "NameS": "WONGKHAMCHAN S",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        }
+      ]
+    },
+    {
+      "Reg": "TEQWDOUBLES----MYA01",
+      "Bib": "",
+      "Org": "MYA",
+      "StartOrder": "2",
+      "StartSortOrder": 2,
+      "Rk": "2",
+      "RkEq": false,
+      "RkPo": 2,
+      "WLT": "L",
+      "Result": "0",
+      "ResDetail": "0",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BlackCard",
+          "Pos": 0,
+          "Value": "False",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BlackCardAwayScore",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BlackCardGame",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BlackCardHomeScore",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Game1DetailCards",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Game2DetailCards",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Game3DetailCards",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "NRedCard",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "RedCard",
+          "Pos": 0,
+          "Value": "False",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "RedCardDetail",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "WorldRanking",
+          "Pos": 0,
+          "Value": "2",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "YellowCard",
+          "Pos": 0,
+          "Value": "False",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "YellowCardAwayScore",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "YellowCardGame",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "YellowCardHomeScore",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "PREV_RESULT",
+          "Code": "UNIT_KEY",
+          "Pos": 1,
+          "Value": "W.DOUBLES-----------.GPA-.000100--",
+          "Extensions": [
+            {
+              "Type": "RESULT",
+              "Code": "Register",
+              "Pos": 1,
+              "Value": "TEQWDOUBLES----MYA01"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "RegisterOpp",
+              "Pos": 1,
+              "Value": "TEQWDOUBLES----THA01"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "Result",
+              "Pos": 1,
+              "Value": "0-2"
+            }
+          ]
+        },
+        {
+          "Type": "PREV_RESULT",
+          "Code": "UNIT_KEY",
+          "Pos": 2,
+          "Value": "W.DOUBLES-----------.GPA-.000400--",
+          "Extensions": [
+            {
+              "Type": "RESULT",
+              "Code": "Register",
+              "Pos": 2,
+              "Value": "TEQWDOUBLES----MYA01"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "RegisterOpp",
+              "Pos": 2,
+              "Value": "TEQWDOUBLES----CAM01"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "Result",
+              "Pos": 2,
+              "Value": "2-0"
+            }
+          ]
+        },
+        {
+          "Type": "PREV_RESULT",
+          "Code": "UNIT_KEY",
+          "Pos": 3,
+          "Value": "W.DOUBLES-----------.GPA-.000500--",
+          "Extensions": [
+            {
+              "Type": "RESULT",
+              "Code": "Register",
+              "Pos": 3,
+              "Value": "TEQWDOUBLES----MYA01"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "RegisterOpp",
+              "Pos": 3,
+              "Value": "TEQWDOUBLES----LBN01"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "Result",
+              "Pos": 3,
+              "Value": "2-0"
+            }
+          ]
+        },
+        {
+          "Type": "PREV_RESULT",
+          "Code": "UNIT_KEY",
+          "Pos": 4,
+          "Value": "W.DOUBLES-----------.SFNL.000200--",
+          "Extensions": [
+            {
+              "Type": "RESULT",
+              "Code": "Register",
+              "Pos": 4,
+              "Value": "TEQWDOUBLES----MYA01"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "RegisterOpp",
+              "Pos": 4,
+              "Value": "TEQWDOUBLES----LBN01"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "Result",
+              "Pos": 4,
+              "Value": "2-0"
+            }
+          ]
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "MemberServer",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "Server",
+          "Pos": 0,
+          "Value": "true",
+          "Extensions": []
+        }
+      ],
+      "Stats": {},
+      "Name": "HSU MON Aung/PHYU PHYU Than",
+      "NameS": "HSU MON A/PHYU PHYU T",
+      "OrgDesc": "Myanmar",
+      "Splits": [
+        {
+          "Category": "",
+          "Distance": "0",
+          "Rk": "2",
+          "RkEq": false,
+          "RkPo": 2,
+          "RkAcc": "0",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "6",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": [],
+          "Stats": {}
+        },
+        {
+          "Category": "",
+          "Distance": "0",
+          "Rk": "2",
+          "RkEq": false,
+          "RkPo": 2,
+          "RkAcc": "0",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "3",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": [],
+          "Stats": {}
+        },
+        {
+          "Category": "",
+          "Distance": "0",
+          "Rk": "0",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "0",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "0",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_SILVER",
+      "Members": [
+        {
+          "Reg": "15114431",
+          "Org": "MYA",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Order": 1,
+          "Substitute": false,
+          "Result": "0",
+          "Extensions": [],
+          "Guides": [],
+          "Name": "HSU MON Aung",
+          "NameS": "HSU MON A",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "5819297",
+          "Org": "MYA",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Order": 2,
+          "Substitute": false,
+          "Result": "0",
+          "Extensions": [],
+          "Guides": [],
+          "Name": "PHYU PHYU Than",
+          "NameS": "PHYU PHYU T",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        }
+      ]
+    }
+  ],
+  "Legends": {
+    "records": [],
+    "irms": [],
+    "qs": [],
+    "funcs": [
+      {
+        "DescS": "AA01",
+        "Desc": "Athlete"
+      }
+    ]
+  }
+}

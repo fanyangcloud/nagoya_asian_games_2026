@@ -1,0 +1,363 @@
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "SWM",
+    "DiscDesc": "Swimming",
+    "Key": "W.4X200MFR----------.FNL-.000100--",
+    "isH2H": false,
+    "Type": "A",
+    "Medal": "1",
+    "Status": "SCHEDULED",
+    "StatusDesc": "Scheduled",
+    "DateTimeRaw": "2026-09-24T18:25:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "",
+    "HideLocation": false,
+    "Venue": "TAC",
+    "VenueDesc": "Tokyo Aquatics Centre",
+    "VenueDescS": "Tokyo Aquatics Centre",
+    "Loc": "001",
+    "LocDesc": "Swimming Pool",
+    "LocDescS": "Swimming Pool",
+    "Event": "W.4X200MFR----------",
+    "EventDesc": "Women's 4 x 200m Freestyle Relay",
+    "Phase": "W.4X200MFR----------.FNL-",
+    "PhaseOrder": 1,
+    "PhaseDesc": "Women's 4 x 200m Freestyle Relay Final",
+    "PhaseDescS": "Women's 4 x 200m Freestyle Relay F",
+    "PhaseDescA": "Final",
+    "UnitDesc": "Women's 4 x 200m Freestyle Relay Final",
+    "UnitDescS": "Women's 4 x 200m Freestyle Relay F",
+    "UnitDescA": "",
+    "UnitNum": "1",
+    "IsLive": false,
+    "ShowResults": false,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "",
+    "ResDetail": "",
+    "Duration": "",
+    "CurrentPeriod": 0,
+    "Current": "",
+    "Last": "",
+    "Extensions": [
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Distance",
+        "Pos": 0,
+        "Value": "800",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "EvOrder",
+        "Pos": 0,
+        "Value": "34",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "LAPSTOGO",
+        "Pos": 0,
+        "Value": "16",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "NHeat",
+        "Pos": 0,
+        "Value": "1",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "NHeats",
+        "Pos": 0,
+        "Value": "1",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "NLanes",
+        "Pos": 0,
+        "Value": "8",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "NMembers",
+        "Pos": 0,
+        "Value": "4",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Priority",
+        "Pos": 0,
+        "Value": "4,5,3,6,2,7,1,8,0,9",
+        "Extensions": []
+      }
+    ],
+    "Periods": [
+      {
+        "Order": 1,
+        "Duration": "",
+        "Distance": "50",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "50 m.",
+        "DescS": "50 m."
+      },
+      {
+        "Order": 2,
+        "Duration": "",
+        "Distance": "100",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "100 m.",
+        "DescS": "100 m."
+      },
+      {
+        "Order": 3,
+        "Duration": "",
+        "Distance": "150",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "150 m.",
+        "DescS": "150 m."
+      },
+      {
+        "Order": 4,
+        "Duration": "",
+        "Distance": "200",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "200 m.",
+        "DescS": "200 m."
+      },
+      {
+        "Order": 5,
+        "Duration": "",
+        "Distance": "250",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "250 m.",
+        "DescS": "250 m."
+      },
+      {
+        "Order": 6,
+        "Duration": "",
+        "Distance": "300",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "300 m.",
+        "DescS": "300 m."
+      },
+      {
+        "Order": 7,
+        "Duration": "",
+        "Distance": "350",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "350 m.",
+        "DescS": "350 m."
+      },
+      {
+        "Order": 8,
+        "Duration": "",
+        "Distance": "400",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "400 m.",
+        "DescS": "400 m."
+      },
+      {
+        "Order": 9,
+        "Duration": "",
+        "Distance": "450",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "450 m.",
+        "DescS": "450 m."
+      },
+      {
+        "Order": 10,
+        "Duration": "",
+        "Distance": "500",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "500 m.",
+        "DescS": "500 m."
+      },
+      {
+        "Order": 11,
+        "Duration": "",
+        "Distance": "550",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "550 m.",
+        "DescS": "550 m."
+      },
+      {
+        "Order": 12,
+        "Duration": "",
+        "Distance": "600",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "600 m.",
+        "DescS": "600 m."
+      },
+      {
+        "Order": 13,
+        "Duration": "",
+        "Distance": "650",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "650 m.",
+        "DescS": "650 m."
+      },
+      {
+        "Order": 14,
+        "Duration": "",
+        "Distance": "700",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "700 m.",
+        "DescS": "700 m."
+      },
+      {
+        "Order": 15,
+        "Duration": "",
+        "Distance": "750",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "750 m.",
+        "DescS": "750 m."
+      },
+      {
+        "Order": 16,
+        "Duration": "",
+        "Distance": "800",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "800 m.",
+        "DescS": "800 m."
+      }
+    ],
+    "Records": [
+      {
+        "EvCode": "W.4X200MFR----------",
+        "Desc": "Women's 4 x 200m Freestyle Relay",
+        "DescS": "Women's 4 x 200m Freestyle Relay",
+        "Records": [
+          {
+            "Result": "7:37.50",
+            "Equalled": false,
+            "Indicator": "WR",
+            "Indicator1": "WR",
+            "Desc": "World Record",
+            "AreaDesc": "World",
+            "Loc": "FUKUOKA (JPN)",
+            "DateTimeRaw": "2023-07-27T00:00:00+09:00",
+            "ShowLinkBio": false,
+            "Reg": "R0002",
+            "Name": "Australia",
+            "Org": "AUS",
+            "OrgDesc": "Australia"
+          },
+          {
+            "Result": "7:40.33",
+            "Equalled": false,
+            "Indicator": "AR",
+            "Indicator1": "AR",
+            "Desc": "Asian Record",
+            "AreaDesc": "Asia",
+            "Loc": "TOKYO (JPN)",
+            "DateTimeRaw": "2021-07-29T00:00:00+09:00",
+            "ShowLinkBio": false,
+            "Reg": "R0044",
+            "Name": "People's Republic of China",
+            "Org": "CHN",
+            "OrgDesc": "People's Republic of China"
+          },
+          {
+            "Result": "7:48.61",
+            "Equalled": false,
+            "Indicator": "GR",
+            "Indicator1": "GR",
+            "Desc": "Games Record",
+            "AreaDesc": "Asian Games",
+            "Loc": "JAKARTA (INA)",
+            "DateTimeRaw": "2018-08-21T00:00:00+09:00",
+            "ShowLinkBio": false,
+            "Reg": "R0050",
+            "Name": "People's Republic of China",
+            "Org": "CHN",
+            "OrgDesc": "People's Republic of China"
+          }
+        ]
+      }
+    ],
+    "Paralympic": false
+  },
+  "Competitors": [],
+  "Legends": {
+    "records": [],
+    "irms": [],
+    "qs": []
+  }
+}

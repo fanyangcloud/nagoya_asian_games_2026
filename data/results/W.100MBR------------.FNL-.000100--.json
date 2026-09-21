@@ -1,0 +1,195 @@
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "SWM",
+    "DiscDesc": "Swimming",
+    "Key": "W.100MBR------------.FNL-.000100--",
+    "isH2H": false,
+    "Type": "A",
+    "Medal": "1",
+    "Status": "SCHEDULED",
+    "StatusDesc": "Scheduled",
+    "DateTimeRaw": "2026-09-23T17:44:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "",
+    "HideLocation": false,
+    "Venue": "TAC",
+    "VenueDesc": "Tokyo Aquatics Centre",
+    "VenueDescS": "Tokyo Aquatics Centre",
+    "Loc": "001",
+    "LocDesc": "Swimming Pool",
+    "LocDescS": "Swimming Pool",
+    "Event": "W.100MBR------------",
+    "EventDesc": "Women's 100m Breaststroke",
+    "Phase": "W.100MBR------------.FNL-",
+    "PhaseOrder": 1,
+    "PhaseDesc": "Women's 100m Breaststroke Final",
+    "PhaseDescS": "Women's 100m Breaststroke F",
+    "PhaseDescA": "Final",
+    "UnitDesc": "Women's 100m Breaststroke Final",
+    "UnitDescS": "Women's 100m Breaststroke F",
+    "UnitDescA": "",
+    "UnitNum": "1",
+    "IsLive": false,
+    "ShowResults": false,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "",
+    "ResDetail": "",
+    "Duration": "",
+    "CurrentPeriod": 0,
+    "Current": "",
+    "Last": "",
+    "Extensions": [
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Distance",
+        "Pos": 0,
+        "Value": "100",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "EvOrder",
+        "Pos": 0,
+        "Value": "25",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "LAPSTOGO",
+        "Pos": 0,
+        "Value": "2",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "NHeat",
+        "Pos": 0,
+        "Value": "1",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "NHeats",
+        "Pos": 0,
+        "Value": "1",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "NLanes",
+        "Pos": 0,
+        "Value": "10",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "NMembers",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Priority",
+        "Pos": 0,
+        "Value": "4,5,3,6,2,7,1,8,0,9",
+        "Extensions": []
+      }
+    ],
+    "Periods": [
+      {
+        "Order": 1,
+        "Duration": "",
+        "Distance": "50",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "50 m.",
+        "DescS": "50 m."
+      },
+      {
+        "Order": 2,
+        "Duration": "",
+        "Distance": "100",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "100 m.",
+        "DescS": "100 m."
+      }
+    ],
+    "Records": [
+      {
+        "EvCode": "W.100MBR------------",
+        "Desc": "Women's 100m Breaststroke",
+        "DescS": "Women's 100m Breaststroke",
+        "Records": [
+          {
+            "Result": "1:04.13",
+            "Equalled": false,
+            "Indicator": "WR",
+            "Indicator1": "WR",
+            "Desc": "World Record",
+            "AreaDesc": "World",
+            "Loc": "BUDAPEST (HUN)",
+            "DateTimeRaw": "2017-07-25T00:00:00+09:00",
+            "ShowLinkBio": false,
+            "Reg": "R0022",
+            "Name": "KING Lilly",
+            "Org": "USA",
+            "OrgDesc": "United States of America"
+          },
+          {
+            "Result": "1:04.39",
+            "Equalled": false,
+            "Indicator": "AR",
+            "Indicator1": "AR",
+            "Desc": "Asian Record",
+            "AreaDesc": "Asia",
+            "Loc": "SHENZEN (CHN)",
+            "DateTimeRaw": "2024-04-21T00:00:00+09:00",
+            "ShowLinkBio": false,
+            "Reg": "R0060",
+            "Name": "TANG Qianting",
+            "Org": "CHN",
+            "OrgDesc": "People's Republic of China"
+          },
+          {
+            "Result": "1:06.40",
+            "Equalled": false,
+            "Indicator": "GR",
+            "Indicator1": "GR",
+            "Desc": "Games Record",
+            "AreaDesc": "Asian Games",
+            "Loc": "JAKARTA (INA)",
+            "DateTimeRaw": "2018-08-19T00:00:00+09:00",
+            "ShowLinkBio": false,
+            "Reg": "R0059",
+            "Name": "SUZUKI Satomi",
+            "Org": "JPN",
+            "OrgDesc": "Japan"
+          }
+        ]
+      }
+    ],
+    "Paralympic": false
+  },
+  "Competitors": [],
+  "Legends": {
+    "records": [],
+    "irms": [],
+    "qs": []
+  }
+}

@@ -1,0 +1,354 @@
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "BK3",
+    "DiscDesc": "3x3 Basketball",
+    "Key": "M.TEAM3-------------.FNL-.000100--",
+    "isH2H": true,
+    "Type": "T",
+    "Medal": "1",
+    "Status": "SCHEDULED",
+    "StatusDesc": "Scheduled",
+    "DateTimeRaw": "2026-09-25T19:30:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "",
+    "HideLocation": false,
+    "Venue": "KFS",
+    "VenueDesc": "Kinjo Futo Station Square Venue",
+    "VenueDescS": "Kinjo Futo Station Square Venue",
+    "Loc": "001",
+    "LocDesc": "Court 1",
+    "LocDescS": "Court 1",
+    "Event": "M.TEAM3-------------",
+    "EventDesc": "Men",
+    "Phase": "M.TEAM3-------------.FNL-",
+    "PhaseOrder": 1,
+    "PhaseDesc": "Men Finals",
+    "PhaseDescS": "Men F",
+    "PhaseDescA": "Finals",
+    "UnitDesc": "Men Finals Gold Medal Game",
+    "UnitDescS": "Men F GMG",
+    "UnitDescA": "Gold Medal Game",
+    "UnitNum": "72",
+    "IsLive": false,
+    "ShowResults": false,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "",
+    "ResDetail": "",
+    "Duration": "",
+    "CurrentPeriod": 0,
+    "Current": "",
+    "Last": "",
+    "Extensions": [
+      {
+        "Type": "UNIT_INFO",
+        "Code": "ATTENDANCE",
+        "Pos": 0,
+        "Value": "",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "BK3TYPE",
+        "Pos": 0,
+        "Value": "TEAM",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "CONSOLE_INFO",
+        "Pos": 0,
+        "Value": "T",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "LONG_SPRINT_SEC",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "LONG_SPRINT_STR",
+        "Pos": 0,
+        "Value": "",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "REAL_DURATION",
+        "Pos": 0,
+        "Value": "",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "REAL_END_TIME",
+        "Pos": 0,
+        "Value": "",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "REAL_ST_TIME",
+        "Pos": 0,
+        "Value": "",
+        "Extensions": []
+      }
+    ],
+    "Periods": [
+      {
+        "Order": 1,
+        "Duration": "",
+        "Distance": "0",
+        "ResHome": "0",
+        "ResAway": "0",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "Regular time",
+        "DescS": "RT"
+      },
+      {
+        "Order": 2,
+        "Duration": "",
+        "Distance": "0",
+        "ResHome": "0",
+        "ResAway": "0",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "Overtime",
+        "DescS": "OT"
+      }
+    ],
+    "Paralympic": false
+  },
+  "Competitors": [
+    {
+      "Reg": "",
+      "Bib": "",
+      "Org": "",
+      "StartOrder": "1",
+      "StartSortOrder": 1,
+      "Rk": "",
+      "RkEq": false,
+      "RkPo": 0,
+      "WLT": "T",
+      "Result": "",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "INFO_COMP",
+          "Code": "TimeLeading",
+          "Pos": 0,
+          "Value": "00:00",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "TIMEUSED",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "MemberServer",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "Server",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        }
+      ],
+      "Name": "",
+      "NameS": "",
+      "OrgDesc": "",
+      "Splits": [
+        {
+          "Category": "",
+          "Distance": "0",
+          "Rk": "0",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "0",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "0",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": []
+        },
+        {
+          "Category": "",
+          "Distance": "0",
+          "Rk": "0",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "0",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "0",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": ""
+    },
+    {
+      "Reg": "",
+      "Bib": "",
+      "Org": "",
+      "StartOrder": "2",
+      "StartSortOrder": 2,
+      "Rk": "",
+      "RkEq": false,
+      "RkPo": 0,
+      "WLT": "T",
+      "Result": "",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "INFO_COMP",
+          "Code": "TimeLeading",
+          "Pos": 0,
+          "Value": "00:00",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "TIMEUSED",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "MemberServer",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "Server",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        }
+      ],
+      "Name": "",
+      "NameS": "",
+      "OrgDesc": "",
+      "Splits": [
+        {
+          "Category": "",
+          "Distance": "0",
+          "Rk": "0",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "0",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "0",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": []
+        },
+        {
+          "Category": "",
+          "Distance": "0",
+          "Rk": "0",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "0",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "0",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": ""
+    }
+  ],
+  "Legends": {
+    "records": [],
+    "irms": [],
+    "qs": []
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "SWM",
+    "DiscDesc": "Swimming",
+    "Key": "W.200MBR------------.FNL-.000100--",
+    "isH2H": false,
+    "Type": "A",
+    "Medal": "1",
+    "Status": "SCHEDULED",
+    "StatusDesc": "Scheduled",
+    "DateTimeRaw": "2026-09-24T17:11:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "",
+    "HideLocation": false,
+    "Venue": "TAC",
+    "VenueDesc": "Tokyo Aquatics Centre",
+    "VenueDescS": "Tokyo Aquatics Centre",
+    "Loc": "001",
+    "LocDesc": "Swimming Pool",
+    "LocDescS": "Swimming Pool",
+    "Event": "W.200MBR------------",
+    "EventDesc": "Women's 200m Breaststroke",
+    "Phase": "W.200MBR------------.FNL-",
+    "PhaseOrder": 1,
+    "PhaseDesc": "Women's 200m Breaststroke Final",
+    "PhaseDescS": "Women's 200m Breaststroke F",
+    "PhaseDescA": "Final",
+    "UnitDesc": "Women's 200m Breaststroke Final",
+    "UnitDescS": "Women's 200m Breaststroke F",
+    "UnitDescA": "",
+    "UnitNum": "1",
+    "IsLive": false,
+    "ShowResults": false,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "",
+    "ResDetail": "",
+    "Duration": "",
+    "CurrentPeriod": 0,
+    "Current": "",
+    "Last": "",
+    "Extensions": [
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Distance",
+        "Pos": 0,
+        "Value": "200",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "EvOrder",
+        "Pos": 0,
+        "Value": "30",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "LAPSTOGO",
+        "Pos": 0,
+        "Value": "4",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "NHeat",
+        "Pos": 0,
+        "Value": "1",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "NHeats",
+        "Pos": 0,
+        "Value": "1",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "NLanes",
+        "Pos": 0,
+        "Value": "10",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "NMembers",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Priority",
+        "Pos": 0,
+        "Value": "4,5,3,6,2,7,1,8,0,9",
+        "Extensions": []
+      }
+    ],
+    "Periods": [
+      {
+        "Order": 1,
+        "Duration": "",
+        "Distance": "50",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "50 m.",
+        "DescS": "50 m."
+      },
+      {
+        "Order": 2,
+        "Duration": "",
+        "Distance": "100",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "100 m.",
+        "DescS": "100 m."
+      },
+      {
+        "Order": 3,
+        "Duration": "",
+        "Distance": "150",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "150 m.",
+        "DescS": "150 m."
+      },
+      {
+        "Order": 4,
+        "Duration": "",
+        "Distance": "200",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "200 m.",
+        "DescS": "200 m."
+      }
+    ],
+    "Records": [
+      {
+        "EvCode": "W.200MBR------------",
+        "Desc": "Women's 200m Breaststroke",
+        "DescS": "Women's 200m Breaststroke",
+        "Records": [
+          {
+            "Result": "2:17.55",
+            "Equalled": false,
+            "Indicator": "WR",
+            "Indicator1": "WR",
+            "Desc": "World Record",
+            "AreaDesc": "World",
+            "Loc": "KAZAN (RUS)",
+            "DateTimeRaw": "2023-04-21T00:00:00+09:00",
+            "ShowLinkBio": false,
+            "Reg": "R0006",
+            "Name": "CHIKUNOVA Evgeniia",
+            "Org": "RUS",
+            "OrgDesc": "Russian Federation"
+          },
+          {
+            "Result": "2:19.65",
+            "Equalled": false,
+            "Indicator": "AR",
+            "Indicator1": "AR",
+            "Desc": "Asian Record",
+            "AreaDesc": "Asia",
+            "Loc": "TOKYO (JPN)",
+            "DateTimeRaw": "2016-04-04T00:00:00+09:00",
+            "ShowLinkBio": false,
+            "Reg": "R0020",
+            "Name": "KANETO Rie",
+            "Org": "JPN",
+            "OrgDesc": "Japan"
+          },
+          {
+            "Result": "2:21.82",
+            "Equalled": false,
+            "Indicator": "GR",
+            "Indicator1": "GR",
+            "Desc": "Games Record",
+            "AreaDesc": "Asian Games",
+            "Loc": "INCHEON (KOR)",
+            "DateTimeRaw": "2014-09-22T00:00:00+09:00",
+            "ShowLinkBio": false,
+            "Reg": "R0067",
+            "Name": "WATANABE Kanako",
+            "Org": "JPN",
+            "OrgDesc": "Japan"
+          }
+        ]
+      }
+    ],
+    "Paralympic": false
+  },
+  "Competitors": [],
+  "Legends": {
+    "records": [],
+    "irms": [],
+    "qs": []
+  }
+}

@@ -1,0 +1,543 @@
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "KTE",
+    "DiscDesc": "Karate",
+    "Key": "W.O68KG-------------.FNL-.000100--",
+    "isH2H": true,
+    "Type": "A",
+    "Medal": "1",
+    "Status": "OFFICIAL",
+    "StatusDesc": "Official",
+    "DateTimeRaw": "2026-09-20T16:50:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "",
+    "HideLocation": false,
+    "Venue": "TYH",
+    "VenueDesc": "Toyohashi Gymnasium",
+    "VenueDescS": "Toyohashi Gymnasium",
+    "Loc": "KT1",
+    "LocDesc": "TYH Tatami 1",
+    "LocDescS": "TYH Tatami 1",
+    "Event": "W.O68KG-------------",
+    "EventDesc": "Women's Kumite +68kg",
+    "Phase": "W.O68KG-------------.FNL-",
+    "PhaseOrder": 117,
+    "PhaseDesc": "Women's Kumite +68kg Final",
+    "PhaseDescS": "Final",
+    "PhaseDescA": "Final",
+    "UnitDesc": "Women's Kumite +68kg Final",
+    "UnitDescS": "Final",
+    "UnitDescA": "Women's Kumite +68kg Final",
+    "UnitNum": "136",
+    "IsLive": false,
+    "ShowResults": true,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "8",
+    "ResDetail": "8",
+    "Duration": "",
+    "Current": "",
+    "Last": "",
+    "Extensions": [
+      {
+        "Type": "UNIT_INFO",
+        "Code": "CompetitorUnderReview",
+        "Pos": 0,
+        "Value": "",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Decision",
+        "Pos": 0,
+        "Value": "POINTS",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "DecisionIVR",
+        "Pos": 0,
+        "Value": "",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "IsKata",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Technique_01",
+        "Pos": 0,
+        "Value": "02:25;CHUI (first instance);Ao;;0:0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Technique_02",
+        "Pos": 0,
+        "Value": "02:25;CHUI (first instance);Aka;;0:0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Technique_03",
+        "Pos": 0,
+        "Value": "02:11;SENSHU;Ao;;0:1",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Technique_04",
+        "Pos": 0,
+        "Value": "02:11;YUKO;Ao;;0:2",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Technique_05",
+        "Pos": 0,
+        "Value": "02:02;WAZA-ARI;Ao;;0:4",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Technique_06",
+        "Pos": 0,
+        "Value": "01:44;YUKO;Ao;;0:5",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Technique_07",
+        "Pos": 0,
+        "Value": "01:40;Video Review Reject;Aka;;0:5",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Technique_08",
+        "Pos": 0,
+        "Value": "01:17;CHUI (second instance);Ao;;0:5",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Technique_09",
+        "Pos": 0,
+        "Value": "01:03;IPPON;Ao;;0:8",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Technique_10",
+        "Pos": 0,
+        "Value": "00:12;YUKO;Ao;;0:9",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "UnderReview",
+        "Pos": 0,
+        "Value": "False",
+        "Extensions": []
+      }
+    ],
+    "Periods": [
+      {
+        "Order": 1,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "0",
+        "ResAway": "8",
+        "TotHome": "0",
+        "TotAway": "8",
+        "Extensions": [],
+        "Desc": "1st Round",
+        "DescS": "R1"
+      }
+    ],
+    "Officials": [
+      {
+        "Reg": "14286476",
+        "Org": "JPN",
+        "Order": 101,
+        "Function": "KTE02",
+        "Bib": "1980-12-22",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Japan",
+        "Name": "KAWAKAMI Takeshi",
+        "NameS": "KAWAKAMI T",
+        "FuncDesc": "Referee"
+      },
+      {
+        "Reg": "13162368",
+        "Org": "SRI",
+        "Order": 102,
+        "Function": "KTE03",
+        "Bib": "1967-05-30",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Sri Lanka",
+        "Name": "RAYAPPAN JEBAMALAI Alexander",
+        "NameS": "RAYAPPAN JEBAMALAI",
+        "FuncDesc": "Judge1"
+      },
+      {
+        "Reg": "8315642",
+        "Org": "MAS",
+        "Order": 103,
+        "Function": "KTE04",
+        "Bib": "1988-07-28",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Malaysia",
+        "Name": "PAVITERN Prataban",
+        "NameS": "PAVITERN P",
+        "FuncDesc": "Judge2"
+      },
+      {
+        "Reg": "12019194",
+        "Org": "JOR",
+        "Order": 104,
+        "Function": "KTE05",
+        "Bib": "1974-05-30",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Jordan",
+        "Name": "ALDIQS Ibrahim",
+        "NameS": "ALDIQS I",
+        "FuncDesc": "Judge3"
+      },
+      {
+        "Reg": "10024227",
+        "Org": "KSA",
+        "Order": 105,
+        "Function": "KTE06",
+        "Bib": "1981-12-10",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Saudi Arabia",
+        "Name": "ALBISHI Mari",
+        "NameS": "ALBISHI M",
+        "FuncDesc": "Judge4"
+      },
+      {
+        "Reg": "3625292",
+        "Org": "IND",
+        "Order": 110,
+        "Function": "KTE14",
+        "Bib": "1972-05-14",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "India",
+        "Name": "ANSARI Shaheen Salauddin",
+        "NameS": "ANSARI SS",
+        "FuncDesc": "Tatami Manager"
+      },
+      {
+        "Reg": "5283047",
+        "Org": "KUW",
+        "Order": 112,
+        "Function": "KTE12",
+        "Bib": "1986-01-14",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Kuwait",
+        "Name": "SALEH Ahmad",
+        "NameS": "SALEH A",
+        "FuncDesc": "VR Supervisor (1)"
+      }
+    ],
+    "Paralympic": false
+  },
+  "Competitors": [
+    {
+      "Reg": "6104912",
+      "Bib": "",
+      "Org": "THA",
+      "StartOrder": "1",
+      "StartSortOrder": 1,
+      "Rk": "2",
+      "RkEq": false,
+      "RkPo": 2,
+      "WLT": "L",
+      "Result": "0",
+      "ResDetail": "0",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Category1Chukoku",
+          "Pos": 0,
+          "Value": "true",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Category1Chukoku2",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Category1Keikoku",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Category1HansokuChui",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Category1Hansoku",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Yuko",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "WazaAri",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Ippon",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Senshu",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Colour",
+          "Pos": 0,
+          "Value": "BLUE",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "VR",
+          "Pos": 0,
+          "Value": "true",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Obi",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        }
+      ],
+      "Name": "BUTSUWAN Maneevan",
+      "NameS": "BUTSUWAN M",
+      "OrgDesc": "Thailand",
+      "Splits": [
+        {
+          "Category": "MAIN",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "0",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "0",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_SILVER"
+    },
+    {
+      "Reg": "3974472",
+      "Bib": "",
+      "Org": "KAZ",
+      "StartOrder": "2",
+      "StartSortOrder": 2,
+      "Rk": "1",
+      "RkEq": false,
+      "RkPo": 1,
+      "WLT": "W",
+      "Result": "8",
+      "ResDetail": "8",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Category1Chukoku",
+          "Pos": 0,
+          "Value": "true",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Category1Chukoku2",
+          "Pos": 0,
+          "Value": "true",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Category1Keikoku",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Category1HansokuChui",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Category1Hansoku",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Yuko",
+          "Pos": 0,
+          "Value": "3",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "WazaAri",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Ippon",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Senshu",
+          "Pos": 0,
+          "Value": "true",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Colour",
+          "Pos": 0,
+          "Value": "RED",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "VR",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Obi",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        }
+      ],
+      "Name": "BERULTSEVA Sofya",
+      "NameS": "BERULTSEVA S",
+      "OrgDesc": "Kazakhstan",
+      "Splits": [
+        {
+          "Category": "MAIN",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "8",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "8",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_GOLD"
+    }
+  ],
+  "Legends": {
+    "records": [],
+    "irms": [],
+    "qs": []
+  }
+}

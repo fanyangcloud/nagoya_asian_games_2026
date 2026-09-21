@@ -1,0 +1,2055 @@
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "EQU",
+    "DiscDesc": "Equestrian",
+    "Key": "O.EVENTEAM----------.XC--.000200--",
+    "isH2H": false,
+    "Type": "T",
+    "Medal": "0",
+    "Status": "SCHEDULED",
+    "StatusDesc": "Scheduled",
+    "DateTimeRaw": "2026-09-23T10:00:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "",
+    "HideLocation": true,
+    "Venue": "EQP",
+    "VenueDesc": "Equestrian Park(Tokyo)",
+    "VenueDescS": "Equestrian Park",
+    "Loc": "EQP",
+    "LocDesc": "Equestrian Park",
+    "LocDescS": "Equestrian Park",
+    "Event": "O.EVENTEAM----------",
+    "EventDesc": "Eventing Team",
+    "Phase": "O.EVENTEAM----------.XC--",
+    "PhaseOrder": 2,
+    "PhaseDesc": "Eventing Cross Country",
+    "PhaseDescS": "Eventing Cross Country",
+    "PhaseDescA": "Cross Country",
+    "UnitDesc": "Eventing Team Cross Country",
+    "UnitDescS": "Eventing Team Cross Country",
+    "UnitDescA": "Cross Country",
+    "UnitNum": "2",
+    "IsLive": false,
+    "ShowResults": false,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "",
+    "ResDetail": "",
+    "Duration": "",
+    "Current": "",
+    "Last": "",
+    "Extensions": [
+      {
+        "Type": "UNIT_INFO",
+        "Code": "HAS_STARTTIMES",
+        "Pos": 0,
+        "Value": "N",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "TEAM_ROUND",
+        "Pos": 0,
+        "Value": "3",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "TYPE",
+        "Pos": 0,
+        "Value": "TEAM",
+        "Extensions": []
+      }
+    ],
+    "Periods": [],
+    "Paralympic": false
+  },
+  "Competitors": [
+    {
+      "Reg": "EQUOEVENTEAM---KOR01",
+      "Bib": "",
+      "Org": "KOR",
+      "MedClass": "",
+      "StartOrder": "1",
+      "StartSortOrder": 1,
+      "Rk": "",
+      "RkEq": false,
+      "RkPo": 0,
+      "WLT": "",
+      "Result": "",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "TEAM_ROUND_SCORE",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        }
+      ],
+      "Name": "Republic of Korea",
+      "NameS": "KOR",
+      "OrgDesc": "Republic of Korea",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "",
+      "Members": [
+        {
+          "Reg": "881454",
+          "Org": "KOR",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "FIRST DE MONTIEGE",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD/SF/Grey/2015/UTRILLO VD HEFFINCK/CENAZE DU HIL",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "10:00:00",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 1,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "",
+          "Guides": [],
+          "Name": "KANG Hansu",
+          "NameS": "KANG H",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        },
+        {
+          "Reg": "887003",
+          "Org": "KOR",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "HOT STUFF DU LOIR",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD/SF/Chestnut/2017/BALOU DU ROUET/ORLANDO",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "8",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "10:45:30",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 2,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "",
+          "Guides": [],
+          "Name": "LEE Donghwa",
+          "NameS": "LEE D",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        },
+        {
+          "Reg": "882520",
+          "Org": "KOR",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "EMILE DE CHIGNAN",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD//Bay/2014/EPHEBE FOR EVER*LA SILLA/WAGENAAR",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "17",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "11:44:00",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 3,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "",
+          "Guides": [],
+          "Name": "KIM Hyeongho",
+          "NameS": "KIM H",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        },
+        {
+          "Reg": "881670",
+          "Org": "KOR",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "GLASGOW DU LOIR",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD/SF/Bay/2016/UPSILON/SUMMER SONG",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "25",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "12:36:00",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 4,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "",
+          "Guides": [],
+          "Name": "PARK Heungsu",
+          "NameS": "PARK H",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        }
+      ]
+    },
+    {
+      "Reg": "EQUOEVENTEAM---THA01",
+      "Bib": "",
+      "Org": "THA",
+      "MedClass": "",
+      "StartOrder": "2",
+      "StartSortOrder": 2,
+      "Rk": "",
+      "RkEq": false,
+      "RkPo": 0,
+      "WLT": "",
+      "Result": "",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "TEAM_ROUND_SCORE",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        }
+      ],
+      "Name": "Thailand",
+      "NameS": "THA",
+      "OrgDesc": "Thailand",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "",
+      "Members": [
+        {
+          "Reg": "14726119",
+          "Org": "THA",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "VINETTO 3",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD/HANN/Black/2015/VISCOUNT 22/ESCUDO 19",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "2",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "10:06:30",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 1,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "",
+          "Guides": [],
+          "Name": "KHAW-NGAM Supap",
+          "NameS": "KHAW-NGAM S",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        },
+        {
+          "Reg": "11198072",
+          "Org": "THA",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "USTER DE CHANAY",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD/SF/Chestnut/2008/NEGUS DE B'NEVILLE HN/CLYDE DE LA COMBE",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "9",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "10:52:00",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 2,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "",
+          "Guides": [],
+          "Name": "SITTIJU Woraphat",
+          "NameS": "SITTIJU W",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        },
+        {
+          "Reg": "14726928",
+          "Org": "THA",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "BILLY ELMY",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD//Chestnut/2011/QIF ELMY/DANDY DE SURCY",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "18",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "11:50:30",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 3,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "",
+          "Guides": [],
+          "Name": "SAMRAN Korntawat",
+          "NameS": "SAMRAN K",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        },
+        {
+          "Reg": "1721906",
+          "Org": "THA",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "CARNIVAL MARCH",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD/ISH/Bay/2011/CAVALIER CARNIVAL/ATLANTIC CRUISE",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "26",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "12:42:30",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 4,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "",
+          "Guides": [],
+          "Name": "PITAKANONDA Weerapat",
+          "NameS": "PITAKANONDA W",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        }
+      ]
+    },
+    {
+      "Reg": "EQUOEVENTEAM---QAT01",
+      "Bib": "",
+      "Org": "QAT",
+      "MedClass": "",
+      "StartOrder": "3",
+      "StartSortOrder": 3,
+      "Rk": "",
+      "RkEq": false,
+      "RkPo": 0,
+      "WLT": "",
+      "Result": "",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "TEAM_ROUND_SCORE",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        }
+      ],
+      "Name": "Qatar",
+      "NameS": "QAT",
+      "OrgDesc": "Qatar",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "",
+      "Members": [
+        {
+          "Reg": "16683900",
+          "Org": "QAT",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "ORACLE DE CHAMPENOTTE",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "ST/BWP/Chestnut/2014/ELDORADO DE HUS/OBOURG",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "3",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "10:13:00",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 1,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "",
+          "Guides": [],
+          "Name": "AL-NAIMI Mohammed Jabor H R",
+          "NameS": "AL-NAIMI M",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        },
+        {
+          "Reg": "16684083",
+          "Org": "QAT",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "VALTHO DES PEUPLIERS",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD/SF/Chestnut/2009/TINKA'S BOY/ROSIRE",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "10",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "10:58:30",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 2,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "",
+          "Guides": [],
+          "Name": "AL-MARRI Mohammed Salem M L",
+          "NameS": "AL-MARRI M",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        },
+        {
+          "Reg": "4618887",
+          "Org": "QAT",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "ARTUS S 3",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD/HOLST/Bay/2016/AMBER 119/CALETTO I",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "19",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "11:57:00",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 3,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "",
+          "Guides": [],
+          "Name": "AL-QADI Mohammed Nasser S A",
+          "NameS": "AL-QADI M",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        },
+        {
+          "Reg": "16684361",
+          "Org": "QAT",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "DEGAS GALOTIERE",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD/SF/Chestnut/2013/MYLORD CARTHAGO HN/LIEU DE RAMPAN",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "27",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "12:49:00",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 4,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "",
+          "Guides": [],
+          "Name": "AL-MUHANNADI Abdulaziz Ahmed M A",
+          "NameS": "AL-MUHANNADI A",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        }
+      ]
+    },
+    {
+      "Reg": "EQUOEVENTEAM---INA01",
+      "Bib": "",
+      "Org": "INA",
+      "MedClass": "",
+      "StartOrder": "4",
+      "StartSortOrder": 4,
+      "Rk": "",
+      "RkEq": false,
+      "RkPo": 0,
+      "WLT": "",
+      "Result": "",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "TEAM_ROUND_SCORE",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        }
+      ],
+      "Name": "Indonesia",
+      "NameS": "INA",
+      "OrgDesc": "Indonesia",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "",
+      "Members": [
+        {
+          "Reg": "6530879",
+          "Org": "INA",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "KODALINE 3",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD/HANN/Bay/2018/KARAJAN/CORONAS 2",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "4",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "10:19:30",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 1,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "",
+          "Guides": [],
+          "Name": "ALEXANDRO Marcho",
+          "NameS": "ALEXANDRO M",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        },
+        {
+          "Reg": "14234518",
+          "Org": "INA",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "SURE GOLD VHP Z",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD/ZANG/Bay/2017/SOLID GOLD Z/CALVARO F.C.",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "11",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "11:05:00",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 2,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "",
+          "Guides": [],
+          "Name": "ZAKI Muhamad",
+          "NameS": "ZAKI M",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        },
+        {
+          "Reg": "11197228",
+          "Org": "INA",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "QUINCENT",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD/OLDBG/Bay/2013/QUINTINO/LE PRIMEUR",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "20",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "12:03:30",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 3,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "",
+          "Guides": [],
+          "Name": "FAJAR Fergi Tri Nur",
+          "NameS": "FAJAR FTN",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        },
+        {
+          "Reg": "3763530",
+          "Org": "INA",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "DIACONTHIERRA S",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "MA/OLDBG/Grey/2019/DIACONTINUS/HOYO DE MONTEREY",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "28",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "12:55:30",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 4,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "",
+          "Guides": [],
+          "Name": "MENAYANG Steven",
+          "NameS": "MENAYANG S",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        }
+      ]
+    },
+    {
+      "Reg": "EQUOEVENTEAM---HKG01",
+      "Bib": "",
+      "Org": "HKG",
+      "MedClass": "",
+      "StartOrder": "5",
+      "StartSortOrder": 5,
+      "Rk": "",
+      "RkEq": false,
+      "RkPo": 0,
+      "WLT": "",
+      "Result": "",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "TEAM_ROUND_SCORE",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        }
+      ],
+      "Name": "Hong Kong, China",
+      "NameS": "HKG",
+      "OrgDesc": "Hong Kong, China",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "",
+      "Members": [
+        {
+          "Reg": "7563268",
+          "Org": "HKG",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "JONES JL",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD/KWPN/Other/2014/BESSEMEIND'S QUASIMODO Z/",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "5",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "10:26:00",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 1,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "",
+          "Guides": [],
+          "Name": "SU Yu Xuan",
+          "NameS": "SU YX",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        },
+        {
+          "Reg": "7563524",
+          "Org": "HKG",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "HANERINA SSF",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "MA/KWPN/Other/2012/LYJANERO/VDL INDOCTRO",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "12",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "11:11:30",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 2,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "",
+          "Guides": [],
+          "Name": "PEARSON Nicole Michele",
+          "NameS": "PEARSON NM",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        },
+        {
+          "Reg": "7562692",
+          "Org": "HKG",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "HIGHDOWN MARCH",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD/AES/Chestnut/2011/JAGUAR MAIL/COROFINO I",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "21",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "12:10:00",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 3,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "",
+          "Guides": [],
+          "Name": "LAM Patrick",
+          "NameS": "LAM P",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        },
+        {
+          "Reg": "7560587",
+          "Org": "HKG",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "EVITA AP",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "MA/OS/Black/2014/CON AIR 7/FLYINGE ELECTRO",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "29",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "13:02:00",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 4,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "",
+          "Guides": [],
+          "Name": "HO Annie",
+          "NameS": "HO YYA",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        }
+      ]
+    },
+    {
+      "Reg": "EQUOEVENTEAM---CHN01",
+      "Bib": "",
+      "Org": "CHN",
+      "MedClass": "",
+      "StartOrder": "6",
+      "StartSortOrder": 6,
+      "Rk": "",
+      "RkEq": false,
+      "RkPo": 0,
+      "WLT": "",
+      "Result": "",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "TEAM_ROUND_SCORE",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        }
+      ],
+      "Name": "People's Republic of China",
+      "NameS": "CHN",
+      "OrgDesc": "People's Republic of China",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "",
+      "Members": [
+        {
+          "Reg": "3999678",
+          "Org": "CHN",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "SUEZ AIR",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "MA/OLDBG/Other/2018/SECRET/CONTENDER",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "13",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "11:18:00",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 2,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "",
+          "Guides": [],
+          "Name": "SHAO Han",
+          "NameS": "SHAO H",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        },
+        {
+          "Reg": "3999986",
+          "Org": "CHN",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "DIABOLO D'EMS AA",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD/AA/Chestnut/2013/QUERCUS DU MAURY*HN/FAYRILAND II",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "22",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "12:16:30",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 3,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "",
+          "Guides": [],
+          "Name": "SHU Yuying",
+          "NameS": "SHU Y",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        },
+        {
+          "Reg": "3999266",
+          "Org": "CHN",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "MANJUSHRI",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD/ISH/Bay/2017//",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "30",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "13:08:30",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 4,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "",
+          "Guides": [],
+          "Name": "HUA Tian",
+          "NameS": "HUA T",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        }
+      ]
+    },
+    {
+      "Reg": "EQUOEVENTEAM---IND01",
+      "Bib": "",
+      "Org": "IND",
+      "MedClass": "",
+      "StartOrder": "7",
+      "StartSortOrder": 7,
+      "Rk": "",
+      "RkEq": false,
+      "RkPo": 0,
+      "WLT": "",
+      "Result": "",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "TEAM_ROUND_SCORE",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        }
+      ],
+      "Name": "India",
+      "NameS": "IND",
+      "OrgDesc": "India",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "",
+      "Members": [
+        {
+          "Reg": "13207410",
+          "Org": "IND",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "CAMOUFLAGE 38",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD/HOLST/Bay/2016//",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "14",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "11:24:30",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 2,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "",
+          "Guides": [],
+          "Name": "MIRZA Fouaad",
+          "NameS": "MIRZA F",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        },
+        {
+          "Reg": "6037186",
+          "Org": "IND",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "COOLEY GOODWOOD",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "ST/ISH/Grey/2014/OBOS QUALITY 004/GLIDAWN DIAMOND",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "23",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "12:23:00",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 3,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "",
+          "Guides": [],
+          "Name": "NAGRA Arjan Singh",
+          "NameS": "NAGRA AS",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        },
+        {
+          "Reg": "8393305",
+          "Org": "IND",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "WILLY BE DUN",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD/AES/Bay/2012/CARETINO GLORY/UNKNOWN DAM'S SIRE",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "31",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "13:15:00",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 4,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "",
+          "Guides": [],
+          "Name": "LIMAYE Ashish",
+          "NameS": "LIMAYE AV",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        }
+      ]
+    },
+    {
+      "Reg": "EQUOEVENTEAM---JPN01",
+      "Bib": "",
+      "Org": "JPN",
+      "MedClass": "",
+      "StartOrder": "8",
+      "StartSortOrder": 8,
+      "Rk": "",
+      "RkEq": false,
+      "RkPo": 0,
+      "WLT": "",
+      "Result": "",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "TEAM_ROUND_SCORE",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        }
+      ],
+      "Name": "Japan",
+      "NameS": "JPN",
+      "OrgDesc": "Japan",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "",
+      "Members": [
+        {
+          "Reg": "1745504",
+          "Org": "JPN",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "TALMA D'ALLOU",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD/SF/Bay/2007/OPIUM DE TALMA/PRINCE IG'OR",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "6",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "10:32:30",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 1,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "",
+          "Guides": [],
+          "Name": "TANAKA Toshiyuki",
+          "NameS": "TANAKA T",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        },
+        {
+          "Reg": "1746513",
+          "Org": "JPN",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "BROOKPARK VIKENTI",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD/ISH/Bay/2008/MASTER IMP/Ballysimon",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "15",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "11:31:00",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 2,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "",
+          "Guides": [],
+          "Name": "MURATA Ryo",
+          "NameS": "MURATA R",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        },
+        {
+          "Reg": "1745400",
+          "Org": "JPN",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "FER DE LANCE",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD/HOLST/Bay/2018//",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "24",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "12:29:30",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 3,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "",
+          "Guides": [],
+          "Name": "TOMOTO Kazuma",
+          "NameS": "TOMOTO K",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        },
+        {
+          "Reg": "1746057",
+          "Org": "JPN",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "OTTAWA DES DESIG",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "MA/CDE/Bay/2016/CONTENDRO I/",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "32",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "13:21:30",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 4,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "",
+          "Guides": [],
+          "Name": "OIWA Yoshiaki",
+          "NameS": "OIWA Y",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        }
+      ]
+    }
+  ],
+  "Legends": {
+    "records": [],
+    "irms": [],
+    "qs": [],
+    "funcs": [
+      {
+        "DescS": "AA01",
+        "Desc": "Rider"
+      }
+    ],
+    "pos": [
+      {
+        "DescS": "R",
+        "Desc": "Athlete"
+      }
+    ]
+  }
+}

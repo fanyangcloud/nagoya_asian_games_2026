@@ -1,0 +1,219 @@
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "SWM",
+    "DiscDesc": "Swimming",
+    "Key": "M.200MBF------------.FNL-.000100--",
+    "isH2H": false,
+    "Type": "A",
+    "Medal": "1",
+    "Status": "SCHEDULED",
+    "StatusDesc": "Scheduled",
+    "DateTimeRaw": "2026-09-25T18:09:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "",
+    "HideLocation": false,
+    "Venue": "TAC",
+    "VenueDesc": "Tokyo Aquatics Centre",
+    "VenueDescS": "Tokyo Aquatics Centre",
+    "Loc": "001",
+    "LocDesc": "Swimming Pool",
+    "LocDescS": "Swimming Pool",
+    "Event": "M.200MBF------------",
+    "EventDesc": "Men's 200m Butterfly",
+    "Phase": "M.200MBF------------.FNL-",
+    "PhaseOrder": 1,
+    "PhaseDesc": "Men's 200m Butterfly Final",
+    "PhaseDescS": "Men's 200m Butterfly F",
+    "PhaseDescA": "Final",
+    "UnitDesc": "Men's 200m Butterfly Final",
+    "UnitDescS": "Men's 200m Butterfly F",
+    "UnitDescA": "",
+    "UnitNum": "1",
+    "IsLive": false,
+    "ShowResults": false,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "",
+    "ResDetail": "",
+    "Duration": "",
+    "CurrentPeriod": 0,
+    "Current": "",
+    "Last": "",
+    "Extensions": [
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Distance",
+        "Pos": 0,
+        "Value": "200",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "EvOrder",
+        "Pos": 0,
+        "Value": "40",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "LAPSTOGO",
+        "Pos": 0,
+        "Value": "4",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "NHeat",
+        "Pos": 0,
+        "Value": "1",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "NHeats",
+        "Pos": 0,
+        "Value": "1",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "NLanes",
+        "Pos": 0,
+        "Value": "10",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "NMembers",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Priority",
+        "Pos": 0,
+        "Value": "4,5,3,6,2,7,1,8,0,9",
+        "Extensions": []
+      }
+    ],
+    "Periods": [
+      {
+        "Order": 1,
+        "Duration": "",
+        "Distance": "50",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "50 m.",
+        "DescS": "50 m."
+      },
+      {
+        "Order": 2,
+        "Duration": "",
+        "Distance": "100",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "100 m.",
+        "DescS": "100 m."
+      },
+      {
+        "Order": 3,
+        "Duration": "",
+        "Distance": "150",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "150 m.",
+        "DescS": "150 m."
+      },
+      {
+        "Order": 4,
+        "Duration": "",
+        "Distance": "200",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "200 m.",
+        "DescS": "200 m."
+      }
+    ],
+    "Records": [
+      {
+        "EvCode": "M.200MBF------------",
+        "Desc": "Men's 200m Butterfly",
+        "DescS": "Men's 200m Butterfly",
+        "Records": [
+          {
+            "Result": "1:50.34",
+            "Equalled": false,
+            "Indicator": "WR",
+            "Indicator1": "WR",
+            "Desc": "World Record",
+            "AreaDesc": "World",
+            "Loc": "BUDAPEST (HUN)",
+            "DateTimeRaw": "2022-06-21T00:00:00+09:00",
+            "ShowLinkBio": false,
+            "Reg": "R0035",
+            "Name": "MILAK Kristof",
+            "Org": "HUN",
+            "OrgDesc": "Hungary"
+          },
+          {
+            "Result": "1:52.53",
+            "Equalled": false,
+            "Indicator": "AR",
+            "Indicator1": "AR",
+            "Desc": "Asian Record",
+            "AreaDesc": "Asia",
+            "Loc": "BEIJING (CHN)",
+            "DateTimeRaw": "2020-01-18T00:00:00+09:00",
+            "ShowLinkBio": false,
+            "Reg": "R0008",
+            "Name": "DETO Daiya",
+            "Org": "JPN",
+            "OrgDesc": "Japan"
+          },
+          {
+            "Result": "1:53.15",
+            "Equalled": false,
+            "Indicator": "GR",
+            "Indicator1": "GR",
+            "Desc": "Games Record",
+            "AreaDesc": "Asian Games",
+            "Loc": "HANGZHOU (CHN)",
+            "DateTimeRaw": "2023-09-29T00:00:00+09:00",
+            "ShowLinkBio": false,
+            "Reg": "R0015",
+            "Name": "HONDA Tomoru",
+            "Org": "JPN",
+            "OrgDesc": "Japan"
+          }
+        ]
+      }
+    ],
+    "Paralympic": false
+  },
+  "Competitors": [],
+  "Legends": {
+    "records": [],
+    "irms": [],
+    "qs": []
+  }
+}

@@ -1,0 +1,657 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>2026 名古屋亚运会 · 赛程与比分看板 (Unofficial)</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          colors: {
+            brand: { 50: '#eff6ff', 500: '#3b82f6', 600: '#2563eb', 700: '#1d4ed8' },
+            gold: '#f59e0b',
+          }
+        }
+      }
+    }
+  </script>
+  <style>
+    .no-scrollbar::-webkit-scrollbar { display: none; }
+    .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+  </style>
+</head>
+<body class="bg-slate-50 text-slate-900 min-h-screen flex flex-col font-sans">
+
+  <!-- 1. 顶部公告栏 -->
+  <aside class="bg-gradient-to-r from-amber-500 via-orange-500 to-rose-500 text-white text-xs md:text-sm py-2 px-4 shadow-sm" aria-label="焦点快讯">
+    <div class="max-w-7xl mx-auto flex items-center justify-between">
+      <div class="flex items-center space-x-2 overflow-hidden">
+        <span class="bg-white/20 px-2 py-0.5 rounded font-bold uppercase tracking-wider text-[10px]" id="banner-tag">快讯</span>
+        <span class="truncate font-medium" id="banner-text">🔥 2026 名古屋亚运会全量赛程数据已就绪！点击下方日期浏览每日激战。</span>
+      </div>
+      <span class="hidden md:inline text-xs text-white/80 shrink-0">Aichi-Nagoya 2026</span>
+    </div>
+  </aside>
+
+  <!-- 2. 主导航 Header -->
+  <header class="bg-white border-b border-slate-200 sticky top-0 z-30 shadow-xs">
+    <div class="max-w-7xl mx-auto px-4 h-16 flex items-center justify-between">
+      <div class="flex items-center space-x-3">
+        <div class="w-10 h-10 rounded-xl bg-blue-600 flex items-center justify-center text-white text-xl font-black shadow-md shadow-blue-500/20">
+          N
+        </div>
+        <div>
+          <h1 class="text-lg md:text-xl font-bold tracking-tight text-slate-800" id="site-title">名古屋亚运会 2026</h1>
+          <p class="text-[11px] text-slate-400 font-medium" id="site-subtitle">非官方实时赛程与成绩聚合看板</p>
+        </div>
+      </div>
+
+      <!-- 多语言切换器 -->
+      <nav class="flex items-center space-x-2" aria-label="语言切换">
+        <span class="text-xs text-slate-400 hidden sm:inline">🌐 语言 / Language:</span>
+        <select id="lang-select" onchange="changeLanguage(this.value)" class="text-xs bg-slate-100 hover:bg-slate-200 text-slate-700 font-medium py-1.5 px-2.5 rounded-lg border border-slate-300 focus:outline-none focus:ring-2 focus:ring-blue-500 cursor-pointer">
+          <option value="zh">🇨🇳 中文</option>
+          <option value="ko">🇰🇷 한국어</option>
+          <option value="vi">🇻🇳 Tiếng Việt</option>
+          <option value="th">🇹🇭 ภาษาไทย</option>
+        </select>
+      </nav>
+    </div>
+
+    <!-- 3. 日期横向滚动胶囊 -->
+    <div class="bg-slate-100/80 border-t border-slate-200 px-4 py-2.5">
+      <div class="max-w-7xl mx-auto flex space-x-2 overflow-x-auto no-scrollbar" id="date-strip"></div>
+    </div>
+  </header>
+
+  <!-- 4. 筛选栏 -->
+  <section class="max-w-7xl mx-auto px-4 pt-4 pb-2 w-full flex flex-wrap items-center justify-between gap-3 text-xs md:text-sm">
+    <div class="flex items-center space-x-2">
+      <button id="medal-filter-btn" onclick="toggleMedalFilter()" class="flex items-center space-x-1 px-3 py-1.5 rounded-full border border-slate-300 bg-white hover:bg-amber-50 hover:border-amber-400 text-slate-700 font-medium transition-all shadow-2xs">
+        <span class="text-amber-500 font-bold">🥇</span>
+        <span id="txt-medal-filter">只看金牌赛</span>
+      </button>
+
+      <!-- 升级为全量 59 项下拉菜单 -->
+      <select id="disc-filter" onchange="filterMatches()" class="bg-white border border-slate-300 text-slate-700 font-medium py-1.5 px-3 rounded-full focus:outline-none focus:ring-2 focus:ring-blue-500 shadow-2xs cursor-pointer max-w-[280px] truncate">
+        <option value="ALL">全部 59 个项目 (All Sports)</option>
+      </select>
+    </div>
+
+    <div class="text-slate-500 text-xs font-medium">
+      <span id="txt-matches-count">匹配比赛: 0 场</span>
+    </div>
+  </section>
+
+  <!-- 5. 比赛卡片列表 -->
+  <main class="max-w-7xl mx-auto px-4 py-4 w-full flex-1">
+    <div id="loading" class="text-center py-20 text-slate-400 hidden">
+      <div class="inline-block animate-spin w-8 h-8 border-4 border-blue-500 border-t-transparent rounded-full mb-3"></div>
+      <p class="text-sm font-medium" id="txt-loading">正在读取赛程数据...</p>
+    </div>
+
+    <div id="empty-state" class="text-center py-20 text-slate-400 hidden">
+      <p class="text-4xl mb-2">📭</p>
+      <p class="text-base font-medium" id="txt-empty">当天无符合筛选条件的比赛安排</p>
+    </div>
+
+    <div id="match-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4"></div>
+  </main>
+
+  <!-- 6. 赛果战报详情弹窗 -->
+  <div id="result-modal" class="fixed inset-0 bg-slate-900/60 backdrop-blur-xs z-50 flex items-center justify-center p-4 hidden">
+    <div class="bg-white rounded-2xl max-w-xl w-full p-6 shadow-2xl max-h-[85vh] flex flex-col relative animate-in fade-in zoom-in duration-150">
+      <button onclick="closeModal()" class="absolute top-4 right-4 text-slate-400 hover:text-slate-600 bg-slate-100 hover:bg-slate-200 rounded-full w-8 h-8 flex items-center justify-center font-bold">✕</button>
+      
+      <div class="border-b border-slate-100 pb-3 mb-4">
+        <span class="text-xs font-semibold px-2 py-0.5 rounded bg-blue-50 text-blue-600" id="modal-disc">项目</span>
+        <h3 class="text-lg font-bold text-slate-800 mt-2" id="modal-event-title">比赛详情</h3>
+        <p class="text-xs text-slate-400 mt-0.5" id="modal-time-venue">时间与场馆</p>
+      </div>
+
+      <div class="overflow-y-auto flex-1 pr-1 text-sm text-slate-600" id="modal-body"></div>
+    </div>
+  </div>
+
+  <footer class="bg-white border-t border-slate-200 py-6 text-center text-xs text-slate-400">
+    <p>Unofficial Fan Project for Aichi-Nagoya Asian Games 2026. Data for informational purposes only.</p>
+  </footer>
+
+  <script>
+    const i18n = {
+      zh: {
+        title: "名古屋亚运会 2026",
+        subtitle: "非官方实时赛程与成绩聚合看板",
+        medalOnly: "只看金牌赛",
+        allSports: "全部 59 个项目 (All Sports)",
+        optGroupToday: "🔥 今日开赛项目",
+        optGroupOther: "⚪ 全部 59 个大项",
+        loading: "正在读取赛程数据...",
+        empty: "当天无符合筛选条件的比赛安排",
+        viewDetail: "查看战报详情",
+        official: "已完赛",
+        scheduled: "待进行",
+        goldBadge: "金牌赛",
+        matchesCount: "当前匹配: {n} 场",
+        bannerTag: "快讯",
+        bannerText: "🔥 2026 名古屋亚运会全量赛程数据已就绪！点击下方日期浏览每日激战。",
+        tbd: "待定",
+        vs: "VS",
+        goldSuffix: "金",
+        matchesSuffix: "场",
+        todayMatchesSuffix: "今日{n}场"
+      },
+      ko: {
+        title: "나고야 아시안게임 2026",
+        subtitle: "비공식 경기 일정 및 실시간 결과 대시보드",
+        medalOnly: "금메달 경기만",
+        allSports: "전체 59개 종목 (All Sports)",
+        optGroupToday: "🔥 오늘 경기 종목",
+        optGroupOther: "⚪ 전체 59개 종목",
+        loading: "경기 일정을 불러오는 중...",
+        empty: "조건에 맞는 경기 일정이 없습니다",
+        viewDetail: "경기 결과 상세",
+        official: "경기 종료",
+        scheduled: "예정됨",
+        goldBadge: "결승(금메달)",
+        matchesCount: "현재 경기: {n}개",
+        bannerTag: "속보",
+        bannerText: "🔥 2026 나고야 아시안게임 전 경기 일정 탑재 완료! 일자별 경기를 확인하세요.",
+        tbd: "미정",
+        vs: "VS",
+        goldSuffix: "금",
+        matchesSuffix: "경기",
+        todayMatchesSuffix: "오늘 {n}경기"
+      },
+      vi: {
+        title: "ASIAD Nagoya 2026",
+        subtitle: "Bảng theo dõi lịch thi đấu và kết quả trực tiếp",
+        medalOnly: "Chỉ trận tranh Huy chương",
+        allSports: "Tất cả 59 môn (All Sports)",
+        optGroupToday: "🔥 Môn thi đấu hôm nay",
+        optGroupOther: "⚪ Toàn bộ 59 môn thi",
+        loading: "Đang tải lịch thi đấu...",
+        empty: "Không có lịch thi đấu phù hợp",
+        viewDetail: "Xem chi tiết kết quả",
+        official: "Đã kết thúc",
+        scheduled: "Sắp diễn ra",
+        goldBadge: "Tranh HCV",
+        matchesCount: "Tổng số: {n} trận",
+        bannerTag: "Tin nhanh",
+        bannerText: "🔥 Toàn bộ lịch thi đấu ASIAD 2026 đã sẵn sàng! Bấm ngày để xem chi tiết.",
+        tbd: "Chưa xác định",
+        vs: "VS",
+        goldSuffix: "HCV",
+        matchesSuffix: "trận",
+        todayMatchesSuffix: "Hôm nay {n} trận"
+      },
+      th: {
+        title: "เอเชียนเกมส์ นาโกย่า 2026",
+        subtitle: "ตารางการแข่งขันและรายงานผลการแข่งขันสด",
+        medalOnly: "เฉพาะรอบชิงเหรียญทอง",
+        allSports: "กีฬาทั้งหมด 59 ชนิด",
+        optGroupToday: "🔥 กีฬาที่มีแข่งวันนี้",
+        optGroupOther: "⚪ กีฬาทั้งหมด 59 ชนิด",
+        loading: "กำลังโหลดตารางการแข่งขัน...",
+        empty: "ไม่มีตารางการแข่งขันที่ตรงกัน",
+        viewDetail: "ดูผลการแข่งขัน",
+        official: "จบการแข่งขัน",
+        scheduled: "รอการแข่งขัน",
+        goldBadge: "ชิงเหรียญทอง",
+        matchesCount: "ตรงกับการค้นหา: {n} แมตช์",
+        bannerTag: "ข่าวด่วน",
+        bannerText: "🔥 ตารางแข่งขันเอเชียนเกมส์ 2026 พร้อมแล้ว! คลิกเลือกวันที่ด้านล่าง",
+        tbd: "รอผล",
+        vs: "VS",
+        goldSuffix: "ทอง",
+        matchesSuffix: "นัด",
+        todayMatchesSuffix: "วันนี้ {n} แมตช์"
+      }
+    };
+
+    // 细粒度专业体育词法字典 (覆盖泳姿、空手道、拳法、阶次元)
+    const termVocabulary = {
+      // 泳姿 Swimming strokes
+      "Backstroke": { zh: "仰泳", ko: "배영", vi: "Bơi ngửa", th: "กรรเชียง" },
+      "Freestyle": { zh: "自由泳", ko: "자유형", vi: "Bơi tự do", th: "ฟรีสไตล์" },
+      "Breaststroke": { zh: "蛙泳", ko: "평영", vi: "Bơi ếch", th: "กบ" },
+      "Butterfly": { zh: "蝶泳", ko: "접영", vi: "Bơi bướm", th: "ผีเสื้อ" },
+      "Individual Medley": { zh: "个人混合泳", ko: "개인혼영", vi: "Hỗn hợp cá nhân", th: "เดี่ยวผสม" },
+      "Medley Relay": { zh: "混合泳接力", ko: "혼계영", vi: "Tiếp sức hỗn hợp", th: "ผลัดผสม" },
+      "Freestyle Relay": { zh: "自由泳接力", ko: "계영", vi: "Tiếp sức tự do", th: "ผลัดฟรีสไตล์" },
+      "Relay": { zh: "接力", ko: "계주", vi: "Tiếp sức", th: "ผลัด" },
+
+      // 空手道与武术 Martial Arts
+      "Kumite": { zh: "组手(对打)", ko: "쿠미테(대련)", vi: "Đối kháng", th: "คูมิเต้(ต่อสู้)" },
+      "Kata": { zh: "型(套路)", ko: "카타(품새)", vi: "Quyền kata", th: "คาตะ(ท่ารำ)" },
+      "Changquan": { zh: "长拳", ko: "장권", vi: "Trường quyền", th: "ฉางฉวน" },
+      "Taijiquan & Taijijian": { zh: "太极拳·太极剑", ko: "태극권·태극검", vi: "Thái cực quyền & kiếm", th: "ไทเก๊กและกระบี่" },
+      "Taijiquan": { zh: "太极拳", ko: "태극권", vi: "Thái cực quyền", th: "ไทเก๊ก" },
+      "Taijijian": { zh: "太极剑", ko: "태극검", vi: "Thái cực kiếm", th: "กระบี่ไทเก๊ก" },
+      "Daoshu": { zh: "刀术", ko: "도술", vi: "Đao thuật", th: "ดาบสั้น" },
+      "Gunshu": { zh: "棍术", ko: "곤술", vi: "Côn thuật", th: "พลอง" },
+      "Jianshu": { zh: "剑术", ko: "검술", vi: "Kiếm thuật", th: "กระบี่" },
+      "Qiangshu": { zh: "枪术", ko: "창술", vi: "Thương thuật", th: "ทวน" },
+      "Nanquan": { zh: "南拳", ko: "남권", vi: "Nam quyền", th: "หนานฉวน" },
+      "Sanda": { zh: "散打", ko: "산타", vi: "Tán thủ", th: "ซานต๋า" },
+
+      // 常见赛项形态
+      "Mixed Doubles": { zh: "混合双打", ko: "혼합 복식", vi: "Đôi nam nữ", th: "คู่ผสม" },
+      "Men's Doubles": { zh: "男子双打", ko: "남자 복식", vi: "Đôi nam", th: "ชายคู่" },
+      "Women's Doubles": { zh: "女子双打", ko: "여자 복식", vi: "Đôi nữ", th: "หญิงคู่" },
+      "Men's Singles": { zh: "男子单打", ko: "남자 단식", vi: "Đơn nam", th: "ชายเดี่ยว" },
+      "Women's Singles": { zh: "女子单打", ko: "여자 단식", vi: "Đơn nữ", th: "หญิงเดี่ยว" },
+      "Doubles": { zh: "双打", ko: "복식", vi: "Đôi", th: "คู่" },
+      "Singles": { zh: "单打", ko: "단식", vi: "Đơn", th: "เดี่ยว" },
+      "Team": { zh: "团体", ko: "단체전", vi: "Đồng đội", th: "ทีม" },
+      "Pairs": { zh: "双人", ko: "페어", vi: "Đôi", th: "คู่" },
+      "Individual": { zh: "个人", ko: "개인전", vi: "Cá nhân", th: "บุคคล" },
+      "All-Around": { zh: "全能", ko: "개인종합", vi: "Toàn năng", th: "รวมอุปกรณ์" },
+      "10m Air Rifle": { zh: "10米气步枪", ko: "10m 공기소총", vi: "Súng trường hơi 10m", th: "ปืนยาวอัดลม 10 ม." },
+
+      // 阶段与组别
+      "Finals": { zh: "决赛", ko: "결승전", vi: "Chung kết", th: "รอบชิงชนะเลิศ" },
+      "Final": { zh: "决赛", ko: "결승", vi: "Chung kết", th: "รอบชิงชนะเลิศ" },
+      "Semi-final": { zh: "半决赛", ko: "준결승", vi: "Bán kết", th: "รอบรองชนะเลิศ" },
+      "Semifinals": { zh: "半决赛", ko: "준결승", vi: "Bán kết", th: "รอบรองชนะเลิศ" },
+      "Quarter-final": { zh: "1/4决赛", ko: "8강전", vi: "Tứ kết", th: "รอบก่อนรองชนะเลิศ" },
+      "Quarterfinals": { zh: "1/4决赛", ko: "8강전", vi: "Tứ kết", th: "รอบก่อนรองชนะเลิศ" },
+      "Preliminary Phase": { zh: "预赛阶段", ko: "예선 라운드", vi: "Vòng sơ loại", th: "รอบแรก" },
+      "Preliminary": { zh: "预赛", ko: "예선", vi: "Vòng sơ loại", th: "รอบแรก" },
+      "Qualification": { zh: "资格赛", ko: "예선", vi: "Vòng loại", th: "รอบคัดเลือก" },
+      "Men's": { zh: "男子", ko: "남자", vi: "Nam", th: "ชาย" },
+      "Women's": { zh: "女子", ko: "여자", vi: "Nữ", th: "หญิง" },
+      "Mixed": { zh: "混合", ko: "혼합", vi: "Hỗn hợp", th: "ผสม" }
+    };
+
+    let disciplinesData = [];
+    let currentLang = 'zh';
+    let currentDate = '2026-09-21';
+    let rawDailyMatches = [];
+    let isMedalOnly = false;
+    let selectedDisc = 'ALL';
+
+    // 细粒度深层词汇翻译
+    function smartTranslate(text) {
+      if (!text) return '';
+      if (currentLang === 'en') return text;
+
+      let result = text;
+
+      // 1. 词典深度替换 (优先长短语，后短词)
+      const sortedKeys = Object.keys(termVocabulary).sort((a, b) => b.length - a.length);
+      for (const key of sortedKeys) {
+        if (termVocabulary[key][currentLang] && result.includes(key)) {
+          result = result.replaceAll(key, termVocabulary[key][currentLang]);
+        }
+      }
+
+      // 2. 模式与度量衡单位正则替换
+      if (currentLang === 'zh') {
+        result = result.replace(/(\d+)\s*m\b/g, "$1米")
+                       .replace(/-(\d+)\s*kg\b/g, "-$1公斤级")
+                       .replace(/\+(\d+)\s*kg\b/g, "+$1公斤级")
+                       .replace(/(\d+)\s*kg\b/g, "$1公斤级")
+                       .replace(/Group ([A-Z])/g, "$1组")
+                       .replace(/Pool ([A-Z])/g, "$1组")
+                       .replace(/Match (\d+)/g, "第$1场")
+                       .replace(/Court (\d+)/g, "$1号场地");
+      } else if (currentLang === 'ko') {
+        result = result.replace(/-(\d+)\s*kg\b/g, "-$1kg급")
+                       .replace(/\+(\d+)\s*kg\b/g, "+$1kg급")
+                       .replace(/(\d+)\s*kg\b/g, "$1kg급")
+                       .replace(/Group ([A-Z])/g, "$1조")
+                       .replace(/Pool ([A-Z])/g, "$1조")
+                       .replace(/Match (\d+)/g, "$1경기")
+                       .replace(/Court (\d+)/g, "$1코트");
+      } else if (currentLang === 'vi') {
+        result = result.replace(/Group ([A-Z])/g, "Bảng $1")
+                       .replace(/Pool ([A-Z])/g, "Bảng $1")
+                       .replace(/Match (\d+)/g, "Trận $1");
+      } else if (currentLang === 'th') {
+        result = result.replace(/(\d+)\s*m\b/g, "$1 ม.")
+                       .replace(/Group ([A-Z])/g, "กลุ่ม $1")
+                       .replace(/Pool ([A-Z])/g, "กลุ่ม $1")
+                       .replace(/Match (\d+)/g, "แมตช์ $1");
+      }
+
+      return result;
+    }
+
+    function getDiscInfo(discCode) {
+      return disciplinesData.find(d => d.code === discCode);
+    }
+
+    function getDiscName(discCode, fallbackDesc) {
+      const item = getDiscInfo(discCode);
+      if (!item) return fallbackDesc || discCode;
+      const key = `name_${currentLang}`;
+      return item[key] || item.name_zh || item.name_en || fallbackDesc || discCode;
+    }
+
+    // 日本主办城市与场馆词库深度翻译
+    function smartTranslateVenue(venueStr) {
+      if (!venueStr) return '待定场馆';
+      let v = venueStr;
+      if (currentLang === 'zh') {
+        return v.replace(/Tokyo Aquatics Centre/g, "东京水上运动中心")
+                .replace(/Tokyo/g, "东京")
+                .replace(/Nagoya/g, "名古屋")
+                .replace(/Toyohashi/g, "丰桥")
+                .replace(/Gamagori/g, "蒲郡")
+                .replace(/Hekinan/g, "碧南")
+                .replace(/Kasugai/g, "春日井")
+                .replace(/Okazaki/g, "冈崎")
+                .replace(/City/g, "市")
+                .replace(/Prefectural/g, "县立")
+                .replace(/Pref\./g, "县立")
+                .replace(/General Shooting Gallery/g, "综合射击场")
+                .replace(/Tennis Center/g, "网球中心")
+                .replace(/Martial Arts Hall/g, "武道馆")
+                .replace(/General Gymnasium/g, "综合体育馆")
+                .replace(/Gymnasium/g, "体育馆")
+                .replace(/Triathlon Venue/g, "铁人三项赛场")
+                .replace(/Beach Court/g, "沙滩排球场")
+                .replace(/Park/g, "公园");
+      } else if (currentLang === 'ko') {
+        return v.replace(/Tokyo/g, "도쿄")
+                .replace(/Nagoya/g, "나고야")
+                .replace(/Toyohashi/g, "도요하시")
+                .replace(/Gamagori/g, "가마고리")
+                .replace(/Tennis Center/g, "테니스 센터")
+                .replace(/Martial Arts Hall/g, "무도관")
+                .replace(/Gymnasium/g, "체육관")
+                .replace(/Park/g, "공원");
+      }
+      return v;
+    }
+
+    function initDateStrip() {
+      const strip = document.getElementById('date-strip');
+      strip.innerHTML = '';
+      const start = new Date('2026-09-10');
+      const end = new Date('2026-10-04');
+
+      for (let d = new Date(start); d <= end; d.setDate(d.getDate() + 1)) {
+        const dStr = d.toISOString().split('T')[0];
+        const monthDay = `${d.getMonth() + 1}/${d.getDate()}`;
+        const isSelected = (dStr === currentDate);
+
+        const btn = document.createElement('button');
+        btn.className = `shrink-0 px-3.5 py-1.5 rounded-full text-xs font-semibold transition-all ${
+          isSelected 
+            ? 'bg-blue-600 text-white shadow-sm shadow-blue-500/30' 
+            : 'bg-white text-slate-600 hover:bg-slate-200/80 border border-slate-200'
+        }`;
+        btn.innerText = monthDay;
+        btn.onclick = () => selectDate(dStr);
+        strip.appendChild(btn);
+      }
+    }
+
+    function selectDate(dStr) {
+      currentDate = dStr;
+      initDateStrip();
+      loadSchedule(currentDate);
+    }
+
+    async function loadSchedule(dateStr) {
+      const loading = document.getElementById('loading');
+      const grid = document.getElementById('match-grid');
+      const empty = document.getElementById('empty-state');
+      
+      loading.classList.remove('hidden');
+      grid.innerHTML = '';
+      empty.classList.add('hidden');
+
+      try {
+        const resp = await fetch(`./data/schedule_${dateStr}.json`);
+        if (!resp.ok) throw new Error('Data file not found');
+        rawDailyMatches = await resp.json();
+        populateDiscOptions(rawDailyMatches);
+        filterMatches();
+      } catch (err) {
+        console.warn('当日暂无数据或读取失败:', err);
+        rawDailyMatches = [];
+        populateDiscOptions([]);
+        filterMatches();
+      } finally {
+        loading.classList.add('hidden');
+      }
+    }
+
+    // 全量 59 项完整下拉菜单 + 智能分组 (今日开赛 vs 全部大项)
+    function populateDiscOptions(matches) {
+      const select = document.getElementById('disc-filter');
+      const savedValue = select.value;
+      const dict = i18n[currentLang];
+      select.innerHTML = `<option value="ALL">${dict.allSports}</option>`;
+      
+      // 统计当天开赛的项目及场次
+      const todayCountMap = new Map();
+      matches.forEach(m => {
+        todayCountMap.set(m.Disc, (todayCountMap.get(m.Disc) || 0) + 1);
+      });
+
+      // 1. 分组一：今日开赛的大项
+      const todayGroup = document.createElement('optgroup');
+      todayGroup.label = dict.optGroupToday;
+      
+      // 2. 分组二：全部 59 个大项
+      const allGroup = document.createElement('optgroup');
+      allGroup.label = dict.optGroupOther;
+
+      // 遍历 disciplinesData 里的全量 59 项
+      disciplinesData.forEach(item => {
+        const opt = document.createElement('option');
+        opt.value = item.code;
+        const localizedName = getDiscName(item.code);
+        const todayCnt = todayCountMap.get(item.code) || 0;
+
+        const goldText = item.medal_event_count > 0 ? ` · ${item.medal_event_count}${dict.goldSuffix}` : '';
+        
+        if (todayCnt > 0) {
+          const todayBadge = dict.todayMatchesSuffix.replace('{n}', todayCnt);
+          opt.innerText = `🔥 ${localizedName} (${todayBadge}${goldText})`;
+          todayGroup.appendChild(opt);
+        } else {
+          opt.innerText = `${localizedName}${goldText} (${item.match_count}${dict.matchesSuffix})`;
+          allGroup.appendChild(opt);
+        }
+      });
+
+      if (todayGroup.children.length > 0) {
+        select.appendChild(todayGroup);
+      }
+      select.appendChild(allGroup);
+
+      // 恢复之前选中的值
+      if (savedValue && disciplinesData.some(d => d.code === savedValue)) {
+        select.value = savedValue;
+      }
+    }
+
+    function toggleMedalFilter() {
+      isMedalOnly = !isMedalOnly;
+      const btn = document.getElementById('medal-filter-btn');
+      if (isMedalOnly) {
+        btn.className = 'flex items-center space-x-1 px-3 py-1.5 rounded-full border border-amber-500 bg-amber-500 text-white font-bold transition-all shadow-sm';
+      } else {
+        btn.className = 'flex items-center space-x-1 px-3 py-1.5 rounded-full border border-slate-300 bg-white hover:bg-amber-50 text-slate-700 font-medium transition-all shadow-2xs';
+      }
+      filterMatches();
+    }
+
+    function filterMatches() {
+      selectedDisc = document.getElementById('disc-filter').value;
+      const filtered = rawDailyMatches.filter(m => {
+        const matchDisc = (selectedDisc === 'ALL' || m.Disc === selectedDisc);
+        const matchMedal = (!isMedalOnly || m.Medal === '1');
+        return matchDisc && matchMedal;
+      });
+
+      renderMatches(filtered);
+    }
+
+    function renderMatches(list) {
+      const grid = document.getElementById('match-grid');
+      const empty = document.getElementById('empty-state');
+      const counter = document.getElementById('txt-matches-count');
+      
+      counter.innerText = i18n[currentLang].matchesCount.replace('{n}', list.length);
+      grid.innerHTML = '';
+
+      if (list.length === 0) {
+        empty.classList.remove('hidden');
+        return;
+      }
+      empty.classList.add('hidden');
+
+      const dict = i18n[currentLang];
+
+      list.forEach(m => {
+        const isMedal = (m.Medal === '1');
+        const time = m.DateTimeRaw ? m.DateTimeRaw.substring(11, 16) : '--:--';
+        const venue = smartTranslateVenue(m.VenueDescS || m.VenueDesc);
+
+        const discName = getDiscName(m.Disc, m.DiscDesc);
+        const eventTitle = smartTranslate(m.EventDesc);
+        const phaseTitle = smartTranslate(m.PhaseDesc || m.UnitDesc || '');
+
+        const card = document.createElement('div');
+        card.className = `bg-white rounded-xl p-4 border transition-all hover:shadow-md flex flex-col justify-between ${
+          isMedal ? 'border-amber-300 shadow-2xs bg-gradient-to-br from-white via-white to-amber-50/30' : 'border-slate-200'
+        }`;
+
+        card.innerHTML = `
+          <div>
+            <div class="flex items-center justify-between gap-2 mb-2">
+              <span class="text-xs font-semibold px-2 py-0.5 rounded bg-slate-100 text-slate-700">${discName}</span>
+              <div class="flex items-center space-x-1.5">
+                ${isMedal ? `<span class="bg-amber-100 text-amber-800 text-[11px] font-bold px-2 py-0.5 rounded-full flex items-center gap-1">🥇 ${dict.goldBadge}</span>` : ''}
+                <span class="text-[11px] text-slate-400 font-medium">${m.Status === 'OFFICIAL' ? dict.official : dict.scheduled}</span>
+              </div>
+            </div>
+
+            <h4 class="text-sm font-bold text-slate-800 leading-snug line-clamp-2">${eventTitle}</h4>
+            <p class="text-xs text-blue-600 font-medium mt-1">${phaseTitle}</p>
+
+            ${m.isH2H ? `
+              <div class="mt-3 py-2 px-2.5 bg-slate-50 rounded-lg text-xs flex justify-between items-center font-medium">
+                <span class="truncate text-slate-700">${m.Home?.Name || dict.tbd}</span>
+                <span class="text-slate-400 px-2 font-bold">${dict.vs}</span>
+                <span class="truncate text-slate-700">${m.Away?.Name || dict.tbd}</span>
+              </div>
+            ` : ''}
+          </div>
+
+          <div class="mt-4 pt-3 border-t border-slate-100 flex items-center justify-between text-xs">
+            <span class="text-slate-400 flex items-center gap-1 truncate max-w-[190px]" title="${venue}">
+              🕒 ${time} | ${venue}
+            </span>
+            <button onclick="viewResultDetail('${m.Disc}', '${m.Key}')" class="text-blue-600 hover:text-blue-700 font-semibold cursor-pointer shrink-0">
+              ${dict.viewDetail} →
+            </button>
+          </div>
+        `;
+        grid.appendChild(card);
+      });
+    }
+
+    async function viewResultDetail(disc, key) {
+      const modal = document.getElementById('result-modal');
+      const body = document.getElementById('modal-body');
+      const discTitle = document.getElementById('modal-disc');
+      const eventTitle = document.getElementById('modal-event-title');
+      const timeVenue = document.getElementById('modal-time-venue');
+
+      discTitle.innerText = getDiscName(disc);
+      eventTitle.innerText = key;
+      timeVenue.innerText = "正在拉取权威赛果归档...";
+      body.innerHTML = '<div class="text-center py-8 text-slate-400">正在加载成绩单...</div>';
+      modal.classList.remove('hidden');
+
+      try {
+        const resp = await fetch(`./data/results/${key}.json`);
+        if (!resp.ok) throw new Error('Result not cached');
+        const data = await resp.json();
+
+        eventTitle.innerText = smartTranslate(data.Info?.EventDesc) || key;
+        timeVenue.innerText = `${smartTranslateVenue(data.Info?.VenueDesc)} · ${data.Info?.StatusDesc || ''}`;
+
+        if (data.Competitors && data.Competitors.length > 0) {
+          let html = '<div class="divide-y divide-slate-100">';
+          data.Competitors.forEach(c => {
+            const medalIcon = c.Medal === 'ME_GOLD' ? '🥇' : (c.Medal === 'ME_SILVER' ? '🥈' : (c.Medal === 'ME_BRONZE' ? '🥉' : ''));
+            html += `
+              <div class="py-2.5 flex items-center justify-between">
+                <div class="flex items-center space-x-3">
+                  <span class="w-6 text-center font-bold ${c.Rk === '1' ? 'text-amber-500' : 'text-slate-400'}">${medalIcon || c.Rk}</span>
+                  <div>
+                    <p class="font-bold text-slate-800">${c.Name} <span class="text-xs text-slate-400 font-normal">(${c.Org})</span></p>
+                    <p class="text-[11px] text-slate-400">反应时间: ${c.Extensions?.find(e => e.Code === 'Reaction')?.Value || '--'}s</p>
+                  </div>
+                </div>
+                <div class="text-right">
+                  <span class="font-mono font-bold text-slate-700">${c.Result}</span>
+                  ${c.RecordInd ? `<span class="ml-1 text-[10px] bg-red-100 text-red-600 px-1 py-0.5 rounded font-bold">${c.RecordInd}</span>` : ''}
+                </div>
+              </div>
+            `;
+          });
+          html += '</div>';
+          body.innerHTML = html;
+        } else {
+          body.innerHTML = '<div class="text-center py-8 text-slate-400">该比赛暂无参赛选手成绩明细。</div>';
+        }
+      } catch (err) {
+        body.innerHTML = `
+          <div class="text-center py-8 text-slate-400">
+            <p class="text-2xl mb-1">⏳</p>
+            <p class="font-medium text-slate-600">本场赛果数据尚未归档</p>
+            <p class="text-xs mt-1 text-slate-400">比赛进行中或等待组委会发布正式公报。</p>
+          </div>
+        `;
+      }
+    }
+
+    function closeModal() {
+      document.getElementById('result-modal').classList.add('hidden');
+    }
+
+    function changeLanguage(lang) {
+      currentLang = lang;
+      const dict = i18n[lang];
+      document.getElementById('site-title').innerText = dict.title;
+      document.getElementById('site-subtitle').innerText = dict.subtitle;
+      document.getElementById('txt-medal-filter').innerText = dict.medalOnly;
+      document.getElementById('banner-tag').innerText = dict.bannerTag;
+      document.getElementById('banner-text').innerText = dict.bannerText;
+      document.getElementById('txt-loading').innerText = dict.loading;
+      document.getElementById('txt-empty').innerText = dict.empty;
+
+      populateDiscOptions(rawDailyMatches);
+      filterMatches();
+    }
+
+    async function init() {
+      try {
+        const res = await fetch('./data/disciplines_i18n.json');
+        if (res.ok) {
+          disciplinesData = await res.json();
+        }
+      } catch (e) {
+        console.warn('加载大项字典失败，降级显示英文');
+      }
+
+      initDateStrip();
+      loadSchedule(currentDate);
+    }
+
+    init();
+  </script>
+</body>
+</html>

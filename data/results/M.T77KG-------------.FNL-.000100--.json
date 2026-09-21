@@ -1,0 +1,214 @@
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "MMA",
+    "DiscDesc": "Mixed Martial Arts",
+    "Key": "M.T77KG-------------.FNL-.000100--",
+    "isH2H": true,
+    "Type": "A",
+    "Medal": "1",
+    "Status": "START_LIST",
+    "StatusDesc": "Start List",
+    "DateTimeRaw": "2026-09-22T14:50:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "",
+    "HideLocation": false,
+    "Venue": "ISC",
+    "VenueDesc": "Nagoya City Inae Sports Center",
+    "VenueDescS": "Nagoya City Inae Sports Center",
+    "Loc": "ISC",
+    "LocDesc": "Nagoya City Inae Sports Center",
+    "LocDescS": "Nagoya City Inae Sports Center",
+    "Event": "M.T77KG-------------",
+    "EventDesc": "Men's Traditional -77kg",
+    "Phase": "M.T77KG-------------.FNL-",
+    "PhaseOrder": 28,
+    "PhaseDesc": "Men's Traditional  -77kg Final",
+    "PhaseDescS": "Men's Traditional  -77kg Final",
+    "PhaseDescA": "Final",
+    "UnitDesc": "Men's Traditional  -77kg Final",
+    "UnitDescS": "Men's Traditional  -77kg Final",
+    "UnitDescA": "Men's Traditional  -77kg Final",
+    "UnitNum": "49",
+    "IsLive": false,
+    "ShowResults": false,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "",
+    "ResDetail": "",
+    "Duration": "",
+    "CurrentPeriod": 0,
+    "Current": "",
+    "Last": "",
+    "Extensions": [],
+    "Periods": [],
+    "Paralympic": false
+  },
+  "Competitors": [
+    {
+      "Reg": "8539509",
+      "Bib": "",
+      "Org": "BRN",
+      "StartOrder": "1",
+      "StartSortOrder": 1,
+      "Rk": "",
+      "RkEq": false,
+      "RkPo": 0,
+      "WLT": "",
+      "Result": "",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Result",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        }
+      ],
+      "Name": "NABIEV Mukhammad",
+      "NameS": "NABIEV M",
+      "OrgDesc": "Bahrain",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "",
+      "Members": [
+        {
+          "Reg": "8539509",
+          "Org": "BRN",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Gender": "M",
+          "Order": 1,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "IRM": "",
+          "Result": "",
+          "Extensions": [],
+          "Guides": [],
+          "Name": "NABIEV Mukhammad",
+          "NameS": "NABIEV M",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        }
+      ],
+      "TeamOfficials": [
+        {
+          "Reg": "",
+          "Org": "",
+          "Order": 1,
+          "Function": "",
+          "Extensions": [],
+          "Name": "",
+          "NameS": "",
+          "FuncDesc": ""
+        }
+      ]
+    },
+    {
+      "Reg": "7166164",
+      "Bib": "",
+      "Org": "KAZ",
+      "StartOrder": "2",
+      "StartSortOrder": 2,
+      "Rk": "",
+      "RkEq": false,
+      "RkPo": 0,
+      "WLT": "",
+      "Result": "",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Result",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        }
+      ],
+      "Name": "BURKUTALIN Yerkingali",
+      "NameS": "BURKUTALIN Y",
+      "OrgDesc": "Kazakhstan",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "",
+      "Members": [
+        {
+          "Reg": "7166164",
+          "Org": "KAZ",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Gender": "M",
+          "Order": 1,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "IRM": "",
+          "Result": "",
+          "Extensions": [],
+          "Guides": [],
+          "Name": "BURKUTALIN Yerkingali",
+          "NameS": "BURKUTALIN Y",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        }
+      ],
+      "TeamOfficials": [
+        {
+          "Reg": "",
+          "Org": "",
+          "Order": 1,
+          "Function": "",
+          "Extensions": [],
+          "Name": "",
+          "NameS": "",
+          "FuncDesc": ""
+        }
+      ]
+    }
+  ],
+  "Legends": {
+    "records": [],
+    "irms": [],
+    "qs": [],
+    "funcs": [
+      {
+        "DescS": "AA01",
+        "Desc": "Athlete"
+      }
+    ]
+  }
+}

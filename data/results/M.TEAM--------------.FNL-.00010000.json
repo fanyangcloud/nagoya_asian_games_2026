@@ -1,0 +1,3350 @@
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "BDM",
+    "DiscDesc": "Badminton",
+    "Key": "M.TEAM--------------.FNL-.00010000",
+    "isH2H": true,
+    "Type": "T",
+    "Medal": "1",
+    "Status": "SCHEDULED",
+    "StatusDesc": "Scheduled",
+    "DateTimeRaw": "2026-09-24T16:00:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "",
+    "HideLocation": false,
+    "Venue": "IMG",
+    "VenueDesc": "Ichinomiya City Municipal Gymnasium",
+    "VenueDescS": "Ichinomiya City Municipal Gymnasium",
+    "Loc": "001",
+    "LocDesc": "Court 1",
+    "LocDescS": "Court 1",
+    "Event": "M.TEAM--------------",
+    "EventDesc": "Men's Team",
+    "Phase": "M.TEAM--------------.FNL-",
+    "PhaseOrder": 1,
+    "PhaseDesc": "Men's Team Final",
+    "PhaseDescS": "Men's Team F",
+    "PhaseDescA": "Final",
+    "UnitDesc": "Men's Team Gold Medal Match",
+    "UnitDescS": "Men's Team GM",
+    "UnitDescA": "Gold Medal Match",
+    "UnitNum": "1",
+    "IsLive": false,
+    "ShowResults": false,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "",
+    "ResDetail": "",
+    "Duration": "",
+    "CurrentPeriod": 0,
+    "Current": "",
+    "Last": "",
+    "Extensions": [
+      {
+        "Type": "UNIT_INFO",
+        "Code": "DurationHHMM",
+        "Pos": 0,
+        "Value": "",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "InfoMatch",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "InfoTeam",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "ReceivedDuration",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "ResultDetailWinner",
+        "Pos": 0,
+        "Value": "",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "ServerHomeAway",
+        "Pos": 0,
+        "Value": "",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "SubMatchNum",
+        "Pos": 0,
+        "Value": "",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "SubunitOrder",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "TeamMatchDuration",
+        "Pos": 0,
+        "Value": "0min",
+        "Extensions": []
+      }
+    ],
+    "Periods": [
+      {
+        "Order": 1,
+        "Duration": "",
+        "Distance": "0",
+        "ResHome": "0",
+        "ResAway": "0",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "Game 1",
+        "DescS": "G1"
+      },
+      {
+        "Order": 2,
+        "Duration": "",
+        "Distance": "0",
+        "ResHome": "0",
+        "ResAway": "0",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "Game 2",
+        "DescS": "G2"
+      },
+      {
+        "Order": 3,
+        "Duration": "",
+        "Distance": "0",
+        "ResHome": "0",
+        "ResAway": "0",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "Game 3",
+        "DescS": "G3"
+      }
+    ],
+    "Paralympic": false
+  },
+  "Competitors": [
+    {
+      "Reg": "",
+      "Bib": "",
+      "Org": "",
+      "StartOrder": "1",
+      "StartSortOrder": 1,
+      "Rk": "",
+      "RkEq": false,
+      "RkPo": 0,
+      "WLT": "T",
+      "Result": "",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BlackCard",
+          "Pos": 0,
+          "Value": "False",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BlackCardAwayScore",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BlackCardGame",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BlackCardHomeScore",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Game1DetailCards",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Game2DetailCards",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Game3DetailCards",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "RedCard",
+          "Pos": 0,
+          "Value": "False",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "WorldRanking",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "YellowCard",
+          "Pos": 0,
+          "Value": "False",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "YellowCardAwayScore",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "YellowCardGame",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "YellowCardHomeScore",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "MemberServer",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "Server",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        }
+      ],
+      "Name": "",
+      "NameS": "",
+      "OrgDesc": "",
+      "Splits": [
+        {
+          "Category": "",
+          "Distance": "0",
+          "Rk": "0",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "0",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "0",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": []
+        },
+        {
+          "Category": "",
+          "Distance": "0",
+          "Rk": "0",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "0",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "0",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": []
+        },
+        {
+          "Category": "",
+          "Distance": "0",
+          "Rk": "0",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "0",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "0",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": ""
+    },
+    {
+      "Reg": "",
+      "Bib": "",
+      "Org": "",
+      "StartOrder": "2",
+      "StartSortOrder": 2,
+      "Rk": "",
+      "RkEq": false,
+      "RkPo": 0,
+      "WLT": "T",
+      "Result": "",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BlackCard",
+          "Pos": 0,
+          "Value": "False",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BlackCardAwayScore",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BlackCardGame",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BlackCardHomeScore",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Game1DetailCards",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Game2DetailCards",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Game3DetailCards",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "RedCard",
+          "Pos": 0,
+          "Value": "False",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "WorldRanking",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "YellowCard",
+          "Pos": 0,
+          "Value": "False",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "YellowCardAwayScore",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "YellowCardGame",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "YellowCardHomeScore",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "MemberServer",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "Server",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        }
+      ],
+      "Name": "",
+      "NameS": "",
+      "OrgDesc": "",
+      "Splits": [
+        {
+          "Category": "",
+          "Distance": "0",
+          "Rk": "0",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "0",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "0",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": []
+        },
+        {
+          "Category": "",
+          "Distance": "0",
+          "Rk": "0",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "0",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "0",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": []
+        },
+        {
+          "Category": "",
+          "Distance": "0",
+          "Rk": "0",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "0",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "0",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": ""
+    }
+  ],
+  "SubUnits": [
+    {
+      "Info": {
+        "RSC": "M.TEAM--------------.FNL-.00010001",
+        "IsPhase": false,
+        "Disc": "BDM",
+        "DiscDesc": "Badminton",
+        "Key": "M.TEAM--------------.FNL-.00010001",
+        "isH2H": true,
+        "Type": "T",
+        "Medal": "",
+        "Status": "SCHEDULED",
+        "StatusDesc": "Scheduled",
+        "DateTimeRaw": "2026-09-24T16:00:00+09:00",
+        "HideStartDate": false,
+        "Estimated": true,
+        "EstText": "",
+        "HideLocation": false,
+        "Venue": "IMG",
+        "VenueDesc": "Ichinomiya City Municipal Gymnasium",
+        "VenueDescS": "Ichinomiya City Municipal Gymnasium",
+        "Loc": "001",
+        "LocDesc": "Court 1",
+        "LocDescS": "Court 1",
+        "Event": "M.TEAM--------------",
+        "EventDesc": "Men's Team",
+        "Phase": "M.TEAM--------------.FNL-",
+        "PhaseOrder": 1,
+        "PhaseDesc": "Men's Team Final",
+        "PhaseDescS": "Men's Team F",
+        "PhaseDescA": "Final",
+        "UnitDesc": "Men's Team Final M1",
+        "UnitDescS": "Men's Team F M1",
+        "UnitDescA": "M1",
+        "UnitNum": "",
+        "IsLive": false,
+        "ShowResults": false
+      },
+      "Results": {
+        "Result": "",
+        "ResDetail": "",
+        "Duration": "",
+        "CurrentPeriod": 0,
+        "Extensions": [
+          {
+            "Type": "UNIT_INFO",
+            "Code": "DurationHHMM",
+            "Pos": 0,
+            "Value": "",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "InfoMatch",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "InfoTeam",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "ReceivedDuration",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "ResultDetailWinner",
+            "Pos": 0,
+            "Value": "",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "ServerHomeAway",
+            "Pos": 0,
+            "Value": "",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "SubMatchNum",
+            "Pos": 0,
+            "Value": "1",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "SubunitOrder",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          }
+        ],
+        "Periods": [
+          {
+            "Order": 1,
+            "Duration": "",
+            "Distance": "0",
+            "ResHome": "0",
+            "ResAway": "0",
+            "TotHome": "",
+            "TotAway": "",
+            "Extensions": [],
+            "Desc": "Game 1",
+            "DescS": "G1"
+          },
+          {
+            "Order": 2,
+            "Duration": "",
+            "Distance": "0",
+            "ResHome": "0",
+            "ResAway": "0",
+            "TotHome": "",
+            "TotAway": "",
+            "Extensions": [],
+            "Desc": "Game 2",
+            "DescS": "G2"
+          },
+          {
+            "Order": 3,
+            "Duration": "",
+            "Distance": "0",
+            "ResHome": "0",
+            "ResAway": "0",
+            "TotHome": "",
+            "TotAway": "",
+            "Extensions": [],
+            "Desc": "Game 3",
+            "DescS": "G3"
+          }
+        ]
+      },
+      "Competitors": [
+        {
+          "Reg": "",
+          "Bib": "",
+          "Org": "",
+          "StartOrder": "1",
+          "StartSortOrder": 1,
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "WLT": "T",
+          "Result": "",
+          "ResDetail": "",
+          "ResInfo": "",
+          "IRM": "OK",
+          "Qualified": "",
+          "RecordInd": "",
+          "Lane": "",
+          "Seed": "0",
+          "Diff": "",
+          "Extensions": [
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardAwayScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardGame",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardHomeScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game1DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game2DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game3DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "RedCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "WorldRanking",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardAwayScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardGame",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardHomeScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "SERVICE",
+              "Code": "MemberServer",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SERVICE",
+              "Code": "Server",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Name": "",
+          "NameS": "",
+          "OrgDesc": "",
+          "Splits": [
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "0",
+              "RkEq": false,
+              "RkPo": 0,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "0",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": []
+            },
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "0",
+              "RkEq": false,
+              "RkPo": 0,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "0",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": []
+            },
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "0",
+              "RkEq": false,
+              "RkPo": 0,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "0",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": []
+            }
+          ],
+          "FreeResInfo": "",
+          "Medal": ""
+        },
+        {
+          "Reg": "",
+          "Bib": "",
+          "Org": "",
+          "StartOrder": "2",
+          "StartSortOrder": 2,
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "WLT": "T",
+          "Result": "",
+          "ResDetail": "",
+          "ResInfo": "",
+          "IRM": "OK",
+          "Qualified": "",
+          "RecordInd": "",
+          "Lane": "",
+          "Seed": "0",
+          "Diff": "",
+          "Extensions": [
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardAwayScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardGame",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardHomeScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game1DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game2DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game3DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "RedCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "WorldRanking",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardAwayScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardGame",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardHomeScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "SERVICE",
+              "Code": "MemberServer",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SERVICE",
+              "Code": "Server",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Name": "",
+          "NameS": "",
+          "OrgDesc": "",
+          "Splits": [
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "0",
+              "RkEq": false,
+              "RkPo": 0,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "0",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": []
+            },
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "0",
+              "RkEq": false,
+              "RkPo": 0,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "0",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": []
+            },
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "0",
+              "RkEq": false,
+              "RkPo": 0,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "0",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": []
+            }
+          ],
+          "FreeResInfo": "",
+          "Medal": ""
+        }
+      ],
+      "HasStats": false
+    },
+    {
+      "Info": {
+        "RSC": "M.TEAM--------------.FNL-.00010002",
+        "IsPhase": false,
+        "Disc": "BDM",
+        "DiscDesc": "Badminton",
+        "Key": "M.TEAM--------------.FNL-.00010002",
+        "isH2H": true,
+        "Type": "T",
+        "Medal": "",
+        "Status": "SCHEDULED",
+        "StatusDesc": "Scheduled",
+        "DateTimeRaw": "2026-09-24T16:00:00+09:00",
+        "HideStartDate": false,
+        "Estimated": true,
+        "EstText": "",
+        "HideLocation": false,
+        "Venue": "IMG",
+        "VenueDesc": "Ichinomiya City Municipal Gymnasium",
+        "VenueDescS": "Ichinomiya City Municipal Gymnasium",
+        "Loc": "001",
+        "LocDesc": "Court 1",
+        "LocDescS": "Court 1",
+        "Event": "M.TEAM--------------",
+        "EventDesc": "Men's Team",
+        "Phase": "M.TEAM--------------.FNL-",
+        "PhaseOrder": 1,
+        "PhaseDesc": "Men's Team Final",
+        "PhaseDescS": "Men's Team F",
+        "PhaseDescA": "Final",
+        "UnitDesc": "Men's Team Final M2",
+        "UnitDescS": "Men's Team F M2",
+        "UnitDescA": "M2",
+        "UnitNum": "",
+        "IsLive": false,
+        "ShowResults": false
+      },
+      "Results": {
+        "Result": "",
+        "ResDetail": "",
+        "Duration": "",
+        "CurrentPeriod": 0,
+        "Extensions": [
+          {
+            "Type": "UNIT_INFO",
+            "Code": "DurationHHMM",
+            "Pos": 0,
+            "Value": "",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "InfoMatch",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "InfoTeam",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "ReceivedDuration",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "ResultDetailWinner",
+            "Pos": 0,
+            "Value": "",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "ServerHomeAway",
+            "Pos": 0,
+            "Value": "",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "SubMatchNum",
+            "Pos": 0,
+            "Value": "2",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "SubunitOrder",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          }
+        ],
+        "Periods": [
+          {
+            "Order": 1,
+            "Duration": "",
+            "Distance": "0",
+            "ResHome": "0",
+            "ResAway": "0",
+            "TotHome": "",
+            "TotAway": "",
+            "Extensions": [],
+            "Desc": "Game 1",
+            "DescS": "G1"
+          },
+          {
+            "Order": 2,
+            "Duration": "",
+            "Distance": "0",
+            "ResHome": "0",
+            "ResAway": "0",
+            "TotHome": "",
+            "TotAway": "",
+            "Extensions": [],
+            "Desc": "Game 2",
+            "DescS": "G2"
+          },
+          {
+            "Order": 3,
+            "Duration": "",
+            "Distance": "0",
+            "ResHome": "0",
+            "ResAway": "0",
+            "TotHome": "",
+            "TotAway": "",
+            "Extensions": [],
+            "Desc": "Game 3",
+            "DescS": "G3"
+          }
+        ]
+      },
+      "Competitors": [
+        {
+          "Reg": "",
+          "Bib": "",
+          "Org": "",
+          "StartOrder": "1",
+          "StartSortOrder": 1,
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "WLT": "T",
+          "Result": "",
+          "ResDetail": "",
+          "ResInfo": "",
+          "IRM": "OK",
+          "Qualified": "",
+          "RecordInd": "",
+          "Lane": "",
+          "Seed": "0",
+          "Diff": "",
+          "Extensions": [
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardAwayScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardGame",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardHomeScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game1DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game2DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game3DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "RedCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "WorldRanking",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardAwayScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardGame",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardHomeScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "SERVICE",
+              "Code": "MemberServer",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SERVICE",
+              "Code": "Server",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Name": "",
+          "NameS": "",
+          "OrgDesc": "",
+          "Splits": [
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "0",
+              "RkEq": false,
+              "RkPo": 0,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "0",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": []
+            },
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "0",
+              "RkEq": false,
+              "RkPo": 0,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "0",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": []
+            },
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "0",
+              "RkEq": false,
+              "RkPo": 0,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "0",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": []
+            }
+          ],
+          "FreeResInfo": "",
+          "Medal": ""
+        },
+        {
+          "Reg": "",
+          "Bib": "",
+          "Org": "",
+          "StartOrder": "2",
+          "StartSortOrder": 2,
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "WLT": "T",
+          "Result": "",
+          "ResDetail": "",
+          "ResInfo": "",
+          "IRM": "OK",
+          "Qualified": "",
+          "RecordInd": "",
+          "Lane": "",
+          "Seed": "0",
+          "Diff": "",
+          "Extensions": [
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardAwayScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardGame",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardHomeScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game1DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game2DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game3DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "RedCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "WorldRanking",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardAwayScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardGame",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardHomeScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "SERVICE",
+              "Code": "MemberServer",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SERVICE",
+              "Code": "Server",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Name": "",
+          "NameS": "",
+          "OrgDesc": "",
+          "Splits": [
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "0",
+              "RkEq": false,
+              "RkPo": 0,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "0",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": []
+            },
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "0",
+              "RkEq": false,
+              "RkPo": 0,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "0",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": []
+            },
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "0",
+              "RkEq": false,
+              "RkPo": 0,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "0",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": []
+            }
+          ],
+          "FreeResInfo": "",
+          "Medal": ""
+        }
+      ],
+      "HasStats": false
+    },
+    {
+      "Info": {
+        "RSC": "M.TEAM--------------.FNL-.00010003",
+        "IsPhase": false,
+        "Disc": "BDM",
+        "DiscDesc": "Badminton",
+        "Key": "M.TEAM--------------.FNL-.00010003",
+        "isH2H": true,
+        "Type": "T",
+        "Medal": "",
+        "Status": "SCHEDULED",
+        "StatusDesc": "Scheduled",
+        "DateTimeRaw": "2026-09-24T16:00:00+09:00",
+        "HideStartDate": false,
+        "Estimated": true,
+        "EstText": "",
+        "HideLocation": false,
+        "Venue": "IMG",
+        "VenueDesc": "Ichinomiya City Municipal Gymnasium",
+        "VenueDescS": "Ichinomiya City Municipal Gymnasium",
+        "Loc": "001",
+        "LocDesc": "Court 1",
+        "LocDescS": "Court 1",
+        "Event": "M.TEAM--------------",
+        "EventDesc": "Men's Team",
+        "Phase": "M.TEAM--------------.FNL-",
+        "PhaseOrder": 1,
+        "PhaseDesc": "Men's Team Final",
+        "PhaseDescS": "Men's Team F",
+        "PhaseDescA": "Final",
+        "UnitDesc": "Men's Team Final M3",
+        "UnitDescS": "Men's Team F M3",
+        "UnitDescA": "M3",
+        "UnitNum": "",
+        "IsLive": false,
+        "ShowResults": false
+      },
+      "Results": {
+        "Result": "",
+        "ResDetail": "",
+        "Duration": "",
+        "CurrentPeriod": 0,
+        "Extensions": [
+          {
+            "Type": "UNIT_INFO",
+            "Code": "DurationHHMM",
+            "Pos": 0,
+            "Value": "",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "InfoMatch",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "InfoTeam",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "ReceivedDuration",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "ResultDetailWinner",
+            "Pos": 0,
+            "Value": "",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "ServerHomeAway",
+            "Pos": 0,
+            "Value": "",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "SubMatchNum",
+            "Pos": 0,
+            "Value": "3",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "SubunitOrder",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          }
+        ],
+        "Periods": [
+          {
+            "Order": 1,
+            "Duration": "",
+            "Distance": "0",
+            "ResHome": "0",
+            "ResAway": "0",
+            "TotHome": "",
+            "TotAway": "",
+            "Extensions": [],
+            "Desc": "Game 1",
+            "DescS": "G1"
+          },
+          {
+            "Order": 2,
+            "Duration": "",
+            "Distance": "0",
+            "ResHome": "0",
+            "ResAway": "0",
+            "TotHome": "",
+            "TotAway": "",
+            "Extensions": [],
+            "Desc": "Game 2",
+            "DescS": "G2"
+          },
+          {
+            "Order": 3,
+            "Duration": "",
+            "Distance": "0",
+            "ResHome": "0",
+            "ResAway": "0",
+            "TotHome": "",
+            "TotAway": "",
+            "Extensions": [],
+            "Desc": "Game 3",
+            "DescS": "G3"
+          }
+        ]
+      },
+      "Competitors": [
+        {
+          "Reg": "",
+          "Bib": "",
+          "Org": "",
+          "StartOrder": "1",
+          "StartSortOrder": 1,
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "WLT": "T",
+          "Result": "",
+          "ResDetail": "",
+          "ResInfo": "",
+          "IRM": "OK",
+          "Qualified": "",
+          "RecordInd": "",
+          "Lane": "",
+          "Seed": "0",
+          "Diff": "",
+          "Extensions": [
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardAwayScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardGame",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardHomeScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game1DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game2DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game3DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "RedCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "WorldRanking",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardAwayScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardGame",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardHomeScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "SERVICE",
+              "Code": "MemberServer",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SERVICE",
+              "Code": "Server",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Name": "",
+          "NameS": "",
+          "OrgDesc": "",
+          "Splits": [
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "0",
+              "RkEq": false,
+              "RkPo": 0,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "0",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": []
+            },
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "0",
+              "RkEq": false,
+              "RkPo": 0,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "0",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": []
+            },
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "0",
+              "RkEq": false,
+              "RkPo": 0,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "0",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": []
+            }
+          ],
+          "FreeResInfo": "",
+          "Medal": ""
+        },
+        {
+          "Reg": "",
+          "Bib": "",
+          "Org": "",
+          "StartOrder": "2",
+          "StartSortOrder": 2,
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "WLT": "T",
+          "Result": "",
+          "ResDetail": "",
+          "ResInfo": "",
+          "IRM": "OK",
+          "Qualified": "",
+          "RecordInd": "",
+          "Lane": "",
+          "Seed": "0",
+          "Diff": "",
+          "Extensions": [
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardAwayScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardGame",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardHomeScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game1DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game2DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game3DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "RedCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "WorldRanking",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardAwayScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardGame",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardHomeScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "SERVICE",
+              "Code": "MemberServer",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SERVICE",
+              "Code": "Server",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Name": "",
+          "NameS": "",
+          "OrgDesc": "",
+          "Splits": [
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "0",
+              "RkEq": false,
+              "RkPo": 0,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "0",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": []
+            },
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "0",
+              "RkEq": false,
+              "RkPo": 0,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "0",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": []
+            },
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "0",
+              "RkEq": false,
+              "RkPo": 0,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "0",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": []
+            }
+          ],
+          "FreeResInfo": "",
+          "Medal": ""
+        }
+      ],
+      "HasStats": false
+    },
+    {
+      "Info": {
+        "RSC": "M.TEAM--------------.FNL-.00010004",
+        "IsPhase": false,
+        "Disc": "BDM",
+        "DiscDesc": "Badminton",
+        "Key": "M.TEAM--------------.FNL-.00010004",
+        "isH2H": true,
+        "Type": "T",
+        "Medal": "",
+        "Status": "SCHEDULED",
+        "StatusDesc": "Scheduled",
+        "DateTimeRaw": "2026-09-24T16:00:00+09:00",
+        "HideStartDate": false,
+        "Estimated": true,
+        "EstText": "",
+        "HideLocation": false,
+        "Venue": "IMG",
+        "VenueDesc": "Ichinomiya City Municipal Gymnasium",
+        "VenueDescS": "Ichinomiya City Municipal Gymnasium",
+        "Loc": "001",
+        "LocDesc": "Court 1",
+        "LocDescS": "Court 1",
+        "Event": "M.TEAM--------------",
+        "EventDesc": "Men's Team",
+        "Phase": "M.TEAM--------------.FNL-",
+        "PhaseOrder": 1,
+        "PhaseDesc": "Men's Team Final",
+        "PhaseDescS": "Men's Team F",
+        "PhaseDescA": "Final",
+        "UnitDesc": "Men's Team Final M4",
+        "UnitDescS": "Men's Team F M4",
+        "UnitDescA": "M4",
+        "UnitNum": "",
+        "IsLive": false,
+        "ShowResults": false
+      },
+      "Results": {
+        "Result": "",
+        "ResDetail": "",
+        "Duration": "",
+        "CurrentPeriod": 0,
+        "Extensions": [
+          {
+            "Type": "UNIT_INFO",
+            "Code": "DurationHHMM",
+            "Pos": 0,
+            "Value": "",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "InfoMatch",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "InfoTeam",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "ReceivedDuration",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "ResultDetailWinner",
+            "Pos": 0,
+            "Value": "",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "ServerHomeAway",
+            "Pos": 0,
+            "Value": "",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "SubMatchNum",
+            "Pos": 0,
+            "Value": "4",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "SubunitOrder",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          }
+        ],
+        "Periods": [
+          {
+            "Order": 1,
+            "Duration": "",
+            "Distance": "0",
+            "ResHome": "0",
+            "ResAway": "0",
+            "TotHome": "",
+            "TotAway": "",
+            "Extensions": [],
+            "Desc": "Game 1",
+            "DescS": "G1"
+          },
+          {
+            "Order": 2,
+            "Duration": "",
+            "Distance": "0",
+            "ResHome": "0",
+            "ResAway": "0",
+            "TotHome": "",
+            "TotAway": "",
+            "Extensions": [],
+            "Desc": "Game 2",
+            "DescS": "G2"
+          },
+          {
+            "Order": 3,
+            "Duration": "",
+            "Distance": "0",
+            "ResHome": "0",
+            "ResAway": "0",
+            "TotHome": "",
+            "TotAway": "",
+            "Extensions": [],
+            "Desc": "Game 3",
+            "DescS": "G3"
+          }
+        ]
+      },
+      "Competitors": [
+        {
+          "Reg": "",
+          "Bib": "",
+          "Org": "",
+          "StartOrder": "1",
+          "StartSortOrder": 1,
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "WLT": "T",
+          "Result": "",
+          "ResDetail": "",
+          "ResInfo": "",
+          "IRM": "OK",
+          "Qualified": "",
+          "RecordInd": "",
+          "Lane": "",
+          "Seed": "0",
+          "Diff": "",
+          "Extensions": [
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardAwayScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardGame",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardHomeScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game1DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game2DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game3DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "RedCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "WorldRanking",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardAwayScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardGame",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardHomeScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "SERVICE",
+              "Code": "MemberServer",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SERVICE",
+              "Code": "Server",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Name": "",
+          "NameS": "",
+          "OrgDesc": "",
+          "Splits": [
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "0",
+              "RkEq": false,
+              "RkPo": 0,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "0",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": []
+            },
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "0",
+              "RkEq": false,
+              "RkPo": 0,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "0",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": []
+            },
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "0",
+              "RkEq": false,
+              "RkPo": 0,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "0",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": []
+            }
+          ],
+          "FreeResInfo": "",
+          "Medal": ""
+        },
+        {
+          "Reg": "",
+          "Bib": "",
+          "Org": "",
+          "StartOrder": "2",
+          "StartSortOrder": 2,
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "WLT": "T",
+          "Result": "",
+          "ResDetail": "",
+          "ResInfo": "",
+          "IRM": "OK",
+          "Qualified": "",
+          "RecordInd": "",
+          "Lane": "",
+          "Seed": "0",
+          "Diff": "",
+          "Extensions": [
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardAwayScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardGame",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardHomeScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game1DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game2DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game3DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "RedCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "WorldRanking",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardAwayScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardGame",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardHomeScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "SERVICE",
+              "Code": "MemberServer",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SERVICE",
+              "Code": "Server",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Name": "",
+          "NameS": "",
+          "OrgDesc": "",
+          "Splits": [
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "0",
+              "RkEq": false,
+              "RkPo": 0,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "0",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": []
+            },
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "0",
+              "RkEq": false,
+              "RkPo": 0,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "0",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": []
+            },
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "0",
+              "RkEq": false,
+              "RkPo": 0,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "0",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": []
+            }
+          ],
+          "FreeResInfo": "",
+          "Medal": ""
+        }
+      ],
+      "HasStats": false
+    },
+    {
+      "Info": {
+        "RSC": "M.TEAM--------------.FNL-.00010005",
+        "IsPhase": false,
+        "Disc": "BDM",
+        "DiscDesc": "Badminton",
+        "Key": "M.TEAM--------------.FNL-.00010005",
+        "isH2H": true,
+        "Type": "T",
+        "Medal": "",
+        "Status": "SCHEDULED",
+        "StatusDesc": "Scheduled",
+        "DateTimeRaw": "2026-09-24T16:00:00+09:00",
+        "HideStartDate": false,
+        "Estimated": true,
+        "EstText": "",
+        "HideLocation": false,
+        "Venue": "IMG",
+        "VenueDesc": "Ichinomiya City Municipal Gymnasium",
+        "VenueDescS": "Ichinomiya City Municipal Gymnasium",
+        "Loc": "001",
+        "LocDesc": "Court 1",
+        "LocDescS": "Court 1",
+        "Event": "M.TEAM--------------",
+        "EventDesc": "Men's Team",
+        "Phase": "M.TEAM--------------.FNL-",
+        "PhaseOrder": 1,
+        "PhaseDesc": "Men's Team Final",
+        "PhaseDescS": "Men's Team F",
+        "PhaseDescA": "Final",
+        "UnitDesc": "Men's Team Final M5",
+        "UnitDescS": "Men's Team F M5",
+        "UnitDescA": "M5",
+        "UnitNum": "",
+        "IsLive": false,
+        "ShowResults": false
+      },
+      "Results": {
+        "Result": "",
+        "ResDetail": "",
+        "Duration": "",
+        "CurrentPeriod": 0,
+        "Extensions": [
+          {
+            "Type": "UNIT_INFO",
+            "Code": "DurationHHMM",
+            "Pos": 0,
+            "Value": "",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "InfoMatch",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "InfoTeam",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "ReceivedDuration",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "ResultDetailWinner",
+            "Pos": 0,
+            "Value": "",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "ServerHomeAway",
+            "Pos": 0,
+            "Value": "",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "SubMatchNum",
+            "Pos": 0,
+            "Value": "5",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "SubunitOrder",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          }
+        ],
+        "Periods": [
+          {
+            "Order": 1,
+            "Duration": "",
+            "Distance": "0",
+            "ResHome": "0",
+            "ResAway": "0",
+            "TotHome": "",
+            "TotAway": "",
+            "Extensions": [],
+            "Desc": "Game 1",
+            "DescS": "G1"
+          },
+          {
+            "Order": 2,
+            "Duration": "",
+            "Distance": "0",
+            "ResHome": "0",
+            "ResAway": "0",
+            "TotHome": "",
+            "TotAway": "",
+            "Extensions": [],
+            "Desc": "Game 2",
+            "DescS": "G2"
+          },
+          {
+            "Order": 3,
+            "Duration": "",
+            "Distance": "0",
+            "ResHome": "0",
+            "ResAway": "0",
+            "TotHome": "",
+            "TotAway": "",
+            "Extensions": [],
+            "Desc": "Game 3",
+            "DescS": "G3"
+          }
+        ]
+      },
+      "Competitors": [
+        {
+          "Reg": "",
+          "Bib": "",
+          "Org": "",
+          "StartOrder": "1",
+          "StartSortOrder": 1,
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "WLT": "T",
+          "Result": "",
+          "ResDetail": "",
+          "ResInfo": "",
+          "IRM": "OK",
+          "Qualified": "",
+          "RecordInd": "",
+          "Lane": "",
+          "Seed": "0",
+          "Diff": "",
+          "Extensions": [
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardAwayScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardGame",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardHomeScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game1DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game2DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game3DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "RedCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "WorldRanking",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardAwayScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardGame",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardHomeScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "SERVICE",
+              "Code": "MemberServer",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SERVICE",
+              "Code": "Server",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Name": "",
+          "NameS": "",
+          "OrgDesc": "",
+          "Splits": [
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "0",
+              "RkEq": false,
+              "RkPo": 0,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "0",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": []
+            },
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "0",
+              "RkEq": false,
+              "RkPo": 0,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "0",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": []
+            },
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "0",
+              "RkEq": false,
+              "RkPo": 0,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "0",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": []
+            }
+          ],
+          "FreeResInfo": "",
+          "Medal": ""
+        },
+        {
+          "Reg": "",
+          "Bib": "",
+          "Org": "",
+          "StartOrder": "2",
+          "StartSortOrder": 2,
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "WLT": "T",
+          "Result": "",
+          "ResDetail": "",
+          "ResInfo": "",
+          "IRM": "OK",
+          "Qualified": "",
+          "RecordInd": "",
+          "Lane": "",
+          "Seed": "0",
+          "Diff": "",
+          "Extensions": [
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardAwayScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardGame",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardHomeScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game1DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game2DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game3DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "RedCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "WorldRanking",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardAwayScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardGame",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardHomeScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "SERVICE",
+              "Code": "MemberServer",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SERVICE",
+              "Code": "Server",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Name": "",
+          "NameS": "",
+          "OrgDesc": "",
+          "Splits": [
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "0",
+              "RkEq": false,
+              "RkPo": 0,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "0",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": []
+            },
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "0",
+              "RkEq": false,
+              "RkPo": 0,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "0",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": []
+            },
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "0",
+              "RkEq": false,
+              "RkPo": 0,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "0",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": []
+            }
+          ],
+          "FreeResInfo": "",
+          "Medal": ""
+        }
+      ],
+      "HasStats": false
+    }
+  ],
+  "Legends": {
+    "records": [],
+    "irms": [],
+    "qs": []
+  }
+}

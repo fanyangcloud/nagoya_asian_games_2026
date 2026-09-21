@@ -1,0 +1,919 @@
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "TEQ",
+    "DiscDesc": "Teqball",
+    "Key": "W.SINGLES-----------.FNL-.000100--",
+    "isH2H": true,
+    "Type": "A",
+    "Medal": "1",
+    "Status": "OFFICIAL",
+    "StatusDesc": "Official",
+    "DateTimeRaw": "2026-09-20T15:00:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "",
+    "HideLocation": false,
+    "Venue": "NHS",
+    "VenueDesc": "",
+    "VenueDescS": "",
+    "Loc": "001",
+    "LocDesc": "Table 1",
+    "LocDescS": "Table 1",
+    "Event": "W.SINGLES-----------",
+    "EventDesc": "Women's Singles",
+    "Phase": "W.SINGLES-----------.FNL-",
+    "PhaseOrder": 1,
+    "PhaseDesc": "Women's Singles Final",
+    "PhaseDescS": "WS F",
+    "PhaseDescA": "Final",
+    "UnitDesc": "Women's Singles Final Gold Medal Match",
+    "UnitDescS": "WS F GM",
+    "UnitDescA": "Gold Medal Match",
+    "UnitNum": "18",
+    "IsLive": false,
+    "ShowResults": true,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "1-2",
+    "ResDetail": "12-10, 8-12, 9-12",
+    "Duration": "00:46:00",
+    "CurrentPeriod": 3,
+    "Current": "",
+    "Last": "",
+    "Extensions": [
+      {
+        "Type": "UNIT_INFO",
+        "Code": "DurationHHMM",
+        "Pos": 0,
+        "Value": "46min",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "InfoMatch",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "InfoTeam",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "ResultDetailWinner",
+        "Pos": 0,
+        "Value": "10-12, 12-8, 12-9",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "ServerHomeAway",
+        "Pos": 0,
+        "Value": "2",
+        "Extensions": []
+      }
+    ],
+    "Stats": {
+      "ST_AVERAGE_RALLY_SECONDS": "41",
+      "ST_BIGGEST_COMEBACK": "",
+      "ST_BIGGEST_LEAD": "",
+      "ST_BLACK_CARD": "",
+      "ST_GAME_POINTS": "",
+      "ST_LONGEST_RALLY_SECONDS": "136",
+      "ST_MATCH_POINTS": "",
+      "ST_MOST_CONSECUTIVE_POINTS": "",
+      "ST_POINTS_SCORED_NO_SERVICE": "",
+      "ST_POINTS_SCORED_SERVICE": "",
+      "ST_RED_CARD": "",
+      "ST_SHUTTLES_USED": "3",
+      "ST_TOTAL_POINTS_LOST": "63",
+      "ST_TOTAL_POINTS_PLAYED": "",
+      "ST_TOTAL_POINTS_WON": "63",
+      "ST_TOTAL_RALLIES_SECONDS": "2634",
+      "ST_YELLOW_CARD": ""
+    },
+    "Periods": [
+      {
+        "Order": 1,
+        "Duration": "16:00",
+        "Distance": "0",
+        "ResHome": "12",
+        "ResAway": "10",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Stats": {
+          "ST_AVERAGE_RALLY_SECONDS": "37",
+          "ST_BIGGEST_COMEBACK": "",
+          "ST_BIGGEST_LEAD": "",
+          "ST_BLACK_CARD": "",
+          "ST_GAME_POINTS": "",
+          "ST_LONGEST_RALLY_SECONDS": "66",
+          "ST_MATCH_POINTS": "",
+          "ST_MOST_CONSECUTIVE_POINTS": "",
+          "ST_POINTS_SCORED_NO_SERVICE": "",
+          "ST_POINTS_SCORED_SERVICE": "",
+          "ST_RED_CARD": "",
+          "ST_SHUTTLES_USED": "2",
+          "ST_TOTAL_POINTS_LOST": "22",
+          "ST_TOTAL_POINTS_PLAYED": "",
+          "ST_TOTAL_POINTS_WON": "22",
+          "ST_TOTAL_RALLIES_SECONDS": "831",
+          "ST_YELLOW_CARD": ""
+        },
+        "Desc": "Set 1",
+        "DescS": "S1"
+      },
+      {
+        "Order": 2,
+        "Duration": "14:00",
+        "Distance": "0",
+        "ResHome": "8",
+        "ResAway": "12",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Stats": {
+          "ST_AVERAGE_RALLY_SECONDS": "41",
+          "ST_BIGGEST_COMEBACK": "",
+          "ST_BIGGEST_LEAD": "",
+          "ST_BLACK_CARD": "",
+          "ST_GAME_POINTS": "",
+          "ST_LONGEST_RALLY_SECONDS": "136",
+          "ST_MATCH_POINTS": "",
+          "ST_MOST_CONSECUTIVE_POINTS": "",
+          "ST_POINTS_SCORED_NO_SERVICE": "",
+          "ST_POINTS_SCORED_SERVICE": "",
+          "ST_RED_CARD": "",
+          "ST_SHUTTLES_USED": "1",
+          "ST_TOTAL_POINTS_LOST": "20",
+          "ST_TOTAL_POINTS_PLAYED": "",
+          "ST_TOTAL_POINTS_WON": "20",
+          "ST_TOTAL_RALLIES_SECONDS": "830",
+          "ST_YELLOW_CARD": ""
+        },
+        "Desc": "Set 2",
+        "DescS": "S2"
+      },
+      {
+        "Order": 3,
+        "Duration": "16:00",
+        "Distance": "0",
+        "ResHome": "9",
+        "ResAway": "12",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Stats": {
+          "ST_AVERAGE_RALLY_SECONDS": "46",
+          "ST_BIGGEST_COMEBACK": "",
+          "ST_BIGGEST_LEAD": "",
+          "ST_BLACK_CARD": "",
+          "ST_GAME_POINTS": "",
+          "ST_LONGEST_RALLY_SECONDS": "131",
+          "ST_MATCH_POINTS": "",
+          "ST_MOST_CONSECUTIVE_POINTS": "",
+          "ST_POINTS_SCORED_NO_SERVICE": "",
+          "ST_POINTS_SCORED_SERVICE": "",
+          "ST_RED_CARD": "",
+          "ST_SHUTTLES_USED": "",
+          "ST_TOTAL_POINTS_LOST": "21",
+          "ST_TOTAL_POINTS_PLAYED": "",
+          "ST_TOTAL_POINTS_WON": "21",
+          "ST_TOTAL_RALLIES_SECONDS": "973",
+          "ST_YELLOW_CARD": ""
+        },
+        "Desc": "Set 3",
+        "DescS": "S3"
+      }
+    ],
+    "Officials": [
+      {
+        "Reg": "13938547",
+        "Org": "IRQ",
+        "Order": 1,
+        "Function": "RE",
+        "Extensions": [],
+        "Bib": "",
+        "FuncOrder": "6",
+        "OrgDesc": "Iraq",
+        "Name": "ALSAEDI Haider",
+        "NameS": "ALSAEDI Haider",
+        "FuncDesc": "Referee"
+      },
+      {
+        "Reg": "16316213",
+        "Org": "PHI",
+        "Order": 2,
+        "Function": "A_RE",
+        "Extensions": [],
+        "Bib": "",
+        "FuncOrder": "4",
+        "OrgDesc": "Philippines",
+        "Name": "JIMENEZ Jeffries",
+        "NameS": "JIMENEZ Jeffries",
+        "FuncDesc": "Assistant Referee"
+      }
+    ],
+    "Paralympic": false
+  },
+  "Competitors": [
+    {
+      "Reg": "496759",
+      "Bib": "",
+      "Org": "INA",
+      "StartOrder": "1",
+      "StartSortOrder": 1,
+      "Rk": "2",
+      "RkEq": false,
+      "RkPo": 2,
+      "WLT": "L",
+      "Result": "1",
+      "ResDetail": "1",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BlackCard",
+          "Pos": 0,
+          "Value": "False",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BlackCardAwayScore",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BlackCardGame",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BlackCardHomeScore",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Game1DetailCards",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Game2DetailCards",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Game3DetailCards",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "NRedCard",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "RedCard",
+          "Pos": 0,
+          "Value": "False",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "RedCardDetail",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "WorldRanking",
+          "Pos": 0,
+          "Value": "2",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "YellowCard",
+          "Pos": 0,
+          "Value": "False",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "YellowCardAwayScore",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "YellowCardGame",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "YellowCardHomeScore",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "PREV_RESULT",
+          "Code": "UNIT_KEY",
+          "Pos": 1,
+          "Value": "W.SINGLES-----------.GPB-.000200--",
+          "Extensions": [
+            {
+              "Type": "RESULT",
+              "Code": "Register",
+              "Pos": 1,
+              "Value": "496759"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "RegisterOpp",
+              "Pos": 1,
+              "Value": "6757428"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "Result",
+              "Pos": 1,
+              "Value": "2-0"
+            }
+          ]
+        },
+        {
+          "Type": "PREV_RESULT",
+          "Code": "UNIT_KEY",
+          "Pos": 2,
+          "Value": "W.SINGLES-----------.GPB-.000400--",
+          "Extensions": [
+            {
+              "Type": "RESULT",
+              "Code": "Register",
+              "Pos": 2,
+              "Value": "496759"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "RegisterOpp",
+              "Pos": 2,
+              "Value": "15115333"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "Result",
+              "Pos": 2,
+              "Value": "0-2"
+            }
+          ]
+        },
+        {
+          "Type": "PREV_RESULT",
+          "Code": "UNIT_KEY",
+          "Pos": 3,
+          "Value": "W.SINGLES-----------.GPB-.000500--",
+          "Extensions": [
+            {
+              "Type": "RESULT",
+              "Code": "Register",
+              "Pos": 3,
+              "Value": "496759"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "RegisterOpp",
+              "Pos": 3,
+              "Value": "8651642"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "Result",
+              "Pos": 3,
+              "Value": "2-1"
+            }
+          ]
+        },
+        {
+          "Type": "PREV_RESULT",
+          "Code": "UNIT_KEY",
+          "Pos": 4,
+          "Value": "W.SINGLES-----------.QFNL.000200--",
+          "Extensions": [
+            {
+              "Type": "RESULT",
+              "Code": "Register",
+              "Pos": 4,
+              "Value": "496759"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "RegisterOpp",
+              "Pos": 4,
+              "Value": "7807161"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "Result",
+              "Pos": 4,
+              "Value": "2-0"
+            }
+          ]
+        },
+        {
+          "Type": "PREV_RESULT",
+          "Code": "UNIT_KEY",
+          "Pos": 5,
+          "Value": "W.SINGLES-----------.SFNL.000100--",
+          "Extensions": [
+            {
+              "Type": "RESULT",
+              "Code": "Register",
+              "Pos": 5,
+              "Value": "496759"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "RegisterOpp",
+              "Pos": 5,
+              "Value": "2713709"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "Result",
+              "Pos": 5,
+              "Value": "2-1"
+            }
+          ]
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "MemberServer",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "Server",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        }
+      ],
+      "Stats": {},
+      "Name": "SUMAYA",
+      "NameS": "SUMAYA",
+      "OrgDesc": "Indonesia",
+      "Splits": [
+        {
+          "Category": "",
+          "Distance": "0",
+          "Rk": "1",
+          "RkEq": false,
+          "RkPo": 1,
+          "RkAcc": "0",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "12",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": [],
+          "Stats": {}
+        },
+        {
+          "Category": "",
+          "Distance": "0",
+          "Rk": "2",
+          "RkEq": false,
+          "RkPo": 2,
+          "RkAcc": "0",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "8",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": [],
+          "Stats": {}
+        },
+        {
+          "Category": "",
+          "Distance": "0",
+          "Rk": "2",
+          "RkEq": false,
+          "RkPo": 2,
+          "RkAcc": "0",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "9",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": [],
+          "Stats": {}
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_SILVER"
+    },
+    {
+      "Reg": "15115333",
+      "Bib": "",
+      "Org": "MYA",
+      "StartOrder": "2",
+      "StartSortOrder": 2,
+      "Rk": "1",
+      "RkEq": false,
+      "RkPo": 1,
+      "WLT": "W",
+      "Result": "2",
+      "ResDetail": "2",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BlackCard",
+          "Pos": 0,
+          "Value": "False",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BlackCardAwayScore",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BlackCardGame",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BlackCardHomeScore",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Game1DetailCards",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Game2DetailCards",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Game3DetailCards",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "NRedCard",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "RedCard",
+          "Pos": 0,
+          "Value": "False",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "RedCardDetail",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "WorldRanking",
+          "Pos": 0,
+          "Value": "2",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "YellowCard",
+          "Pos": 0,
+          "Value": "False",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "YellowCardAwayScore",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "YellowCardGame",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "YellowCardHomeScore",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "PREV_RESULT",
+          "Code": "UNIT_KEY",
+          "Pos": 1,
+          "Value": "W.SINGLES-----------.GPB-.000100--",
+          "Extensions": [
+            {
+              "Type": "RESULT",
+              "Code": "Register",
+              "Pos": 1,
+              "Value": "15115333"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "RegisterOpp",
+              "Pos": 1,
+              "Value": "8651642"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "Result",
+              "Pos": 1,
+              "Value": "2-0"
+            }
+          ]
+        },
+        {
+          "Type": "PREV_RESULT",
+          "Code": "UNIT_KEY",
+          "Pos": 2,
+          "Value": "W.SINGLES-----------.GPB-.000400--",
+          "Extensions": [
+            {
+              "Type": "RESULT",
+              "Code": "Register",
+              "Pos": 2,
+              "Value": "15115333"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "RegisterOpp",
+              "Pos": 2,
+              "Value": "496759"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "Result",
+              "Pos": 2,
+              "Value": "2-0"
+            }
+          ]
+        },
+        {
+          "Type": "PREV_RESULT",
+          "Code": "UNIT_KEY",
+          "Pos": 3,
+          "Value": "W.SINGLES-----------.GPB-.000600--",
+          "Extensions": [
+            {
+              "Type": "RESULT",
+              "Code": "Register",
+              "Pos": 3,
+              "Value": "15115333"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "RegisterOpp",
+              "Pos": 3,
+              "Value": "6757428"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "Result",
+              "Pos": 3,
+              "Value": "2-0"
+            }
+          ]
+        },
+        {
+          "Type": "PREV_RESULT",
+          "Code": "UNIT_KEY",
+          "Pos": 4,
+          "Value": "W.SINGLES-----------.SFNL.000200--",
+          "Extensions": [
+            {
+              "Type": "RESULT",
+              "Code": "Register",
+              "Pos": 4,
+              "Value": "15115333"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "RegisterOpp",
+              "Pos": 4,
+              "Value": "6757428"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "Result",
+              "Pos": 4,
+              "Value": "2-0"
+            }
+          ]
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "MemberServer",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "Server",
+          "Pos": 0,
+          "Value": "true",
+          "Extensions": []
+        }
+      ],
+      "Stats": {},
+      "Name": "KHIN HNIN Wai",
+      "NameS": "KHIN HNIN W",
+      "OrgDesc": "Myanmar",
+      "Splits": [
+        {
+          "Category": "",
+          "Distance": "0",
+          "Rk": "2",
+          "RkEq": false,
+          "RkPo": 2,
+          "RkAcc": "0",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "10",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": [],
+          "Stats": {}
+        },
+        {
+          "Category": "",
+          "Distance": "0",
+          "Rk": "1",
+          "RkEq": false,
+          "RkPo": 1,
+          "RkAcc": "0",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "12",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": [],
+          "Stats": {}
+        },
+        {
+          "Category": "",
+          "Distance": "0",
+          "Rk": "1",
+          "RkEq": false,
+          "RkPo": 1,
+          "RkAcc": "0",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "12",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": [],
+          "Stats": {}
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_GOLD"
+    }
+  ],
+  "Legends": {
+    "records": [],
+    "irms": [],
+    "qs": []
+  }
+}

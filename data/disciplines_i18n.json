@@ -1,0 +1,592 @@
+[
+  {
+    "code": "ARC",
+    "name_en": "Archery",
+    "name_zh": "射箭",
+    "name_ko": "양궁",
+    "name_vi": "Bắn cung",
+    "name_th": "ยิงธนู",
+    "match_count": 420,
+    "medal_event_count": 10
+  },
+  {
+    "code": "ATH",
+    "name_en": "Athletics",
+    "name_zh": "田径",
+    "name_ko": "육상",
+    "name_vi": "Điền kinh",
+    "name_th": "กรีฑา",
+    "match_count": 272,
+    "medal_event_count": 48
+  },
+  {
+    "code": "BBL",
+    "name_en": "Baseball",
+    "name_zh": "棒球",
+    "name_ko": "야구",
+    "name_vi": "Bóng chày",
+    "name_th": "เบสบอล",
+    "match_count": 22,
+    "medal_event_count": 1
+  },
+  {
+    "code": "BDM",
+    "name_en": "Badminton",
+    "name_zh": "羽毛球",
+    "name_ko": "배드민턴",
+    "name_vi": "Cầu lông",
+    "name_th": "แบดมินตัน",
+    "match_count": 196,
+    "medal_event_count": 7
+  },
+  {
+    "code": "BK3",
+    "name_en": "3x3 Basketball",
+    "name_zh": "三人篮球",
+    "name_ko": "3x3 농구",
+    "name_vi": "Bóng rổ 3x3",
+    "name_th": "บาสเกตบอล 3x3",
+    "match_count": 72,
+    "medal_event_count": 2
+  },
+  {
+    "code": "BKB",
+    "name_en": "Basketball",
+    "name_zh": "篮球",
+    "name_ko": "농구",
+    "name_vi": "Bóng rổ",
+    "name_th": "บาสเกตบอล",
+    "match_count": 49,
+    "medal_event_count": 2
+  },
+  {
+    "code": "BKG",
+    "name_en": "Breaking",
+    "name_zh": "霹雳舞",
+    "name_ko": "브레이킹",
+    "name_vi": "Breaking",
+    "name_th": "เบรกกิ้ง",
+    "match_count": 43,
+    "medal_event_count": 2
+  },
+  {
+    "code": "BMF",
+    "name_en": "Cycling BMX Freestyle",
+    "name_zh": "自由式小轮车",
+    "name_ko": "BMX 프리스타일",
+    "name_vi": "BMX tự do",
+    "name_th": "บีเอ็มเอ็กซ์ฟรีสไตล์",
+    "match_count": 7,
+    "medal_event_count": 2
+  },
+  {
+    "code": "BMX",
+    "name_en": "Cycling BMX Racing",
+    "name_zh": "竞速小轮车",
+    "name_ko": "BMX 레이싱",
+    "name_vi": "BMX đua",
+    "name_th": "บีเอ็มเอ็กซ์เรซซิ่ง",
+    "match_count": 10,
+    "medal_event_count": 2
+  },
+  {
+    "code": "BOX",
+    "name_en": "Boxing",
+    "name_zh": "拳击",
+    "name_ko": "복싱",
+    "name_vi": "Quyền anh",
+    "name_th": "มวยสากล",
+    "match_count": 179,
+    "medal_event_count": 11
+  },
+  {
+    "code": "CKT",
+    "name_en": "Cricket",
+    "name_zh": "板球",
+    "name_ko": "크리켓",
+    "name_vi": "Cricket",
+    "name_th": "คริกเก็ต",
+    "match_count": 22,
+    "medal_event_count": 2
+  },
+  {
+    "code": "CLB",
+    "name_en": "Sport Climbing",
+    "name_zh": "攀岩",
+    "name_ko": "스포츠클라이밍",
+    "name_vi": "Leo núi thể thao",
+    "name_th": "ปีนหน้าผา",
+    "match_count": 53,
+    "medal_event_count": 6
+  },
+  {
+    "code": "CRD",
+    "name_en": "Cycling Road",
+    "name_zh": "公路自行车",
+    "name_ko": "도로 사이클",
+    "name_vi": "Xe đạp đường trường",
+    "name_th": "จักรยานถนน",
+    "match_count": 4,
+    "medal_event_count": 4
+  },
+  {
+    "code": "CSL",
+    "name_en": "Canoe Slalom",
+    "name_zh": "皮划艇激流回旋",
+    "name_ko": "카누 슬라럼",
+    "name_vi": "Đua thuyền Slalom",
+    "name_th": "แคนูสลาลอม",
+    "match_count": 36,
+    "medal_event_count": 6
+  },
+  {
+    "code": "CSP",
+    "name_en": "Canoe Sprint",
+    "name_zh": "皮划艇静水",
+    "name_ko": "카누 스프린트",
+    "name_vi": "Đua thuyền Sprint",
+    "name_th": "แคนูสปรินต์",
+    "match_count": 47,
+    "medal_event_count": 12
+  },
+  {
+    "code": "CTR",
+    "name_en": "Cycling Track",
+    "name_zh": "场地自行车",
+    "name_ko": "트랙 사이클",
+    "name_vi": "Xe đạp lòng chảo",
+    "name_th": "จักรยานลู่",
+    "match_count": 183,
+    "medal_event_count": 12
+  },
+  {
+    "code": "DIV",
+    "name_en": "Diving",
+    "name_zh": "跳水",
+    "name_ko": "다이빙",
+    "name_vi": "Nhảy cầu",
+    "name_th": "กระโดดน้ำ",
+    "match_count": 24,
+    "medal_event_count": 10
+  },
+  {
+    "code": "ELS",
+    "name_en": "Esports",
+    "name_zh": "电子竞技",
+    "name_ko": "e스포츠",
+    "name_vi": "Thể thao điện tử",
+    "name_th": "อีสปอร์ต",
+    "match_count": 198,
+    "medal_event_count": 12
+  },
+  {
+    "code": "EQU",
+    "name_en": "Equestrian",
+    "name_zh": "马术",
+    "name_ko": "승마",
+    "name_vi": "Đua ngựa",
+    "name_th": "ขี่ม้า",
+    "match_count": 17,
+    "medal_event_count": 7
+  },
+  {
+    "code": "FBL",
+    "name_en": "Football",
+    "name_zh": "足球",
+    "name_ko": "축구",
+    "name_vi": "Bóng đá",
+    "name_th": "ฟุตบอล",
+    "match_count": 55,
+    "medal_event_count": 2
+  },
+  {
+    "code": "FEN",
+    "name_en": "Fencing",
+    "name_zh": "击剑",
+    "name_ko": "펜싱",
+    "name_vi": "Đấu kiếm",
+    "name_th": "ฟันดาบ",
+    "match_count": 1419,
+    "medal_event_count": 12
+  },
+  {
+    "code": "GAR",
+    "name_en": "Artistic Gymnastics",
+    "name_zh": "竞技体操",
+    "name_ko": "기계체조",
+    "name_vi": "Thể dục dụng cụ",
+    "name_th": "ยิมนาสติกศิลป์",
+    "match_count": 17,
+    "medal_event_count": 14
+  },
+  {
+    "code": "GLF",
+    "name_en": "Golf",
+    "name_zh": "高尔夫",
+    "name_ko": "골프",
+    "name_vi": "Golf",
+    "name_th": "กอล์ฟ",
+    "match_count": 12,
+    "medal_event_count": 2
+  },
+  {
+    "code": "GRY",
+    "name_en": "Rhythmic Gymnastics",
+    "name_zh": "艺术体操",
+    "name_ko": "리듬체조",
+    "name_vi": "Thể dục nghệ thuật",
+    "name_th": "ยิมนาสติกลีลา",
+    "match_count": 7,
+    "medal_event_count": 2
+  },
+  {
+    "code": "GTR",
+    "name_en": "Trampoline Gymnastics",
+    "name_zh": "蹦床",
+    "name_ko": "트램펄린",
+    "name_vi": "Thể dục nhào lộn",
+    "name_th": "แทรมโพลีน",
+    "match_count": 8,
+    "medal_event_count": 4
+  },
+  {
+    "code": "HBL",
+    "name_en": "Handball",
+    "name_zh": "手球",
+    "name_ko": "핸드볼",
+    "name_vi": "Bóng ném",
+    "name_th": "แฮนด์บอล",
+    "match_count": 45,
+    "medal_event_count": 1
+  },
+  {
+    "code": "HOC",
+    "name_en": "Hockey",
+    "name_zh": "曲棍球",
+    "name_ko": "하키",
+    "name_vi": "Khúc côn cầu",
+    "name_th": "ฮอกกี้",
+    "match_count": 80,
+    "medal_event_count": 2
+  },
+  {
+    "code": "JJI",
+    "name_en": "Jiu Jitsu",
+    "name_zh": "柔术",
+    "name_ko": "주짓수",
+    "name_vi": "Nhu thuật",
+    "name_th": "ยูยิตสู",
+    "match_count": 304,
+    "medal_event_count": 8
+  },
+  {
+    "code": "JUD",
+    "name_en": "Judo",
+    "name_zh": "柔道",
+    "name_ko": "유도",
+    "name_vi": "Judo",
+    "name_th": "ยูโด",
+    "match_count": 203,
+    "medal_event_count": 15
+  },
+  {
+    "code": "KAB",
+    "name_en": "Kabaddi",
+    "name_zh": "卡巴迪",
+    "name_ko": "카바디",
+    "name_vi": "Kabaddi",
+    "name_th": "กาบัดดี้",
+    "match_count": 38,
+    "medal_event_count": 2
+  },
+  {
+    "code": "KTE",
+    "name_en": "Karate",
+    "name_zh": "空手道",
+    "name_ko": "가라테",
+    "name_vi": "Karate",
+    "name_th": "คาราเต้",
+    "match_count": 191,
+    "medal_event_count": 15
+  },
+  {
+    "code": "KUR",
+    "name_en": "Kurash",
+    "name_zh": "克柔术",
+    "name_ko": "쿠라시",
+    "name_vi": "Kurash",
+    "name_th": "คูราช",
+    "match_count": 72,
+    "medal_event_count": 6
+  },
+  {
+    "code": "MMA",
+    "name_en": "Mixed Martial Arts",
+    "name_zh": "综合格斗",
+    "name_ko": "종합격투기",
+    "name_vi": "Võ thuật tổng hợp",
+    "name_th": "ศิลปะการต่อสู้ผสม",
+    "match_count": 44,
+    "medal_event_count": 6
+  },
+  {
+    "code": "MPN",
+    "name_en": "Modern Pentathlon",
+    "name_zh": "现代五项",
+    "name_ko": "근대5종",
+    "name_vi": "5 môn phối hợp hiện đại",
+    "name_th": "ปัญจกีฬาสมัยใหม่",
+    "match_count": 28,
+    "medal_event_count": 4
+  },
+  {
+    "code": "MTB",
+    "name_en": "Cycling Mountain Bike",
+    "name_zh": "山地自行车",
+    "name_ko": "산악자전거",
+    "name_vi": "Xe đạp địa hình",
+    "name_th": "จักรยานเสือภูเขา",
+    "match_count": 4,
+    "medal_event_count": 2
+  },
+  {
+    "code": "PDL",
+    "name_en": "Padel",
+    "name_zh": "板网球",
+    "name_ko": "파델",
+    "name_vi": "Padel",
+    "name_th": "พาเดล",
+    "match_count": 66,
+    "medal_event_count": 2
+  },
+  {
+    "code": "ROW",
+    "name_en": "Rowing",
+    "name_zh": "赛艇",
+    "name_ko": "조정",
+    "name_vi": "Chèo thuyền",
+    "name_th": "เรือพาย",
+    "match_count": 61,
+    "medal_event_count": 14
+  },
+  {
+    "code": "RU7",
+    "name_en": "Rugby Sevens",
+    "name_zh": "七人制橄榄球",
+    "name_ko": "7인제 럭비",
+    "name_vi": "Bóng bầu dục 7 người",
+    "name_th": "รักบี้ 7 คน",
+    "match_count": 56,
+    "medal_event_count": 2
+  },
+  {
+    "code": "SAL",
+    "name_en": "Sailing",
+    "name_zh": "帆船",
+    "name_ko": "요트",
+    "name_vi": "Thuyền buồm",
+    "name_th": "เรือใบ",
+    "match_count": 194,
+    "medal_event_count": 4
+  },
+  {
+    "code": "SBL",
+    "name_en": "Softball",
+    "name_zh": "垒球",
+    "name_ko": "소프트볼",
+    "name_vi": "Bóng mềm",
+    "name_th": "ซอฟต์บอล",
+    "match_count": 31,
+    "medal_event_count": 1
+  },
+  {
+    "code": "SHO",
+    "name_en": "Shooting",
+    "name_zh": "射击",
+    "name_ko": "사격",
+    "name_vi": "Bắn súng",
+    "name_th": "ยิงปืน",
+    "match_count": 64,
+    "medal_event_count": 28
+  },
+  {
+    "code": "SKB",
+    "name_en": "Skateboarding",
+    "name_zh": "滑板",
+    "name_ko": "스케이트보드",
+    "name_vi": "Trượt ván",
+    "name_th": "สเกตบอร์ด",
+    "match_count": 16,
+    "medal_event_count": 4
+  },
+  {
+    "code": "SPK",
+    "name_en": "Sepaktakraw",
+    "name_zh": "藤球",
+    "name_ko": "세팍타크로",
+    "name_vi": "Cầu mây",
+    "name_th": "เซปักตะกร้อ",
+    "match_count": 84,
+    "medal_event_count": 6
+  },
+  {
+    "code": "SQU",
+    "name_en": "Squash",
+    "name_zh": "壁球",
+    "name_ko": "스쿼시",
+    "name_vi": "Bóng quần",
+    "name_th": "สควอช",
+    "match_count": 96,
+    "medal_event_count": 5
+  },
+  {
+    "code": "SRF",
+    "name_en": "Surfing",
+    "name_zh": "冲浪",
+    "name_ko": "서핑",
+    "name_vi": "Lướt sóng",
+    "name_th": "โต้คลื่น",
+    "match_count": 62,
+    "medal_event_count": 2
+  },
+  {
+    "code": "SWA",
+    "name_en": "Artistic Swimming",
+    "name_zh": "花样游泳",
+    "name_ko": "아티스틱 스위밍",
+    "name_vi": "Bơi nghệ thuật",
+    "name_th": "ระบำใต้น้ำ",
+    "match_count": 5,
+    "medal_event_count": 0
+  },
+  {
+    "code": "SWM",
+    "name_en": "Swimming",
+    "name_zh": "游泳",
+    "name_ko": "수영",
+    "name_vi": "Bơi lội",
+    "name_th": "ว่ายน้ำ",
+    "match_count": 162,
+    "medal_event_count": 41
+  },
+  {
+    "code": "TEN",
+    "name_en": "Tennis",
+    "name_zh": "网球",
+    "name_ko": "테니스",
+    "name_vi": "Quần vợt",
+    "name_th": "เทนนิส",
+    "match_count": 153,
+    "medal_event_count": 5
+  },
+  {
+    "code": "TEQ",
+    "name_en": "Teqball",
+    "name_zh": "台克球",
+    "name_ko": "테크볼",
+    "name_vi": "Teqball",
+    "name_th": "เทคบอล",
+    "match_count": 120,
+    "medal_event_count": 5
+  },
+  {
+    "code": "TKW",
+    "name_en": "Taekwondo",
+    "name_zh": "跆拳道",
+    "name_ko": "태권도",
+    "name_vi": "Taekwondo",
+    "name_th": "เทควันโด",
+    "match_count": 150,
+    "medal_event_count": 11
+  },
+  {
+    "code": "TRI",
+    "name_en": "Triathlon",
+    "name_zh": "铁人三项",
+    "name_ko": "트라이애슬론",
+    "name_vi": "3 môn phối hợp",
+    "name_th": "ไตรกีฬา",
+    "match_count": 3,
+    "medal_event_count": 3
+  },
+  {
+    "code": "TST",
+    "name_en": "Soft Tennis",
+    "name_zh": "软式网球",
+    "name_ko": "소프트테니스",
+    "name_vi": "Quần vợt mềm",
+    "name_th": "ซอฟต์เทนนิส",
+    "match_count": 128,
+    "medal_event_count": 5
+  },
+  {
+    "code": "TTE",
+    "name_en": "Table Tennis",
+    "name_zh": "乒乓球",
+    "name_ko": "탁구",
+    "name_vi": "Bóng bàn",
+    "name_th": "เทเบิลเทนนิส",
+    "match_count": 285,
+    "medal_event_count": 7
+  },
+  {
+    "code": "VBV",
+    "name_en": "Beach Volleyball",
+    "name_zh": "沙滩排球",
+    "name_ko": "비치발리볼",
+    "name_vi": "Bóng chuyền bãi biển",
+    "name_th": "วอลเลย์บอลชายหาด",
+    "match_count": 104,
+    "medal_event_count": 2
+  },
+  {
+    "code": "VVO",
+    "name_en": "Volleyball",
+    "name_zh": "排球",
+    "name_ko": "배구",
+    "name_vi": "Bóng chuyền",
+    "name_th": "วอลเลย์บอล",
+    "match_count": 85,
+    "medal_event_count": 2
+  },
+  {
+    "code": "WLF",
+    "name_en": "Weightlifting",
+    "name_zh": "举重",
+    "name_ko": "역도",
+    "name_vi": "Cử tạ",
+    "name_th": "ยกน้ำหนัก",
+    "match_count": 25,
+    "medal_event_count": 16
+  },
+  {
+    "code": "WPO",
+    "name_en": "Water Polo",
+    "name_zh": "水球",
+    "name_ko": "수구",
+    "name_vi": "Bóng nước",
+    "name_th": "โปโลน้ำ",
+    "match_count": 39,
+    "medal_event_count": 2
+  },
+  {
+    "code": "WRE",
+    "name_en": "Wrestling",
+    "name_zh": "摔跤",
+    "name_ko": "레슬링",
+    "name_vi": "Đấu vật",
+    "name_th": "มวยปล้ำ",
+    "match_count": 394,
+    "medal_event_count": 18
+  },
+  {
+    "code": "WSU",
+    "name_en": "Wushu",
+    "name_zh": "武术",
+    "name_ko": "우슈",
+    "name_vi": "Võ thuật Wushu",
+    "name_th": "วูซู",
+    "match_count": 105,
+    "medal_event_count": 13
+  }
+]

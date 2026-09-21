@@ -1,0 +1,1417 @@
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "WLF",
+    "DiscDesc": "Weightlifting",
+    "Key": "M.O110KG------------.FNL-.A00100--",
+    "isH2H": false,
+    "Type": "A",
+    "Medal": "1",
+    "Status": "START_LIST",
+    "StatusDesc": "Start List",
+    "DateTimeRaw": "2026-09-29T19:10:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "",
+    "HideLocation": false,
+    "Venue": "TIC",
+    "VenueDesc": "Nagoya City Trade and Industry Center",
+    "VenueDescS": "Nagoya City Trade and Industry Center",
+    "Loc": "TIC",
+    "LocDesc": "",
+    "LocDescS": "",
+    "Event": "M.O110KG------------",
+    "EventDesc": "Men's +110kg",
+    "Phase": "M.O110KG------------.FNL-",
+    "PhaseOrder": 16,
+    "PhaseDesc": "Men's +110kg All Groups",
+    "PhaseDescS": "Men's +110kg All Groups",
+    "PhaseDescA": "Final",
+    "UnitDesc": "Men's +110kg Group A",
+    "UnitDescS": "Men's +110kg Group A",
+    "UnitDescA": "Men's +110kg Group A",
+    "UnitNum": "",
+    "IsLive": false,
+    "ShowResults": false,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "",
+    "ResDetail": "",
+    "Duration": "",
+    "CurrentPeriod": 1,
+    "Current": "",
+    "Last": "",
+    "Extensions": [],
+    "Periods": [
+      {
+        "Order": 1,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "1st Attempt",
+        "DescS": "1st Att."
+      },
+      {
+        "Order": 2,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "2nd Attempt",
+        "DescS": "2nd Att."
+      },
+      {
+        "Order": 3,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "3rd Attempt",
+        "DescS": "3rd Att."
+      }
+    ],
+    "Records": [
+      {
+        "EvCode": "M.O110KG------------",
+        "Desc": "Men's +110kg",
+        "DescS": "Men's +110kg",
+        "Records": [
+          {
+            "Result": "477",
+            "Equalled": false,
+            "Indicator": "WR",
+            "Indicator1": "WR",
+            "Desc": "World Record",
+            "AreaDesc": "World Record",
+            "Loc": "",
+            "DateTimeRaw": "2025-06-01T00:00:00+09:00",
+            "ShowLinkBio": false,
+            "Reg": "A999999999",
+            "Name": "World Standard",
+            "Org": "",
+            "OrgDesc": ""
+          },
+          {
+            "Result": "460",
+            "Equalled": false,
+            "Indicator": "AR",
+            "Indicator1": "AR",
+            "Desc": "Asian Record",
+            "AreaDesc": "Asian Record",
+            "Loc": "Riyadh (KSA)",
+            "DateTimeRaw": "2005-11-12T00:00:00+09:00",
+            "ShowLinkBio": false,
+            "Reg": "11441740",
+            "Name": "MINASYAN Gor",
+            "Org": "BRN",
+            "OrgDesc": "Bahrain"
+          },
+          {
+            "Result": "447",
+            "Equalled": false,
+            "Indicator": "GR",
+            "Indicator1": "GR",
+            "Desc": "Asian Games Record",
+            "AreaDesc": "Asian Games Record",
+            "Loc": "",
+            "DateTimeRaw": "2026-08-01T00:00:00+09:00",
+            "ShowLinkBio": false,
+            "Reg": "A999999997",
+            "Name": "Asian Games Standard",
+            "Org": "",
+            "OrgDesc": ""
+          },
+          {
+            "Result": "431",
+            "Equalled": false,
+            "Indicator": "JWR",
+            "Indicator1": "JWR",
+            "Desc": "Junior World Record",
+            "AreaDesc": "Junior World Record",
+            "Loc": "",
+            "DateTimeRaw": "2025-06-01T00:00:00+09:00",
+            "ShowLinkBio": false,
+            "Reg": "A999999996",
+            "Name": "Junior World Standard",
+            "Org": "",
+            "OrgDesc": ""
+          },
+          {
+            "Result": "431",
+            "Equalled": false,
+            "Indicator": "JAR",
+            "Indicator1": "JAR",
+            "Desc": "Junior Asian Record",
+            "AreaDesc": "Junior Asian Record",
+            "Loc": "",
+            "DateTimeRaw": "2025-06-01T00:00:00+09:00",
+            "ShowLinkBio": false,
+            "Reg": "A999999995",
+            "Name": "Junior Asian Standard",
+            "Org": "",
+            "OrgDesc": ""
+          }
+        ]
+      }
+    ],
+    "Officials": [
+      {
+        "Reg": "7781219",
+        "Org": "JPN",
+        "Order": 0,
+        "Function": "WLFB",
+        "Bib": "1964-09-19",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Japan",
+        "Name": "CHINEN Reiko Kato",
+        "NameS": "CHINEN Reiko Kato",
+        "FuncDesc": "IF Delegate"
+      },
+      {
+        "Reg": "2691187",
+        "Org": "KAZ",
+        "Order": 0,
+        "Function": "WLFC1",
+        "Bib": "1977-09-20",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Kazakhstan",
+        "Name": "SOLOVYEVA Olga",
+        "NameS": "SOLOVYEVA O",
+        "FuncDesc": "Jury President"
+      },
+      {
+        "Reg": "1987573",
+        "Org": "SYR",
+        "Order": 0,
+        "Function": "WLFC",
+        "Bib": "1972-10-01",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Syrian Arab Republic",
+        "Name": "IBRAHIM Basel",
+        "NameS": "IBRAHIM B",
+        "FuncDesc": "Jury Member"
+      },
+      {
+        "Reg": "1964468",
+        "Org": "IRI",
+        "Order": 1,
+        "Function": "WLFC",
+        "Bib": "1971-04-12",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Islamic Republic of Iran",
+        "Name": "JALILI Mohsen",
+        "NameS": "JALILI M",
+        "FuncDesc": "Jury Member"
+      },
+      {
+        "Reg": "16640623",
+        "Org": "TKM",
+        "Order": 2,
+        "Function": "WLFC",
+        "Bib": "1987-08-27",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Turkmenistan",
+        "Name": "MAMMEDOV Charygeldi",
+        "NameS": "MAMMEDOV C",
+        "FuncDesc": "Jury Member"
+      },
+      {
+        "Reg": "12380016",
+        "Org": "BRN",
+        "Order": 3,
+        "Function": "WLFC",
+        "Bib": "1974-10-28",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Bahrain",
+        "Name": "YAHYA Ali Abdulla Y",
+        "NameS": "YAHYA AAY",
+        "FuncDesc": "Jury Member"
+      },
+      {
+        "Reg": "758976",
+        "Org": "CHN",
+        "Order": 4,
+        "Function": "WLFC",
+        "Bib": "1970-10-26",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "People's Republic of China",
+        "Name": "ZHOU Zhiqin",
+        "NameS": "ZHOU Z",
+        "FuncDesc": "Jury Member"
+      },
+      {
+        "Reg": "753633",
+        "Org": "BAN",
+        "Order": 0,
+        "Function": "WLFD1",
+        "Bib": "1981-06-05",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Bangladesh",
+        "Name": "SULTANA Shahria",
+        "NameS": "SULTANA S",
+        "FuncDesc": "Centre Referee"
+      },
+      {
+        "Reg": "1518215",
+        "Org": "KOR",
+        "Order": 1,
+        "Function": "WLFD2",
+        "Bib": "1982-01-11",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Republic of Korea",
+        "Name": "YOUM Okjin",
+        "NameS": "YOUM O",
+        "FuncDesc": "Referee"
+      },
+      {
+        "Reg": "16319465",
+        "Org": "MYA",
+        "Order": 2,
+        "Function": "WLFD2",
+        "Bib": "1976-04-29",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Myanmar",
+        "Name": "MYO Min",
+        "NameS": "MYO M",
+        "FuncDesc": "Referee"
+      },
+      {
+        "Reg": "2044213",
+        "Org": "UZB",
+        "Order": 3,
+        "Function": "WLFD9",
+        "Bib": "1996-07-02",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Uzbekistan",
+        "Name": "SHARIPOV Azamat",
+        "NameS": "SHARIPOV A",
+        "FuncDesc": "Reserve Referee"
+      },
+      {
+        "Reg": "2667772",
+        "Org": "IND",
+        "Order": 0,
+        "Function": "WLFA1",
+        "Bib": "1966-04-26",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "India",
+        "Name": "SHARMA Pardeep",
+        "NameS": "SHARMA P",
+        "FuncDesc": "Chief Marshal"
+      },
+      {
+        "Reg": "1128185",
+        "Org": "THA",
+        "Order": 0,
+        "Function": "WLFA1",
+        "Bib": "1975-02-08",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Thailand",
+        "Name": "THATMAN Sirilak",
+        "NameS": "THATMAN S",
+        "FuncDesc": "Chief Marshal"
+      },
+      {
+        "Reg": "1030730",
+        "Org": "UAE",
+        "Order": 0,
+        "Function": "WLFI",
+        "Bib": "1971-07-01",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "United Arab Emirates",
+        "Name": "ALDHANHANI Khaled Ali",
+        "NameS": "ALDHANHANI KA",
+        "FuncDesc": "Timekeeper"
+      },
+      {
+        "Reg": "3798621",
+        "Org": "JPN",
+        "Order": 0,
+        "Function": "WLFI",
+        "Bib": "1958-08-31",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Japan",
+        "Name": "TAKEI Takashi",
+        "NameS": "",
+        "FuncDesc": "Timekeeper"
+      },
+      {
+        "Reg": "9650395",
+        "Org": "SYR",
+        "Order": 0,
+        "Function": "WLFE",
+        "Bib": "1965-05-01",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Syrian Arab Republic",
+        "Name": "ALCHIKH Hasanin",
+        "NameS": "ALCHIKH H",
+        "FuncDesc": "Technical Controller"
+      },
+      {
+        "Reg": "8164509",
+        "Org": "JPN",
+        "Order": 0,
+        "Function": "WLFE",
+        "Bib": "1963-01-14",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Japan",
+        "Name": "SHIMADA Takahiro",
+        "NameS": "SHIMADA T",
+        "FuncDesc": "Technical Controller"
+      },
+      {
+        "Reg": "2053392",
+        "Org": "KAZ",
+        "Order": 0,
+        "Function": "WLFE",
+        "Bib": "1973-12-24",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Kazakhstan",
+        "Name": "TAPSIR Mendikhan",
+        "NameS": "TAPSIR M",
+        "FuncDesc": "Technical Controller"
+      },
+      {
+        "Reg": "3953947",
+        "Org": "LBN",
+        "Order": 0,
+        "Function": "WLFF",
+        "Bib": "1962-01-01",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Lebanon",
+        "Name": "TCHOBANIAN Seza Haroutun",
+        "NameS": "TCHOBANIAN SH",
+        "FuncDesc": "Competition Doctor"
+      },
+      {
+        "Reg": "3966516",
+        "Org": "THA",
+        "Order": 0,
+        "Function": "WLFF",
+        "Bib": "1986-08-22",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Thailand",
+        "Name": "UPPARIPUTTANGGOON Noraset",
+        "NameS": "UPPARIPUTTANGGOON",
+        "FuncDesc": "Competition Doctor"
+      },
+      {
+        "Reg": "9906231",
+        "Org": "UZB",
+        "Order": 0,
+        "Function": "WLFG",
+        "Bib": "1986-07-26",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Uzbekistan",
+        "Name": "ABDULLAEVA Zukhra",
+        "NameS": "ABDULLAEVA Z",
+        "FuncDesc": "Competition Secretary"
+      },
+      {
+        "Reg": "10437892",
+        "Org": "JOR",
+        "Order": 0,
+        "Function": "WLFG",
+        "Bib": "1956-01-20",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Jordan",
+        "Name": "ALEMYAN Ebrahem",
+        "NameS": "ALEMYAN E",
+        "FuncDesc": "Competition Secretary"
+      },
+      {
+        "Reg": "3582906",
+        "Org": "YEM",
+        "Order": 0,
+        "Function": "WLFG",
+        "Bib": "1950-02-11",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Yemen",
+        "Name": "AL-JARMAL Abdullah Mohammed Awadh",
+        "NameS": "AL-JARMAL AMA",
+        "FuncDesc": "Competition Secretary"
+      }
+    ],
+    "Paralympic": false
+  },
+  "Competitors": [
+    {
+      "Reg": "3490229",
+      "Bib": "3",
+      "Org": "TPE",
+      "StartOrder": "1",
+      "StartSortOrder": 1,
+      "Rk": "",
+      "RkEq": false,
+      "RkPo": 1,
+      "WLT": "",
+      "Result": "",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "BodyWeight",
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "FirstSnatch",
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "FirstCJ",
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ET",
+          "Value": "400",
+          "Extensions": []
+        }
+      ],
+      "Name": "DONG Bing-cheng",
+      "NameS": "DONG B",
+      "OrgDesc": "Chinese Taipei",
+      "Splits": [
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "RESULT_INFO",
+              "Code": "BodyWeight",
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "FirstSnatch",
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "FirstCJ",
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ET",
+              "Value": "400",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "RESULT_INFO",
+              "Code": "BodyWeight",
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "FirstSnatch",
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "FirstCJ",
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ET",
+              "Value": "400",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "RESULT_INFO",
+              "Code": "BodyWeight",
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "FirstSnatch",
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "FirstCJ",
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ET",
+              "Value": "400",
+              "Extensions": []
+            }
+          ]
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": ""
+    },
+    {
+      "Reg": "1234030",
+      "Bib": "7",
+      "Org": "IRI",
+      "StartOrder": "2",
+      "StartSortOrder": 2,
+      "Rk": "",
+      "RkEq": false,
+      "RkPo": 2,
+      "WLT": "",
+      "Result": "",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "BodyWeight",
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "FirstSnatch",
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "FirstCJ",
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ET",
+          "Value": "440",
+          "Extensions": []
+        }
+      ],
+      "Name": "DAVOUDI Ali",
+      "NameS": "DAVOUDI A",
+      "OrgDesc": "Islamic Republic of Iran",
+      "Splits": [
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "RESULT_INFO",
+              "Code": "BodyWeight",
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "FirstSnatch",
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "FirstCJ",
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ET",
+              "Value": "440",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "RESULT_INFO",
+              "Code": "BodyWeight",
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "FirstSnatch",
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "FirstCJ",
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ET",
+              "Value": "440",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "RESULT_INFO",
+              "Code": "BodyWeight",
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "FirstSnatch",
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "FirstCJ",
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ET",
+              "Value": "440",
+              "Extensions": []
+            }
+          ]
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": ""
+    },
+    {
+      "Reg": "8024373",
+      "Bib": "68",
+      "Org": "KOR",
+      "StartOrder": "3",
+      "StartSortOrder": 3,
+      "Rk": "",
+      "RkEq": false,
+      "RkPo": 3,
+      "WLT": "",
+      "Result": "",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "BodyWeight",
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "FirstSnatch",
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "FirstCJ",
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ET",
+          "Value": "420",
+          "Extensions": []
+        }
+      ],
+      "Name": "SONG Yeonghwan",
+      "NameS": "SONG Y",
+      "OrgDesc": "Republic of Korea",
+      "Splits": [
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "RESULT_INFO",
+              "Code": "BodyWeight",
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "FirstSnatch",
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "FirstCJ",
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ET",
+              "Value": "420",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "RESULT_INFO",
+              "Code": "BodyWeight",
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "FirstSnatch",
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "FirstCJ",
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ET",
+              "Value": "420",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "RESULT_INFO",
+              "Code": "BodyWeight",
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "FirstSnatch",
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "FirstCJ",
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ET",
+              "Value": "420",
+              "Extensions": []
+            }
+          ]
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": ""
+    },
+    {
+      "Reg": "11441740",
+      "Bib": "113",
+      "Org": "BRN",
+      "StartOrder": "4",
+      "StartSortOrder": 4,
+      "Rk": "",
+      "RkEq": false,
+      "RkPo": 4,
+      "WLT": "",
+      "Result": "",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "BodyWeight",
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "FirstSnatch",
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "FirstCJ",
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ET",
+          "Value": "460",
+          "Extensions": []
+        }
+      ],
+      "Name": "MINASYAN Gor",
+      "NameS": "MINASYAN G",
+      "OrgDesc": "Bahrain",
+      "Splits": [
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "RESULT_INFO",
+              "Code": "BodyWeight",
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "FirstSnatch",
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "FirstCJ",
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ET",
+              "Value": "460",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "RESULT_INFO",
+              "Code": "BodyWeight",
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "FirstSnatch",
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "FirstCJ",
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ET",
+              "Value": "460",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "RESULT_INFO",
+              "Code": "BodyWeight",
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "FirstSnatch",
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "FirstCJ",
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ET",
+              "Value": "460",
+              "Extensions": []
+            }
+          ]
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": ""
+    },
+    {
+      "Reg": "8115385",
+      "Bib": "141",
+      "Org": "IRQ",
+      "StartOrder": "5",
+      "StartSortOrder": 5,
+      "Rk": "",
+      "RkEq": false,
+      "RkPo": 5,
+      "WLT": "",
+      "Result": "",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "BodyWeight",
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "FirstSnatch",
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "FirstCJ",
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ET",
+          "Value": "440",
+          "Extensions": []
+        }
+      ],
+      "Name": "RUBAIAWI Ali Ammar Yusur",
+      "NameS": "RUBAIAWI AAY",
+      "OrgDesc": "Iraq",
+      "Splits": [
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "RESULT_INFO",
+              "Code": "BodyWeight",
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "FirstSnatch",
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "FirstCJ",
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ET",
+              "Value": "440",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "RESULT_INFO",
+              "Code": "BodyWeight",
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "FirstSnatch",
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "FirstCJ",
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ET",
+              "Value": "440",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "RESULT_INFO",
+              "Code": "BodyWeight",
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "FirstSnatch",
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "FirstCJ",
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ET",
+              "Value": "440",
+              "Extensions": []
+            }
+          ]
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": ""
+    }
+  ],
+  "Legends": {
+    "records": [],
+    "irms": [],
+    "qs": []
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "MMA",
+    "DiscDesc": "Mixed Martial Arts",
+    "Key": "W.M54KG-------------.FNL-.000100--",
+    "isH2H": true,
+    "Type": "A",
+    "Medal": "1",
+    "Status": "START_LIST",
+    "StatusDesc": "Start List",
+    "DateTimeRaw": "2026-09-22T14:10:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "",
+    "HideLocation": false,
+    "Venue": "ISC",
+    "VenueDesc": "Nagoya City Inae Sports Center",
+    "VenueDescS": "Nagoya City Inae Sports Center",
+    "Loc": "ISC",
+    "LocDesc": "Nagoya City Inae Sports Center",
+    "LocDescS": "Nagoya City Inae Sports Center",
+    "Event": "W.M54KG-------------",
+    "EventDesc": "Women's Modern -54kg",
+    "Phase": "W.M54KG-------------.FNL-",
+    "PhaseOrder": 35,
+    "PhaseDesc": "Women's Modern -54kg Final",
+    "PhaseDescS": "Women's Modern -54kg Final",
+    "PhaseDescA": "Final",
+    "UnitDesc": "Women's Modern -54kg Final",
+    "UnitDescS": "Women's Modern -54kg Final",
+    "UnitDescA": "Women's Modern -54kg Final",
+    "UnitNum": "45",
+    "IsLive": false,
+    "ShowResults": false,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "",
+    "ResDetail": "",
+    "Duration": "",
+    "CurrentPeriod": 0,
+    "Current": "",
+    "Last": "",
+    "Extensions": [],
+    "Periods": [],
+    "Paralympic": false
+  },
+  "Competitors": [
+    {
+      "Reg": "9136710",
+      "Bib": "",
+      "Org": "BRN",
+      "StartOrder": "1",
+      "StartSortOrder": 1,
+      "Rk": "",
+      "RkEq": false,
+      "RkPo": 0,
+      "WLT": "",
+      "Result": "",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Result",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        }
+      ],
+      "Name": "POGOSIAN Diana",
+      "NameS": "POGOSIAN D",
+      "OrgDesc": "Bahrain",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "",
+      "Members": [
+        {
+          "Reg": "9136710",
+          "Org": "BRN",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Gender": "W",
+          "Order": 1,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "IRM": "",
+          "Result": "",
+          "Extensions": [],
+          "Guides": [],
+          "Name": "POGOSIAN Diana",
+          "NameS": "POGOSIAN D",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        }
+      ],
+      "TeamOfficials": [
+        {
+          "Reg": "",
+          "Org": "",
+          "Order": 1,
+          "Function": "",
+          "Extensions": [],
+          "Name": "",
+          "NameS": "",
+          "FuncDesc": ""
+        }
+      ]
+    },
+    {
+      "Reg": "4520501",
+      "Bib": "",
+      "Org": "THA",
+      "StartOrder": "2",
+      "StartSortOrder": 2,
+      "Rk": "",
+      "RkEq": false,
+      "RkPo": 0,
+      "WLT": "",
+      "Result": "",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Result",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        }
+      ],
+      "Name": "PHATTARABOONSORN Kanjutha",
+      "NameS": "PHATTARABOONSORN K",
+      "OrgDesc": "Thailand",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "",
+      "Members": [
+        {
+          "Reg": "4520501",
+          "Org": "THA",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Gender": "W",
+          "Order": 1,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "IRM": "",
+          "Result": "",
+          "Extensions": [],
+          "Guides": [],
+          "Name": "PHATTARABOONSORN Kanjutha",
+          "NameS": "PHATTARABOONSORN K",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        }
+      ],
+      "TeamOfficials": [
+        {
+          "Reg": "",
+          "Org": "",
+          "Order": 1,
+          "Function": "",
+          "Extensions": [],
+          "Name": "",
+          "NameS": "",
+          "FuncDesc": ""
+        }
+      ]
+    }
+  ],
+  "Legends": {
+    "records": [],
+    "irms": [],
+    "qs": [],
+    "funcs": [
+      {
+        "DescS": "AA01",
+        "Desc": "Athlete"
+      }
+    ]
+  }
+}

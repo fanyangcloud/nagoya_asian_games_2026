@@ -1,0 +1,214 @@
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "MMA",
+    "DiscDesc": "Mixed Martial Arts",
+    "Key": "M.M71KG-------------.FNL-.000100--",
+    "isH2H": true,
+    "Type": "A",
+    "Medal": "1",
+    "Status": "START_LIST",
+    "StatusDesc": "Start List",
+    "DateTimeRaw": "2026-09-22T14:40:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "",
+    "HideLocation": false,
+    "Venue": "ISC",
+    "VenueDesc": "Nagoya City Inae Sports Center",
+    "VenueDescS": "Nagoya City Inae Sports Center",
+    "Loc": "ISC",
+    "LocDesc": "Nagoya City Inae Sports Center",
+    "LocDescS": "Nagoya City Inae Sports Center",
+    "Event": "M.M71KG-------------",
+    "EventDesc": "Men's Modern -71kg",
+    "Phase": "M.M71KG-------------.FNL-",
+    "PhaseOrder": 14,
+    "PhaseDesc": "Men's Modern -71kg Final",
+    "PhaseDescS": "Men's Modern -71kg Final",
+    "PhaseDescA": "Final",
+    "UnitDesc": "Men's Modern -71kg Final",
+    "UnitDescS": "Men's Modern -71kg Final",
+    "UnitDescA": "Men's Modern -71kg Final",
+    "UnitNum": "48",
+    "IsLive": false,
+    "ShowResults": false,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "",
+    "ResDetail": "",
+    "Duration": "",
+    "CurrentPeriod": 0,
+    "Current": "",
+    "Last": "",
+    "Extensions": [],
+    "Periods": [],
+    "Paralympic": false
+  },
+  "Competitors": [
+    {
+      "Reg": "2491823",
+      "Bib": "",
+      "Org": "TJK",
+      "StartOrder": "1",
+      "StartSortOrder": 1,
+      "Rk": "",
+      "RkEq": false,
+      "RkPo": 0,
+      "WLT": "",
+      "Result": "",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Result",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        }
+      ],
+      "Name": "KHURSHEDZODA Behruz",
+      "NameS": "KHURSHEDZODA B",
+      "OrgDesc": "Tajikistan",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "",
+      "Members": [
+        {
+          "Reg": "2491823",
+          "Org": "TJK",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Gender": "M",
+          "Order": 1,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "IRM": "",
+          "Result": "",
+          "Extensions": [],
+          "Guides": [],
+          "Name": "KHURSHEDZODA Behruz",
+          "NameS": "KHURSHEDZODA B",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        }
+      ],
+      "TeamOfficials": [
+        {
+          "Reg": "",
+          "Org": "",
+          "Order": 1,
+          "Function": "",
+          "Extensions": [],
+          "Name": "",
+          "NameS": "",
+          "FuncDesc": ""
+        }
+      ]
+    },
+    {
+      "Reg": "7166655",
+      "Bib": "",
+      "Org": "KAZ",
+      "StartOrder": "2",
+      "StartSortOrder": 2,
+      "Rk": "",
+      "RkEq": false,
+      "RkPo": 0,
+      "WLT": "",
+      "Result": "",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Result",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        }
+      ],
+      "Name": "SHINBAYEV Kadyrbek",
+      "NameS": "SHINBAYEV K",
+      "OrgDesc": "Kazakhstan",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "",
+      "Members": [
+        {
+          "Reg": "7166655",
+          "Org": "KAZ",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Gender": "M",
+          "Order": 1,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "IRM": "",
+          "Result": "",
+          "Extensions": [],
+          "Guides": [],
+          "Name": "SHINBAYEV Kadyrbek",
+          "NameS": "SHINBAYEV K",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        }
+      ],
+      "TeamOfficials": [
+        {
+          "Reg": "",
+          "Org": "",
+          "Order": 1,
+          "Function": "",
+          "Extensions": [],
+          "Name": "",
+          "NameS": "",
+          "FuncDesc": ""
+        }
+      ]
+    }
+  ],
+  "Legends": {
+    "records": [],
+    "irms": [],
+    "qs": [],
+    "funcs": [
+      {
+        "DescS": "AA01",
+        "Desc": "Athlete"
+      }
+    ]
+  }
+}
