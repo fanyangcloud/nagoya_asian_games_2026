@@ -4,15 +4,42 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>2026 名古屋亚运会 · 赛程与比分看板 (Unofficial)</title>
+  
+  <!-- 引入顶级体育竞技与精密数字字体 -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:ital,wght@0,600;0,700;0,800;1,700&family=Chakra+Petch:wght@500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  
   <script src="https://cdn.tailwindcss.com"></script>
   <script>
     tailwind.config = {
       darkMode: 'class',
       theme: {
         extend: {
+          fontFamily: {
+            sans: ['Inter', 'system-ui', '-apple-system', 'sans-serif'],
+            condensed: ['"Barlow Semi Condensed"', 'sans-serif'],
+            mono: ['"Chakra Petch"', 'monospace'],
+          },
           colors: {
-            brand: { 50: '#eff6ff', 500: '#3b82f6', 600: '#2563eb', 700: '#1d4ed8' },
-            gold: '#f59e0b',
+            brand: {
+              50: '#f0f5ff',
+              100: '#e0ecff',
+              500: '#2563eb',
+              600: '#1d4ed8',
+              700: '#1e40af',
+              800: '#1e3a8a',
+              900: '#0f172a',
+            },
+            champ: {
+              gold: '#d97706',
+              light: '#fef3c7',
+              border: '#f59e0b',
+            }
+          },
+          boxShadow: {
+            'card-hover': '0 12px 28px -4px rgba(15, 23, 42, 0.08), 0 4px 12px -2px rgba(15, 23, 42, 0.04)',
+            'gold-glow': '0 4px 20px -2px rgba(245, 158, 11, 0.25)',
           }
         }
       }
@@ -21,106 +48,182 @@
   <style>
     .no-scrollbar::-webkit-scrollbar { display: none; }
     .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+    .tabular-nums { font-variant-numeric: tabular-nums; }
   </style>
 </head>
-<body class="bg-slate-50 text-slate-900 min-h-screen flex flex-col font-sans">
+<body class="bg-[#f8fafc] text-slate-900 min-h-screen flex flex-col font-sans antialiased selection:bg-blue-600 selection:text-white">
 
-  <!-- 1. 顶部公告栏 -->
-  <aside class="bg-gradient-to-r from-amber-500 via-orange-500 to-rose-500 text-white text-xs md:text-sm py-2 px-4 shadow-sm" aria-label="焦点快讯">
+  <!-- 1. 顶部公告栏：演播室微光流体条 -->
+  <aside class="bg-gradient-to-r from-slate-900 via-indigo-950 to-slate-900 text-white text-xs py-2 px-4 border-b border-white/10 shadow-sm" aria-label="焦点快讯">
     <div class="max-w-7xl mx-auto flex items-center justify-between">
-      <div class="flex items-center space-x-2 overflow-hidden">
-        <span class="bg-white/20 px-2 py-0.5 rounded font-bold uppercase tracking-wider text-[10px]" id="banner-tag">快讯</span>
-        <span class="truncate font-medium" id="banner-text">🔥 2026 名古屋亚运会全量赛程数据已就绪！点击下方日期浏览每日激战。</span>
+      <div class="flex items-center space-x-2.5 overflow-hidden">
+        <span class="inline-flex items-center gap-1 bg-amber-400 text-slate-950 px-2 py-0.5 rounded text-[10px] font-black tracking-wider uppercase shadow-xs shrink-0" id="banner-tag">
+          <span class="w-1.5 h-1.5 rounded-full bg-slate-950 animate-ping"></span>
+          快讯
+        </span>
+        <span class="truncate font-medium text-slate-200 tracking-wide text-xs" id="banner-text">🔥 2026 名古屋亚运会全量赛程数据已就绪！点击下方日期浏览每日激战。</span>
       </div>
-      <span class="hidden md:inline text-xs text-white/80 shrink-0">Aichi-Nagoya 2026</span>
+      <div class="hidden md:flex items-center gap-2 text-slate-400 font-mono text-[11px] shrink-0">
+        <span class="inline-block w-2 h-2 rounded-full bg-emerald-400"></span>
+        <span>AICHI-NAGOYA 2026 TIMING HUB</span>
+      </div>
     </div>
   </aside>
 
   <!-- 2. 主导航 Header -->
-  <header class="bg-white border-b border-slate-200 sticky top-0 z-30 shadow-xs">
-    <div class="max-w-7xl mx-auto px-4 h-16 flex items-center justify-between">
-      <div class="flex items-center space-x-3">
-        <div class="w-10 h-10 rounded-xl bg-blue-600 flex items-center justify-center text-white text-xl font-black shadow-md shadow-blue-500/20">
-          N
+  <header class="bg-white/95 backdrop-blur-md border-b border-slate-200/80 sticky top-0 z-30 shadow-xs">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 h-18 flex items-center justify-between gap-4">
+      <div class="flex items-center space-x-3.5">
+        <!-- 品牌标识徽章 -->
+        <div class="relative flex items-center justify-center w-11 h-11 rounded-2xl bg-gradient-to-tr from-blue-700 via-blue-600 to-indigo-500 text-white shadow-md shadow-blue-600/25 border border-white/20">
+          <span class="font-condensed text-2xl font-black italic tracking-tighter">N</span>
         </div>
         <div>
-          <h1 class="text-lg md:text-xl font-bold tracking-tight text-slate-800" id="site-title">名古屋亚运会 2026</h1>
-          <p class="text-[11px] text-slate-400 font-medium" id="site-subtitle">非官方实时赛程与成绩聚合看板</p>
+          <div class="flex items-center gap-2">
+            <h1 class="text-base sm:text-lg font-extrabold tracking-tight text-slate-900 font-condensed uppercase leading-none" id="site-title">
+              名古屋亚运会 2026
+            </h1>
+            <span class="hidden sm:inline-block px-1.5 py-0.5 rounded text-[10px] font-bold bg-slate-100 text-slate-500 border border-slate-200">20th AG</span>
+          </div>
+          <p class="text-[11px] text-slate-500 font-medium tracking-tight mt-0.5" id="site-subtitle">非官方实时赛程与成绩聚合看板</p>
         </div>
       </div>
 
-      <!-- 多语言切换器 -->
+      <!-- 语言切换器与快速工具 -->
       <nav class="flex items-center space-x-2" aria-label="语言切换">
-        <span class="text-xs text-slate-400 hidden sm:inline">🌐 语言 / Language:</span>
-        <select id="lang-select" onchange="changeLanguage(this.value)" class="text-xs bg-slate-100 hover:bg-slate-200 text-slate-700 font-medium py-1.5 px-2.5 rounded-lg border border-slate-300 focus:outline-none focus:ring-2 focus:ring-blue-500 cursor-pointer">
-          <option value="zh">🇨🇳 中文</option>
-          <option value="ko">🇰🇷 한국어</option>
-          <option value="vi">🇻🇳 Tiếng Việt</option>
-          <option value="th">🇹🇭 ภาษาไทย</option>
-        </select>
+        <div class="relative">
+          <select id="lang-select" onchange="changeLanguage(this.value)" class="text-xs bg-slate-50 hover:bg-slate-100 text-slate-700 font-semibold py-2 pl-3 pr-8 rounded-xl border border-slate-200 focus:outline-none focus:ring-2 focus:ring-blue-600/30 transition-all cursor-pointer shadow-2xs appearance-none">
+            <option value="zh">🇨🇳 中文</option>
+            <option value="ko">🇰🇷 한국어</option>
+            <option value="vi">🇻🇳 Tiếng Việt</option>
+            <option value="th">🇹🇭 ภาษาไทย</option>
+          </select>
+          <div class="pointer-events-none absolute inset-y-0 right-0 flex items-center px-2 text-slate-400">
+            <svg class="h-3.5 w-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+          </div>
+        </div>
       </nav>
     </div>
 
-    <!-- 3. 日期横向滚动胶囊 -->
-    <div class="bg-slate-100/80 border-t border-slate-200 px-4 py-2.5">
-      <div class="max-w-7xl mx-auto flex space-x-2 overflow-x-auto no-scrollbar" id="date-strip"></div>
+    <!-- 3. 日期时间罗盘横向胶囊（字号微调：星期 10px / 日期 13px） -->
+    <div class="bg-slate-100/90 border-t border-slate-200/80 px-2 sm:px-4 py-2">
+      <div class="max-w-7xl mx-auto flex items-center space-x-1.5 sm:space-x-2 overflow-x-auto no-scrollbar py-0.5" id="date-strip"></div>
     </div>
   </header>
 
-  <!-- 4. 筛选栏 -->
-  <section class="max-w-7xl mx-auto px-4 pt-4 pb-2 w-full flex flex-wrap items-center justify-between gap-3 text-xs md:text-sm">
-    <div class="flex items-center space-x-2">
-      <button id="medal-filter-btn" onclick="toggleMedalFilter()" class="flex items-center space-x-1 px-3 py-1.5 rounded-full border border-slate-300 bg-white hover:bg-amber-50 hover:border-amber-400 text-slate-700 font-medium transition-all shadow-2xs">
-        <span class="text-amber-500 font-bold">🥇</span>
+  <!-- 4. 赛事筛选与统计工具条 -->
+  <section class="max-w-7xl mx-auto px-4 sm:px-6 pt-5 pb-2 w-full flex flex-wrap items-center justify-between gap-3 text-xs">
+    <div class="flex flex-wrap items-center gap-2.5">
+      <!-- 金牌专用高光过滤器 -->
+      <button id="medal-filter-btn" onclick="toggleMedalFilter()" class="flex items-center space-x-1.5 px-3.5 py-2 rounded-xl border border-slate-200 bg-white hover:bg-amber-50/60 hover:border-amber-300 text-slate-700 font-bold transition-all shadow-2xs group">
+        <span class="text-amber-500 group-hover:scale-110 transition-transform">🥇</span>
         <span id="txt-medal-filter">只看金牌赛</span>
       </button>
 
-      <!-- 全量 59 项下拉菜单 -->
-      <select id="disc-filter" onchange="filterMatches()" class="bg-white border border-slate-300 text-slate-700 font-medium py-1.5 px-3 rounded-full focus:outline-none focus:ring-2 focus:ring-blue-500 shadow-2xs cursor-pointer max-w-[280px] truncate">
-        <option value="ALL">全部 59 个项目 (All Sports)</option>
-      </select>
+      <!-- 59 个大项下拉筛选 -->
+      <div class="relative">
+        <select id="disc-filter" onchange="filterMatches()" class="bg-white border border-slate-200 text-slate-700 font-semibold py-2 pl-3.5 pr-8 rounded-xl focus:outline-none focus:ring-2 focus:ring-blue-600/30 transition-all shadow-2xs cursor-pointer max-w-[280px] sm:max-w-xs truncate appearance-none">
+          <option value="ALL">全部 59 个项目 (All Sports)</option>
+        </select>
+        <div class="pointer-events-none absolute inset-y-0 right-0 flex items-center px-2.5 text-slate-400">
+          <svg class="h-3.5 w-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+        </div>
+      </div>
     </div>
 
-    <div class="text-slate-500 text-xs font-medium">
-      <span id="txt-matches-count">匹配比赛: 0 场</span>
+    <!-- 动态比赛计数胶囊 -->
+    <div class="bg-white border border-slate-200/80 px-3 py-1.5 rounded-xl shadow-2xs">
+      <span class="text-slate-500 font-medium font-mono" id="txt-matches-count">匹配比赛: 0 场</span>
     </div>
   </section>
 
-  <!-- 5. 比赛卡片列表 -->
-  <main class="max-w-7xl mx-auto px-4 py-4 w-full flex-1">
-    <div id="loading" class="text-center py-20 text-slate-400 hidden">
-      <div class="inline-block animate-spin w-8 h-8 border-4 border-blue-500 border-t-transparent rounded-full mb-3"></div>
-      <p class="text-sm font-medium" id="txt-loading">正在读取赛程数据...</p>
+  <!-- 5. 比赛卡片列表主视窗 -->
+  <main class="max-w-7xl mx-auto px-4 sm:px-6 py-4 w-full flex-1">
+    
+    <!-- 骨架屏 Loading -->
+    <div id="loading" class="w-full hidden">
+      <div class="flex items-center justify-center gap-2 mb-6 text-xs font-semibold uppercase tracking-wider text-slate-400">
+        <span class="inline-block w-2 h-2 rounded-full bg-blue-600 animate-ping"></span>
+        <span id="txt-loading">正在读取赛程数据...</span>
+      </div>
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
+        <div class="bg-white rounded-2xl p-5 border border-slate-200/80 shadow-xs animate-pulse space-y-3">
+          <div class="h-4 bg-slate-100 rounded-md w-1/3"></div>
+          <div class="h-5 bg-slate-100 rounded-md w-3/4"></div>
+          <div class="h-10 bg-slate-50 rounded-xl"></div>
+          <div class="h-4 bg-slate-100 rounded-md w-1/2 pt-2"></div>
+        </div>
+        <div class="bg-white rounded-2xl p-5 border border-slate-200/80 shadow-xs animate-pulse space-y-3">
+          <div class="h-4 bg-slate-100 rounded-md w-1/3"></div>
+          <div class="h-5 bg-slate-100 rounded-md w-3/4"></div>
+          <div class="h-10 bg-slate-50 rounded-xl"></div>
+          <div class="h-4 bg-slate-100 rounded-md w-1/2 pt-2"></div>
+        </div>
+        <div class="bg-white rounded-2xl p-5 border border-slate-200/80 shadow-xs animate-pulse space-y-3">
+          <div class="h-4 bg-slate-100 rounded-md w-1/3"></div>
+          <div class="h-5 bg-slate-100 rounded-md w-3/4"></div>
+          <div class="h-10 bg-slate-50 rounded-xl"></div>
+          <div class="h-4 bg-slate-100 rounded-md w-1/2 pt-2"></div>
+        </div>
+      </div>
     </div>
 
-    <div id="empty-state" class="text-center py-20 text-slate-400 hidden">
-      <p class="text-4xl mb-2">📭</p>
-      <p class="text-base font-medium" id="txt-empty">当天无符合筛选条件的比赛安排</p>
+    <!-- 空数据展位 -->
+    <div id="empty-state" class="text-center py-24 text-slate-400 hidden">
+      <div class="w-16 h-16 mx-auto mb-3 rounded-3xl bg-slate-100 flex items-center justify-center text-3xl shadow-inner">
+        🏟️
+      </div>
+      <p class="text-base font-bold text-slate-700 font-condensed tracking-wide" id="txt-empty">当天无符合筛选条件的比赛安排</p>
+      <p class="text-xs text-slate-400 mt-1">请尝试切换日期或放宽过滤条件</p>
     </div>
 
-    <div id="match-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4"></div>
+    <!-- 比赛卡片网格 -->
+    <div id="match-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5"></div>
   </main>
 
-  <!-- 6. 赛果战报详情弹窗 -->
-  <div id="result-modal" class="fixed inset-0 bg-slate-900/60 backdrop-blur-xs z-50 flex items-center justify-center p-4 hidden">
-    <div class="bg-white rounded-2xl max-w-xl w-full p-6 shadow-2xl max-h-[85vh] flex flex-col relative animate-in fade-in zoom-in duration-150">
-      <button onclick="closeModal()" class="absolute top-4 right-4 text-slate-400 hover:text-slate-600 bg-slate-100 hover:bg-slate-200 rounded-full w-8 h-8 flex items-center justify-center font-bold">✕</button>
+  <!-- 6. 赛果战报详情弹窗：欧米茄官方成绩公报板设计 -->
+  <div id="result-modal" class="fixed inset-0 bg-slate-950/70 backdrop-blur-sm z-50 flex items-center justify-center p-4 hidden">
+    <div class="bg-white rounded-3xl max-w-xl w-full p-6 sm:p-7 shadow-2xl max-h-[88vh] flex flex-col relative animate-in fade-in zoom-in-95 duration-150 border border-slate-100">
       
-      <div class="border-b border-slate-100 pb-3 mb-4">
+      <!-- 关闭按钮 -->
+      <button onclick="closeModal()" class="absolute top-5 right-5 text-slate-400 hover:text-slate-700 bg-slate-100 hover:bg-slate-200 rounded-full w-8 h-8 flex items-center justify-center font-bold transition-colors">
+        ✕
+      </button>
+      
+      <!-- 官方公报 Header -->
+      <div class="border-b border-slate-100 pb-4 mb-4">
         <div class="flex items-center justify-between pr-8">
-          <span class="text-xs font-semibold px-2 py-0.5 rounded bg-blue-50 text-blue-600" id="modal-disc">项目</span>
+          <div class="flex items-center gap-2">
+            <span class="text-[11px] font-bold px-2.5 py-1 rounded-lg bg-blue-50 text-blue-700 uppercase tracking-wider font-condensed" id="modal-disc">
+              项目
+            </span>
+            <span class="text-[10px] font-mono font-semibold px-2 py-0.5 rounded bg-slate-100 text-slate-500">OFFICIAL BULLETIN</span>
+          </div>
           <div id="modal-pdf-slot"></div>
         </div>
-        <h3 class="text-lg font-bold text-slate-800 mt-2" id="modal-event-title">比赛详情</h3>
-        <p class="text-xs text-slate-400 mt-0.5" id="modal-time-venue">时间与场馆</p>
+        <h3 class="text-lg sm:text-xl font-extrabold text-slate-900 mt-2.5 font-condensed tracking-tight leading-snug" id="modal-event-title">
+          比赛详情
+        </h3>
+        <p class="text-xs text-slate-400 font-medium mt-1 flex items-center gap-1.5" id="modal-time-venue">
+          时间与场馆
+        </p>
       </div>
 
-      <div class="overflow-y-auto flex-1 pr-1 text-sm text-slate-600" id="modal-body"></div>
+      <!-- 成绩公报正文 -->
+      <div class="overflow-y-auto flex-1 pr-1 text-sm text-slate-700 no-scrollbar" id="modal-body"></div>
     </div>
   </div>
 
-  <footer class="bg-white border-t border-slate-200 py-6 text-center text-xs text-slate-400">
-    <p>Unofficial Fan Project for Aichi-Nagoya Asian Games 2026. Data for informational purposes only.</p>
+  <!-- 底部官方感 Footer -->
+  <footer class="bg-white border-t border-slate-200/80 py-8 text-center text-xs text-slate-400">
+    <div class="max-w-7xl mx-auto px-4 flex flex-col sm:flex-row items-center justify-between gap-3">
+      <p class="font-medium">Unofficial Fan Project for Aichi-Nagoya Asian Games 2026. All data is for informational purposes only.</p>
+      <div class="flex items-center gap-3 font-mono text-[11px] text-slate-400">
+        <span>HOST: AICHI-NAGOYA</span>
+        <span>•</span>
+        <span>SEPTEMBER 19 - OCTOBER 04, 2026</span>
+      </div>
+    </div>
   </footer>
 
   <script>
@@ -235,7 +338,7 @@
       "Kumite": { zh: "组手(对打)", ko: "쿠미테(대련)", vi: "Đối kháng", th: "คูมิเต้(ต่อสู้)" },
       "Kata": { zh: "型(套路)", ko: "카타(품새)", vi: "Quyền kata", th: "คาตะ(ท่ารำ)" },
       "Changquan": { zh: "长拳", ko: "장권", vi: "Trường quyền", th: "ฉางฉวน" },
-      "Taijiquan & Taijijian": { zh: "太极拳·太极剑", ko: "태극권·태극검", vi: "Thái cực quyền & kiếm", th: "ไทเก๊กและกระบี่" },
+      "Taijiquan & Taijijian": { zh: "太极拳·太极剑", ko: "태극권·태극검", vi: "Thái cực拳 & kiếm", th: "ไทเก๊กและกระบี่" },
       "Taijiquan": { zh: "太极拳", ko: "태극권", vi: "Thái cực quyền", th: "ไทเก๊ก" },
       "Taijijian": { zh: "太极剑", ko: "태극검", vi: "Thái cực kiếm", th: "กระบี่ไทเก๊ก" },
       "Daoshu": { zh: "刀术", ko: "도술", vi: "Đao thuật", th: "ดาบสั้น" },
@@ -272,11 +375,28 @@
       "Women": { zh: "女子", ko: "여자", vi: "Nữ", th: "หญิง" }
     };
 
+    const NOC_FLAGS = {
+      CHN: '🇨🇳', JPN: '🇯🇵', KOR: '🇰🇷', THA: '🇹🇭', VIE: '🇻🇳',
+      TPE: '🇹🇼', HKG: '🇭🇰', IND: '🇮🇳', INA: '🇮🇩', MAS: '🇲🇾',
+      PHI: '🇵🇭', SGP: '🇸🇬', UZB: '🇺🇿', KAZ: '🇰🇿', IRI: '🇮🇷',
+      MGL: '🇲🇳', PRK: '🇰🇵', QAT: '🇶🇦', BRN: '🇧🇭', KSA: '🇸🇦',
+      UAE: '🇦🇪', JOR: '🇯🇴', KUW: '🇰🇼', OMA: '🇴🇲', IRQ: '🇮🇶',
+      PAK: '🇵🇰', SRI: '🇱🇰', BAN: '🇧🇩', NEP: '🇳🇵', KGZ: '🇰🇬',
+      TJK: '🇹🇯', TKM: '🇹🇲', MYA: '🇲🇲', CAM: '🇰🇭', LAO: '🇱🇦',
+      MAC: '🇲🇴', BRU: '🇧🇳', MDV: '🇲🇻', BHU: '🇧🇹', TLS: '🇹🇱',
+      PLE: '🇵🇸', SYR: '🇸🇾', YEM: '🇾🇪', LBN: '🇱🇧', AFG: '🇦🇫'
+    };
+
+    function getNocFlag(orgCode) {
+      if (!orgCode) return '';
+      const code = String(orgCode).trim().toUpperCase();
+      return NOC_FLAGS[code] || '';
+    }
+
     let disciplinesData = [];
     let athletesData = {};
     let currentLang = 'zh';
 
-    // 🌟 3. 自动计算东京/当地时间（默认选中今天）
     function getTodayTokyoDate() {
       try {
         const tokyoStr = new Intl.DateTimeFormat('en-CA', {
@@ -286,7 +406,6 @@
           day: '2-digit'
         }).format(new Date());
 
-        // 比赛范围限定在 2026-09-10 至 2026-10-04 之间
         if (tokyoStr < '2026-09-10') return '2026-09-10';
         if (tokyoStr > '2026-10-04') return '2026-10-04';
         return tokyoStr;
@@ -392,6 +511,7 @@
       return v;
     }
 
+    // 🌟 日历胶囊字号微调：星期 10px / 日期 13px
     function initDateStrip() {
       const strip = document.getElementById('date-strip');
       strip.innerHTML = '';
@@ -401,19 +521,25 @@
       for (let d = new Date(start); d <= end; d.setDate(d.getDate() + 1)) {
         const dStr = d.toISOString().split('T')[0];
         const monthDay = `${d.getMonth() + 1}/${d.getDate()}`;
+        
+        const dayNames = ['SUN', 'MON', 'TUE', 'WED', 'THU', 'FRI', 'SAT'];
+        const dayOfWeek = dayNames[d.getDay()];
         const isSelected = (dStr === currentDate);
 
         const btn = document.createElement('button');
-        btn.className = `shrink-0 px-3.5 py-1.5 rounded-full text-xs font-semibold transition-all ${
+        btn.className = `shrink-0 px-3 py-1.5 rounded-xl transition-all flex flex-col items-center justify-center min-w-[58px] cursor-pointer ${
           isSelected 
-            ? 'bg-blue-600 text-white shadow-sm shadow-blue-500/30' 
-            : 'bg-white text-slate-600 hover:bg-slate-200/80 border border-slate-200'
+            ? 'bg-slate-900 text-white shadow-md shadow-slate-900/25 ring-2 ring-blue-600' 
+            : 'bg-white hover:bg-slate-200/70 text-slate-600 border border-slate-200/90 shadow-2xs'
         }`;
-        btn.innerText = monthDay;
+        
+        btn.innerHTML = `
+          <span class="text-[10px] font-mono font-bold tracking-wider ${isSelected ? 'text-amber-400' : 'text-slate-400'}">${dayOfWeek}</span>
+          <span class="text-[13px] font-mono font-extrabold tracking-tight mt-0.5">${monthDay}</span>
+        `;
         btn.onclick = () => selectDate(dStr);
         strip.appendChild(btn);
 
-        // 自动将当天胶囊平滑滚入可见区域
         if (isSelected) {
           setTimeout(() => {
             btn.scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
@@ -475,7 +601,6 @@
         opt.value = item.code;
         const localizedName = getDiscName(item.code);
         const todayCnt = todayCountMap.get(item.code) || 0;
-
         const goldText = item.medal_event_count > 0 ? ` · ${item.medal_event_count}${dict.goldSuffix}` : '';
         
         if (todayCnt > 0) {
@@ -502,9 +627,9 @@
       isMedalOnly = !isMedalOnly;
       const btn = document.getElementById('medal-filter-btn');
       if (isMedalOnly) {
-        btn.className = 'flex items-center space-x-1 px-3 py-1.5 rounded-full border border-amber-500 bg-amber-500 text-white font-bold transition-all shadow-sm';
+        btn.className = 'flex items-center space-x-1.5 px-3.5 py-2 rounded-xl bg-gradient-to-r from-amber-500 to-amber-600 text-slate-950 font-black shadow-md shadow-amber-500/20 ring-2 ring-amber-400/50 transition-all';
       } else {
-        btn.className = 'flex items-center space-x-1 px-3 py-1.5 rounded-full border border-slate-300 bg-white hover:bg-amber-50 text-slate-700 font-medium transition-all shadow-2xs';
+        btn.className = 'flex items-center space-x-1.5 px-3.5 py-2 rounded-xl border border-slate-200 bg-white hover:bg-amber-50/60 hover:border-amber-300 text-slate-700 font-bold transition-all shadow-2xs group';
       }
       filterMatches();
     }
@@ -520,6 +645,7 @@
       renderMatches(filtered);
     }
 
+    // 🌟 卡片字号微调：标题 17px / 阶段 13px / 对阵 14px / 底栏 12px + 240px 宽展位
     function renderMatches(list) {
       const grid = document.getElementById('match-grid');
       const empty = document.getElementById('empty-state');
@@ -538,6 +664,7 @@
 
       list.forEach(m => {
         const isMedal = (m.Medal === '1');
+        const isOfficial = (m.Status === 'OFFICIAL');
         const time = m.DateTimeRaw ? m.DateTimeRaw.substring(11, 16) : '--:--';
         const venue = smartTranslateVenue(m.VenueDescS || m.VenueDesc);
 
@@ -545,39 +672,81 @@
         const eventTitle = smartTranslate(m.EventDesc);
         const phaseTitle = smartTranslate(m.PhaseDesc || m.UnitDesc || '');
 
+        const homeFlag = getNocFlag(m.Home?.Org || m.Home?.Code);
+        const awayFlag = getNocFlag(m.Away?.Org || m.Away?.Code);
+
         const card = document.createElement('div');
-        card.className = `bg-white rounded-xl p-4 border transition-all hover:shadow-md flex flex-col justify-between ${
-          isMedal ? 'border-amber-300 shadow-2xs bg-gradient-to-br from-white via-white to-amber-50/30' : 'border-slate-200'
-        }`;
+        
+        if (isMedal) {
+          card.className = "bg-gradient-to-b from-amber-500/[0.04] via-white to-white rounded-2xl p-5 border border-amber-300/80 shadow-xs hover:shadow-card-hover hover:border-amber-400 transition-all duration-200 flex flex-col justify-between relative overflow-hidden ring-1 ring-amber-400/20 group";
+        } else {
+          card.className = "bg-white rounded-2xl p-5 border border-slate-200/90 shadow-xs hover:shadow-card-hover hover:border-slate-300 transition-all duration-200 flex flex-col justify-between relative overflow-hidden group";
+        }
 
         card.innerHTML = `
           <div>
-            <div class="flex items-center justify-between gap-2 mb-2">
-              <span class="text-xs font-semibold px-2 py-0.5 rounded bg-slate-100 text-slate-700">${discName}</span>
-              <div class="flex items-center space-x-1.5">
-                ${isMedal ? `<span class="bg-amber-100 text-amber-800 text-[11px] font-bold px-2 py-0.5 rounded-full flex items-center gap-1">🥇 ${dict.goldBadge}</span>` : ''}
-                <span class="text-[11px] text-slate-400 font-medium">${m.Status === 'OFFICIAL' ? dict.official : dict.scheduled}</span>
+            <!-- 顶部元信息条 -->
+            <div class="flex items-center justify-between gap-2 mb-3">
+              <span class="inline-flex items-center text-xs font-bold px-2.5 py-1 rounded-lg bg-slate-100 text-slate-800 tracking-tight font-condensed">
+                ${discName}
+              </span>
+              
+              <div class="flex items-center space-x-1.5 shrink-0">
+                ${isMedal ? `
+                  <span class="inline-flex items-center gap-1 bg-gradient-to-r from-amber-400 to-amber-500 text-slate-950 text-[10px] font-black px-2.5 py-0.5 rounded-full shadow-xs">
+                    🥇 ${dict.goldBadge}
+                  </span>
+                ` : ''}
+                <span class="text-[10px] font-mono font-bold px-2 py-0.5 rounded-full ${
+                  isOfficial 
+                    ? 'bg-emerald-50 text-emerald-700 border border-emerald-200/60' 
+                    : 'bg-slate-100 text-slate-500'
+                }">
+                  ${isOfficial ? dict.official : dict.scheduled}
+                </span>
               </div>
             </div>
 
-            <h4 class="text-sm font-bold text-slate-800 leading-snug line-clamp-2">${eventTitle}</h4>
-            <p class="text-xs text-blue-600 font-medium mt-1">${phaseTitle}</p>
+            <!-- 赛事标题（微调为 17px）与阶段（微调为 13px） -->
+            <h4 class="text-[17px] font-bold text-slate-900 leading-snug line-clamp-2 font-condensed tracking-tight">
+              ${eventTitle}
+            </h4>
+            <p class="text-[13px] font-semibold text-blue-600 mt-1 uppercase tracking-wide">
+              ${phaseTitle}
+            </p>
 
+            <!-- H2H 竞技对战看板（微调为 text-sm 14px） -->
             ${m.isH2H ? `
-              <div class="mt-3 py-2 px-2.5 bg-slate-50 rounded-lg text-xs flex justify-between items-center font-medium">
-                <span class="truncate text-slate-700">${m.Home?.Name || dict.tbd}</span>
-                <span class="text-slate-400 px-2 font-bold">${dict.vs}</span>
-                <span class="truncate text-slate-700">${m.Away?.Name || dict.tbd}</span>
+              <div class="mt-4 p-3 bg-slate-50/90 border border-slate-200/60 rounded-xl text-sm flex items-center justify-between">
+                <div class="flex items-center gap-1.5 truncate max-w-[42%] font-bold text-slate-800">
+                  <span class="text-base">${homeFlag}</span>
+                  <span class="truncate">${m.Home?.Name || dict.tbd}</span>
+                </div>
+                
+                <div class="px-2 shrink-0">
+                  <span class="w-6 h-6 rounded-full bg-white border border-slate-200 text-[10px] font-mono font-black flex items-center justify-center text-slate-500 shadow-2xs">
+                    ${dict.vs}
+                  </span>
+                </div>
+
+                <div class="flex items-center gap-1.5 truncate max-w-[42%] font-bold text-slate-800 justify-end">
+                  <span class="truncate text-right">${m.Away?.Name || dict.tbd}</span>
+                  <span class="text-base">${awayFlag}</span>
+                </div>
               </div>
             ` : ''}
           </div>
 
-          <div class="mt-4 pt-3 border-t border-slate-100 flex items-center justify-between text-xs">
-            <span class="text-slate-400 flex items-center gap-1 truncate max-w-[190px]" title="${venue}">
-              🕒 ${time} | ${venue}
-            </span>
-            <button onclick="viewResultDetail('${m.Disc}', '${m.Key}')" class="text-blue-600 hover:text-blue-700 font-semibold cursor-pointer shrink-0">
-              ${dict.viewDetail} →
+          <!-- 卡片底栏（时间场馆微调为 text-xs 12px，截断放宽至 240px，按钮 13px） -->
+          <div class="mt-5 pt-3 border-t border-slate-100 flex items-center justify-between text-xs">
+            <div class="flex items-center gap-1.5 text-slate-400 truncate max-w-[240px] font-mono text-xs" title="${venue}">
+              <span class="text-slate-700 font-bold">${time}</span>
+              <span>•</span>
+              <span class="truncate">${venue}</span>
+            </div>
+            <button onclick="viewResultDetail('${m.Disc}', '${m.Key}')" class="inline-flex items-center gap-1 text-blue-600 hover:text-blue-800 text-[13px] font-bold cursor-pointer shrink-0 transition-all group-hover:translate-x-0.5">
+              <span>${dict.viewDetail}</span>
+              <span class="text-sm">→</span>
             </button>
           </div>
         `;
@@ -585,7 +754,6 @@
       });
     }
 
-    // 重点升级：1.彻底移除反应时间；2.异步探测并优雅展示官方技术公报 PDF
     async function viewResultDetail(disc, key) {
       const modal = document.getElementById('result-modal');
       const body = document.getElementById('modal-body');
@@ -598,19 +766,23 @@
       discTitle.innerText = getDiscName(disc);
       eventTitle.innerText = key;
       timeVenue.innerText = "正在拉取权威赛果归档...";
-      body.innerHTML = '<div class="text-center py-8 text-slate-400">正在加载成绩单...</div>';
-      pdfSlot.innerHTML = ''; // 重置 PDF 插槽
+      body.innerHTML = `
+        <div class="py-12 flex flex-col items-center justify-center text-slate-400">
+          <div class="w-7 h-7 border-2 border-blue-600 border-t-transparent rounded-full animate-spin mb-3"></div>
+          <p class="text-xs font-mono">LOADING OFFICIAL TIMING BULLETIN...</p>
+        </div>
+      `;
+      pdfSlot.innerHTML = '';
       modal.classList.remove('hidden');
 
-      // 🌟 2. 异步检测本地是否存在官方 PDF，若存在直接点亮专属外链按钮
       fetch(`./data/results/${key}.pdf`, { method: 'HEAD' })
         .then(res => {
           if (res.ok) {
             pdfSlot.innerHTML = `
-              <a href="./data/results/${key}.pdf" target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-1 px-2.5 py-1 bg-red-50 hover:bg-red-100 text-red-700 border border-red-200 rounded-lg text-xs font-bold transition-all shadow-2xs">
+              <a href="./data/results/${key}.pdf" target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-1.5 px-3 py-1 bg-rose-50 hover:bg-rose-100 text-rose-700 border border-rose-200/80 rounded-xl text-xs font-bold transition-all shadow-2xs">
                 <span>📄</span>
                 <span>${dict.viewPdf}</span>
-                <span class="text-[10px] text-red-400">↗</span>
+                <span class="text-[10px] text-rose-400">↗</span>
               </a>
             `;
           }
@@ -623,29 +795,49 @@
         const data = await resp.json();
 
         eventTitle.innerText = smartTranslate(data.Info?.EventDesc) || key;
-        timeVenue.innerText = `${smartTranslateVenue(data.Info?.VenueDesc)} · ${data.Info?.StatusDesc || ''}`;
+        timeVenue.innerText = `📍 ${smartTranslateVenue(data.Info?.VenueDesc)} · ${data.Info?.StatusDesc || ''}`;
 
         if (data.Competitors && data.Competitors.length > 0) {
-          let html = '<div class="divide-y divide-slate-100">';
+          let html = '<div class="space-y-1.5 mt-2">';
           data.Competitors.forEach(c => {
-            const medalIcon = c.Medal === 'ME_GOLD' ? '🥇' : (c.Medal === 'ME_SILVER' ? '🥈' : (c.Medal === 'ME_BRONZE' ? '🥉' : ''));
+            const isGold = c.Medal === 'ME_GOLD' || c.Rk === '1';
+            const isSilver = c.Medal === 'ME_SILVER' || c.Rk === '2';
+            const isBronze = c.Medal === 'ME_BRONZE' || c.Rk === '3';
             
+            let rowStyle = "bg-white border border-slate-100 text-slate-700";
+            let rankBadge = `<span class="w-6 text-center font-mono font-bold text-slate-400">${c.Rk}</span>`;
+
+            if (isGold) {
+              rowStyle = "bg-gradient-to-r from-amber-500/15 via-amber-500/5 to-white border border-amber-300/80 shadow-2xs";
+              rankBadge = `<span class="w-6 text-center text-base">🥇</span>`;
+            } else if (isSilver) {
+              rowStyle = "bg-gradient-to-r from-slate-300/25 via-slate-100/10 to-white border border-slate-300/80 shadow-2xs";
+              rankBadge = `<span class="w-6 text-center text-base">🥈</span>`;
+            } else if (isBronze) {
+              rowStyle = "bg-gradient-to-r from-amber-700/15 via-amber-700/5 to-white border border-amber-600/30 shadow-2xs";
+              rankBadge = `<span class="w-6 text-center text-base">🥉</span>`;
+            }
+
             const regId = String(c.Reg);
             const athleteProfile = athletesData[regId];
             const localizedAthleteName = athleteProfile?.[currentLang] || athleteProfile?.zh || c.Name;
+            const flag = getNocFlag(c.Org);
 
-            // 🌟 1. 彻底移除了原先的 reactionDisplay 出发反应时代码
             html += `
-              <div class="py-2.5 flex items-center justify-between">
-                <div class="flex items-center space-x-3">
-                  <span class="w-6 text-center font-bold ${c.Rk === '1' ? 'text-amber-500' : 'text-slate-400'}">${medalIcon || c.Rk}</span>
-                  <div>
-                    <p class="font-bold text-slate-800">${localizedAthleteName} <span class="text-xs text-slate-400 font-normal">(${c.Org})</span></p>
+              <div class="p-3 rounded-xl flex items-center justify-between transition-all ${rowStyle}">
+                <div class="flex items-center space-x-3 truncate">
+                  ${rankBadge}
+                  <div class="truncate">
+                    <p class="font-bold text-slate-900 truncate">
+                      <span class="mr-1">${flag}</span>
+                      <span>${localizedAthleteName}</span>
+                      <span class="text-xs font-mono font-normal text-slate-400 ml-1">(${c.Org})</span>
+                    </p>
                   </div>
                 </div>
-                <div class="text-right">
-                  <span class="font-mono font-bold text-slate-700">${c.Result}</span>
-                  ${c.RecordInd ? `<span class="ml-1 text-[10px] bg-red-100 text-red-600 px-1 py-0.5 rounded font-bold">${c.RecordInd}</span>` : ''}
+                <div class="text-right shrink-0 ml-3 flex items-center gap-1.5">
+                  <span class="font-mono font-bold text-sm text-slate-900 tabular-nums">${c.Result}</span>
+                  ${c.RecordInd ? `<span class="text-[10px] font-mono bg-rose-600 text-white px-1.5 py-0.5 rounded font-black tracking-wider uppercase">${c.RecordInd}</span>` : ''}
                 </div>
               </div>
             `;
@@ -653,14 +845,14 @@
           html += '</div>';
           body.innerHTML = html;
         } else {
-          body.innerHTML = '<div class="text-center py-8 text-slate-400">该比赛暂无参赛选手成绩明细。</div>';
+          body.innerHTML = '<div class="text-center py-12 text-slate-400">该比赛暂无参赛选手成绩明细。</div>';
         }
       } catch (err) {
         body.innerHTML = `
-          <div class="text-center py-8 text-slate-400">
-            <p class="text-2xl mb-1">⏳</p>
-            <p class="font-medium text-slate-600">本场赛果数据尚未归档</p>
-            <p class="text-xs mt-1 text-slate-400">比赛进行中或等待组委会发布正式公报。</p>
+          <div class="text-center py-12 text-slate-400">
+            <div class="w-12 h-12 rounded-2xl bg-slate-100 mx-auto flex items-center justify-center text-xl mb-2">⏳</div>
+            <p class="font-bold text-slate-700 font-condensed tracking-wide">本场赛果数据尚未归档</p>
+            <p class="text-xs mt-1 text-slate-400">比赛进行中或等待组委会发布正式技术公报。</p>
           </div>
         `;
       }
