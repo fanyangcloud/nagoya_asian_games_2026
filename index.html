@@ -107,7 +107,10 @@
       <button onclick="closeModal()" class="absolute top-4 right-4 text-slate-400 hover:text-slate-600 bg-slate-100 hover:bg-slate-200 rounded-full w-8 h-8 flex items-center justify-center font-bold">✕</button>
       
       <div class="border-b border-slate-100 pb-3 mb-4">
-        <span class="text-xs font-semibold px-2 py-0.5 rounded bg-blue-50 text-blue-600" id="modal-disc">项目</span>
+        <div class="flex items-center justify-between pr-8">
+          <span class="text-xs font-semibold px-2 py-0.5 rounded bg-blue-50 text-blue-600" id="modal-disc">项目</span>
+          <div id="modal-pdf-slot"></div>
+        </div>
         <h3 class="text-lg font-bold text-slate-800 mt-2" id="modal-event-title">比赛详情</h3>
         <p class="text-xs text-slate-400 mt-0.5" id="modal-time-venue">时间与场馆</p>
       </div>
@@ -143,7 +146,7 @@
         goldSuffix: "金",
         matchesSuffix: "场",
         todayMatchesSuffix: "今日{n}场",
-        reactionTime: "出发反应"
+        viewPdf: "官方公报 (PDF)"
       },
       ko: {
         title: "나고야 아시안게임 2026",
@@ -166,7 +169,7 @@
         goldSuffix: "금",
         matchesSuffix: "경기",
         todayMatchesSuffix: "오늘 {n}경기",
-        reactionTime: "반응 시간"
+        viewPdf: "공식 기술공보 (PDF)"
       },
       vi: {
         title: "ASIAD Nagoya 2026",
@@ -189,7 +192,7 @@
         goldSuffix: "HCV",
         matchesSuffix: "trận",
         todayMatchesSuffix: "Hôm nay {n} trận",
-        reactionTime: "Thời gian xuất phát"
+        viewPdf: "Biên bản chính thức (PDF)"
       },
       th: {
         title: "เอเชียนเกมส์ นาโกย่า 2026",
@@ -212,19 +215,15 @@
         goldSuffix: "ทอง",
         matchesSuffix: "นัด",
         todayMatchesSuffix: "วันนี้ {n} แมตช์",
-        reactionTime: "ปฏิกิริยาออกตัว"
+        viewPdf: "รายงานทางการ (PDF)"
       }
     };
 
-    // 细粒度专业体育词法字典
     const termVocabulary = {
-      // 补充精准的团体与项目词
       "Men Team": { zh: "男子团体", ko: "남자 단체", vi: "Đồng đội nam", th: "ทีมชาย" },
       "Women Team": { zh: "女子团体", ko: "여자 단체", vi: "Đồng đội nữ", th: "ทีมหญิง" },
       "Men Individual": { zh: "男子个人", ko: "남자 개인", vi: "Cá nhân nam", th: "บุคคลชาย" },
       "Women Individual": { zh: "女子个人", ko: "여자 개인", vi: "Cá nhân nữ", th: "บุคคลหญิง" },
-
-      // 泳姿 Swimming strokes
       "Backstroke": { zh: "仰泳", ko: "배영", vi: "Bơi ngửa", th: "กรรเชียง" },
       "Freestyle": { zh: "自由泳", ko: "자유형", vi: "Bơi tự do", th: "ฟรีสไตล์" },
       "Breaststroke": { zh: "蛙泳", ko: "평영", vi: "Bơi ếch", th: "กบ" },
@@ -233,8 +232,6 @@
       "Medley Relay": { zh: "混合泳接力", ko: "혼계영", vi: "Tiếp sức hỗn hợp", th: "ผลัดผสม" },
       "Freestyle Relay": { zh: "自由泳接力", ko: "계영", vi: "Tiếp sức tự do", th: "ผลัดฟรีสไตล์" },
       "Relay": { zh: "接力", ko: "계주", vi: "Tiếp sức", th: "ผลัด" },
-
-      // 空手道与武术 Martial Arts
       "Kumite": { zh: "组手(对打)", ko: "쿠미테(대련)", vi: "Đối kháng", th: "คูมิเต้(ต่อสู้)" },
       "Kata": { zh: "型(套路)", ko: "카타(품새)", vi: "Quyền kata", th: "คาตะ(ท่ารำ)" },
       "Changquan": { zh: "长拳", ko: "장권", vi: "Trường quyền", th: "ฉางฉวน" },
@@ -247,8 +244,6 @@
       "Qiangshu": { zh: "枪术", ko: "창술", vi: "Thương thuật", th: "ทวน" },
       "Nanquan": { zh: "南拳", ko: "남권", vi: "Nam quyền", th: "หนานฉวน" },
       "Sanda": { zh: "散打", ko: "산타", vi: "Tán thủ", th: "ซานต๋า" },
-
-      // 常见赛项形态
       "Mixed Doubles": { zh: "混合双打", ko: "혼합 복식", vi: "Đôi nam nữ", th: "คู่ผสม" },
       "Men's Doubles": { zh: "男子双打", ko: "남자 복식", vi: "Đôi nam", th: "ชายคู่" },
       "Women's Doubles": { zh: "女子双打", ko: "여자 복식", vi: "Đôi nữ", th: "หญิงคู่" },
@@ -261,8 +256,6 @@
       "Individual": { zh: "个人", ko: "개인전", vi: "Cá nhân", th: "บุคคล" },
       "All-Around": { zh: "全能", ko: "개인종합", vi: "Toàn năng", th: "รวมอุปกรณ์" },
       "10m Air Rifle": { zh: "10米气步枪", ko: "10m 공기소총", vi: "Súng trường hơi 10m", th: "ปืนยาวอัดลม 10 ม." },
-
-      // 阶段与组别
       "Finals": { zh: "决赛", ko: "결승전", vi: "Chung kết", th: "รอบชิงชนะเลิศ" },
       "Final": { zh: "决赛", ko: "결승", vi: "Chung kết", th: "รอบชิงชนะเลิศ" },
       "Semi-final": { zh: "半决赛", ko: "준결승", vi: "Bán kết", th: "รอบรองชนะเลิศ" },
@@ -275,15 +268,34 @@
       "Men's": { zh: "男子", ko: "남자", vi: "Nam", th: "ชาย" },
       "Women's": { zh: "女子", ko: "여자", vi: "Nữ", th: "หญิง" },
       "Mixed": { zh: "混合", ko: "혼합", vi: "Hỗn hợp", th: "ผสม" },
-      // 补充独立单词 Men / Women
       "Men": { zh: "男子", ko: "남자", vi: "Nam", th: "ชาย" },
       "Women": { zh: "女子", ko: "여자", vi: "Nữ", th: "หญิง" }
     };
 
     let disciplinesData = [];
-    let athletesData = {}; // 存储 DeepSeek AI 翻译的运动员姓名库
+    let athletesData = {};
     let currentLang = 'zh';
-    let currentDate = '2026-09-21';
+
+    // 🌟 3. 自动计算东京/当地时间（默认选中今天）
+    function getTodayTokyoDate() {
+      try {
+        const tokyoStr = new Intl.DateTimeFormat('en-CA', {
+          timeZone: 'Asia/Tokyo',
+          year: 'numeric',
+          month: '2-digit',
+          day: '2-digit'
+        }).format(new Date());
+
+        // 比赛范围限定在 2026-09-10 至 2026-10-04 之间
+        if (tokyoStr < '2026-09-10') return '2026-09-10';
+        if (tokyoStr > '2026-10-04') return '2026-10-04';
+        return tokyoStr;
+      } catch (e) {
+        return '2026-09-21';
+      }
+    }
+
+    let currentDate = getTodayTokyoDate();
     let rawDailyMatches = [];
     let isMedalOnly = false;
     let selectedDisc = 'ALL';
@@ -342,7 +354,6 @@
       return item[key] || item.name_zh || item.name_en || fallbackDesc || discCode;
     }
 
-    // 细化 Aichi (爱知) 等地名翻译
     function smartTranslateVenue(venueStr) {
       if (!venueStr) return '待定场馆';
       let v = venueStr;
@@ -401,6 +412,13 @@
         btn.innerText = monthDay;
         btn.onclick = () => selectDate(dStr);
         strip.appendChild(btn);
+
+        // 自动将当天胶囊平滑滚入可见区域
+        if (isSelected) {
+          setTimeout(() => {
+            btn.scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
+          }, 100);
+        }
       }
     }
 
@@ -567,20 +585,37 @@
       });
     }
 
-    // 重点升级：全面接入 DeepSeek 翻译的真实运动员姓名
+    // 重点升级：1.彻底移除反应时间；2.异步探测并优雅展示官方技术公报 PDF
     async function viewResultDetail(disc, key) {
       const modal = document.getElementById('result-modal');
       const body = document.getElementById('modal-body');
       const discTitle = document.getElementById('modal-disc');
       const eventTitle = document.getElementById('modal-event-title');
       const timeVenue = document.getElementById('modal-time-venue');
+      const pdfSlot = document.getElementById('modal-pdf-slot');
       const dict = i18n[currentLang];
 
       discTitle.innerText = getDiscName(disc);
       eventTitle.innerText = key;
       timeVenue.innerText = "正在拉取权威赛果归档...";
       body.innerHTML = '<div class="text-center py-8 text-slate-400">正在加载成绩单...</div>';
+      pdfSlot.innerHTML = ''; // 重置 PDF 插槽
       modal.classList.remove('hidden');
+
+      // 🌟 2. 异步检测本地是否存在官方 PDF，若存在直接点亮专属外链按钮
+      fetch(`./data/results/${key}.pdf`, { method: 'HEAD' })
+        .then(res => {
+          if (res.ok) {
+            pdfSlot.innerHTML = `
+              <a href="./data/results/${key}.pdf" target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-1 px-2.5 py-1 bg-red-50 hover:bg-red-100 text-red-700 border border-red-200 rounded-lg text-xs font-bold transition-all shadow-2xs">
+                <span>📄</span>
+                <span>${dict.viewPdf}</span>
+                <span class="text-[10px] text-red-400">↗</span>
+              </a>
+            `;
+          }
+        })
+        .catch(() => {});
 
       try {
         const resp = await fetch(`./data/results/${key}.json`);
@@ -595,21 +630,17 @@
           data.Competitors.forEach(c => {
             const medalIcon = c.Medal === 'ME_GOLD' ? '🥇' : (c.Medal === 'ME_SILVER' ? '🥈' : (c.Medal === 'ME_BRONZE' ? '🥉' : ''));
             
-            // 🌟 核心突破：优先读取 AI 翻译的多语言姓名库！
             const regId = String(c.Reg);
             const athleteProfile = athletesData[regId];
             const localizedAthleteName = athleteProfile?.[currentLang] || athleteProfile?.zh || c.Name;
 
-            const reactionVal = c.Extensions?.find(e => e.Code === 'Reaction')?.Value;
-            const reactionDisplay = reactionVal ? `<p class="text-[11px] text-slate-400">${dict.reactionTime}: ${reactionVal}s</p>` : '';
-
+            // 🌟 1. 彻底移除了原先的 reactionDisplay 出发反应时代码
             html += `
               <div class="py-2.5 flex items-center justify-between">
                 <div class="flex items-center space-x-3">
                   <span class="w-6 text-center font-bold ${c.Rk === '1' ? 'text-amber-500' : 'text-slate-400'}">${medalIcon || c.Rk}</span>
                   <div>
                     <p class="font-bold text-slate-800">${localizedAthleteName} <span class="text-xs text-slate-400 font-normal">(${c.Org})</span></p>
-                    ${reactionDisplay}
                   </div>
                 </div>
                 <div class="text-right">
@@ -654,7 +685,6 @@
       filterMatches();
     }
 
-    // 重点升级：在 init 阶段同时预载运动员姓名数据库
     async function init() {
       try {
         const res = await fetch('./data/disciplines_i18n.json');
@@ -665,7 +695,6 @@
         console.warn('加载大项字典失败，降级显示英文');
       }
 
-      // 🌟 加载 AI 翻译的选手库
       try {
         const resAth = await fetch('./data/athletes_i18n.json');
         if (resAth.ok) {
