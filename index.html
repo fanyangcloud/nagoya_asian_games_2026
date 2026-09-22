@@ -74,7 +74,7 @@
   <header class="bg-white/95 backdrop-blur-md border-b border-slate-200/80 sticky top-0 z-30 shadow-xs">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 h-18 flex items-center justify-between gap-4">
       <div class="flex items-center space-x-3.5">
-        <!-- 品牌标识徽章 -->
+        <!-- 品牌标识徽章（已移除右上角圆点） -->
         <div class="relative flex items-center justify-center w-11 h-11 rounded-2xl bg-gradient-to-tr from-blue-700 via-blue-600 to-indigo-500 text-white shadow-md shadow-blue-600/25 border border-white/20">
           <span class="font-condensed text-2xl font-black italic tracking-tighter">N</span>
         </div>
@@ -105,7 +105,7 @@
       </nav>
     </div>
 
-    <!-- 3. 日期时间罗盘横向胶囊（字号微调：星期 10px / 日期 13px） -->
+    <!-- 3. 日期时间罗盘横向胶囊（上下双层精工设计） -->
     <div class="bg-slate-100/90 border-t border-slate-200/80 px-2 sm:px-4 py-2">
       <div class="max-w-7xl mx-auto flex items-center space-x-1.5 sm:space-x-2 overflow-x-auto no-scrollbar py-0.5" id="date-strip"></div>
     </div>
@@ -140,7 +140,7 @@
   <!-- 5. 比赛卡片列表主视窗 -->
   <main class="max-w-7xl mx-auto px-4 sm:px-6 py-4 w-full flex-1">
     
-    <!-- 骨架屏 Loading -->
+    <!-- 骨架屏 Loading（已修正为标准 gap-5 间距） -->
     <div id="loading" class="w-full hidden">
       <div class="flex items-center justify-center gap-2 mb-6 text-xs font-semibold uppercase tracking-wider text-slate-400">
         <span class="inline-block w-2 h-2 rounded-full bg-blue-600 animate-ping"></span>
@@ -177,7 +177,7 @@
       <p class="text-xs text-slate-400 mt-1">请尝试切换日期或放宽过滤条件</p>
     </div>
 
-    <!-- 比赛卡片网格 -->
+    <!-- 比赛卡片网格（已修正为标准 gap-5 间距） -->
     <div id="match-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5"></div>
   </main>
 
@@ -338,7 +338,7 @@
       "Kumite": { zh: "组手(对打)", ko: "쿠미테(대련)", vi: "Đối kháng", th: "คูมิเต้(ต่อสู้)" },
       "Kata": { zh: "型(套路)", ko: "카타(품새)", vi: "Quyền kata", th: "คาตะ(ท่ารำ)" },
       "Changquan": { zh: "长拳", ko: "장권", vi: "Trường quyền", th: "ฉางฉวน" },
-      "Taijiquan & Taijijian": { zh: "太极拳·太极剑", ko: "태극권·태극검", vi: "Thái cực拳 & kiếm", th: "ไทเก๊กและกระบี่" },
+      "Taijiquan & Taijijian": { zh: "太极拳·太极剑", ko: "태극권·태극검", vi: "Thái cực quyền & kiếm", th: "ไทเก๊กและกระบี่" },
       "Taijiquan": { zh: "太极拳", ko: "태극권", vi: "Thái cực quyền", th: "ไทเก๊ก" },
       "Taijijian": { zh: "太极剑", ko: "태극검", vi: "Thái cực kiếm", th: "กระบี่ไทเก๊ก" },
       "Daoshu": { zh: "刀术", ko: "도술", vi: "Đao thuật", th: "ดาบสั้น" },
@@ -378,7 +378,7 @@
     const NOC_FLAGS = {
       CHN: '🇨🇳', JPN: '🇯🇵', KOR: '🇰🇷', THA: '🇹🇭', VIE: '🇻🇳',
       TPE: '🇹🇼', HKG: '🇭🇰', IND: '🇮🇳', INA: '🇮🇩', MAS: '🇲🇾',
-      PHI: '🇵🇭', SGP: '🇸🇬', UZB: '🇺🇿', KAZ: '🇰🇿', IRI: '🇮🇷',
+      PHI: '🇵🇭', SGP: '🇸🇬', UZB: 'UZ', KAZ: '🇰🇿', IRI: '🇮🇷',
       MGL: '🇲🇳', PRK: '🇰🇵', QAT: '🇶🇦', BRN: '🇧🇭', KSA: '🇸🇦',
       UAE: '🇦🇪', JOR: '🇯🇴', KUW: '🇰🇼', OMA: '🇴🇲', IRQ: '🇮🇶',
       PAK: '🇵🇰', SRI: '🇱🇰', BAN: '🇧🇩', NEP: '🇳🇵', KGZ: '🇰🇬',
@@ -511,7 +511,6 @@
       return v;
     }
 
-    // 🌟 日历胶囊字号微调：星期 10px / 日期 13px
     function initDateStrip() {
       const strip = document.getElementById('date-strip');
       strip.innerHTML = '';
@@ -534,8 +533,8 @@
         }`;
         
         btn.innerHTML = `
-          <span class="text-[10px] font-mono font-bold tracking-wider ${isSelected ? 'text-amber-400' : 'text-slate-400'}">${dayOfWeek}</span>
-          <span class="text-[13px] font-mono font-extrabold tracking-tight mt-0.5">${monthDay}</span>
+          <span class="text-[9px] font-mono font-bold tracking-wider ${isSelected ? 'text-amber-400' : 'text-slate-400'}">${dayOfWeek}</span>
+          <span class="text-xs font-mono font-extrabold tracking-tight mt-0.5">${monthDay}</span>
         `;
         btn.onclick = () => selectDate(dStr);
         strip.appendChild(btn);
@@ -645,7 +644,6 @@
       renderMatches(filtered);
     }
 
-    // 🌟 卡片字号微调：标题 17px / 阶段 13px / 对阵 14px / 底栏 12px + 240px 宽展位
     function renderMatches(list) {
       const grid = document.getElementById('match-grid');
       const empty = document.getElementById('empty-state');
@@ -685,7 +683,6 @@
 
         card.innerHTML = `
           <div>
-            <!-- 顶部元信息条 -->
             <div class="flex items-center justify-between gap-2 mb-3">
               <span class="inline-flex items-center text-xs font-bold px-2.5 py-1 rounded-lg bg-slate-100 text-slate-800 tracking-tight font-condensed">
                 ${discName}
@@ -707,17 +704,15 @@
               </div>
             </div>
 
-            <!-- 赛事标题（微调为 17px）与阶段（微调为 13px） -->
-            <h4 class="text-[17px] font-bold text-slate-900 leading-snug line-clamp-2 font-condensed tracking-tight">
+            <h4 class="text-[15px] font-bold text-slate-900 leading-snug line-clamp-2 font-condensed tracking-tight">
               ${eventTitle}
             </h4>
-            <p class="text-[13px] font-semibold text-blue-600 mt-1 uppercase tracking-wide">
+            <p class="text-xs font-semibold text-blue-600 mt-1 uppercase tracking-wide">
               ${phaseTitle}
             </p>
 
-            <!-- H2H 竞技对战看板（微调为 text-sm 14px） -->
             ${m.isH2H ? `
-              <div class="mt-4 p-3 bg-slate-50/90 border border-slate-200/60 rounded-xl text-sm flex items-center justify-between">
+              <div class="mt-4 p-3 bg-slate-50/90 border border-slate-200/60 rounded-xl text-xs flex items-center justify-between">
                 <div class="flex items-center gap-1.5 truncate max-w-[42%] font-bold text-slate-800">
                   <span class="text-base">${homeFlag}</span>
                   <span class="truncate">${m.Home?.Name || dict.tbd}</span>
@@ -737,14 +732,13 @@
             ` : ''}
           </div>
 
-          <!-- 卡片底栏（时间场馆微调为 text-xs 12px，截断放宽至 240px，按钮 13px） -->
           <div class="mt-5 pt-3 border-t border-slate-100 flex items-center justify-between text-xs">
-            <div class="flex items-center gap-1.5 text-slate-400 truncate max-w-[240px] font-mono text-xs" title="${venue}">
-              <span class="text-slate-700 font-bold">${time}</span>
+            <div class="flex items-center gap-1.5 text-slate-400 truncate max-w-[190px] font-mono text-[11px]" title="${venue}">
+              <span class="text-slate-600 font-bold">${time}</span>
               <span>•</span>
               <span class="truncate">${venue}</span>
             </div>
-            <button onclick="viewResultDetail('${m.Disc}', '${m.Key}')" class="inline-flex items-center gap-1 text-blue-600 hover:text-blue-800 text-[13px] font-bold cursor-pointer shrink-0 transition-all group-hover:translate-x-0.5">
+            <button onclick="viewResultDetail('${m.Disc}', '${m.Key}')" class="inline-flex items-center gap-1 text-blue-600 hover:text-blue-800 font-bold cursor-pointer shrink-0 transition-all group-hover:translate-x-0.5">
               <span>${dict.viewDetail}</span>
               <span class="text-sm">→</span>
             </button>
