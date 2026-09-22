@@ -1,0 +1,4591 @@
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "BDM",
+    "DiscDesc": "Badminton",
+    "Key": "M.TEAM--------------.8FNL.00060000",
+    "isH2H": true,
+    "Type": "T",
+    "Medal": "",
+    "Status": "OFFICIAL",
+    "StatusDesc": "Official",
+    "DateTimeRaw": "2026-09-21T15:00:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "",
+    "HideLocation": false,
+    "Venue": "IMG",
+    "VenueDesc": "Ichinomiya City Municipal Gymnasium",
+    "VenueDescS": "Ichinomiya City Municipal Gymnasium",
+    "Loc": "002",
+    "LocDesc": "Court 2",
+    "LocDescS": "Court 2",
+    "Event": "M.TEAM--------------",
+    "EventDesc": "Men's Team",
+    "Phase": "M.TEAM--------------.8FNL",
+    "PhaseOrder": 4,
+    "PhaseDesc": "Men's Team 1st Round",
+    "PhaseDescS": "Men's Team R1",
+    "PhaseDescA": "1st Round",
+    "UnitDesc": "Men's Team 1st Round Tie 6",
+    "UnitDescS": "Men's Team R1 Match  6",
+    "UnitDescA": "Tie 6",
+    "UnitNum": "2",
+    "IsLive": false,
+    "ShowResults": true,
+    "HasActions": true,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "0-3",
+    "ResDetail": "0-2, 0-2, 0-2",
+    "Duration": "",
+    "CurrentPeriod": 0,
+    "Current": "",
+    "Last": "",
+    "Extensions": [
+      {
+        "Type": "UNIT_INFO",
+        "Code": "DurationHHMM",
+        "Pos": 0,
+        "Value": "",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "InfoMatch",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "InfoTeam",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "ReceivedDuration",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "ResultDetailWinner",
+        "Pos": 0,
+        "Value": "",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "ServerHomeAway",
+        "Pos": 0,
+        "Value": "",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "SubMatchNum",
+        "Pos": 0,
+        "Value": "",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "SubunitOrder",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "TeamMatchDuration",
+        "Pos": 0,
+        "Value": "1h47min",
+        "Extensions": []
+      }
+    ],
+    "Periods": [
+      {
+        "Order": 1,
+        "Duration": "",
+        "Distance": "0",
+        "ResHome": "0",
+        "ResAway": "0",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "Game 1",
+        "DescS": "G1"
+      },
+      {
+        "Order": 2,
+        "Duration": "",
+        "Distance": "0",
+        "ResHome": "0",
+        "ResAway": "0",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "Game 2",
+        "DescS": "G2"
+      },
+      {
+        "Order": 3,
+        "Duration": "",
+        "Distance": "0",
+        "ResHome": "0",
+        "ResAway": "0",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "Game 3",
+        "DescS": "G3"
+      }
+    ],
+    "Paralympic": false
+  },
+  "Competitors": [
+    {
+      "Reg": "BDMMTEAM-------KAZ01",
+      "Bib": "",
+      "Org": "KAZ",
+      "StartOrder": "1",
+      "StartSortOrder": 1,
+      "Rk": "2",
+      "RkEq": false,
+      "RkPo": 2,
+      "WLT": "L",
+      "Result": "0",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BlackCard",
+          "Pos": 0,
+          "Value": "False",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BlackCardAwayScore",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BlackCardGame",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BlackCardHomeScore",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Game1DetailCards",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Game2DetailCards",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Game3DetailCards",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "RedCard",
+          "Pos": 0,
+          "Value": "False",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "WorldRanking",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "YellowCard",
+          "Pos": 0,
+          "Value": "False",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "YellowCardAwayScore",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "YellowCardGame",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "YellowCardHomeScore",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "MemberServer",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "Server",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        }
+      ],
+      "Name": "Kazakhstan",
+      "NameS": "Kazakhstan",
+      "OrgDesc": "Kazakhstan",
+      "Splits": [
+        {
+          "Category": "",
+          "Distance": "0",
+          "Rk": "0",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "0",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "0",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": []
+        },
+        {
+          "Category": "",
+          "Distance": "0",
+          "Rk": "0",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "0",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "0",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": []
+        },
+        {
+          "Category": "",
+          "Distance": "0",
+          "Rk": "0",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "0",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "0",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "",
+      "Members": [
+        {
+          "Reg": "12885633",
+          "Org": "KAZ",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Order": 1,
+          "Substitute": false,
+          "Result": "0",
+          "Extensions": [],
+          "Guides": [],
+          "Name": "PANARIN Dmitriy",
+          "NameS": "PANARIN D",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "12885735",
+          "Org": "KAZ",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Order": 2,
+          "Substitute": false,
+          "Result": "0",
+          "Extensions": [],
+          "Guides": [],
+          "Name": "NIYAZOV Artur",
+          "NameS": "NIYAZOV A",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "12885837",
+          "Org": "KAZ",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Order": 3,
+          "Substitute": false,
+          "Result": "0",
+          "Extensions": [],
+          "Guides": [],
+          "Name": "KULMATOV Khaitmurat",
+          "NameS": "KULMATOV K",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "12885939",
+          "Org": "KAZ",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Order": 4,
+          "Substitute": false,
+          "Result": "0",
+          "Extensions": [],
+          "Guides": [],
+          "Name": "TAJIBULLAYEV Makhsut",
+          "NameS": "TAJIBULLAYEV M",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        }
+      ]
+    },
+    {
+      "Reg": "BDMMTEAM-------JPN01",
+      "Bib": "",
+      "Org": "JPN",
+      "StartOrder": "2",
+      "StartSortOrder": 2,
+      "Rk": "1",
+      "RkEq": false,
+      "RkPo": 1,
+      "WLT": "W",
+      "Result": "3",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BlackCard",
+          "Pos": 0,
+          "Value": "False",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BlackCardAwayScore",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BlackCardGame",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BlackCardHomeScore",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Game1DetailCards",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Game2DetailCards",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Game3DetailCards",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "RedCard",
+          "Pos": 0,
+          "Value": "False",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "WorldRanking",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "YellowCard",
+          "Pos": 0,
+          "Value": "False",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "YellowCardAwayScore",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "YellowCardGame",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "YellowCardHomeScore",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "MemberServer",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "Server",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        }
+      ],
+      "Name": "Japan",
+      "NameS": "Japan",
+      "OrgDesc": "Japan",
+      "Splits": [
+        {
+          "Category": "",
+          "Distance": "0",
+          "Rk": "0",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "0",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "0",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": []
+        },
+        {
+          "Category": "",
+          "Distance": "0",
+          "Rk": "0",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "0",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "0",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": []
+        },
+        {
+          "Category": "",
+          "Distance": "0",
+          "Rk": "0",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "0",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "0",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "",
+      "Members": [
+        {
+          "Reg": "13965531",
+          "Org": "JPN",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Order": 1,
+          "Substitute": false,
+          "Result": "0",
+          "Extensions": [],
+          "Guides": [],
+          "Name": "SHIMOGAMI Yuichi",
+          "NameS": "SHIMOGAMI Y",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "13965770",
+          "Org": "JPN",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Order": 2,
+          "Substitute": false,
+          "Result": "0",
+          "Extensions": [],
+          "Guides": [],
+          "Name": "TANAKA Yushi",
+          "NameS": "TANAKA Y",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "13965874",
+          "Org": "JPN",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Order": 3,
+          "Substitute": false,
+          "Result": "0",
+          "Extensions": [],
+          "Guides": [],
+          "Name": "NISHI Hiroki",
+          "NameS": "NISHI H",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "13966306",
+          "Org": "JPN",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Order": 4,
+          "Substitute": false,
+          "Result": "0",
+          "Extensions": [],
+          "Guides": [],
+          "Name": "KUMAGAI Kakeru",
+          "NameS": "KUMAGAI K",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "13966973",
+          "Org": "JPN",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Order": 5,
+          "Substitute": false,
+          "Result": "0",
+          "Extensions": [],
+          "Guides": [],
+          "Name": "KOBAYASHI Yugo",
+          "NameS": "KOBAYASHI Y",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "13967099",
+          "Org": "JPN",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Order": 6,
+          "Substitute": false,
+          "Result": "0",
+          "Extensions": [],
+          "Guides": [],
+          "Name": "HOKI Takuro",
+          "NameS": "HOKI T",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "13967208",
+          "Org": "JPN",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Order": 7,
+          "Substitute": false,
+          "Result": "0",
+          "Extensions": [],
+          "Guides": [],
+          "Name": "NARAOKA Kodai",
+          "NameS": "NARAOKA K",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "13967331",
+          "Org": "JPN",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Order": 8,
+          "Substitute": false,
+          "Result": "0",
+          "Extensions": [],
+          "Guides": [],
+          "Name": "WATANABE Koki",
+          "NameS": "WATANABE K",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "13967455",
+          "Org": "JPN",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Order": 9,
+          "Substitute": false,
+          "Result": "0",
+          "Extensions": [],
+          "Guides": [],
+          "Name": "NISHIMOTO Kenta",
+          "NameS": "NISHIMOTO K",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "13967877",
+          "Org": "JPN",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Order": 10,
+          "Substitute": false,
+          "Result": "0",
+          "Extensions": [],
+          "Guides": [],
+          "Name": "WATANABE Yuta",
+          "NameS": "WATANABE Y",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        }
+      ]
+    }
+  ],
+  "SubUnits": [
+    {
+      "Info": {
+        "RSC": "M.TEAM--------------.8FNL.00060001",
+        "IsPhase": false,
+        "Disc": "BDM",
+        "DiscDesc": "Badminton",
+        "Key": "M.TEAM--------------.8FNL.00060001",
+        "isH2H": true,
+        "Type": "A",
+        "Medal": "",
+        "Status": "OFFICIAL",
+        "StatusDesc": "Official",
+        "DateTimeRaw": "2026-09-21T15:00:00+09:00",
+        "HideStartDate": false,
+        "Estimated": true,
+        "EstText": "",
+        "HideLocation": false,
+        "Venue": "IMG",
+        "VenueDesc": "Ichinomiya City Municipal Gymnasium",
+        "VenueDescS": "Ichinomiya City Municipal Gymnasium",
+        "Loc": "002",
+        "LocDesc": "Court 2",
+        "LocDescS": "Court 2",
+        "Event": "M.TEAM--------------",
+        "EventDesc": "Men's Team",
+        "Phase": "M.TEAM--------------.8FNL",
+        "PhaseOrder": 4,
+        "PhaseDesc": "Men's Team 1st Round",
+        "PhaseDescS": "Men's Team R1",
+        "PhaseDescA": "1st Round",
+        "UnitDesc": "Men's Team 1st Round Tie 6 Match 1",
+        "UnitDescS": "Men's Team R1 Match  6 Match 1",
+        "UnitDescA": "Tie 6 Match 1",
+        "UnitNum": "",
+        "IsLive": false,
+        "ShowResults": true
+      },
+      "Results": {
+        "Result": "",
+        "ResDetail": "14-21, 7-21",
+        "Duration": "00:27:00",
+        "CurrentPeriod": 2,
+        "Extensions": [
+          {
+            "Type": "UNIT_INFO",
+            "Code": "DurationHHMM",
+            "Pos": 0,
+            "Value": "27min",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "InfoMatch",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "InfoTeam",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "ReceivedDuration",
+            "Pos": 0,
+            "Value": "30",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "ResultDetailWinner",
+            "Pos": 0,
+            "Value": "21-14, 21-7",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "ServerHomeAway",
+            "Pos": 0,
+            "Value": "2",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "SubMatchNum",
+            "Pos": 0,
+            "Value": "1",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "SubunitOrder",
+            "Pos": 0,
+            "Value": "1",
+            "Extensions": []
+          }
+        ],
+        "Stats": {
+          "ST_AVERAGE_RALLY_SECONDS": "27",
+          "ST_BIGGEST_COMEBACK": "",
+          "ST_BIGGEST_LEAD": "",
+          "ST_BLACK_CARD": "",
+          "ST_GAME_POINTS": "",
+          "ST_LONGEST_RALLY_SECONDS": "102",
+          "ST_MATCH_POINTS": "",
+          "ST_MOST_CONSECUTIVE_POINTS": "",
+          "ST_POINTS_SCORED_NO_SERVICE": "",
+          "ST_POINTS_SCORED_SERVICE": "",
+          "ST_RED_CARD": "",
+          "ST_SHUTTLES_USED": "15",
+          "ST_TOTAL_POINTS_LOST": "63",
+          "ST_TOTAL_POINTS_PLAYED": "",
+          "ST_TOTAL_POINTS_WON": "63",
+          "ST_TOTAL_RALLIES_SECONDS": "1701",
+          "ST_YELLOW_CARD": ""
+        },
+        "Periods": [
+          {
+            "Order": 1,
+            "Duration": "16:00",
+            "Distance": "0",
+            "ResHome": "14",
+            "ResAway": "21",
+            "TotHome": "",
+            "TotAway": "",
+            "Extensions": [],
+            "Stats": {
+              "ST_AVERAGE_RALLY_SECONDS": "28",
+              "ST_BIGGEST_COMEBACK": "",
+              "ST_BIGGEST_LEAD": "",
+              "ST_BLACK_CARD": "",
+              "ST_GAME_POINTS": "",
+              "ST_LONGEST_RALLY_SECONDS": "102",
+              "ST_MATCH_POINTS": "",
+              "ST_MOST_CONSECUTIVE_POINTS": "",
+              "ST_POINTS_SCORED_NO_SERVICE": "",
+              "ST_POINTS_SCORED_SERVICE": "",
+              "ST_RED_CARD": "",
+              "ST_SHUTTLES_USED": "9",
+              "ST_TOTAL_POINTS_LOST": "35",
+              "ST_TOTAL_POINTS_PLAYED": "",
+              "ST_TOTAL_POINTS_WON": "35",
+              "ST_TOTAL_RALLIES_SECONDS": "995",
+              "ST_YELLOW_CARD": ""
+            },
+            "Desc": "Game 1",
+            "DescS": "G1"
+          },
+          {
+            "Order": 2,
+            "Duration": "11:00",
+            "Distance": "0",
+            "ResHome": "7",
+            "ResAway": "21",
+            "TotHome": "",
+            "TotAway": "",
+            "Extensions": [],
+            "Stats": {
+              "ST_AVERAGE_RALLY_SECONDS": "25",
+              "ST_BIGGEST_COMEBACK": "",
+              "ST_BIGGEST_LEAD": "",
+              "ST_BLACK_CARD": "",
+              "ST_GAME_POINTS": "",
+              "ST_LONGEST_RALLY_SECONDS": "77",
+              "ST_MATCH_POINTS": "",
+              "ST_MOST_CONSECUTIVE_POINTS": "",
+              "ST_POINTS_SCORED_NO_SERVICE": "",
+              "ST_POINTS_SCORED_SERVICE": "",
+              "ST_RED_CARD": "",
+              "ST_SHUTTLES_USED": "6",
+              "ST_TOTAL_POINTS_LOST": "28",
+              "ST_TOTAL_POINTS_PLAYED": "",
+              "ST_TOTAL_POINTS_WON": "28",
+              "ST_TOTAL_RALLIES_SECONDS": "706",
+              "ST_YELLOW_CARD": ""
+            },
+            "Desc": "Game 2",
+            "DescS": "G2"
+          },
+          {
+            "Order": 3,
+            "Duration": "",
+            "Distance": "0",
+            "ResHome": "0",
+            "ResAway": "0",
+            "TotHome": "",
+            "TotAway": "",
+            "Extensions": [],
+            "Desc": "Game 3",
+            "DescS": "G3"
+          }
+        ],
+        "Officials": [
+          {
+            "Reg": "1847795",
+            "Org": "INA",
+            "Order": 1,
+            "Function": "UMP",
+            "Extensions": [],
+            "Bib": "",
+            "FuncOrder": "5",
+            "OrgDesc": "Indonesia",
+            "Name": "OSCARIANO Robbertus Tommy",
+            "NameS": "OSCARIANO R",
+            "FuncDesc": "Umpire"
+          },
+          {
+            "Reg": "1996511",
+            "Org": "PHI",
+            "Order": 2,
+            "Function": "SJ",
+            "Extensions": [],
+            "Bib": "",
+            "FuncOrder": "6",
+            "OrgDesc": "Philippines",
+            "Name": "FUNDAL Ma Janelyn",
+            "NameS": "FUNDAL M",
+            "FuncDesc": "Service Judge"
+          }
+        ]
+      },
+      "Competitors": [
+        {
+          "Reg": "12885633",
+          "Bib": "",
+          "Org": "KAZ",
+          "StartOrder": "1",
+          "StartSortOrder": 1,
+          "Rk": "2",
+          "RkEq": false,
+          "RkPo": 2,
+          "WLT": "L",
+          "Result": "0",
+          "ResDetail": "0",
+          "ResInfo": "",
+          "IRM": "OK",
+          "Qualified": "",
+          "RecordInd": "",
+          "Lane": "",
+          "Seed": "0",
+          "Diff": "",
+          "Extensions": [
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardAwayScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardGame",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardHomeScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game1DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game2DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game3DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "RedCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "TeamRes",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "WorldRanking",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardAwayScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardGame",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardHomeScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "SERVICE",
+              "Code": "MemberServer",
+              "Pos": 0,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "SERVICE",
+              "Code": "Server",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Stats": {
+            "ST_AVERAGE_RALLY_SECONDS": "",
+            "ST_BIGGEST_COMEBACK": "1",
+            "ST_BIGGEST_LEAD": "0",
+            "ST_BLACK_CARD": "",
+            "ST_GAME_POINTS": "",
+            "ST_LONGEST_RALLY_SECONDS": "",
+            "ST_MATCH_POINTS": "",
+            "ST_MOST_CONSECUTIVE_POINTS": "2",
+            "ST_POINTS_SCORED_NO_SERVICE": "11",
+            "ST_POINTS_SCORED_SERVICE": "3",
+            "ST_RED_CARD": "",
+            "ST_SHUTTLES_USED": "",
+            "ST_TOTAL_POINTS_LOST": "42",
+            "ST_TOTAL_POINTS_PLAYED": "63",
+            "ST_TOTAL_POINTS_WON": "21",
+            "ST_TOTAL_RALLIES_SECONDS": "",
+            "ST_YELLOW_CARD": ""
+          },
+          "Name": "PANARIN Dmitriy",
+          "NameS": "PANARIN D",
+          "OrgDesc": "Kazakhstan",
+          "Splits": [
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "2",
+              "RkEq": false,
+              "RkPo": 2,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "14",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": [],
+              "Stats": {
+                "ST_AVERAGE_RALLY_SECONDS": "",
+                "ST_BIGGEST_COMEBACK": "",
+                "ST_BIGGEST_LEAD": "0",
+                "ST_BLACK_CARD": "",
+                "ST_GAME_POINTS": "",
+                "ST_LONGEST_RALLY_SECONDS": "",
+                "ST_MATCH_POINTS": "",
+                "ST_MOST_CONSECUTIVE_POINTS": "2",
+                "ST_POINTS_SCORED_NO_SERVICE": "11",
+                "ST_POINTS_SCORED_SERVICE": "3",
+                "ST_RED_CARD": "",
+                "ST_SHUTTLES_USED": "",
+                "ST_TOTAL_POINTS_LOST": "21",
+                "ST_TOTAL_POINTS_PLAYED": "35",
+                "ST_TOTAL_POINTS_WON": "14",
+                "ST_TOTAL_RALLIES_SECONDS": "",
+                "ST_YELLOW_CARD": ""
+              }
+            },
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "2",
+              "RkEq": false,
+              "RkPo": 2,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "7",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": [],
+              "Stats": {
+                "ST_AVERAGE_RALLY_SECONDS": "",
+                "ST_BIGGEST_COMEBACK": "",
+                "ST_BIGGEST_LEAD": "0",
+                "ST_BLACK_CARD": "",
+                "ST_GAME_POINTS": "",
+                "ST_LONGEST_RALLY_SECONDS": "",
+                "ST_MATCH_POINTS": "",
+                "ST_MOST_CONSECUTIVE_POINTS": "2",
+                "ST_POINTS_SCORED_NO_SERVICE": "6",
+                "ST_POINTS_SCORED_SERVICE": "1",
+                "ST_RED_CARD": "",
+                "ST_SHUTTLES_USED": "",
+                "ST_TOTAL_POINTS_LOST": "21",
+                "ST_TOTAL_POINTS_PLAYED": "28",
+                "ST_TOTAL_POINTS_WON": "7",
+                "ST_TOTAL_RALLIES_SECONDS": "",
+                "ST_YELLOW_CARD": ""
+              }
+            },
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "0",
+              "RkEq": false,
+              "RkPo": 0,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "0",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": []
+            }
+          ],
+          "FreeResInfo": "",
+          "Medal": ""
+        },
+        {
+          "Reg": "13967331",
+          "Bib": "",
+          "Org": "JPN",
+          "StartOrder": "2",
+          "StartSortOrder": 2,
+          "Rk": "1",
+          "RkEq": false,
+          "RkPo": 1,
+          "WLT": "W",
+          "Result": "2",
+          "ResDetail": "2",
+          "ResInfo": "",
+          "IRM": "OK",
+          "Qualified": "",
+          "RecordInd": "",
+          "Lane": "",
+          "Seed": "0",
+          "Diff": "",
+          "Extensions": [
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardAwayScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardGame",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardHomeScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game1DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game2DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game3DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "RedCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "TeamRes",
+              "Pos": 0,
+              "Value": "3",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "WorldRanking",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardAwayScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardGame",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardHomeScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "SERVICE",
+              "Code": "MemberServer",
+              "Pos": 0,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "SERVICE",
+              "Code": "Server",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            }
+          ],
+          "Stats": {
+            "ST_AVERAGE_RALLY_SECONDS": "",
+            "ST_BIGGEST_COMEBACK": "0",
+            "ST_BIGGEST_LEAD": "15",
+            "ST_BLACK_CARD": "",
+            "ST_GAME_POINTS": "3",
+            "ST_LONGEST_RALLY_SECONDS": "",
+            "ST_MATCH_POINTS": "2",
+            "ST_MOST_CONSECUTIVE_POINTS": "12",
+            "ST_POINTS_SCORED_NO_SERVICE": "12",
+            "ST_POINTS_SCORED_SERVICE": "15",
+            "ST_RED_CARD": "",
+            "ST_SHUTTLES_USED": "",
+            "ST_TOTAL_POINTS_LOST": "21",
+            "ST_TOTAL_POINTS_PLAYED": "63",
+            "ST_TOTAL_POINTS_WON": "42",
+            "ST_TOTAL_RALLIES_SECONDS": "",
+            "ST_YELLOW_CARD": ""
+          },
+          "Name": "WATANABE Koki",
+          "NameS": "WATANABE K",
+          "OrgDesc": "Japan",
+          "Splits": [
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "1",
+              "RkEq": false,
+              "RkPo": 1,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "21",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": [],
+              "Stats": {
+                "ST_AVERAGE_RALLY_SECONDS": "",
+                "ST_BIGGEST_COMEBACK": "0",
+                "ST_BIGGEST_LEAD": "7",
+                "ST_BLACK_CARD": "",
+                "ST_GAME_POINTS": "1",
+                "ST_LONGEST_RALLY_SECONDS": "",
+                "ST_MATCH_POINTS": "",
+                "ST_MOST_CONSECUTIVE_POINTS": "4",
+                "ST_POINTS_SCORED_NO_SERVICE": "12",
+                "ST_POINTS_SCORED_SERVICE": "9",
+                "ST_RED_CARD": "",
+                "ST_SHUTTLES_USED": "",
+                "ST_TOTAL_POINTS_LOST": "14",
+                "ST_TOTAL_POINTS_PLAYED": "35",
+                "ST_TOTAL_POINTS_WON": "21",
+                "ST_TOTAL_RALLIES_SECONDS": "",
+                "ST_YELLOW_CARD": ""
+              }
+            },
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "1",
+              "RkEq": false,
+              "RkPo": 1,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "21",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": [],
+              "Stats": {
+                "ST_AVERAGE_RALLY_SECONDS": "",
+                "ST_BIGGEST_COMEBACK": "0",
+                "ST_BIGGEST_LEAD": "15",
+                "ST_BLACK_CARD": "",
+                "ST_GAME_POINTS": "2",
+                "ST_LONGEST_RALLY_SECONDS": "",
+                "ST_MATCH_POINTS": "2",
+                "ST_MOST_CONSECUTIVE_POINTS": "12",
+                "ST_POINTS_SCORED_NO_SERVICE": "6",
+                "ST_POINTS_SCORED_SERVICE": "15",
+                "ST_RED_CARD": "",
+                "ST_SHUTTLES_USED": "",
+                "ST_TOTAL_POINTS_LOST": "7",
+                "ST_TOTAL_POINTS_PLAYED": "28",
+                "ST_TOTAL_POINTS_WON": "21",
+                "ST_TOTAL_RALLIES_SECONDS": "",
+                "ST_YELLOW_CARD": ""
+              }
+            },
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "0",
+              "RkEq": false,
+              "RkPo": 0,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "0",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": []
+            }
+          ],
+          "FreeResInfo": "",
+          "Medal": ""
+        }
+      ],
+      "HasStats": true
+    },
+    {
+      "Info": {
+        "RSC": "M.TEAM--------------.8FNL.00060003",
+        "IsPhase": false,
+        "Disc": "BDM",
+        "DiscDesc": "Badminton",
+        "Key": "M.TEAM--------------.8FNL.00060003",
+        "isH2H": true,
+        "Type": "A",
+        "Medal": "",
+        "Status": "OFFICIAL",
+        "StatusDesc": "Official",
+        "DateTimeRaw": "2026-09-21T15:40:00+09:00",
+        "HideStartDate": false,
+        "Estimated": true,
+        "EstText": "",
+        "HideLocation": false,
+        "Venue": "IMG",
+        "VenueDesc": "Ichinomiya City Municipal Gymnasium",
+        "VenueDescS": "Ichinomiya City Municipal Gymnasium",
+        "Loc": "002",
+        "LocDesc": "Court 2",
+        "LocDescS": "Court 2",
+        "Event": "M.TEAM--------------",
+        "EventDesc": "Men's Team",
+        "Phase": "M.TEAM--------------.8FNL",
+        "PhaseOrder": 4,
+        "PhaseDesc": "Men's Team 1st Round",
+        "PhaseDescS": "Men's Team R1",
+        "PhaseDescA": "1st Round",
+        "UnitDesc": "Men's Team 1st Round Tie 6 Match 2",
+        "UnitDescS": "Men's Team R1 Match  6 Match 2",
+        "UnitDescA": "Tie 6 Match 2",
+        "UnitNum": "",
+        "IsLive": false,
+        "ShowResults": true
+      },
+      "Results": {
+        "Result": "",
+        "ResDetail": "7-21, 9-21",
+        "Duration": "00:25:00",
+        "CurrentPeriod": 2,
+        "Extensions": [
+          {
+            "Type": "UNIT_INFO",
+            "Code": "DurationHHMM",
+            "Pos": 0,
+            "Value": "25min",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "InfoMatch",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "InfoTeam",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "ReceivedDuration",
+            "Pos": 0,
+            "Value": "27",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "ResultDetailWinner",
+            "Pos": 0,
+            "Value": "21-7, 21-9",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "ServerHomeAway",
+            "Pos": 0,
+            "Value": "2",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "SubMatchNum",
+            "Pos": 0,
+            "Value": "3",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "SubunitOrder",
+            "Pos": 0,
+            "Value": "2",
+            "Extensions": []
+          }
+        ],
+        "Stats": {
+          "ST_AVERAGE_RALLY_SECONDS": "24",
+          "ST_BIGGEST_COMEBACK": "",
+          "ST_BIGGEST_LEAD": "",
+          "ST_BLACK_CARD": "",
+          "ST_GAME_POINTS": "",
+          "ST_LONGEST_RALLY_SECONDS": "172",
+          "ST_MATCH_POINTS": "",
+          "ST_MOST_CONSECUTIVE_POINTS": "",
+          "ST_POINTS_SCORED_NO_SERVICE": "",
+          "ST_POINTS_SCORED_SERVICE": "",
+          "ST_RED_CARD": "",
+          "ST_SHUTTLES_USED": "12",
+          "ST_TOTAL_POINTS_LOST": "58",
+          "ST_TOTAL_POINTS_PLAYED": "",
+          "ST_TOTAL_POINTS_WON": "58",
+          "ST_TOTAL_RALLIES_SECONDS": "1400",
+          "ST_YELLOW_CARD": ""
+        },
+        "Periods": [
+          {
+            "Order": 1,
+            "Duration": "11:00",
+            "Distance": "0",
+            "ResHome": "7",
+            "ResAway": "21",
+            "TotHome": "",
+            "TotAway": "",
+            "Extensions": [],
+            "Stats": {
+              "ST_AVERAGE_RALLY_SECONDS": "18",
+              "ST_BIGGEST_COMEBACK": "",
+              "ST_BIGGEST_LEAD": "",
+              "ST_BLACK_CARD": "",
+              "ST_GAME_POINTS": "",
+              "ST_LONGEST_RALLY_SECONDS": "36",
+              "ST_MATCH_POINTS": "",
+              "ST_MOST_CONSECUTIVE_POINTS": "",
+              "ST_POINTS_SCORED_NO_SERVICE": "",
+              "ST_POINTS_SCORED_SERVICE": "",
+              "ST_RED_CARD": "",
+              "ST_SHUTTLES_USED": "7",
+              "ST_TOTAL_POINTS_LOST": "28",
+              "ST_TOTAL_POINTS_PLAYED": "",
+              "ST_TOTAL_POINTS_WON": "28",
+              "ST_TOTAL_RALLIES_SECONDS": "517",
+              "ST_YELLOW_CARD": ""
+            },
+            "Desc": "Game 1",
+            "DescS": "G1"
+          },
+          {
+            "Order": 2,
+            "Duration": "14:00",
+            "Distance": "0",
+            "ResHome": "9",
+            "ResAway": "21",
+            "TotHome": "",
+            "TotAway": "",
+            "Extensions": [],
+            "Stats": {
+              "ST_AVERAGE_RALLY_SECONDS": "29",
+              "ST_BIGGEST_COMEBACK": "",
+              "ST_BIGGEST_LEAD": "",
+              "ST_BLACK_CARD": "",
+              "ST_GAME_POINTS": "",
+              "ST_LONGEST_RALLY_SECONDS": "172",
+              "ST_MATCH_POINTS": "",
+              "ST_MOST_CONSECUTIVE_POINTS": "",
+              "ST_POINTS_SCORED_NO_SERVICE": "",
+              "ST_POINTS_SCORED_SERVICE": "",
+              "ST_RED_CARD": "",
+              "ST_SHUTTLES_USED": "5",
+              "ST_TOTAL_POINTS_LOST": "30",
+              "ST_TOTAL_POINTS_PLAYED": "",
+              "ST_TOTAL_POINTS_WON": "30",
+              "ST_TOTAL_RALLIES_SECONDS": "883",
+              "ST_YELLOW_CARD": ""
+            },
+            "Desc": "Game 2",
+            "DescS": "G2"
+          },
+          {
+            "Order": 3,
+            "Duration": "",
+            "Distance": "0",
+            "ResHome": "0",
+            "ResAway": "0",
+            "TotHome": "",
+            "TotAway": "",
+            "Extensions": [],
+            "Desc": "Game 3",
+            "DescS": "G3"
+          }
+        ],
+        "Officials": [
+          {
+            "Reg": "1795782",
+            "Org": "IRI",
+            "Order": 1,
+            "Function": "UMP",
+            "Extensions": [],
+            "Bib": "",
+            "FuncOrder": "5",
+            "OrgDesc": "Islamic Republic of Iran",
+            "Name": "ARMIN MEHR Hermin",
+            "NameS": "ARMIN MEHR H",
+            "FuncDesc": "Umpire"
+          },
+          {
+            "Reg": "1882210",
+            "Org": "BRN",
+            "Order": 2,
+            "Function": "SJ",
+            "Extensions": [],
+            "Bib": "",
+            "FuncOrder": "6",
+            "OrgDesc": "Bahrain",
+            "Name": "JOJAN VELIYAKATH John",
+            "NameS": "JOJAN VELIYAKATH J",
+            "FuncDesc": "Service Judge"
+          }
+        ]
+      },
+      "Competitors": [
+        {
+          "Reg": "12885939",
+          "Bib": "",
+          "Org": "KAZ",
+          "StartOrder": "1",
+          "StartSortOrder": 1,
+          "Rk": "2",
+          "RkEq": false,
+          "RkPo": 2,
+          "WLT": "L",
+          "Result": "0",
+          "ResDetail": "0",
+          "ResInfo": "",
+          "IRM": "OK",
+          "Qualified": "",
+          "RecordInd": "",
+          "Lane": "",
+          "Seed": "0",
+          "Diff": "",
+          "Extensions": [
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardAwayScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardGame",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardHomeScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game1DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game2DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game3DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "RedCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "TeamRes",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "WorldRanking",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardAwayScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardGame",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardHomeScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "SERVICE",
+              "Code": "MemberServer",
+              "Pos": 0,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "SERVICE",
+              "Code": "Server",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Stats": {
+            "ST_AVERAGE_RALLY_SECONDS": "",
+            "ST_BIGGEST_COMEBACK": "2",
+            "ST_BIGGEST_LEAD": "2",
+            "ST_BLACK_CARD": "",
+            "ST_GAME_POINTS": "",
+            "ST_LONGEST_RALLY_SECONDS": "",
+            "ST_MATCH_POINTS": "",
+            "ST_MOST_CONSECUTIVE_POINTS": "3",
+            "ST_POINTS_SCORED_NO_SERVICE": "7",
+            "ST_POINTS_SCORED_SERVICE": "4",
+            "ST_RED_CARD": "",
+            "ST_SHUTTLES_USED": "",
+            "ST_TOTAL_POINTS_LOST": "42",
+            "ST_TOTAL_POINTS_PLAYED": "58",
+            "ST_TOTAL_POINTS_WON": "16",
+            "ST_TOTAL_RALLIES_SECONDS": "",
+            "ST_YELLOW_CARD": ""
+          },
+          "Name": "TAJIBULLAYEV Makhsut",
+          "NameS": "TAJIBULLAYEV M",
+          "OrgDesc": "Kazakhstan",
+          "Splits": [
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "2",
+              "RkEq": false,
+              "RkPo": 2,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "7",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": [],
+              "Stats": {
+                "ST_AVERAGE_RALLY_SECONDS": "",
+                "ST_BIGGEST_COMEBACK": "",
+                "ST_BIGGEST_LEAD": "0",
+                "ST_BLACK_CARD": "",
+                "ST_GAME_POINTS": "",
+                "ST_LONGEST_RALLY_SECONDS": "",
+                "ST_MATCH_POINTS": "",
+                "ST_MOST_CONSECUTIVE_POINTS": "1",
+                "ST_POINTS_SCORED_NO_SERVICE": "7",
+                "ST_POINTS_SCORED_SERVICE": "0",
+                "ST_RED_CARD": "",
+                "ST_SHUTTLES_USED": "",
+                "ST_TOTAL_POINTS_LOST": "21",
+                "ST_TOTAL_POINTS_PLAYED": "28",
+                "ST_TOTAL_POINTS_WON": "7",
+                "ST_TOTAL_RALLIES_SECONDS": "",
+                "ST_YELLOW_CARD": ""
+              }
+            },
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "2",
+              "RkEq": false,
+              "RkPo": 2,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "9",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": [],
+              "Stats": {
+                "ST_AVERAGE_RALLY_SECONDS": "",
+                "ST_BIGGEST_COMEBACK": "",
+                "ST_BIGGEST_LEAD": "2",
+                "ST_BLACK_CARD": "",
+                "ST_GAME_POINTS": "",
+                "ST_LONGEST_RALLY_SECONDS": "",
+                "ST_MATCH_POINTS": "",
+                "ST_MOST_CONSECUTIVE_POINTS": "3",
+                "ST_POINTS_SCORED_NO_SERVICE": "5",
+                "ST_POINTS_SCORED_SERVICE": "4",
+                "ST_RED_CARD": "",
+                "ST_SHUTTLES_USED": "",
+                "ST_TOTAL_POINTS_LOST": "21",
+                "ST_TOTAL_POINTS_PLAYED": "30",
+                "ST_TOTAL_POINTS_WON": "9",
+                "ST_TOTAL_RALLIES_SECONDS": "",
+                "ST_YELLOW_CARD": ""
+              }
+            },
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "0",
+              "RkEq": false,
+              "RkPo": 0,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "0",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": []
+            }
+          ],
+          "FreeResInfo": "",
+          "Medal": ""
+        },
+        {
+          "Reg": "13965770",
+          "Bib": "",
+          "Org": "JPN",
+          "StartOrder": "2",
+          "StartSortOrder": 2,
+          "Rk": "1",
+          "RkEq": false,
+          "RkPo": 1,
+          "WLT": "W",
+          "Result": "2",
+          "ResDetail": "2",
+          "ResInfo": "",
+          "IRM": "OK",
+          "Qualified": "",
+          "RecordInd": "",
+          "Lane": "",
+          "Seed": "0",
+          "Diff": "",
+          "Extensions": [
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardAwayScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardGame",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardHomeScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game1DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game2DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game3DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "RedCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "TeamRes",
+              "Pos": 0,
+              "Value": "3",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "WorldRanking",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardAwayScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardGame",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardHomeScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "SERVICE",
+              "Code": "MemberServer",
+              "Pos": 0,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "SERVICE",
+              "Code": "Server",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            }
+          ],
+          "Stats": {
+            "ST_AVERAGE_RALLY_SECONDS": "",
+            "ST_BIGGEST_COMEBACK": "2",
+            "ST_BIGGEST_LEAD": "14",
+            "ST_BLACK_CARD": "",
+            "ST_GAME_POINTS": "3",
+            "ST_LONGEST_RALLY_SECONDS": "",
+            "ST_MATCH_POINTS": "1",
+            "ST_MOST_CONSECUTIVE_POINTS": "8",
+            "ST_POINTS_SCORED_NO_SERVICE": "7",
+            "ST_POINTS_SCORED_SERVICE": "16",
+            "ST_RED_CARD": "",
+            "ST_SHUTTLES_USED": "",
+            "ST_TOTAL_POINTS_LOST": "16",
+            "ST_TOTAL_POINTS_PLAYED": "58",
+            "ST_TOTAL_POINTS_WON": "42",
+            "ST_TOTAL_RALLIES_SECONDS": "",
+            "ST_YELLOW_CARD": ""
+          },
+          "Name": "TANAKA Yushi",
+          "NameS": "TANAKA Y",
+          "OrgDesc": "Japan",
+          "Splits": [
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "1",
+              "RkEq": false,
+              "RkPo": 1,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "21",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": [],
+              "Stats": {
+                "ST_AVERAGE_RALLY_SECONDS": "",
+                "ST_BIGGEST_COMEBACK": "0",
+                "ST_BIGGEST_LEAD": "14",
+                "ST_BLACK_CARD": "",
+                "ST_GAME_POINTS": "2",
+                "ST_LONGEST_RALLY_SECONDS": "",
+                "ST_MATCH_POINTS": "",
+                "ST_MOST_CONSECUTIVE_POINTS": "6",
+                "ST_POINTS_SCORED_NO_SERVICE": "7",
+                "ST_POINTS_SCORED_SERVICE": "14",
+                "ST_RED_CARD": "",
+                "ST_SHUTTLES_USED": "",
+                "ST_TOTAL_POINTS_LOST": "7",
+                "ST_TOTAL_POINTS_PLAYED": "28",
+                "ST_TOTAL_POINTS_WON": "21",
+                "ST_TOTAL_RALLIES_SECONDS": "",
+                "ST_YELLOW_CARD": ""
+              }
+            },
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "1",
+              "RkEq": false,
+              "RkPo": 1,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "21",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": [],
+              "Stats": {
+                "ST_AVERAGE_RALLY_SECONDS": "",
+                "ST_BIGGEST_COMEBACK": "2",
+                "ST_BIGGEST_LEAD": "12",
+                "ST_BLACK_CARD": "",
+                "ST_GAME_POINTS": "1",
+                "ST_LONGEST_RALLY_SECONDS": "",
+                "ST_MATCH_POINTS": "1",
+                "ST_MOST_CONSECUTIVE_POINTS": "8",
+                "ST_POINTS_SCORED_NO_SERVICE": "5",
+                "ST_POINTS_SCORED_SERVICE": "16",
+                "ST_RED_CARD": "",
+                "ST_SHUTTLES_USED": "",
+                "ST_TOTAL_POINTS_LOST": "9",
+                "ST_TOTAL_POINTS_PLAYED": "30",
+                "ST_TOTAL_POINTS_WON": "21",
+                "ST_TOTAL_RALLIES_SECONDS": "",
+                "ST_YELLOW_CARD": ""
+              }
+            },
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "0",
+              "RkEq": false,
+              "RkPo": 0,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "0",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": []
+            }
+          ],
+          "FreeResInfo": "",
+          "Medal": ""
+        }
+      ],
+      "HasStats": true
+    },
+    {
+      "Info": {
+        "RSC": "M.TEAM--------------.8FNL.00060005",
+        "IsPhase": false,
+        "Disc": "BDM",
+        "DiscDesc": "Badminton",
+        "Key": "M.TEAM--------------.8FNL.00060005",
+        "isH2H": true,
+        "Type": "A",
+        "Medal": "",
+        "Status": "OFFICIAL",
+        "StatusDesc": "Official",
+        "DateTimeRaw": "2026-09-21T16:20:00+09:00",
+        "HideStartDate": false,
+        "Estimated": true,
+        "EstText": "",
+        "HideLocation": false,
+        "Venue": "IMG",
+        "VenueDesc": "Ichinomiya City Municipal Gymnasium",
+        "VenueDescS": "Ichinomiya City Municipal Gymnasium",
+        "Loc": "002",
+        "LocDesc": "Court 2",
+        "LocDescS": "Court 2",
+        "Event": "M.TEAM--------------",
+        "EventDesc": "Men's Team",
+        "Phase": "M.TEAM--------------.8FNL",
+        "PhaseOrder": 4,
+        "PhaseDesc": "Men's Team 1st Round",
+        "PhaseDescS": "Men's Team R1",
+        "PhaseDescA": "1st Round",
+        "UnitDesc": "Men's Team 1st Round Tie 6 Match 3",
+        "UnitDescS": "Men's Team R1 Match  6 Match 3",
+        "UnitDescA": "Tie 6 Match 3",
+        "UnitNum": "",
+        "IsLive": false,
+        "ShowResults": true
+      },
+      "Results": {
+        "Result": "",
+        "ResDetail": "16-21, 6-21",
+        "Duration": "00:29:00",
+        "CurrentPeriod": 2,
+        "Extensions": [
+          {
+            "Type": "UNIT_INFO",
+            "Code": "DurationHHMM",
+            "Pos": 0,
+            "Value": "29min",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "InfoMatch",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "InfoTeam",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "ReceivedDuration",
+            "Pos": 0,
+            "Value": "32",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "ResultDetailWinner",
+            "Pos": 0,
+            "Value": "21-16, 21-6",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "ServerHomeAway",
+            "Pos": 0,
+            "Value": "2",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "SubMatchNum",
+            "Pos": 0,
+            "Value": "5",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "SubunitOrder",
+            "Pos": 0,
+            "Value": "3",
+            "Extensions": []
+          }
+        ],
+        "Stats": {
+          "ST_AVERAGE_RALLY_SECONDS": "28",
+          "ST_BIGGEST_COMEBACK": "",
+          "ST_BIGGEST_LEAD": "",
+          "ST_BLACK_CARD": "",
+          "ST_GAME_POINTS": "",
+          "ST_LONGEST_RALLY_SECONDS": "102",
+          "ST_MATCH_POINTS": "",
+          "ST_MOST_CONSECUTIVE_POINTS": "",
+          "ST_POINTS_SCORED_NO_SERVICE": "",
+          "ST_POINTS_SCORED_SERVICE": "",
+          "ST_RED_CARD": "",
+          "ST_SHUTTLES_USED": "9",
+          "ST_TOTAL_POINTS_LOST": "64",
+          "ST_TOTAL_POINTS_PLAYED": "",
+          "ST_TOTAL_POINTS_WON": "64",
+          "ST_TOTAL_RALLIES_SECONDS": "1805",
+          "ST_YELLOW_CARD": ""
+        },
+        "Periods": [
+          {
+            "Order": 1,
+            "Duration": "18:00",
+            "Distance": "0",
+            "ResHome": "16",
+            "ResAway": "21",
+            "TotHome": "",
+            "TotAway": "",
+            "Extensions": [],
+            "Stats": {
+              "ST_AVERAGE_RALLY_SECONDS": "29",
+              "ST_BIGGEST_COMEBACK": "",
+              "ST_BIGGEST_LEAD": "",
+              "ST_BLACK_CARD": "",
+              "ST_GAME_POINTS": "",
+              "ST_LONGEST_RALLY_SECONDS": "102",
+              "ST_MATCH_POINTS": "",
+              "ST_MOST_CONSECUTIVE_POINTS": "",
+              "ST_POINTS_SCORED_NO_SERVICE": "",
+              "ST_POINTS_SCORED_SERVICE": "",
+              "ST_RED_CARD": "",
+              "ST_SHUTTLES_USED": "7",
+              "ST_TOTAL_POINTS_LOST": "37",
+              "ST_TOTAL_POINTS_PLAYED": "",
+              "ST_TOTAL_POINTS_WON": "37",
+              "ST_TOTAL_RALLIES_SECONDS": "1086",
+              "ST_YELLOW_CARD": ""
+            },
+            "Desc": "Game 1",
+            "DescS": "G1"
+          },
+          {
+            "Order": 2,
+            "Duration": "11:00",
+            "Distance": "0",
+            "ResHome": "6",
+            "ResAway": "21",
+            "TotHome": "",
+            "TotAway": "",
+            "Extensions": [],
+            "Stats": {
+              "ST_AVERAGE_RALLY_SECONDS": "26",
+              "ST_BIGGEST_COMEBACK": "",
+              "ST_BIGGEST_LEAD": "",
+              "ST_BLACK_CARD": "",
+              "ST_GAME_POINTS": "",
+              "ST_LONGEST_RALLY_SECONDS": "80",
+              "ST_MATCH_POINTS": "",
+              "ST_MOST_CONSECUTIVE_POINTS": "",
+              "ST_POINTS_SCORED_NO_SERVICE": "",
+              "ST_POINTS_SCORED_SERVICE": "",
+              "ST_RED_CARD": "",
+              "ST_SHUTTLES_USED": "2",
+              "ST_TOTAL_POINTS_LOST": "27",
+              "ST_TOTAL_POINTS_PLAYED": "",
+              "ST_TOTAL_POINTS_WON": "27",
+              "ST_TOTAL_RALLIES_SECONDS": "719",
+              "ST_YELLOW_CARD": ""
+            },
+            "Desc": "Game 2",
+            "DescS": "G2"
+          },
+          {
+            "Order": 3,
+            "Duration": "",
+            "Distance": "0",
+            "ResHome": "0",
+            "ResAway": "0",
+            "TotHome": "",
+            "TotAway": "",
+            "Extensions": [],
+            "Desc": "Game 3",
+            "DescS": "G3"
+          }
+        ],
+        "Officials": [
+          {
+            "Reg": "1996511",
+            "Org": "PHI",
+            "Order": 1,
+            "Function": "UMP",
+            "Extensions": [],
+            "Bib": "",
+            "FuncOrder": "5",
+            "OrgDesc": "Philippines",
+            "Name": "FUNDAL Ma Janelyn",
+            "NameS": "FUNDAL M",
+            "FuncDesc": "Umpire"
+          },
+          {
+            "Reg": "1847795",
+            "Org": "INA",
+            "Order": 2,
+            "Function": "SJ",
+            "Extensions": [],
+            "Bib": "",
+            "FuncOrder": "6",
+            "OrgDesc": "Indonesia",
+            "Name": "OSCARIANO Robbertus Tommy",
+            "NameS": "OSCARIANO R",
+            "FuncDesc": "Service Judge"
+          }
+        ]
+      },
+      "Competitors": [
+        {
+          "Reg": "12885837",
+          "Bib": "",
+          "Org": "KAZ",
+          "StartOrder": "1",
+          "StartSortOrder": 1,
+          "Rk": "2",
+          "RkEq": false,
+          "RkPo": 2,
+          "WLT": "L",
+          "Result": "0",
+          "ResDetail": "0",
+          "ResInfo": "",
+          "IRM": "OK",
+          "Qualified": "",
+          "RecordInd": "",
+          "Lane": "",
+          "Seed": "0",
+          "Diff": "",
+          "Extensions": [
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardAwayScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardGame",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardHomeScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game1DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game2DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game3DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "RedCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "TeamRes",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "WorldRanking",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardAwayScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardGame",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardHomeScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "SERVICE",
+              "Code": "MemberServer",
+              "Pos": 0,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "SERVICE",
+              "Code": "Server",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Stats": {
+            "ST_AVERAGE_RALLY_SECONDS": "",
+            "ST_BIGGEST_COMEBACK": "0",
+            "ST_BIGGEST_LEAD": "1",
+            "ST_BLACK_CARD": "",
+            "ST_GAME_POINTS": "",
+            "ST_LONGEST_RALLY_SECONDS": "",
+            "ST_MATCH_POINTS": "",
+            "ST_MOST_CONSECUTIVE_POINTS": "3",
+            "ST_POINTS_SCORED_NO_SERVICE": "9",
+            "ST_POINTS_SCORED_SERVICE": "7",
+            "ST_RED_CARD": "",
+            "ST_SHUTTLES_USED": "",
+            "ST_TOTAL_POINTS_LOST": "42",
+            "ST_TOTAL_POINTS_PLAYED": "64",
+            "ST_TOTAL_POINTS_WON": "22",
+            "ST_TOTAL_RALLIES_SECONDS": "",
+            "ST_YELLOW_CARD": ""
+          },
+          "Name": "KULMATOV Khaitmurat",
+          "NameS": "KULMATOV K",
+          "OrgDesc": "Kazakhstan",
+          "Splits": [
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "2",
+              "RkEq": false,
+              "RkPo": 2,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "16",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": [],
+              "Stats": {
+                "ST_AVERAGE_RALLY_SECONDS": "",
+                "ST_BIGGEST_COMEBACK": "",
+                "ST_BIGGEST_LEAD": "1",
+                "ST_BLACK_CARD": "",
+                "ST_GAME_POINTS": "",
+                "ST_LONGEST_RALLY_SECONDS": "",
+                "ST_MATCH_POINTS": "",
+                "ST_MOST_CONSECUTIVE_POINTS": "3",
+                "ST_POINTS_SCORED_NO_SERVICE": "9",
+                "ST_POINTS_SCORED_SERVICE": "7",
+                "ST_RED_CARD": "",
+                "ST_SHUTTLES_USED": "",
+                "ST_TOTAL_POINTS_LOST": "21",
+                "ST_TOTAL_POINTS_PLAYED": "37",
+                "ST_TOTAL_POINTS_WON": "16",
+                "ST_TOTAL_RALLIES_SECONDS": "",
+                "ST_YELLOW_CARD": ""
+              }
+            },
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "2",
+              "RkEq": false,
+              "RkPo": 2,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "6",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": [],
+              "Stats": {
+                "ST_AVERAGE_RALLY_SECONDS": "",
+                "ST_BIGGEST_COMEBACK": "",
+                "ST_BIGGEST_LEAD": "1",
+                "ST_BLACK_CARD": "",
+                "ST_GAME_POINTS": "",
+                "ST_LONGEST_RALLY_SECONDS": "",
+                "ST_MATCH_POINTS": "",
+                "ST_MOST_CONSECUTIVE_POINTS": "1",
+                "ST_POINTS_SCORED_NO_SERVICE": "6",
+                "ST_POINTS_SCORED_SERVICE": "0",
+                "ST_RED_CARD": "",
+                "ST_SHUTTLES_USED": "",
+                "ST_TOTAL_POINTS_LOST": "21",
+                "ST_TOTAL_POINTS_PLAYED": "27",
+                "ST_TOTAL_POINTS_WON": "6",
+                "ST_TOTAL_RALLIES_SECONDS": "",
+                "ST_YELLOW_CARD": ""
+              }
+            },
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "0",
+              "RkEq": false,
+              "RkPo": 0,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "0",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": []
+            }
+          ],
+          "FreeResInfo": "",
+          "Medal": ""
+        },
+        {
+          "Reg": "13967455",
+          "Bib": "",
+          "Org": "JPN",
+          "StartOrder": "2",
+          "StartSortOrder": 2,
+          "Rk": "1",
+          "RkEq": false,
+          "RkPo": 1,
+          "WLT": "W",
+          "Result": "2",
+          "ResDetail": "2",
+          "ResInfo": "",
+          "IRM": "OK",
+          "Qualified": "",
+          "RecordInd": "",
+          "Lane": "",
+          "Seed": "0",
+          "Diff": "",
+          "Extensions": [
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardAwayScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardGame",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardHomeScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game1DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game2DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game3DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "RedCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "TeamRes",
+              "Pos": 0,
+              "Value": "3",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "WorldRanking",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardAwayScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardGame",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardHomeScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "SERVICE",
+              "Code": "MemberServer",
+              "Pos": 0,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "SERVICE",
+              "Code": "Server",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            }
+          ],
+          "Stats": {
+            "ST_AVERAGE_RALLY_SECONDS": "",
+            "ST_BIGGEST_COMEBACK": "1",
+            "ST_BIGGEST_LEAD": "15",
+            "ST_BLACK_CARD": "",
+            "ST_GAME_POINTS": "5",
+            "ST_LONGEST_RALLY_SECONDS": "",
+            "ST_MATCH_POINTS": "1",
+            "ST_MOST_CONSECUTIVE_POINTS": "8",
+            "ST_POINTS_SCORED_NO_SERVICE": "9",
+            "ST_POINTS_SCORED_SERVICE": "15",
+            "ST_RED_CARD": "",
+            "ST_SHUTTLES_USED": "",
+            "ST_TOTAL_POINTS_LOST": "22",
+            "ST_TOTAL_POINTS_PLAYED": "64",
+            "ST_TOTAL_POINTS_WON": "42",
+            "ST_TOTAL_RALLIES_SECONDS": "",
+            "ST_YELLOW_CARD": ""
+          },
+          "Name": "NISHIMOTO Kenta",
+          "NameS": "NISHIMOTO K",
+          "OrgDesc": "Japan",
+          "Splits": [
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "1",
+              "RkEq": false,
+              "RkPo": 1,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "21",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": [],
+              "Stats": {
+                "ST_AVERAGE_RALLY_SECONDS": "",
+                "ST_BIGGEST_COMEBACK": "1",
+                "ST_BIGGEST_LEAD": "7",
+                "ST_BLACK_CARD": "",
+                "ST_GAME_POINTS": "4",
+                "ST_LONGEST_RALLY_SECONDS": "",
+                "ST_MATCH_POINTS": "",
+                "ST_MOST_CONSECUTIVE_POINTS": "5",
+                "ST_POINTS_SCORED_NO_SERVICE": "9",
+                "ST_POINTS_SCORED_SERVICE": "12",
+                "ST_RED_CARD": "",
+                "ST_SHUTTLES_USED": "",
+                "ST_TOTAL_POINTS_LOST": "16",
+                "ST_TOTAL_POINTS_PLAYED": "37",
+                "ST_TOTAL_POINTS_WON": "21",
+                "ST_TOTAL_RALLIES_SECONDS": "",
+                "ST_YELLOW_CARD": ""
+              }
+            },
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "1",
+              "RkEq": false,
+              "RkPo": 1,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "21",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": [],
+              "Stats": {
+                "ST_AVERAGE_RALLY_SECONDS": "",
+                "ST_BIGGEST_COMEBACK": "1",
+                "ST_BIGGEST_LEAD": "15",
+                "ST_BLACK_CARD": "",
+                "ST_GAME_POINTS": "1",
+                "ST_LONGEST_RALLY_SECONDS": "",
+                "ST_MATCH_POINTS": "1",
+                "ST_MOST_CONSECUTIVE_POINTS": "8",
+                "ST_POINTS_SCORED_NO_SERVICE": "6",
+                "ST_POINTS_SCORED_SERVICE": "15",
+                "ST_RED_CARD": "",
+                "ST_SHUTTLES_USED": "",
+                "ST_TOTAL_POINTS_LOST": "6",
+                "ST_TOTAL_POINTS_PLAYED": "27",
+                "ST_TOTAL_POINTS_WON": "21",
+                "ST_TOTAL_RALLIES_SECONDS": "",
+                "ST_YELLOW_CARD": ""
+              }
+            },
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "0",
+              "RkEq": false,
+              "RkPo": 0,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "0",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": []
+            }
+          ],
+          "FreeResInfo": "",
+          "Medal": ""
+        }
+      ],
+      "HasStats": true
+    },
+    {
+      "Info": {
+        "RSC": "M.TEAM--------------.8FNL.00060004",
+        "IsPhase": false,
+        "Disc": "BDM",
+        "DiscDesc": "Badminton",
+        "Key": "M.TEAM--------------.8FNL.00060004",
+        "isH2H": true,
+        "Type": "D",
+        "Medal": "",
+        "Status": "CANCELED",
+        "StatusDesc": "Cancelled",
+        "DateTimeRaw": "2026-09-21T17:00:00+09:00",
+        "HideStartDate": false,
+        "Estimated": true,
+        "EstText": "",
+        "HideLocation": false,
+        "Venue": "IMG",
+        "VenueDesc": "Ichinomiya City Municipal Gymnasium",
+        "VenueDescS": "Ichinomiya City Municipal Gymnasium",
+        "Loc": "002",
+        "LocDesc": "Court 2",
+        "LocDescS": "Court 2",
+        "Event": "M.TEAM--------------",
+        "EventDesc": "Men's Team",
+        "Phase": "M.TEAM--------------.8FNL",
+        "PhaseOrder": 4,
+        "PhaseDesc": "Men's Team 1st Round",
+        "PhaseDescS": "Men's Team R1",
+        "PhaseDescA": "1st Round",
+        "UnitDesc": "Men's Team 1st Round Tie 6 Match 4",
+        "UnitDescS": "Men's Team R1 Match  6 Match 4",
+        "UnitDescA": "Tie 6 Match 4",
+        "UnitNum": "",
+        "IsLive": false,
+        "ShowResults": true
+      },
+      "Results": {
+        "Result": "",
+        "ResDetail": "",
+        "Duration": "",
+        "CurrentPeriod": 0,
+        "Extensions": [
+          {
+            "Type": "UNIT_INFO",
+            "Code": "DurationHHMM",
+            "Pos": 0,
+            "Value": "",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "InfoMatch",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "InfoTeam",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "ReceivedDuration",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "ResultDetailWinner",
+            "Pos": 0,
+            "Value": "",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "ServerHomeAway",
+            "Pos": 0,
+            "Value": "",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "SubMatchNum",
+            "Pos": 0,
+            "Value": "4",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "SubunitOrder",
+            "Pos": 0,
+            "Value": "4",
+            "Extensions": []
+          }
+        ],
+        "Periods": [
+          {
+            "Order": 1,
+            "Duration": "",
+            "Distance": "0",
+            "ResHome": "0",
+            "ResAway": "0",
+            "TotHome": "",
+            "TotAway": "",
+            "Extensions": [],
+            "Desc": "Game 1",
+            "DescS": "G1"
+          },
+          {
+            "Order": 2,
+            "Duration": "",
+            "Distance": "0",
+            "ResHome": "0",
+            "ResAway": "0",
+            "TotHome": "",
+            "TotAway": "",
+            "Extensions": [],
+            "Desc": "Game 2",
+            "DescS": "G2"
+          },
+          {
+            "Order": 3,
+            "Duration": "",
+            "Distance": "0",
+            "ResHome": "0",
+            "ResAway": "0",
+            "TotHome": "",
+            "TotAway": "",
+            "Extensions": [],
+            "Desc": "Game 3",
+            "DescS": "G3"
+          }
+        ],
+        "Officials": [
+          {
+            "Reg": "1882210",
+            "Org": "BRN",
+            "Order": 1,
+            "Function": "UMP",
+            "Extensions": [],
+            "Bib": "",
+            "FuncOrder": "5",
+            "OrgDesc": "Bahrain",
+            "Name": "JOJAN VELIYAKATH John",
+            "NameS": "JOJAN VELIYAKATH J",
+            "FuncDesc": "Umpire"
+          },
+          {
+            "Reg": "1795782",
+            "Org": "IRI",
+            "Order": 2,
+            "Function": "SJ",
+            "Extensions": [],
+            "Bib": "",
+            "FuncOrder": "6",
+            "OrgDesc": "Islamic Republic of Iran",
+            "Name": "ARMIN MEHR Hermin",
+            "NameS": "ARMIN MEHR H",
+            "FuncDesc": "Service Judge"
+          }
+        ]
+      },
+      "Competitors": [
+        {
+          "Reg": "BDMMTEAM-------KAZ01",
+          "Bib": "",
+          "Org": "KAZ",
+          "StartOrder": "1",
+          "StartSortOrder": 1,
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "WLT": "T",
+          "Result": "",
+          "ResDetail": "",
+          "ResInfo": "",
+          "IRM": "OK",
+          "Qualified": "",
+          "RecordInd": "",
+          "Lane": "",
+          "Seed": "0",
+          "Diff": "",
+          "Extensions": [
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardAwayScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardGame",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardHomeScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game1DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game2DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game3DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "RedCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "TeamRes",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "WorldRanking",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardAwayScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardGame",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardHomeScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "PREV_RESULT",
+              "Code": "UNIT_KEY",
+              "Pos": 1,
+              "Value": "M.TEAM--------------.8FNL.00060000",
+              "Extensions": [
+                {
+                  "Type": "RESULT",
+                  "Code": "Register",
+                  "Pos": 1,
+                  "Value": "BDMMTEAM-------KAZ01"
+                },
+                {
+                  "Type": "RESULT",
+                  "Code": "RegisterOpp",
+                  "Pos": 1,
+                  "Value": "BDMMTEAM-------JPN01"
+                },
+                {
+                  "Type": "RESULT",
+                  "Code": "Result",
+                  "Pos": 1,
+                  "Value": "0-3"
+                }
+              ]
+            },
+            {
+              "Type": "SERVICE",
+              "Code": "MemberServer",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SERVICE",
+              "Code": "Server",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Name": "PANARIN Dmitriy/TAJIBULLAYEV Makhsut",
+          "NameS": "PANARIN D/TAJIBULLAYEV M",
+          "OrgDesc": "Kazakhstan",
+          "Splits": [
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "0",
+              "RkEq": false,
+              "RkPo": 0,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "0",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": []
+            },
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "0",
+              "RkEq": false,
+              "RkPo": 0,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "0",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": []
+            },
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "0",
+              "RkEq": false,
+              "RkPo": 0,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "0",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": []
+            }
+          ],
+          "FreeResInfo": "",
+          "Medal": "",
+          "Members": [
+            {
+              "Reg": "12885633",
+              "Org": "KAZ",
+              "Bib": "",
+              "Function": "AA01",
+              "Position": "",
+              "Captain": false,
+              "Order": 1,
+              "Substitute": false,
+              "Result": "0",
+              "Extensions": [],
+              "Guides": [],
+              "Name": "PANARIN Dmitriy",
+              "NameS": "PANARIN D",
+              "MedClass": "",
+              "FuncDesc": "Athlete",
+              "PosDesc": ""
+            },
+            {
+              "Reg": "12885939",
+              "Org": "KAZ",
+              "Bib": "",
+              "Function": "AA01",
+              "Position": "",
+              "Captain": false,
+              "Order": 2,
+              "Substitute": false,
+              "Result": "0",
+              "Extensions": [],
+              "Guides": [],
+              "Name": "TAJIBULLAYEV Makhsut",
+              "NameS": "TAJIBULLAYEV M",
+              "MedClass": "",
+              "FuncDesc": "Athlete",
+              "PosDesc": ""
+            }
+          ]
+        },
+        {
+          "Reg": "BDMMTEAM-------JPN01",
+          "Bib": "",
+          "Org": "JPN",
+          "StartOrder": "2",
+          "StartSortOrder": 2,
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "WLT": "T",
+          "Result": "",
+          "ResDetail": "",
+          "ResInfo": "",
+          "IRM": "OK",
+          "Qualified": "",
+          "RecordInd": "",
+          "Lane": "",
+          "Seed": "0",
+          "Diff": "",
+          "Extensions": [
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardAwayScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardGame",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardHomeScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game1DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game2DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game3DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "RedCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "TeamRes",
+              "Pos": 0,
+              "Value": "3",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "WorldRanking",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardAwayScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardGame",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardHomeScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "PREV_RESULT",
+              "Code": "UNIT_KEY",
+              "Pos": 1,
+              "Value": "M.TEAM--------------.8FNL.00060000",
+              "Extensions": [
+                {
+                  "Type": "RESULT",
+                  "Code": "Register",
+                  "Pos": 1,
+                  "Value": "BDMMTEAM-------JPN01"
+                },
+                {
+                  "Type": "RESULT",
+                  "Code": "RegisterOpp",
+                  "Pos": 1,
+                  "Value": "BDMMTEAM-------KAZ01"
+                },
+                {
+                  "Type": "RESULT",
+                  "Code": "Result",
+                  "Pos": 1,
+                  "Value": "3-0"
+                }
+              ]
+            },
+            {
+              "Type": "SERVICE",
+              "Code": "MemberServer",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SERVICE",
+              "Code": "Server",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Name": "KUMAGAI Kakeru/NISHI Hiroki",
+          "NameS": "KUMAGAI K/NISHI H",
+          "OrgDesc": "Japan",
+          "Splits": [
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "0",
+              "RkEq": false,
+              "RkPo": 0,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "0",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": []
+            },
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "0",
+              "RkEq": false,
+              "RkPo": 0,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "0",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": []
+            },
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "0",
+              "RkEq": false,
+              "RkPo": 0,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "0",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": []
+            }
+          ],
+          "FreeResInfo": "",
+          "Medal": "",
+          "Members": [
+            {
+              "Reg": "13966306",
+              "Org": "JPN",
+              "Bib": "",
+              "Function": "AA01",
+              "Position": "",
+              "Captain": false,
+              "Order": 1,
+              "Substitute": false,
+              "Result": "0",
+              "Extensions": [],
+              "Guides": [],
+              "Name": "KUMAGAI Kakeru",
+              "NameS": "KUMAGAI K",
+              "MedClass": "",
+              "FuncDesc": "Athlete",
+              "PosDesc": ""
+            },
+            {
+              "Reg": "13965874",
+              "Org": "JPN",
+              "Bib": "",
+              "Function": "AA01",
+              "Position": "",
+              "Captain": false,
+              "Order": 2,
+              "Substitute": false,
+              "Result": "0",
+              "Extensions": [],
+              "Guides": [],
+              "Name": "NISHI Hiroki",
+              "NameS": "NISHI H",
+              "MedClass": "",
+              "FuncDesc": "Athlete",
+              "PosDesc": ""
+            }
+          ]
+        }
+      ],
+      "HasStats": false
+    },
+    {
+      "Info": {
+        "RSC": "M.TEAM--------------.8FNL.00060002",
+        "IsPhase": false,
+        "Disc": "BDM",
+        "DiscDesc": "Badminton",
+        "Key": "M.TEAM--------------.8FNL.00060002",
+        "isH2H": true,
+        "Type": "D",
+        "Medal": "",
+        "Status": "CANCELED",
+        "StatusDesc": "Cancelled",
+        "DateTimeRaw": "2026-09-21T17:40:00+09:00",
+        "HideStartDate": false,
+        "Estimated": true,
+        "EstText": "",
+        "HideLocation": false,
+        "Venue": "IMG",
+        "VenueDesc": "Ichinomiya City Municipal Gymnasium",
+        "VenueDescS": "Ichinomiya City Municipal Gymnasium",
+        "Loc": "002",
+        "LocDesc": "Court 2",
+        "LocDescS": "Court 2",
+        "Event": "M.TEAM--------------",
+        "EventDesc": "Men's Team",
+        "Phase": "M.TEAM--------------.8FNL",
+        "PhaseOrder": 4,
+        "PhaseDesc": "Men's Team 1st Round",
+        "PhaseDescS": "Men's Team R1",
+        "PhaseDescA": "1st Round",
+        "UnitDesc": "Men's Team 1st Round Tie 6 Match 5",
+        "UnitDescS": "Men's Team R1 Match  6 Match 5",
+        "UnitDescA": "Tie 6 Match 5",
+        "UnitNum": "",
+        "IsLive": false,
+        "ShowResults": true
+      },
+      "Results": {
+        "Result": "",
+        "ResDetail": "",
+        "Duration": "",
+        "CurrentPeriod": 0,
+        "Extensions": [
+          {
+            "Type": "UNIT_INFO",
+            "Code": "DurationHHMM",
+            "Pos": 0,
+            "Value": "",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "InfoMatch",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "InfoTeam",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "ReceivedDuration",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "ResultDetailWinner",
+            "Pos": 0,
+            "Value": "",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "ServerHomeAway",
+            "Pos": 0,
+            "Value": "",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "SubMatchNum",
+            "Pos": 0,
+            "Value": "2",
+            "Extensions": []
+          },
+          {
+            "Type": "UNIT_INFO",
+            "Code": "SubunitOrder",
+            "Pos": 0,
+            "Value": "5",
+            "Extensions": []
+          }
+        ],
+        "Periods": [
+          {
+            "Order": 1,
+            "Duration": "",
+            "Distance": "0",
+            "ResHome": "0",
+            "ResAway": "0",
+            "TotHome": "",
+            "TotAway": "",
+            "Extensions": [],
+            "Desc": "Game 1",
+            "DescS": "G1"
+          },
+          {
+            "Order": 2,
+            "Duration": "",
+            "Distance": "0",
+            "ResHome": "0",
+            "ResAway": "0",
+            "TotHome": "",
+            "TotAway": "",
+            "Extensions": [],
+            "Desc": "Game 2",
+            "DescS": "G2"
+          },
+          {
+            "Order": 3,
+            "Duration": "",
+            "Distance": "0",
+            "ResHome": "0",
+            "ResAway": "0",
+            "TotHome": "",
+            "TotAway": "",
+            "Extensions": [],
+            "Desc": "Game 3",
+            "DescS": "G3"
+          }
+        ],
+        "Officials": [
+          {
+            "Reg": "1847795",
+            "Org": "INA",
+            "Order": 1,
+            "Function": "UMP",
+            "Extensions": [],
+            "Bib": "",
+            "FuncOrder": "5",
+            "OrgDesc": "Indonesia",
+            "Name": "OSCARIANO Robbertus Tommy",
+            "NameS": "OSCARIANO R",
+            "FuncDesc": "Umpire"
+          },
+          {
+            "Reg": "1996511",
+            "Org": "PHI",
+            "Order": 2,
+            "Function": "SJ",
+            "Extensions": [],
+            "Bib": "",
+            "FuncOrder": "6",
+            "OrgDesc": "Philippines",
+            "Name": "FUNDAL Ma Janelyn",
+            "NameS": "FUNDAL M",
+            "FuncDesc": "Service Judge"
+          }
+        ]
+      },
+      "Competitors": [
+        {
+          "Reg": "BDMMTEAM-------KAZ01",
+          "Bib": "",
+          "Org": "KAZ",
+          "StartOrder": "1",
+          "StartSortOrder": 1,
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "WLT": "T",
+          "Result": "",
+          "ResDetail": "",
+          "ResInfo": "",
+          "IRM": "OK",
+          "Qualified": "",
+          "RecordInd": "",
+          "Lane": "",
+          "Seed": "0",
+          "Diff": "",
+          "Extensions": [
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardAwayScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardGame",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardHomeScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game1DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game2DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game3DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "RedCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "TeamRes",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "WorldRanking",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardAwayScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardGame",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardHomeScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "PREV_RESULT",
+              "Code": "UNIT_KEY",
+              "Pos": 1,
+              "Value": "M.TEAM--------------.8FNL.00060000",
+              "Extensions": [
+                {
+                  "Type": "RESULT",
+                  "Code": "Register",
+                  "Pos": 1,
+                  "Value": "BDMMTEAM-------KAZ01"
+                },
+                {
+                  "Type": "RESULT",
+                  "Code": "RegisterOpp",
+                  "Pos": 1,
+                  "Value": "BDMMTEAM-------JPN01"
+                },
+                {
+                  "Type": "RESULT",
+                  "Code": "Result",
+                  "Pos": 1,
+                  "Value": "0-3"
+                }
+              ]
+            },
+            {
+              "Type": "SERVICE",
+              "Code": "MemberServer",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SERVICE",
+              "Code": "Server",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Name": "KULMATOV Khaitmurat/NIYAZOV Artur",
+          "NameS": "KULMATOV K/NIYAZOV A",
+          "OrgDesc": "Kazakhstan",
+          "Splits": [
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "0",
+              "RkEq": false,
+              "RkPo": 0,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "0",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": []
+            },
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "0",
+              "RkEq": false,
+              "RkPo": 0,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "0",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": []
+            },
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "0",
+              "RkEq": false,
+              "RkPo": 0,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "0",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": []
+            }
+          ],
+          "FreeResInfo": "",
+          "Medal": "",
+          "Members": [
+            {
+              "Reg": "12885837",
+              "Org": "KAZ",
+              "Bib": "",
+              "Function": "AA01",
+              "Position": "",
+              "Captain": false,
+              "Order": 1,
+              "Substitute": false,
+              "Result": "0",
+              "Extensions": [],
+              "Guides": [],
+              "Name": "KULMATOV Khaitmurat",
+              "NameS": "KULMATOV K",
+              "MedClass": "",
+              "FuncDesc": "Athlete",
+              "PosDesc": ""
+            },
+            {
+              "Reg": "12885735",
+              "Org": "KAZ",
+              "Bib": "",
+              "Function": "AA01",
+              "Position": "",
+              "Captain": false,
+              "Order": 2,
+              "Substitute": false,
+              "Result": "0",
+              "Extensions": [],
+              "Guides": [],
+              "Name": "NIYAZOV Artur",
+              "NameS": "NIYAZOV A",
+              "MedClass": "",
+              "FuncDesc": "Athlete",
+              "PosDesc": ""
+            }
+          ]
+        },
+        {
+          "Reg": "BDMMTEAM-------JPN01",
+          "Bib": "",
+          "Org": "JPN",
+          "StartOrder": "2",
+          "StartSortOrder": 2,
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "WLT": "T",
+          "Result": "",
+          "ResDetail": "",
+          "ResInfo": "",
+          "IRM": "OK",
+          "Qualified": "",
+          "RecordInd": "",
+          "Lane": "",
+          "Seed": "0",
+          "Diff": "",
+          "Extensions": [
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardAwayScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardGame",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "BlackCardHomeScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game1DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game2DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "Game3DetailCards",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "RedCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "TeamRes",
+              "Pos": 0,
+              "Value": "3",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "WorldRanking",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCard",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardAwayScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardGame",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "COMPETITOR_INFO",
+              "Code": "YellowCardHomeScore",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "PREV_RESULT",
+              "Code": "UNIT_KEY",
+              "Pos": 1,
+              "Value": "M.TEAM--------------.8FNL.00060000",
+              "Extensions": [
+                {
+                  "Type": "RESULT",
+                  "Code": "Register",
+                  "Pos": 1,
+                  "Value": "BDMMTEAM-------JPN01"
+                },
+                {
+                  "Type": "RESULT",
+                  "Code": "RegisterOpp",
+                  "Pos": 1,
+                  "Value": "BDMMTEAM-------KAZ01"
+                },
+                {
+                  "Type": "RESULT",
+                  "Code": "Result",
+                  "Pos": 1,
+                  "Value": "3-0"
+                }
+              ]
+            },
+            {
+              "Type": "SERVICE",
+              "Code": "MemberServer",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SERVICE",
+              "Code": "Server",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Name": "HOKI Takuro/KOBAYASHI Yugo",
+          "NameS": "HOKI T/KOBAYASHI Y",
+          "OrgDesc": "Japan",
+          "Splits": [
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "0",
+              "RkEq": false,
+              "RkPo": 0,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "0",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": []
+            },
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "0",
+              "RkEq": false,
+              "RkPo": 0,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "0",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": []
+            },
+            {
+              "Category": "",
+              "Distance": "0",
+              "Rk": "0",
+              "RkEq": false,
+              "RkPo": 0,
+              "RkAcc": "0",
+              "RkAccEq": false,
+              "RkAccPo": 0,
+              "LegRk": "0",
+              "LegRkEq": false,
+              "LegRkPo": 0,
+              "AttResult": "",
+              "Result": "0",
+              "Diff": "",
+              "LegResult": "",
+              "AcumulatedResult": "",
+              "AcumulatedDiff": "",
+              "IRM": "OK",
+              "RecordInd": "",
+              "RecordBest": "",
+              "Status": "OK",
+              "Extensions": []
+            }
+          ],
+          "FreeResInfo": "",
+          "Medal": "",
+          "Members": [
+            {
+              "Reg": "13967099",
+              "Org": "JPN",
+              "Bib": "",
+              "Function": "AA01",
+              "Position": "",
+              "Captain": false,
+              "Order": 1,
+              "Substitute": false,
+              "Result": "0",
+              "Extensions": [],
+              "Guides": [],
+              "Name": "HOKI Takuro",
+              "NameS": "HOKI T",
+              "MedClass": "",
+              "FuncDesc": "Athlete",
+              "PosDesc": ""
+            },
+            {
+              "Reg": "13966973",
+              "Org": "JPN",
+              "Bib": "",
+              "Function": "AA01",
+              "Position": "",
+              "Captain": false,
+              "Order": 2,
+              "Substitute": false,
+              "Result": "0",
+              "Extensions": [],
+              "Guides": [],
+              "Name": "KOBAYASHI Yugo",
+              "NameS": "KOBAYASHI Y",
+              "MedClass": "",
+              "FuncDesc": "Athlete",
+              "PosDesc": ""
+            }
+          ]
+        }
+      ],
+      "HasStats": false
+    }
+  ],
+  "Legends": {
+    "records": [],
+    "irms": [],
+    "qs": [],
+    "funcs": [
+      {
+        "DescS": "AA01",
+        "Desc": "Athlete"
+      }
+    ]
+  }
+}

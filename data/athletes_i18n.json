@@ -4342,5 +4342,611 @@
     "ko": "키리아 티카나 압둘 라만",
     "vi": "KIRIA Tikanah Abdul Rahman",
     "th": "คิเรีย ติกานาห์ อับดุล ราห์มาน"
+  },
+  "FBLMTEAM11-----UZB01": {
+    "zh": "乌兹别克斯坦",
+    "ko": "우즈베키스탄",
+    "vi": "Uzbekistan",
+    "th": "อุซเบกิสถาน"
+  },
+  "FBLMTEAM11-----PHI01": {
+    "zh": "菲律宾",
+    "ko": "필리핀",
+    "vi": "Philippines",
+    "th": "ฟิลิปปินส์"
+  },
+  "BKBWTEAM5------MAS01": {
+    "zh": "马来西亚",
+    "ko": "말레이시아",
+    "vi": "Malaysia",
+    "th": "มาเลเซีย"
+  },
+  "BKBWTEAM5------TPE01": {
+    "zh": "中华台北",
+    "ko": "차이니즈 타이베이",
+    "vi": "Đài Bắc Trung Hoa",
+    "th": "จีนไทเป"
+  },
+  "BKBWTEAM5------KOR01": {
+    "zh": "韩国",
+    "ko": "대한민국",
+    "vi": "Hàn Quốc",
+    "th": "เกาหลีใต้"
+  },
+  "TTEMTEAM-------INA01": {
+    "zh": "印度尼西亚",
+    "ko": "인도네시아",
+    "vi": "Indonesia",
+    "th": "อินโดนีเซีย"
+  },
+  "TTEMTEAM-------IRI01": {
+    "zh": "伊朗",
+    "ko": "이란",
+    "vi": "Iran",
+    "th": "อิหร่าน"
+  },
+  "BKBMTEAM5------INA01": {
+    "zh": "印度尼西亚",
+    "ko": "인도네시아",
+    "vi": "Indonesia",
+    "th": "อินโดนีเซีย"
+  },
+  "TTEWTEAM-------BAN01": {
+    "zh": "孟加拉国",
+    "ko": "방글라데시",
+    "vi": "Bangladesh",
+    "th": "บังกลาเทศ"
+  },
+  "TTEWTEAM-------TPE01": {
+    "zh": "中华台北",
+    "ko": "차이니즈 타이베이",
+    "vi": "Đài Bắc Trung Hoa",
+    "th": "จีนไทเป"
+  },
+  "TTEMTEAM-------KOR01": {
+    "zh": "韩国",
+    "ko": "대한민국",
+    "vi": "Hàn Quốc",
+    "th": "เกาหลีใต้"
+  },
+  "TTEMTEAM-------YEM01": {
+    "zh": "也门",
+    "ko": "예멘",
+    "vi": "Yemen",
+    "th": "เยเมน"
+  },
+  "FBLMTEAM11-----QAT01": {
+    "zh": "卡塔尔",
+    "ko": "카타르",
+    "vi": "Qatar",
+    "th": "กาตาร์"
+  },
+  "FBLMTEAM11-----KOR01": {
+    "zh": "韩国",
+    "ko": "대한민국",
+    "vi": "Hàn Quốc",
+    "th": "เกาหลีใต้"
+  },
+  "BKBWTEAM5------THA01": {
+    "zh": "泰国",
+    "ko": "태국",
+    "vi": "Thái Lan",
+    "th": "ไทย"
+  },
+  "BKBWTEAM5------CHN01": {
+    "zh": "中国",
+    "ko": "중국",
+    "vi": "Trung Quốc",
+    "th": "จีน"
+  },
+  "BKBWTEAM5------INA01": {
+    "zh": "印度尼西亚",
+    "ko": "인도네시아",
+    "vi": "Indonesia",
+    "th": "อินโดนีเซีย"
+  },
+  "TTEWDOUBLES----INA01": {
+    "zh": "马哈拉尼/苏达尔尼塔",
+    "ko": "마하라니/수다르니타",
+    "vi": "Maharani/Sudarnita",
+    "th": "มาฮารานี/สุดาร์นิตา"
+  },
+  "TTEWDOUBLES----SYR01": {
+    "zh": "扎扎/阿布德",
+    "ko": "자자/아부드",
+    "vi": "Zaza/Abboud",
+    "th": "ซาซา/อับบูด"
+  },
+  "TTEXDOUBLES----JPN02": {
+    "zh": "篠塚大登/伊藤美诚",
+    "ko": "시노즈카 히로토/이토 미마",
+    "vi": "Shinozuka Hiroto/Ito Mima",
+    "th": "ชิโนซึกะ ฮิโรโตะ/อิโตะ มิมะ"
+  },
+  "TTEXDOUBLES----UZB01": {
+    "zh": "迪尔绍多夫/埃尔克巴耶娃",
+    "ko": "딜쇼도프/에르케바예바",
+    "vi": "Dilshodov/Erkebaeva",
+    "th": "ดิลโชดอฟ/เออร์เคบาเอวา"
+  },
+  "TTEWTEAM-------PAK01": {
+    "zh": "巴基斯坦",
+    "ko": "파키스탄",
+    "vi": "Pakistan",
+    "th": "ปากีสถาน"
+  },
+  "TTEWTEAM-------IND01": {
+    "zh": "印度",
+    "ko": "인도",
+    "vi": "Ấn Độ",
+    "th": "อินเดีย"
+  },
+  "FBLWTEAM11-----BAN01": {
+    "zh": "孟加拉国",
+    "ko": "방글라데시",
+    "vi": "Bangladesh",
+    "th": "บังกลาเทศ"
+  },
+  "FBLWTEAM11-----MYA01": {
+    "zh": "缅甸",
+    "ko": "미얀마",
+    "vi": "Myanmar",
+    "th": "เมียนมา"
+  },
+  "BKBMTEAM5------BRN01": {
+    "zh": "巴林",
+    "ko": "바레인",
+    "vi": "Bahrain",
+    "th": "บาห์เรน"
+  },
+  "BKBMTEAM5------KAZ01": {
+    "zh": "哈萨克斯坦",
+    "ko": "카자흐스탄",
+    "vi": "Kazakhstan",
+    "th": "คาซัคสถาน"
+  },
+  "BKBMTEAM5------IRI01": {
+    "zh": "伊朗伊斯兰共和国",
+    "ko": "이란 이슬람 공화국",
+    "vi": "Cộng hòa Hồi giáo Iran",
+    "th": "สาธารณรัฐอิสลามอิหร่าน"
+  },
+  "BKBMTEAM5------PHI01": {
+    "zh": "菲律宾",
+    "ko": "필리핀",
+    "vi": "Philippines",
+    "th": "ฟิลิปปินส์"
+  },
+  "TTEWTEAM-------KOR01": {
+    "zh": "韩国",
+    "ko": "대한민국",
+    "vi": "Hàn Quốc",
+    "th": "เกาหลีใต้"
+  },
+  "TTEWTEAM-------MDV01": {
+    "zh": "马尔代夫",
+    "ko": "몰디브",
+    "vi": "Maldives",
+    "th": "มัลดีฟส์"
+  },
+  "BKBMTEAM5------JOR01": {
+    "zh": "约旦",
+    "ko": "요르단",
+    "vi": "Jordan",
+    "th": "จอร์แดน"
+  },
+  "BKBMTEAM5------QAT01": {
+    "zh": "卡塔尔",
+    "ko": "카타르",
+    "vi": "Qatar",
+    "th": "กาตาร์"
+  },
+  "BDMWTEAM-------HKG01": {
+    "zh": "中国香港",
+    "ko": "홍콩, 중국",
+    "vi": "Hồng Kông, Trung Quốc",
+    "th": "ฮ่องกง, จีน"
+  },
+  "BDMWTEAM-------MAS01": {
+    "zh": "马来西亚",
+    "ko": "말레이시아",
+    "vi": "Malaysia",
+    "th": "มาเลเซีย"
+  },
+  "BDMWTEAM-------INA01": {
+    "zh": "印度尼西亚",
+    "ko": "인도네시아",
+    "vi": "Indonesia",
+    "th": "อินโดนีเซีย"
+  },
+  "BDMWTEAM-------MGL01": {
+    "zh": "蒙古",
+    "ko": "몽골",
+    "vi": "Mông Cổ",
+    "th": "มองโกเลีย"
+  },
+  "FBLWTEAM11-----CHN01": {
+    "zh": "中华人民共和国",
+    "ko": "중화인민공화국",
+    "vi": "Cộng hòa Nhân dân Trung Hoa",
+    "th": "สาธารณรัฐประชาชนจีน"
+  },
+  "FBLWTEAM11-----PHI01": {
+    "zh": "菲律宾",
+    "ko": "필리핀",
+    "vi": "Philippines",
+    "th": "ฟิลิปปินส์"
+  },
+  "TTEMTEAM-------KGZ01": {
+    "zh": "吉尔吉斯斯坦",
+    "ko": "키르기스스탄",
+    "vi": "Kyrgyzstan",
+    "th": "คีร์กีซสถาน"
+  },
+  "TTEMTEAM-------HKG01": {
+    "zh": "中国香港",
+    "ko": "홍콩, 중국",
+    "vi": "Hồng Kông, Trung Quốc",
+    "th": "ฮ่องกง, จีน"
+  },
+  "BDMMTEAM-------KOR01": {
+    "zh": "韩国",
+    "ko": "대한민국",
+    "vi": "Hàn Quốc",
+    "th": "เกาหลีใต้"
+  },
+  "BDMMTEAM-------CHN01": {
+    "zh": "中华人民共和国",
+    "ko": "중화인민공화국",
+    "vi": "Cộng hòa Nhân dân Trung Hoa",
+    "th": "สาธารณรัฐประชาชนจีน"
+  },
+  "BDMWTEAM-------IND01": {
+    "zh": "印度",
+    "ko": "인도",
+    "vi": "Ấn Độ",
+    "th": "อินเดีย"
+  },
+  "BDMWTEAM-------JPN01": {
+    "zh": "日本",
+    "ko": "일본",
+    "vi": "Nhật Bản",
+    "th": "ญี่ปุ่น"
+  },
+  "FBLWTEAM11-----TPE01": {
+    "zh": "中华台北",
+    "ko": "차이니즈 타이베이",
+    "vi": "Trung Hoa Đài Bắc",
+    "th": "จีนไทเป"
+  },
+  "FBLWTEAM11-----VIE01": {
+    "zh": "越南",
+    "ko": "베트남",
+    "vi": "Việt Nam",
+    "th": "เวียดนาม"
+  },
+  "TTEWTEAM-------HKG01": {
+    "zh": "中国香港",
+    "ko": "홍콩, 중국",
+    "vi": "Hồng Kông, Trung Quốc",
+    "th": "ฮ่องกง, จีน"
+  },
+  "TTEWTEAM-------LBN01": {
+    "zh": "黎巴嫩",
+    "ko": "레바논",
+    "vi": "Liban",
+    "th": "เลบานอน"
+  },
+  "BKBMTEAM5------TPE01": {
+    "zh": "中华台北",
+    "ko": "차이니즈 타이베이",
+    "vi": "Trung Hoa Đài Bắc",
+    "th": "จีนไทเป"
+  },
+  "FBLMTEAM11-----UAE01": {
+    "zh": "阿拉伯联合酋长国",
+    "ko": "아랍에미리트",
+    "vi": "Các Tiểu vương quốc Ả Rập Thống nhất",
+    "th": "สหรัฐอาหรับเอมิเรตส์"
+  },
+  "FBLMTEAM11-----IRI01": {
+    "zh": "伊朗伊斯兰共和国",
+    "ko": "이란 이슬람 공화국",
+    "vi": "Cộng hòa Hồi giáo Iran",
+    "th": "สาธารณรัฐอิสลามอิหร่าน"
+  },
+  "BDMMTEAM-------THA01": {
+    "zh": "泰国",
+    "ko": "태국",
+    "vi": "Thái Lan",
+    "th": "ประเทศไทย"
+  },
+  "BDMMTEAM-------MAC01": {
+    "zh": "中国澳门",
+    "ko": "마카오",
+    "vi": "Ma Cao, Trung Quốc",
+    "th": "มาเก๊า จีน"
+  },
+  "BDMMTEAM-------BAN01": {
+    "zh": "孟加拉国",
+    "ko": "방글라데시",
+    "vi": "Bangladesh",
+    "th": "บังกลาเทศ"
+  },
+  "BDMMTEAM-------IND01": {
+    "zh": "印度",
+    "ko": "인도",
+    "vi": "Ấn Độ",
+    "th": "อินเดีย"
+  },
+  "TTEMTEAM-------SGP01": {
+    "zh": "新加坡",
+    "ko": "싱가포르",
+    "vi": "Singapore",
+    "th": "สิงคโปร์"
+  },
+  "TTEMTEAM-------BAN01": {
+    "zh": "孟加拉国",
+    "ko": "방글라데시",
+    "vi": "Bangladesh",
+    "th": "บังกลาเทศ"
+  },
+  "TTEXDOUBLES----PAK01": {
+    "zh": "穆罕默德·汗/卡尔苏姆·汗",
+    "ko": "무하마드 칸/칼숨 칸",
+    "vi": "Muhammad Khan/Kalsoom Khan",
+    "th": "มูฮัมหมัด ข่าน/คัลซูม ข่าน"
+  },
+  "1": {
+    "zh": "鲁宾·马哈尔詹/埃瓦娜·塔帕",
+    "ko": "루빈 마하르잔/에바나 타파",
+    "vi": "Rubin Maharjan/Evana Thapa",
+    "th": "รูบิน มาฮาร์จัน/เอวานา ทาปา"
+  },
+  "BKBWTEAM5------KAZ01": {
+    "zh": "哈萨克斯坦",
+    "ko": "카자흐스탄",
+    "vi": "Kazakhstan",
+    "th": "คาซัคสถาน"
+  },
+  "BKBWTEAM5------JPN01": {
+    "zh": "日本",
+    "ko": "일본",
+    "vi": "Nhật Bản",
+    "th": "ญี่ปุ่น"
+  },
+  "BKBWTEAM5------HKG01": {
+    "zh": "中国香港",
+    "ko": "홍콩",
+    "vi": "Hồng Kông, Trung Quốc",
+    "th": "ฮ่องกง จีน"
+  },
+  "TTEWTEAM-------UZB01": {
+    "zh": "乌兹别克斯坦",
+    "ko": "우즈베키스탄",
+    "vi": "Uzbekistan",
+    "th": "อุซเบกิสถาน"
+  },
+  "TTEWTEAM-------KAZ01": {
+    "zh": "哈萨克斯坦",
+    "ko": "카자흐스탄",
+    "vi": "Kazakhstan",
+    "th": "คาซัคสถาน"
+  },
+  "TTEXDOUBLES----NEP01": {
+    "zh": "萨尼奥格·卡帕利/纳比塔·什雷斯塔",
+    "ko": "사뇨그 카팔리/나비타 슈레스타",
+    "vi": "Sanyog Kapali/Nabita Shrestha",
+    "th": "สันโยก กาปาลี/นาบิตา เศรษฐา"
+  },
+  "TTEXDOUBLES----MGL02": {
+    "zh": "比尔古恩·安赫巴亚尔/安赫玛·色日奥德",
+    "ko": "빌구운 안흐바야르/안흐마 세르-오드",
+    "vi": "Bilguun Ankhbayar/Ankhmaa Ser-Od",
+    "th": "บิลกูน อังค์บายาร์/อังค์มา เซอร์-ออด"
+  },
+  "FBLWTEAM11-----UZB01": {
+    "zh": "乌兹别克斯坦",
+    "ko": "우즈베키스탄",
+    "vi": "Uzbekistan",
+    "th": "อุซเบกิสถาน"
+  },
+  "TTEXDOUBLES----SRI01": {
+    "zh": "查努尔·库拉普瓦瓦杜/比曼迪·斯瓦纳",
+    "ko": "차눌 쿨라푸와와두/비만디 스와르나",
+    "vi": "Chanul Kulappuwawadu/Bimandee Swarna",
+    "th": "ชานุล กุลัปปุวาวาดู/บิมันดี สวาร์นา"
+  },
+  "TTEXDOUBLES----QAT02": {
+    "zh": "阿卜杜拉·阿卜杜勒侯赛因/玛丽亚姆·阿里",
+    "ko": "압둘후세인 압둘라/알리 마리암",
+    "vi": "Abdulhussein Abdullah/Ali Maryam",
+    "th": "อับดุลฮุสเซน อับดุลลาห์/อาลี มัรยัม"
+  },
+  "TTEWTEAM-------THA01": {
+    "zh": "泰国",
+    "ko": "태국",
+    "vi": "Thái Lan",
+    "th": "ประเทศไทย"
+  },
+  "BDMWTEAM-------KOR01": {
+    "zh": "韩国",
+    "ko": "대한민국",
+    "vi": "Hàn Quốc",
+    "th": "เกาหลีใต้"
+  },
+  "BDMWTEAM-------TPE01": {
+    "zh": "中国台北",
+    "ko": "차이니즈 타이베이",
+    "vi": "Đài Bắc Trung Hoa",
+    "th": "จีนไทเป"
+  },
+  "FBLWTEAM11-----THA01": {
+    "zh": "泰国",
+    "ko": "태국",
+    "vi": "Thái Lan",
+    "th": "ประเทศไทย"
+  },
+  "TTEMTEAM-------KAZ01": {
+    "zh": "哈萨克斯坦",
+    "ko": "카자흐스탄",
+    "vi": "Kazakhstan",
+    "th": "คาซัคสถาน"
+  },
+  "TTEXDOUBLES----BAN01": {
+    "zh": "里多伊·莫胡塔辛/马希·诺林",
+    "ko": "리도이 모후타신/마히 노린",
+    "vi": "RIDOY Mohutasin/MAHI Nowrin",
+    "th": "ริโดย์ โมฮูตาซิน/มาฮี นาวริน"
+  },
+  "TTEMTEAM-------THA01": {
+    "zh": "泰国",
+    "ko": "태국",
+    "vi": "Thái Lan",
+    "th": "ประเทศไทย"
+  },
+  "TTEWDOUBLES----BAN01": {
+    "zh": "图希·萨曼塔/马希·诺林",
+    "ko": "투시 사만타/마히 노린",
+    "vi": "TUSHI Samanta/MAHI Nowrin",
+    "th": "ทูชี ซามันตา/มาฮี นาวริน"
+  },
+  "TTEWDOUBLES----PRK01": {
+    "zh": "金锦英/车秀英",
+    "ko": "김금영/차수영",
+    "vi": "KIM Kum Yong/CHA Su Yong",
+    "th": "คิม คึม ยอง/ชา ซู ยอง"
+  },
+  "TTEMTEAM-------MGL01": {
+    "zh": "蒙古",
+    "ko": "몽골",
+    "vi": "Mông Cổ",
+    "th": "มองโกเลีย"
+  },
+  "FBLMTEAM11-----KSA01": {
+    "zh": "沙特阿拉伯",
+    "ko": "사우디아라비아",
+    "vi": "Ả Rập Xê Út",
+    "th": "ซาอุดีอาระเบีย"
+  },
+  "FBLMTEAM11-----JPN01": {
+    "zh": "日本",
+    "ko": "일본",
+    "vi": "Nhật Bản",
+    "th": "ญี่ปุ่น"
+  },
+  "TTEWTEAM-------INA01": {
+    "zh": "印度尼西亚",
+    "ko": "인도네시아",
+    "vi": "Indonesia",
+    "th": "อินโดนีเซีย"
+  },
+  "FBLWTEAM11-----KOR01": {
+    "zh": "韩国",
+    "ko": "대한민국",
+    "vi": "Hàn Quốc",
+    "th": "เกาหลีใต้"
+  },
+  "FBLMTEAM11-----KUW01": {
+    "zh": "科威特",
+    "ko": "쿠웨이트",
+    "vi": "Kuwait",
+    "th": "คูเวต"
+  },
+  "TTEMTEAM-------PAK01": {
+    "zh": "巴基斯坦",
+    "ko": "파키스탄",
+    "vi": "Pakistan",
+    "th": "ปากีสถาน"
+  },
+  "TTEXDOUBLES----KAZ01": {
+    "zh": "格拉西缅科·基里尔/阿卡舍娃·扎乌列什",
+    "ko": "게라시멘코 키릴/아카셰바 자우레시",
+    "vi": "GERASSIMENKO Kirill/AKASHEVA Zauresh",
+    "th": "เกราสซิเมนโค คิริล/อาคาเชวา เซาเรช"
+  },
+  "TTEXDOUBLES----TPE02": {
+    "zh": "冯翊新/叶伊恬",
+    "ko": "펑이신/예이티엔",
+    "vi": "PHÙNG Dực Tân/DIỆP Y Điềm",
+    "th": "เฟิง อี้ซิน/เย่ อี้เทียน"
+  },
+  "TTEWDOUBLES----INA02": {
+    "zh": "普特里·辛迪/拉斯米·西特拉",
+    "ko": "푸트리 신디/라스미 시트라",
+    "vi": "PUTRI Cindy/RASMI Citra",
+    "th": "ปุตรี ซินดี/ราสมี จิตรา"
+  },
+  "TTEWDOUBLES----MDV01": {
+    "zh": "纳齐姆·艾莎特/阿里·法蒂玛特",
+    "ko": "나짐 아이샤트/알리 파티마트",
+    "vi": "NAZIM Aishath/ALI Fathimath",
+    "th": "นาซิม ไอชาธ/อาลี ฟาติมาธ"
+  },
+  "TTEWTEAM-------PRK01": {
+    "zh": "朝鲜",
+    "ko": "조선민주주의인민공화국",
+    "vi": "CHDCND Triều Tiên",
+    "th": "เกาหลีเหนือ"
+  },
+  "FBLMTEAM11-----HKG01": {
+    "zh": "中国香港",
+    "ko": "중국 홍콩",
+    "vi": "Hồng Kông, Trung Quốc",
+    "th": "ฮ่องกง จีน"
+  },
+  "TTEWDOUBLES----PRK02": {
+    "zh": "边松景/崔正任",
+    "ko": "변송경/최정임",
+    "vi": "PYON Song Gyong/CHOE Jong Im",
+    "th": "พยอน ซง กยอง/ชเว จอง อิม"
+  },
+  "TTEWDOUBLES----PAK02": {
+    "zh": "汗·法蒂玛/汗·阿莱娜",
+    "ko": "칸 파티마/칸 알레나",
+    "vi": "KHAN Fatima/KHAN Aleena",
+    "th": "คาน ฟาติมา/คาน อลีนา"
+  },
+  "TTEXDOUBLES----MGL01": {
+    "zh": "米扬达尔·特木伦/巴特蒙赫·博洛尔额尔德尼",
+    "ko": "먄달 테무울렌/바트뭉흐 볼로르에르덴",
+    "vi": "MYANDAL Temuulen/BATMUNKH Bolor-erdene",
+    "th": "เมียนดัล เตมูเลน/บัทมุนค์ โบโลร์-เออร์ดีน"
+  },
+  "TTEXDOUBLES----MAC02": {
+    "zh": "郑宏威/梁安琪",
+    "ko": "정홍웨이/리앙온나",
+    "vi": "TRỊNH Hoành Uy/LƯƠNG An Na",
+    "th": "เจิ้ง หงเวย/เหลียง ออนนา"
+  },
+  "BDMWTEAM-------CHN01": {
+    "zh": "中国",
+    "ko": "중국",
+    "vi": "Trung Quốc",
+    "th": "จีน"
+  },
+  "BDMWTEAM-------THA01": {
+    "zh": "泰国",
+    "ko": "태국",
+    "vi": "Thái Lan",
+    "th": "ประเทศไทย"
+  },
+  "TTEXDOUBLES----IRI02": {
+    "zh": "加法里·阿里安/阿什塔里·马赫希德",
+    "ko": "가파리 아리안/아쉬타리 마흐시드",
+    "vi": "GHAFFARI Aryan/ASHTARI Mahshid",
+    "th": "กัฟฟารี อารยัน/อัชทารี มาห์ชิด"
+  },
+  "TTEXDOUBLES----THA01": {
+    "zh": "桑万辛·帕克蓬/帕拉南·奥拉万",
+    "ko": "상우안신 팍품/파라낭 오라완",
+    "vi": "SANGUANSIN Phakpoom/PARANANG Orawan",
+    "th": "แสงวานสิน ภัคภูมิ/ปารานัง อรวรรณ"
+  },
+  "BDMMTEAM-------INA01": {
+    "zh": "印度尼西亚",
+    "ko": "인도네시아",
+    "vi": "Indonesia",
+    "th": "อินโดนีเซีย"
   }
 }
