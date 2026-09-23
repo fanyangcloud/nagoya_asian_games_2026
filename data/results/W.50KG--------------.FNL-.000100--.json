@@ -1,1 +1,521 @@
-null
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "KTE",
+    "DiscDesc": "Karate",
+    "Key": "W.50KG--------------.FNL-.000100--",
+    "isH2H": true,
+    "Type": "A",
+    "Medal": "1",
+    "Status": "OFFICIAL",
+    "StatusDesc": "Official",
+    "DateTimeRaw": "2026-09-23T14:45:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "",
+    "HideLocation": false,
+    "Venue": "TYH",
+    "VenueDesc": "Toyohashi Gymnasium",
+    "VenueDescS": "Toyohashi Gymnasium",
+    "Loc": "KT1",
+    "LocDesc": "TYH Tatami 1",
+    "LocDescS": "TYH Tatami 1",
+    "Event": "W.50KG--------------",
+    "EventDesc": "Women's Kumite -50kg",
+    "Phase": "W.50KG--------------.FNL-",
+    "PhaseOrder": 81,
+    "PhaseDesc": "Women's Kumite -50kg Final",
+    "PhaseDescS": "Final",
+    "PhaseDescA": "Final",
+    "UnitDesc": "Women's Kumite -50kg Final",
+    "UnitDescS": "Final",
+    "UnitDescA": "Women's Kumite -50kg Final",
+    "UnitNum": "122",
+    "IsLive": false,
+    "ShowResults": true,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "0",
+    "ResDetail": "0",
+    "Duration": "",
+    "Current": "",
+    "Last": "",
+    "Extensions": [
+      {
+        "Type": "UNIT_INFO",
+        "Code": "CompetitorUnderReview",
+        "Pos": 0,
+        "Value": "",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Decision",
+        "Pos": 0,
+        "Value": "HANTEI",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "DecisionIVR",
+        "Pos": 0,
+        "Value": "",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "IsKata",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Technique_01",
+        "Pos": 0,
+        "Value": "02:36;CHUI (first instance);Ao;;0:0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Technique_02",
+        "Pos": 0,
+        "Value": "02:36;CHUI (first instance);Aka;;0:0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Technique_03",
+        "Pos": 0,
+        "Value": "01:55;CHUI (second instance);Aka;;0:0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Technique_04",
+        "Pos": 0,
+        "Value": "00:05;Video Review Reject;Aka;;0:0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Technique_05",
+        "Pos": 0,
+        "Value": "00:00;Video Review Reject;Ao;;0:0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "UnderReview",
+        "Pos": 0,
+        "Value": "False",
+        "Extensions": []
+      }
+    ],
+    "Periods": [
+      {
+        "Order": 1,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "0",
+        "ResAway": "0",
+        "TotHome": "0",
+        "TotAway": "0",
+        "Extensions": [],
+        "Desc": "1st Round",
+        "DescS": "R1"
+      }
+    ],
+    "Officials": [
+      {
+        "Reg": "3585426",
+        "Org": "UAE",
+        "Order": 101,
+        "Function": "KTE02",
+        "Bib": "1993-05-03",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "United Arab Emirates",
+        "Name": "JAFARI Amina",
+        "NameS": "JAFARI A",
+        "FuncDesc": "Referee"
+      },
+      {
+        "Reg": "184456",
+        "Org": "JPN",
+        "Order": 102,
+        "Function": "KTE03",
+        "Bib": "1975-04-16",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Japan",
+        "Name": "ABE Yasuhisa",
+        "NameS": "ABE Y",
+        "FuncDesc": "Judge1"
+      },
+      {
+        "Reg": "2555276",
+        "Org": "IRI",
+        "Order": 103,
+        "Function": "KTE04",
+        "Bib": "1978-10-03",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Islamic Republic of Iran",
+        "Name": "JAFARI Leila",
+        "NameS": "JAFARI L",
+        "FuncDesc": "Judge2"
+      },
+      {
+        "Reg": "6125918",
+        "Org": "TKM",
+        "Order": 104,
+        "Function": "KTE05",
+        "Bib": "1983-01-01",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Turkmenistan",
+        "Name": "SARYYEV Rovshen",
+        "NameS": "SARYYEV R",
+        "FuncDesc": "Judge3"
+      },
+      {
+        "Reg": "10192213",
+        "Org": "VIE",
+        "Order": 105,
+        "Function": "KTE06",
+        "Bib": "1973-05-28",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Vietnam",
+        "Name": "DO Cuong",
+        "NameS": "DO C",
+        "FuncDesc": "Judge4"
+      },
+      {
+        "Reg": "3625292",
+        "Org": "IND",
+        "Order": 109,
+        "Function": "KTE10",
+        "Bib": "1972-05-14",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "India",
+        "Name": "ANSARI Shaheen Salauddin",
+        "NameS": "ANSARI SS",
+        "FuncDesc": "Bout Supervisor"
+      },
+      {
+        "Reg": "8248291",
+        "Org": "KAZ",
+        "Order": 111,
+        "Function": "KTE11",
+        "Bib": "1989-10-25",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Kazakhstan",
+        "Name": "DAUIT Zhandos",
+        "NameS": "DAUIT Z",
+        "FuncDesc": "Score Supervisor"
+      },
+      {
+        "Reg": "12019194",
+        "Org": "JOR",
+        "Order": 112,
+        "Function": "KTE12",
+        "Bib": "1974-05-30",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Jordan",
+        "Name": "ALDIQS Ibrahim",
+        "NameS": "ALDIQS I",
+        "FuncDesc": "VR Supervisor"
+      }
+    ],
+    "Paralympic": false
+  },
+  "Competitors": [
+    {
+      "Reg": "6835166",
+      "Bib": "",
+      "Org": "MAS",
+      "StartOrder": "1",
+      "StartSortOrder": 1,
+      "Rk": "1",
+      "RkEq": false,
+      "RkPo": 1,
+      "WLT": "W",
+      "Result": "0",
+      "ResDetail": "0",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Category1Chukoku",
+          "Pos": 0,
+          "Value": "true",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Category1Chukoku2",
+          "Pos": 0,
+          "Value": "true",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Category1Keikoku",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Category1HansokuChui",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Category1Hansoku",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Yuko",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "WazaAri",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Ippon",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Senshu",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Colour",
+          "Pos": 0,
+          "Value": "BLUE",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "VR",
+          "Pos": 0,
+          "Value": "true",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Obi",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        }
+      ],
+      "Name": "CHANDRAN Shahmalarani",
+      "NameS": "CHANDRAN S",
+      "OrgDesc": "Malaysia",
+      "Splits": [
+        {
+          "Category": "MAIN",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "0",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "0",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": ""
+    },
+    {
+      "Reg": "11608604",
+      "Bib": "",
+      "Org": "HKG",
+      "StartOrder": "2",
+      "StartSortOrder": 2,
+      "Rk": "2",
+      "RkEq": false,
+      "RkPo": 2,
+      "WLT": "L",
+      "Result": "0",
+      "ResDetail": "0",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Category1Chukoku",
+          "Pos": 0,
+          "Value": "true",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Category1Chukoku2",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Category1Keikoku",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Category1HansokuChui",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Category1Hansoku",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Yuko",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "WazaAri",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Ippon",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Senshu",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Colour",
+          "Pos": 0,
+          "Value": "RED",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "VR",
+          "Pos": 0,
+          "Value": "true",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Obi",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        }
+      ],
+      "Name": "TSANG Yee Ting",
+      "NameS": "TSANG YT",
+      "OrgDesc": "Hong Kong, China",
+      "Splits": [
+        {
+          "Category": "MAIN",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "0",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "0",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": ""
+    }
+  ],
+  "Legends": {
+    "records": [],
+    "irms": [],
+    "qs": []
+  }
+}
