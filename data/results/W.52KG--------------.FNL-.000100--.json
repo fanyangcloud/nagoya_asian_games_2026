@@ -1,1 +1,325 @@
-null
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "WSU",
+    "DiscDesc": "Wushu",
+    "Key": "W.52KG--------------.FNL-.000100--",
+    "isH2H": true,
+    "Type": "A",
+    "Medal": "1",
+    "Status": "OFFICIAL",
+    "StatusDesc": "Official",
+    "DateTimeRaw": "2026-09-24T09:30:11+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "",
+    "HideLocation": false,
+    "Venue": "PMA",
+    "VenueDesc": "Aichi Prefectural Martial Arts Hall",
+    "VenueDescS": "Aichi Prefectural Martial Arts Hall",
+    "Loc": "PMA",
+    "LocDesc": "",
+    "LocDescS": "",
+    "Event": "W.52KG--------------",
+    "EventDesc": "Women's 52kg",
+    "Phase": "W.52KG--------------.FNL-",
+    "PhaseOrder": 1,
+    "PhaseDesc": "Women's 52kg",
+    "PhaseDescS": "Women's 52kg",
+    "PhaseDescA": "Final",
+    "UnitDesc": "Women's 52kg - Final - Match 1",
+    "UnitDescS": "Women's 52kg - Final - Match 1",
+    "UnitDescA": "Women's 52kg - Final - Match 1",
+    "UnitNum": "1",
+    "IsLive": false,
+    "ShowResults": true,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "2 - 0",
+    "ResDetail": "",
+    "Duration": "",
+    "CurrentPeriod": 2,
+    "Current": "7002360",
+    "Last": "4622934",
+    "Extensions": [
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Decision",
+        "Pos": 0,
+        "Value": "WBR",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "DecisionDesc",
+        "Pos": 0,
+        "Value": "Win by Rounds",
+        "Extensions": []
+      }
+    ],
+    "Periods": [
+      {
+        "Order": 1,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "RedsplitSCORE",
+            "Pos": 0,
+            "Value": "5",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "Redadmonitions",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "RedWarning",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "RedFalloff",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "Redforcible",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "Red_WLT",
+            "Pos": 0,
+            "Value": "W",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "BluesplitSCORE",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "Blueadmonitions",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "BlueWarning",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "Blueforcible",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "BlueFalloff",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "Blue_WLT",
+            "Pos": 0,
+            "Value": "L",
+            "Extensions": []
+          }
+        ],
+        "Desc": "Round 1",
+        "DescS": "R 1"
+      },
+      {
+        "Order": 2,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "RedsplitSCORE",
+            "Pos": 0,
+            "Value": "4+1D",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "Redadmonitions",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "RedWarning",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "RedFalloff",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "Redforcible",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "Red_WLT",
+            "Pos": 0,
+            "Value": "W",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "BluesplitSCORE",
+            "Pos": 0,
+            "Value": "0+1D",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "Blueadmonitions",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "BlueWarning",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "Blueforcible",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "BlueFalloff",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "Blue_WLT",
+            "Pos": 0,
+            "Value": "L",
+            "Extensions": []
+          }
+        ],
+        "Desc": "Round 2",
+        "DescS": "R 2"
+      }
+    ],
+    "Paralympic": false
+  },
+  "Competitors": [
+    {
+      "Reg": "7002360",
+      "Bib": "",
+      "Org": "CHN",
+      "StartOrder": "1",
+      "StartSortOrder": 1,
+      "Rk": "1",
+      "RkEq": false,
+      "RkPo": 1,
+      "WLT": "W",
+      "Result": "2",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "Q",
+      "Lane": "",
+      "Diff": "",
+      "Extensions": [],
+      "Name": "WU Di",
+      "NameS": "WU D",
+      "OrgDesc": "People's Republic of China",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": ""
+    },
+    {
+      "Reg": "4622934",
+      "Bib": "",
+      "Org": "IRI",
+      "StartOrder": "2",
+      "StartSortOrder": 2,
+      "Rk": "2",
+      "RkEq": false,
+      "RkPo": 2,
+      "WLT": "L",
+      "Result": "0",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "Lane": "",
+      "Diff": "",
+      "Extensions": [],
+      "Name": "SINKAEICHETAN Sogand",
+      "NameS": "SINKAEICHETAN S",
+      "OrgDesc": "Islamic Republic of Iran",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": ""
+    }
+  ],
+  "Legends": {
+    "records": [],
+    "irms": [],
+    "qs": [
+      {
+        "Desc": "legends.WSU.Q",
+        "DescS": "Q"
+      }
+    ]
+  }
+}
