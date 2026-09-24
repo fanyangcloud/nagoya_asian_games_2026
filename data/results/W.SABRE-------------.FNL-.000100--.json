@@ -1,1 +1,612 @@
-null
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "FEN",
+    "DiscDesc": "Fencing",
+    "Key": "W.SABRE-------------.FNL-.000100--",
+    "isH2H": true,
+    "Type": "A",
+    "Medal": "1",
+    "Status": "OFFICIAL",
+    "StatusDesc": "Official",
+    "DateTimeRaw": "2026-09-24T18:40:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "Followed by",
+    "HideLocation": false,
+    "Venue": "SKEF",
+    "VenueDesc": "Aichi Sky Expo Hall F",
+    "VenueDescS": "Aichi Sky Expo Hall F",
+    "Loc": "FEF",
+    "LocDesc": "Podium",
+    "LocDescS": "Podium",
+    "Event": "W.SABRE-------------",
+    "EventDesc": "Women's Sabre Individual",
+    "Phase": "W.SABRE-------------.FNL-",
+    "PhaseOrder": 9,
+    "PhaseDesc": "Women's Sabre Individual Finals",
+    "PhaseDescS": "Women's Sabre Individual Finals",
+    "PhaseDescA": "Finals",
+    "UnitDesc": "Women's Sabre Individual - Finals - Gold Medal Bout",
+    "UnitDescS": "Women's Sabre Individual - Finals - Gold Medal Bout",
+    "UnitDescA": "Gold Medal Bout",
+    "UnitNum": "9999",
+    "IsLive": false,
+    "ShowResults": true,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "14 - 15",
+    "ResDetail": "D14 - V15",
+    "Duration": "",
+    "CurrentPeriod": 2,
+    "Current": "",
+    "Last": "",
+    "Extensions": [
+      {
+        "Type": "UNIT_INFO",
+        "Code": "InfoMatch",
+        "Pos": 0,
+        "Value": "1",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "InfoTeam",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "ServerHomeAway",
+        "Pos": 0,
+        "Value": "",
+        "Extensions": []
+      }
+    ],
+    "Periods": [
+      {
+        "Order": 1,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "4",
+        "ResAway": "8",
+        "TotHome": "4",
+        "TotAway": "8",
+        "Extensions": [
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayFencer",
+            "Pos": 0,
+            "Value": "10704514",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayFencerTVName",
+            "Pos": 0,
+            "Value": "EMURA M.",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenFencer",
+            "Pos": 0,
+            "Value": "7243114",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenFencerTVName",
+            "Pos": 0,
+            "Value": "Z. DAYIBEKOVA",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeFencer",
+            "Pos": 0,
+            "Value": "7243114",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeFencerTVName",
+            "Pos": 0,
+            "Value": "Z. DAYIBEKOVA",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "Overtime",
+            "Pos": 0,
+            "Value": "false",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedFencer",
+            "Pos": 0,
+            "Value": "10704514",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedFencerTVName",
+            "Pos": 0,
+            "Value": "EMURA M.",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ResGreen",
+            "Pos": 0,
+            "Value": "4",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ResRed",
+            "Pos": 0,
+            "Value": "8",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "TotGreen",
+            "Pos": 0,
+            "Value": "4",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "TotRed",
+            "Pos": 0,
+            "Value": "8",
+            "Extensions": []
+          }
+        ],
+        "Desc": "Period 1",
+        "DescS": "Period 1"
+      },
+      {
+        "Order": 2,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "10",
+        "ResAway": "7",
+        "TotHome": "14",
+        "TotAway": "15",
+        "Extensions": [
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayFencer",
+            "Pos": 0,
+            "Value": "10704514",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayFencerTVName",
+            "Pos": 0,
+            "Value": "EMURA M.",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenFencer",
+            "Pos": 0,
+            "Value": "7243114",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenFencerTVName",
+            "Pos": 0,
+            "Value": "Z. DAYIBEKOVA",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeFencer",
+            "Pos": 0,
+            "Value": "7243114",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeFencerTVName",
+            "Pos": 0,
+            "Value": "Z. DAYIBEKOVA",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "Overtime",
+            "Pos": 0,
+            "Value": "false",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedFencer",
+            "Pos": 0,
+            "Value": "10704514",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedFencerTVName",
+            "Pos": 0,
+            "Value": "EMURA M.",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ResGreen",
+            "Pos": 0,
+            "Value": "10",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ResRed",
+            "Pos": 0,
+            "Value": "7",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "TotGreen",
+            "Pos": 0,
+            "Value": "14",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "TotRed",
+            "Pos": 0,
+            "Value": "15",
+            "Extensions": []
+          }
+        ],
+        "Desc": "Period 2",
+        "DescS": "Period 2"
+      }
+    ],
+    "Officials": [
+      {
+        "Reg": "11190323",
+        "Org": "ROU",
+        "Order": 1,
+        "Function": "RE",
+        "Extensions": [],
+        "FuncOrder": "1",
+        "OrgDesc": "Romania",
+        "Name": "DOANA Andreea",
+        "NameS": "DOANA Andreea",
+        "FuncDesc": "Referee"
+      },
+      {
+        "Reg": "12141712",
+        "Org": "KOR",
+        "Order": 2,
+        "Function": "VR",
+        "Extensions": [],
+        "FuncOrder": "4",
+        "OrgDesc": "Republic of Korea",
+        "Name": "KIM Sun Ho",
+        "NameS": "KIM S",
+        "FuncDesc": "Video Referee"
+      },
+      {
+        "Reg": "13218641",
+        "Org": "KAZ",
+        "Order": 3,
+        "Function": "AR",
+        "Extensions": [],
+        "FuncOrder": "2",
+        "OrgDesc": "Kazakhstan",
+        "Name": "TILENSHIYEV Yerali",
+        "NameS": "TILENSHIYEV Y",
+        "FuncDesc": "Assistant Referee"
+      },
+      {
+        "Reg": "509802",
+        "Org": "IRI",
+        "Order": 4,
+        "Function": "AR",
+        "Extensions": [],
+        "FuncOrder": "2",
+        "OrgDesc": "Islamic Republic of Iran",
+        "Name": "PEYKARARA Reza",
+        "NameS": "PEYKARARA R",
+        "FuncDesc": "Assistant Referee"
+      }
+    ],
+    "Paralympic": false
+  },
+  "Competitors": [
+    {
+      "Reg": "7243114",
+      "Bib": "",
+      "Org": "UZB",
+      "StartOrder": "1",
+      "StartSortOrder": 1,
+      "Rk": "2",
+      "RkEq": false,
+      "RkPo": 2,
+      "WLT": "L",
+      "Result": "14",
+      "ResDetail": "L14",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "Lane": "",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Color",
+          "Pos": 0,
+          "Value": "2",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Handedness",
+          "Pos": 0,
+          "Value": "R",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "LightOn",
+          "Pos": 0,
+          "Value": "N",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ResultType",
+          "Pos": 0,
+          "Value": "D",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "WhiteLightOn",
+          "Pos": 0,
+          "Value": "N",
+          "Extensions": []
+        }
+      ],
+      "Stats": {
+        "ST_pRED_CARDS": "",
+        "ST_pBLACK_CARDS": "",
+        "ST_YELLOW_CARDS": "1",
+        "ST_RED_CARDS": "",
+        "ST_BLACK_CARDS": ""
+      },
+      "Name": "DAYIBEKOVA Zaynab",
+      "NameS": "DAYIBEKOVA Z",
+      "OrgDesc": "Uzbekistan",
+      "Splits": [
+        {
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "4",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "4",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        },
+        {
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "10",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "14",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_SILVER"
+    },
+    {
+      "Reg": "10704514",
+      "Bib": "",
+      "Org": "JPN",
+      "StartOrder": "2",
+      "StartSortOrder": 2,
+      "Rk": "1",
+      "RkEq": false,
+      "RkPo": 1,
+      "WLT": "W",
+      "Result": "15",
+      "ResDetail": "W15",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "Q",
+      "Lane": "",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Color",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Handedness",
+          "Pos": 0,
+          "Value": "R",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "LightOn",
+          "Pos": 0,
+          "Value": "N",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ResultType",
+          "Pos": 0,
+          "Value": "V",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "WhiteLightOn",
+          "Pos": 0,
+          "Value": "N",
+          "Extensions": []
+        }
+      ],
+      "Stats": {
+        "ST_pRED_CARDS": "",
+        "ST_pBLACK_CARDS": "",
+        "ST_YELLOW_CARDS": "",
+        "ST_RED_CARDS": "",
+        "ST_BLACK_CARDS": ""
+      },
+      "Name": "EMURA Misaki",
+      "NameS": "EMURA M",
+      "OrgDesc": "Japan",
+      "Splits": [
+        {
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "8",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "8",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        },
+        {
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "7",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "15",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_GOLD"
+    }
+  ],
+  "Legends": {
+    "records": [],
+    "irms": [],
+    "qs": [
+      {
+        "Desc": "legends.FEN.Q",
+        "DescS": "Q"
+      }
+    ]
+  }
+}

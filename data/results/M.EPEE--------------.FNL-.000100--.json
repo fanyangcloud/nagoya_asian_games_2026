@@ -1,1 +1,816 @@
-null
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "FEN",
+    "DiscDesc": "Fencing",
+    "Key": "M.EPEE--------------.FNL-.000100--",
+    "isH2H": true,
+    "Type": "A",
+    "Medal": "1",
+    "Status": "OFFICIAL",
+    "StatusDesc": "Official",
+    "DateTimeRaw": "2026-09-24T18:20:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "Followed by",
+    "HideLocation": false,
+    "Venue": "SKEF",
+    "VenueDesc": "Aichi Sky Expo Hall F",
+    "VenueDescS": "Aichi Sky Expo Hall F",
+    "Loc": "FEF",
+    "LocDesc": "Podium",
+    "LocDescS": "Podium",
+    "Event": "M.EPEE--------------",
+    "EventDesc": "Men's Épée Individual",
+    "Phase": "M.EPEE--------------.FNL-",
+    "PhaseOrder": 12,
+    "PhaseDesc": "Men's Épée Individual Finals",
+    "PhaseDescS": "Men's Épée Individual Finals",
+    "PhaseDescA": "Finals",
+    "UnitDesc": "Men's Épée Individual - Finals - Gold Medal Bout",
+    "UnitDescS": "Men's Épée Individual - Finals - Gold Medal Bout",
+    "UnitDescA": "Gold Medal Bout",
+    "UnitNum": "9999",
+    "IsLive": false,
+    "ShowResults": true,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "13 - 15",
+    "ResDetail": "D13 - V15",
+    "Duration": "",
+    "CurrentPeriod": 4,
+    "Current": "",
+    "Last": "",
+    "Extensions": [
+      {
+        "Type": "UNIT_INFO",
+        "Code": "InfoMatch",
+        "Pos": 0,
+        "Value": "1",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "InfoTeam",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "ServerHomeAway",
+        "Pos": 0,
+        "Value": "",
+        "Extensions": []
+      }
+    ],
+    "Periods": [
+      {
+        "Order": 1,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "3",
+        "ResAway": "3",
+        "TotHome": "3",
+        "TotAway": "3",
+        "Extensions": [
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayFencer",
+            "Pos": 0,
+            "Value": "10705170",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayFencerTVName",
+            "Pos": 0,
+            "Value": "KANO K.",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenFencer",
+            "Pos": 0,
+            "Value": "9168923",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenFencerTVName",
+            "Pos": 0,
+            "Value": "K. PROKHODOV",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeFencer",
+            "Pos": 0,
+            "Value": "9168923",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeFencerTVName",
+            "Pos": 0,
+            "Value": "K. PROKHODOV",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "Overtime",
+            "Pos": 0,
+            "Value": "false",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedFencer",
+            "Pos": 0,
+            "Value": "10705170",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedFencerTVName",
+            "Pos": 0,
+            "Value": "KANO K.",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ResGreen",
+            "Pos": 0,
+            "Value": "3",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ResRed",
+            "Pos": 0,
+            "Value": "3",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "TotGreen",
+            "Pos": 0,
+            "Value": "3",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "TotRed",
+            "Pos": 0,
+            "Value": "3",
+            "Extensions": []
+          }
+        ],
+        "Desc": "Period 1",
+        "DescS": "Period 1"
+      },
+      {
+        "Order": 2,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "3",
+        "ResAway": "5",
+        "TotHome": "6",
+        "TotAway": "8",
+        "Extensions": [
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayFencer",
+            "Pos": 0,
+            "Value": "10705170",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayFencerTVName",
+            "Pos": 0,
+            "Value": "KANO K.",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenFencer",
+            "Pos": 0,
+            "Value": "9168923",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenFencerTVName",
+            "Pos": 0,
+            "Value": "K. PROKHODOV",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeFencer",
+            "Pos": 0,
+            "Value": "9168923",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeFencerTVName",
+            "Pos": 0,
+            "Value": "K. PROKHODOV",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "Overtime",
+            "Pos": 0,
+            "Value": "false",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedFencer",
+            "Pos": 0,
+            "Value": "10705170",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedFencerTVName",
+            "Pos": 0,
+            "Value": "KANO K.",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ResGreen",
+            "Pos": 0,
+            "Value": "3",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ResRed",
+            "Pos": 0,
+            "Value": "5",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "TotGreen",
+            "Pos": 0,
+            "Value": "6",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "TotRed",
+            "Pos": 0,
+            "Value": "8",
+            "Extensions": []
+          }
+        ],
+        "Desc": "Period 2",
+        "DescS": "Period 2"
+      },
+      {
+        "Order": 3,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "7",
+        "ResAway": "7",
+        "TotHome": "13",
+        "TotAway": "15",
+        "Extensions": [
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayFencer",
+            "Pos": 0,
+            "Value": "10705170",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayFencerTVName",
+            "Pos": 0,
+            "Value": "KANO K.",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenFencer",
+            "Pos": 0,
+            "Value": "9168923",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenFencerTVName",
+            "Pos": 0,
+            "Value": "K. PROKHODOV",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeFencer",
+            "Pos": 0,
+            "Value": "9168923",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeFencerTVName",
+            "Pos": 0,
+            "Value": "K. PROKHODOV",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "Overtime",
+            "Pos": 0,
+            "Value": "false",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedFencer",
+            "Pos": 0,
+            "Value": "10705170",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedFencerTVName",
+            "Pos": 0,
+            "Value": "KANO K.",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ResGreen",
+            "Pos": 0,
+            "Value": "7",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ResRed",
+            "Pos": 0,
+            "Value": "7",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "TotGreen",
+            "Pos": 0,
+            "Value": "13",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "TotRed",
+            "Pos": 0,
+            "Value": "15",
+            "Extensions": []
+          }
+        ],
+        "Desc": "Period 3",
+        "DescS": "Period 3"
+      }
+    ],
+    "Officials": [
+      {
+        "Reg": "16748125",
+        "Org": "IRQ",
+        "Order": 1,
+        "Function": "RE",
+        "Extensions": [],
+        "FuncOrder": "1",
+        "OrgDesc": "Iraq",
+        "Name": "AL RAWI Alaa",
+        "NameS": "AL RAWI A",
+        "FuncDesc": "Referee"
+      },
+      {
+        "Reg": "15754905",
+        "Org": "PHI",
+        "Order": 2,
+        "Function": "VR",
+        "Extensions": [],
+        "FuncOrder": "4",
+        "OrgDesc": "Philippines",
+        "Name": "FUENZALIDA Richard",
+        "NameS": "FUENZALIDA R",
+        "FuncDesc": "Video Referee"
+      },
+      {
+        "Reg": "523013",
+        "Org": "KUW",
+        "Order": 3,
+        "Function": "AR",
+        "Extensions": [],
+        "FuncOrder": "2",
+        "OrgDesc": "Kuwait",
+        "Name": "ALSHAMALI Rashed",
+        "NameS": "ALSHAMALI R",
+        "FuncDesc": "Assistant Referee"
+      },
+      {
+        "Reg": "11223690",
+        "Org": "UZB",
+        "Order": 4,
+        "Function": "AR",
+        "Extensions": [],
+        "FuncOrder": "2",
+        "OrgDesc": "Uzbekistan",
+        "Name": "TURDUKULOVA Dilorom",
+        "NameS": "TURDUKULOVA D",
+        "FuncDesc": "Assistant Referee"
+      }
+    ],
+    "Paralympic": false
+  },
+  "Competitors": [
+    {
+      "Reg": "9168923",
+      "Bib": "",
+      "Org": "KAZ",
+      "StartOrder": "1",
+      "StartSortOrder": 1,
+      "Rk": "2",
+      "RkEq": false,
+      "RkPo": 2,
+      "WLT": "L",
+      "Result": "13",
+      "ResDetail": "L13",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "Lane": "",
+      "Diff": "0",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Color",
+          "Pos": 0,
+          "Value": "2",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Handedness",
+          "Pos": 0,
+          "Value": "R",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "LightOn",
+          "Pos": 0,
+          "Value": "N",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ResultType",
+          "Pos": 0,
+          "Value": "D",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "WhiteLightOn",
+          "Pos": 0,
+          "Value": "N",
+          "Extensions": []
+        }
+      ],
+      "Stats": {
+        "ST_pRED_CARDS": "1",
+        "ST_pBLACK_CARDS": "",
+        "ST_YELLOW_CARDS": "",
+        "ST_RED_CARDS": "",
+        "ST_BLACK_CARDS": ""
+      },
+      "Name": "PROKHODOV Kirill",
+      "NameS": "PROKHODOV K",
+      "OrgDesc": "Kazakhstan",
+      "Splits": [
+        {
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "3",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "3",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        },
+        {
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "3",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "6",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        },
+        {
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "7",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "13",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        },
+        {
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "0",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "0",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_SILVER"
+    },
+    {
+      "Reg": "10705170",
+      "Bib": "",
+      "Org": "JPN",
+      "StartOrder": "2",
+      "StartSortOrder": 2,
+      "Rk": "1",
+      "RkEq": false,
+      "RkPo": 1,
+      "WLT": "W",
+      "Result": "15",
+      "ResDetail": "W15",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "Q",
+      "Lane": "",
+      "Diff": "0",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Color",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Handedness",
+          "Pos": 0,
+          "Value": "R",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "LightOn",
+          "Pos": 0,
+          "Value": "N",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ResultType",
+          "Pos": 0,
+          "Value": "V",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "WhiteLightOn",
+          "Pos": 0,
+          "Value": "N",
+          "Extensions": []
+        }
+      ],
+      "Stats": {
+        "ST_pRED_CARDS": "1",
+        "ST_pBLACK_CARDS": "",
+        "ST_YELLOW_CARDS": "",
+        "ST_RED_CARDS": "",
+        "ST_BLACK_CARDS": ""
+      },
+      "Name": "KANO Koki",
+      "NameS": "KANO K",
+      "OrgDesc": "Japan",
+      "Splits": [
+        {
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "3",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "3",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        },
+        {
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "5",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "8",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        },
+        {
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "7",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "15",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        },
+        {
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "0",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "0",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_GOLD"
+    }
+  ],
+  "Legends": {
+    "records": [],
+    "irms": [],
+    "qs": [
+      {
+        "Desc": "legends.FEN.Q",
+        "DescS": "Q"
+      }
+    ]
+  }
+}
