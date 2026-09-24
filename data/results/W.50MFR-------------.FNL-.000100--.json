@@ -1,0 +1,946 @@
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "SWM",
+    "DiscDesc": "Swimming",
+    "Key": "W.50MFR-------------.FNL-.000100--",
+    "isH2H": false,
+    "Type": "A",
+    "Medal": "1",
+    "Status": "OFFICIAL",
+    "StatusDesc": "Official",
+    "DateTimeRaw": "2026-09-24T17:00:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "",
+    "HideLocation": false,
+    "Venue": "TAC",
+    "VenueDesc": "Tokyo Aquatics Centre",
+    "VenueDescS": "Tokyo Aquatics Centre",
+    "Loc": "001",
+    "LocDesc": "Swimming Pool",
+    "LocDescS": "Swimming Pool",
+    "Event": "W.50MFR-------------",
+    "EventDesc": "Women's 50m Freestyle",
+    "Phase": "W.50MFR-------------.FNL-",
+    "PhaseOrder": 1,
+    "PhaseDesc": "Women's 50m Freestyle Final",
+    "PhaseDescS": "Women's 50m Freestyle F",
+    "PhaseDescA": "Final",
+    "UnitDesc": "Women's 50m Freestyle Final",
+    "UnitDescS": "Women's 50m Freestyle F",
+    "UnitDescA": "",
+    "UnitNum": "1",
+    "IsLive": false,
+    "ShowResults": true,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "",
+    "ResDetail": "",
+    "Duration": "",
+    "CurrentPeriod": 1,
+    "Current": "",
+    "Last": "",
+    "Extensions": [
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Distance",
+        "Pos": 0,
+        "Value": "50",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "EvOrder",
+        "Pos": 0,
+        "Value": "28",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "LAPSTOGO",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "LEADER",
+        "Pos": 1,
+        "Value": "12377689",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "NHeat",
+        "Pos": 0,
+        "Value": "1",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "NHeats",
+        "Pos": 0,
+        "Value": "1",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "NLanes",
+        "Pos": 0,
+        "Value": "10",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "NMembers",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Priority",
+        "Pos": 0,
+        "Value": "4,5,3,6,2,7,1,8,0,9",
+        "Extensions": []
+      }
+    ],
+    "Periods": [
+      {
+        "Order": 1,
+        "Duration": "",
+        "Distance": "50",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "50 m.",
+        "DescS": "50 m."
+      }
+    ],
+    "Records": [
+      {
+        "EvCode": "W.50MFR-------------",
+        "Desc": "Women's 50m Freestyle",
+        "DescS": "Women's 50m Freestyle",
+        "Records": [
+          {
+            "Result": "23.19",
+            "Equalled": false,
+            "Indicator": "WR",
+            "Indicator1": "WR",
+            "Desc": "World Record",
+            "AreaDesc": "World",
+            "Loc": "IRVINE (USA)",
+            "DateTimeRaw": "2026-08-15T00:00:00+09:00",
+            "ShowLinkBio": false,
+            "Reg": "R0009",
+            "Name": "DOUGLASS Kate",
+            "Org": "USA",
+            "OrgDesc": "United States of America"
+          },
+          {
+            "Result": "23.97",
+            "Equalled": false,
+            "Indicator": "AR",
+            "Indicator1": "AR",
+            "Desc": "Asian Record",
+            "AreaDesc": "Asia",
+            "Loc": "XIAN (CHN)",
+            "DateTimeRaw": "2021-09-26T00:00:00+09:00",
+            "ShowLinkBio": false,
+            "Reg": "R0028",
+            "Name": "LIU Xiang",
+            "Org": "CHN",
+            "OrgDesc": "People's Republic of China"
+          },
+          {
+            "Result": "24.26",
+            "Equalled": false,
+            "Indicator": "GR",
+            "Indicator1": "GR",
+            "Desc": "Games Record",
+            "AreaDesc": "Asian Games",
+            "Loc": "HANGZHOU (CHN)",
+            "DateTimeRaw": "2023-09-28T00:00:00+09:00",
+            "ShowLinkBio": false,
+            "Reg": "R0073",
+            "Name": "ZHANG Yufei",
+            "Org": "CHN",
+            "OrgDesc": "People's Republic of China"
+          }
+        ]
+      }
+    ],
+    "Paralympic": false
+  },
+  "Competitors": [
+    {
+      "Reg": "12377689",
+      "Bib": "",
+      "Org": "CHN",
+      "StartOrder": "4",
+      "StartSortOrder": 4,
+      "Rk": "1",
+      "RkEq": false,
+      "RkPo": 1,
+      "WLT": "",
+      "Result": "23.98",
+      "ResDetail": "23.98",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "GR",
+      "RecordBest": "GR",
+      "Lane": "4",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BirthYear",
+          "Pos": 0,
+          "Value": "2003",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "QT",
+          "Pos": 0,
+          "Value": "24.33",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Reaction",
+          "Pos": 0,
+          "Value": "0.79",
+          "Extensions": []
+        }
+      ],
+      "Name": "WU Qingfeng",
+      "NameS": "WU Q",
+      "OrgDesc": "People's Republic of China",
+      "Splits": [
+        {
+          "Category": "MAIN",
+          "Distance": "50",
+          "Rk": "1",
+          "RkEq": false,
+          "RkPo": 1,
+          "RkAcc": "1",
+          "RkAccEq": false,
+          "RkAccPo": 1,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "23.98",
+          "Diff": "",
+          "LegResult": "23.98",
+          "AcumulatedResult": "23.98",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "GR",
+          "RecordBest": "GR",
+          "Status": "OK",
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_GOLD"
+    },
+    {
+      "Reg": "1434398",
+      "Bib": "",
+      "Org": "HKG",
+      "StartOrder": "5",
+      "StartSortOrder": 5,
+      "Rk": "2",
+      "RkEq": false,
+      "RkPo": 2,
+      "WLT": "",
+      "Result": "24.32",
+      "ResDetail": "24.32",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "5",
+      "Seed": "0",
+      "Diff": "+0.34",
+      "Extensions": [
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BirthYear",
+          "Pos": 0,
+          "Value": "1997",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "QT",
+          "Pos": 0,
+          "Value": "24.70",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Reaction",
+          "Pos": 0,
+          "Value": "0.67",
+          "Extensions": []
+        }
+      ],
+      "Name": "HAUGHEY Siobhan",
+      "NameS": "HAUGHEY S",
+      "OrgDesc": "Hong Kong, China",
+      "Splits": [
+        {
+          "Category": "MAIN",
+          "Distance": "50",
+          "Rk": "2",
+          "RkEq": false,
+          "RkPo": 2,
+          "RkAcc": "2",
+          "RkAccEq": false,
+          "RkAccPo": 2,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "24.32",
+          "Diff": "+0.34",
+          "LegResult": "24.32",
+          "AcumulatedResult": "24.32",
+          "AcumulatedDiff": "+0.34",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_SILVER"
+    },
+    {
+      "Reg": "12378054",
+      "Bib": "",
+      "Org": "CHN",
+      "StartOrder": "6",
+      "StartSortOrder": 6,
+      "Rk": "3",
+      "RkEq": false,
+      "RkPo": 3,
+      "WLT": "",
+      "Result": "24.46",
+      "ResDetail": "24.46",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "6",
+      "Seed": "0",
+      "Diff": "+0.48",
+      "Extensions": [
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BirthYear",
+          "Pos": 0,
+          "Value": "2005",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "QT",
+          "Pos": 0,
+          "Value": "24.95",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Reaction",
+          "Pos": 0,
+          "Value": "0.67",
+          "Extensions": []
+        }
+      ],
+      "Name": "CHENG Yujie",
+      "NameS": "CHENG Y",
+      "OrgDesc": "People's Republic of China",
+      "Splits": [
+        {
+          "Category": "MAIN",
+          "Distance": "50",
+          "Rk": "3",
+          "RkEq": false,
+          "RkPo": 3,
+          "RkAcc": "3",
+          "RkAccEq": false,
+          "RkAccPo": 3,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "24.46",
+          "Diff": "+0.48",
+          "LegResult": "24.46",
+          "AcumulatedResult": "24.46",
+          "AcumulatedDiff": "+0.48",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_BRONZE"
+    },
+    {
+      "Reg": "4906801",
+      "Bib": "",
+      "Org": "PHI",
+      "StartOrder": "2",
+      "StartSortOrder": 2,
+      "Rk": "4",
+      "RkEq": false,
+      "RkPo": 4,
+      "WLT": "",
+      "Result": "24.75",
+      "ResDetail": "24.75",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "2",
+      "Seed": "0",
+      "Diff": "+0.77",
+      "Extensions": [
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BirthYear",
+          "Pos": 0,
+          "Value": "2001",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "QT",
+          "Pos": 0,
+          "Value": "24.97",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Reaction",
+          "Pos": 0,
+          "Value": "0.69",
+          "Extensions": []
+        }
+      ],
+      "Name": "SANCHEZ Kayla",
+      "NameS": "SANCHEZ K",
+      "OrgDesc": "Philippines",
+      "Splits": [
+        {
+          "Category": "MAIN",
+          "Distance": "50",
+          "Rk": "4",
+          "RkEq": false,
+          "RkPo": 4,
+          "RkAcc": "4",
+          "RkAccEq": false,
+          "RkAccPo": 4,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "24.75",
+          "Diff": "+0.77",
+          "LegResult": "24.75",
+          "AcumulatedResult": "24.75",
+          "AcumulatedDiff": "+0.77",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": ""
+    },
+    {
+      "Reg": "12283705",
+      "Bib": "",
+      "Org": "SGP",
+      "StartOrder": "3",
+      "StartSortOrder": 3,
+      "Rk": "5",
+      "RkEq": false,
+      "RkPo": 5,
+      "WLT": "",
+      "Result": "24.79",
+      "ResDetail": "24.79",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "3",
+      "Seed": "0",
+      "Diff": "+0.81",
+      "Extensions": [
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BirthYear",
+          "Pos": 0,
+          "Value": "1993",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "QT",
+          "Pos": 0,
+          "Value": "24.92",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Reaction",
+          "Pos": 0,
+          "Value": "0.66",
+          "Extensions": []
+        }
+      ],
+      "Name": "LIM Xiang Qi Amanda",
+      "NameS": "LIM X",
+      "OrgDesc": "Singapore",
+      "Splits": [
+        {
+          "Category": "MAIN",
+          "Distance": "50",
+          "Rk": "5",
+          "RkEq": false,
+          "RkPo": 5,
+          "RkAcc": "5",
+          "RkAccEq": false,
+          "RkAccPo": 5,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "24.79",
+          "Diff": "+0.81",
+          "LegResult": "24.79",
+          "AcumulatedResult": "24.79",
+          "AcumulatedDiff": "+0.81",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": ""
+    },
+    {
+      "Reg": "1438141",
+      "Bib": "",
+      "Org": "HKG",
+      "StartOrder": "1",
+      "StartSortOrder": 1,
+      "Rk": "6",
+      "RkEq": false,
+      "RkPo": 6,
+      "WLT": "",
+      "Result": "25.11",
+      "ResDetail": "25.11",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "1",
+      "Seed": "0",
+      "Diff": "+1.13",
+      "Extensions": [
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BirthYear",
+          "Pos": 0,
+          "Value": "2009",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "QT",
+          "Pos": 0,
+          "Value": "25.31",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Reaction",
+          "Pos": 0,
+          "Value": "0.64",
+          "Extensions": []
+        }
+      ],
+      "Name": "LI Sum Yiu",
+      "NameS": "LI S",
+      "OrgDesc": "Hong Kong, China",
+      "Splits": [
+        {
+          "Category": "MAIN",
+          "Distance": "50",
+          "Rk": "6",
+          "RkEq": false,
+          "RkPo": 6,
+          "RkAcc": "6",
+          "RkAccEq": false,
+          "RkAccPo": 6,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "25.11",
+          "Diff": "+1.13",
+          "LegResult": "25.11",
+          "AcumulatedResult": "25.11",
+          "AcumulatedDiff": "+1.13",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": ""
+    },
+    {
+      "Reg": "12285797",
+      "Bib": "",
+      "Org": "SGP",
+      "StartOrder": "8",
+      "StartSortOrder": 8,
+      "Rk": "7",
+      "RkEq": false,
+      "RkPo": 7,
+      "WLT": "",
+      "Result": "25.24",
+      "ResDetail": "25.24",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "8",
+      "Seed": "0",
+      "Diff": "+1.26",
+      "Extensions": [
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BirthYear",
+          "Pos": 0,
+          "Value": "2004",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "QT",
+          "Pos": 0,
+          "Value": "25.33",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Reaction",
+          "Pos": 0,
+          "Value": "0.61",
+          "Extensions": []
+        }
+      ],
+      "Name": "YEO Chiok Sze",
+      "NameS": "YEO C",
+      "OrgDesc": "Singapore",
+      "Splits": [
+        {
+          "Category": "MAIN",
+          "Distance": "50",
+          "Rk": "7",
+          "RkEq": false,
+          "RkPo": 7,
+          "RkAcc": "7",
+          "RkAccEq": false,
+          "RkAccPo": 7,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "25.24",
+          "Diff": "+1.26",
+          "LegResult": "25.24",
+          "AcumulatedResult": "25.24",
+          "AcumulatedDiff": "+1.26",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": ""
+    },
+    {
+      "Reg": "13174286",
+      "Bib": "",
+      "Org": "JPN",
+      "StartOrder": "7",
+      "StartSortOrder": 7,
+      "Rk": "8",
+      "RkEq": false,
+      "RkPo": 8,
+      "WLT": "",
+      "Result": "25.25",
+      "ResDetail": "25.25",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "7",
+      "Seed": "0",
+      "Diff": "+1.27",
+      "Extensions": [
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BirthYear",
+          "Pos": 0,
+          "Value": "2005",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "QT",
+          "Pos": 0,
+          "Value": "25.09",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Reaction",
+          "Pos": 0,
+          "Value": "0.60",
+          "Extensions": []
+        }
+      ],
+      "Name": "MIZOGUCHI Ayu",
+      "NameS": "MIZOGUCHI A",
+      "OrgDesc": "Japan",
+      "Splits": [
+        {
+          "Category": "MAIN",
+          "Distance": "50",
+          "Rk": "8",
+          "RkEq": false,
+          "RkPo": 8,
+          "RkAcc": "8",
+          "RkAccEq": false,
+          "RkAccPo": 8,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "25.25",
+          "Diff": "+1.27",
+          "LegResult": "25.25",
+          "AcumulatedResult": "25.25",
+          "AcumulatedDiff": "+1.27",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": ""
+    },
+    {
+      "Reg": "8606802",
+      "Bib": "",
+      "Org": "TPE",
+      "StartOrder": "9",
+      "StartSortOrder": 9,
+      "Rk": "9",
+      "RkEq": false,
+      "RkPo": 9,
+      "WLT": "",
+      "Result": "25.64",
+      "ResDetail": "25.64",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "9",
+      "Seed": "0",
+      "Diff": "+1.66",
+      "Extensions": [
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BirthYear",
+          "Pos": 0,
+          "Value": "2002",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "QT",
+          "Pos": 0,
+          "Value": "25.64",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Reaction",
+          "Pos": 0,
+          "Value": "0.65",
+          "Extensions": []
+        }
+      ],
+      "Name": "LIU Pei-yin",
+      "NameS": "LIU P",
+      "OrgDesc": "Chinese Taipei",
+      "Splits": [
+        {
+          "Category": "MAIN",
+          "Distance": "50",
+          "Rk": "9",
+          "RkEq": false,
+          "RkPo": 9,
+          "RkAcc": "9",
+          "RkAccEq": false,
+          "RkAccPo": 9,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "25.64",
+          "Diff": "+1.66",
+          "LegResult": "25.64",
+          "AcumulatedResult": "25.64",
+          "AcumulatedDiff": "+1.66",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": ""
+    },
+    {
+      "Reg": "5539748",
+      "Bib": "",
+      "Org": "INA",
+      "StartOrder": "0",
+      "StartSortOrder": 0,
+      "Rk": "10",
+      "RkEq": false,
+      "RkPo": 10,
+      "WLT": "",
+      "Result": "25.66",
+      "ResDetail": "25.66",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "0",
+      "Seed": "0",
+      "Diff": "+1.68",
+      "Extensions": [
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BirthYear",
+          "Pos": 0,
+          "Value": "2007",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "QT",
+          "Pos": 0,
+          "Value": "25.62",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Reaction",
+          "Pos": 0,
+          "Value": "0.70",
+          "Extensions": []
+        }
+      ],
+      "Name": "NURAZMI Nadia Aisha",
+      "NameS": "NURAZMI N",
+      "OrgDesc": "Indonesia",
+      "Splits": [
+        {
+          "Category": "MAIN",
+          "Distance": "50",
+          "Rk": "10",
+          "RkEq": false,
+          "RkPo": 10,
+          "RkAcc": "10",
+          "RkAccEq": false,
+          "RkAccPo": 10,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "25.66",
+          "Diff": "+1.68",
+          "LegResult": "25.66",
+          "AcumulatedResult": "25.66",
+          "AcumulatedDiff": "+1.68",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": ""
+    }
+  ],
+  "Legends": {
+    "records": [
+      {
+        "DescS": "GR",
+        "Desc": "Games Record"
+      }
+    ],
+    "irms": [],
+    "qs": []
+  }
+}
