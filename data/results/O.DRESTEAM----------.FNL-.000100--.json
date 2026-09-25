@@ -1,1 +1,6557 @@
-null
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "EQU",
+    "DiscDesc": "Equestrian",
+    "Key": "O.DRESTEAM----------.FNL-.000100--",
+    "isH2H": false,
+    "Type": "T",
+    "Medal": "1",
+    "Status": "OFFICIAL",
+    "StatusDesc": "Official",
+    "DateTimeRaw": "2026-09-25T09:30:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "",
+    "HideLocation": true,
+    "Venue": "EQP",
+    "VenueDesc": "Equestrian Park(Tokyo)",
+    "VenueDescS": "Equestrian Park",
+    "Loc": "EQP",
+    "LocDesc": "Equestrian Park",
+    "LocDescS": "Equestrian Park",
+    "Event": "O.DRESTEAM----------",
+    "EventDesc": "Dressage Team",
+    "Phase": "O.DRESTEAM----------.FNL-",
+    "PhaseOrder": 10,
+    "PhaseDesc": "Dressage Team Final",
+    "PhaseDescS": "Dressage Team F",
+    "PhaseDescA": "Team Final",
+    "UnitDesc": "Dressage Team Team Final",
+    "UnitDescS": "Dressage Team Team Final",
+    "UnitDescA": "Team Final",
+    "UnitNum": "1",
+    "IsLive": false,
+    "ShowResults": true,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "",
+    "ResDetail": "",
+    "Duration": "",
+    "Current": "",
+    "Last": "",
+    "Extensions": [
+      {
+        "Type": "JUDGE_DETAIL",
+        "Code": "JURY_POSITION",
+        "Pos": 1,
+        "Value": "E",
+        "Extensions": []
+      },
+      {
+        "Type": "JUDGE_DETAIL",
+        "Code": "JURY_POSITION",
+        "Pos": 2,
+        "Value": "H",
+        "Extensions": []
+      },
+      {
+        "Type": "JUDGE_DETAIL",
+        "Code": "JURY_POSITION",
+        "Pos": 3,
+        "Value": "C",
+        "Extensions": []
+      },
+      {
+        "Type": "JUDGE_DETAIL",
+        "Code": "JURY_POSITION",
+        "Pos": 4,
+        "Value": "M",
+        "Extensions": []
+      },
+      {
+        "Type": "JUDGE_DETAIL",
+        "Code": "JURY_POSITION",
+        "Pos": 5,
+        "Value": "B",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "HAS_STARTTIMES",
+        "Pos": 0,
+        "Value": "N",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "TEAM_ROUND",
+        "Pos": 0,
+        "Value": "1",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "TYPE",
+        "Pos": 0,
+        "Value": "TEAM",
+        "Extensions": []
+      }
+    ],
+    "Periods": [],
+    "Paralympic": false
+  },
+  "Competitors": [
+    {
+      "Reg": "EQUODRESTEAM---HKG01",
+      "Bib": "",
+      "Org": "HKG",
+      "MedClass": "",
+      "StartOrder": "1",
+      "StartSortOrder": 1,
+      "Rk": "9",
+      "RkEq": false,
+      "RkPo": 9,
+      "WLT": "",
+      "Result": "194.677",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "TEAM_ROUND_SCORE",
+          "Pos": 0,
+          "Value": "194.677",
+          "Extensions": []
+        }
+      ],
+      "Name": "Hong Kong, China",
+      "NameS": "HKG",
+      "OrgDesc": "Hong Kong, China",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "",
+      "Members": [
+        {
+          "Reg": "7560587",
+          "Org": "HKG",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "BELLA ROUGE",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "MA/OLDBG/Other/2012/BORDEAUX 28/QUATTRO 7",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "208",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 0,
+              "Value": "E",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 1,
+              "Value": "H",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 2,
+              "Value": "C",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 3,
+              "Value": "M",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 4,
+              "Value": "B",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 0,
+              "Value": "25",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 1,
+              "Value": "29",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 2,
+              "Value": "35",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 3,
+              "Value": "35",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 4,
+              "Value": "26",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 0,
+              "Value": "65.735",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 1,
+              "Value": "64.559",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 2,
+              "Value": "62.794",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 3,
+              "Value": "62.647",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 4,
+              "Value": "66.324",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "PERCENTAGE",
+              "Pos": 0,
+              "Value": "64.412",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "14:48",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOUR",
+              "Pos": 0,
+              "Value": "Small",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 1,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "64.412",
+          "Guides": [],
+          "Name": "HO Annie",
+          "NameS": "HO YYA",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        },
+        {
+          "Reg": "7561542",
+          "Org": "HKG",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "GRAPPA",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD/KWPN/Black/2011/FIDERTANZ/SPECIAL D",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "207",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 0,
+              "Value": "E",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 1,
+              "Value": "H",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 2,
+              "Value": "C",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 3,
+              "Value": "M",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 4,
+              "Value": "B",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 0,
+              "Value": "35",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 1,
+              "Value": "38",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 2,
+              "Value": "38",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 3,
+              "Value": "36",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 4,
+              "Value": "32",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 0,
+              "Value": "62.353",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 1,
+              "Value": "61.176",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 2,
+              "Value": "61.912",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 3,
+              "Value": "62.500",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 4,
+              "Value": "64.412",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "PERCENTAGE",
+              "Pos": 0,
+              "Value": "62.471",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "11:21",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOUR",
+              "Pos": 0,
+              "Value": "Small",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 2,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "62.471",
+          "Guides": [],
+          "Name": "CHENG Kai Hei Yuddy",
+          "NameS": "CHENG KHY",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        },
+        {
+          "Reg": "7561784",
+          "Org": "HKG",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "ZINQ FERATI FH",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD/HANN/Other/2015/FUERST BELISSARO/DEL PIERO",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "209",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 0,
+              "Value": "E",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 1,
+              "Value": "H",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 2,
+              "Value": "C",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 3,
+              "Value": "M",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 4,
+              "Value": "B",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 0,
+              "Value": "11",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 1,
+              "Value": "11",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 2,
+              "Value": "9",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 3,
+              "Value": "9",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 4,
+              "Value": "15",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 0,
+              "Value": "68.088",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 1,
+              "Value": "67.794",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 2,
+              "Value": "67.647",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 3,
+              "Value": "68.088",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 4,
+              "Value": "67.353",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "PERCENTAGE",
+              "Pos": 0,
+              "Value": "67.794",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "12:48",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOUR",
+              "Pos": 0,
+              "Value": "Small",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 3,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "67.794",
+          "Guides": [],
+          "Name": "LI Kendra",
+          "NameS": "LI K",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        }
+      ]
+    },
+    {
+      "Reg": "EQUODRESTEAM---IND01",
+      "Bib": "",
+      "Org": "IND",
+      "MedClass": "",
+      "StartOrder": "2",
+      "StartSortOrder": 2,
+      "Rk": "4",
+      "RkEq": false,
+      "RkPo": 4,
+      "WLT": "",
+      "Result": "201.971",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "TEAM_ROUND_SCORE",
+          "Pos": 0,
+          "Value": "201.971",
+          "Extensions": []
+        }
+      ],
+      "Name": "India",
+      "NameS": "IND",
+      "OrgDesc": "India",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "",
+      "Members": [
+        {
+          "Reg": "6012429",
+          "Org": "IND",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "MILLI",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "MA/WESTF/Bay/2016/MILLENNIUM/TAILORMADE L'ESPOIR",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "215",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 0,
+              "Value": "E",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 1,
+              "Value": "H",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 2,
+              "Value": "C",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 3,
+              "Value": "M",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 4,
+              "Value": "B",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 0,
+              "Value": "17",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 1,
+              "Value": "25",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 2,
+              "Value": "19",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 3,
+              "Value": "23",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 4,
+              "Value": "31",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 0,
+              "Value": "66.912",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 1,
+              "Value": "65.000",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 2,
+              "Value": "66.471",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 3,
+              "Value": "65.882",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 4,
+              "Value": "64.706",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "PERCENTAGE",
+              "Pos": 0,
+              "Value": "65.794",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "09:46",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOUR",
+              "Pos": 0,
+              "Value": "Small",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 1,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "65.794",
+          "Guides": [],
+          "Name": "PUNDIR Gaurav",
+          "NameS": "PUNDIR G",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        },
+        {
+          "Reg": "6263409",
+          "Org": "IND",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "DONO DI MAGGIO",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD/OLDBG/Bay/2007/DIMAGGIO/Santander H",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "214",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 0,
+              "Value": "E",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 1,
+              "Value": "H",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 2,
+              "Value": "C",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 3,
+              "Value": "M",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 4,
+              "Value": "B",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 0,
+              "Value": "20",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 1,
+              "Value": "14",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 2,
+              "Value": "9",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 3,
+              "Value": "16",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 4,
+              "Value": "9",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 0,
+              "Value": "66.618",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 1,
+              "Value": "67.353",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 2,
+              "Value": "67.647",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 3,
+              "Value": "66.912",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 4,
+              "Value": "68.235",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "PERCENTAGE",
+              "Pos": 0,
+              "Value": "67.353",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "11:29",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOUR",
+              "Pos": 0,
+              "Value": "Small",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 2,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "67.353",
+          "Guides": [],
+          "Name": "CHHEDA Hriday Vipul",
+          "NameS": "CHHEDA HV",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        },
+        {
+          "Reg": "8385427",
+          "Org": "IND",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "MAGNANIMOUS",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD/OLDBG/Other/2012/MILLENNIUM/DE NIRO 6",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "217",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 0,
+              "Value": "E",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 1,
+              "Value": "H",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 2,
+              "Value": "C",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 3,
+              "Value": "M",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 4,
+              "Value": "B",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 0,
+              "Value": "5",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 1,
+              "Value": "9",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 2,
+              "Value": "17",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 3,
+              "Value": "20",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 4,
+              "Value": "6",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 0,
+              "Value": "68.824",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 1,
+              "Value": "68.088",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 2,
+              "Value": "66.912",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 3,
+              "Value": "66.618",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 4,
+              "Value": "69.853",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "PERCENTAGE",
+              "Pos": 0,
+              "Value": "68.059",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "14:56",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOUR",
+              "Pos": 0,
+              "Value": "Small",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 3,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "68.059",
+          "Guides": [],
+          "Name": "VORA Shruti",
+          "NameS": "VORA S",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        },
+        {
+          "Reg": "9218822",
+          "Org": "IND",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "GOOFY LA PERLE",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD/KWPN/Bay/2011/BELISSIMO NRW/BROERE JAZZ",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "216",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 0,
+              "Value": "E",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 1,
+              "Value": "H",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 2,
+              "Value": "C",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 3,
+              "Value": "M",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 4,
+              "Value": "B",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 0,
+              "Value": "20",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 1,
+              "Value": "15",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 2,
+              "Value": "22",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 3,
+              "Value": "29",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 4,
+              "Value": "10",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 0,
+              "Value": "66.618",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 1,
+              "Value": "67.206",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 2,
+              "Value": "66.176",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 3,
+              "Value": "64.706",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 4,
+              "Value": "68.088",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "PERCENTAGE",
+              "Pos": 0,
+              "Value": "66.559",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "12:56",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOUR",
+              "Pos": 0,
+              "Value": "Small",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 4,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "66.559",
+          "Guides": [],
+          "Name": "SUD Jai",
+          "NameS": "SUD J",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        }
+      ]
+    },
+    {
+      "Reg": "EQUODRESTEAM---JPN01",
+      "Bib": "",
+      "Org": "JPN",
+      "MedClass": "",
+      "StartOrder": "3",
+      "StartSortOrder": 3,
+      "Rk": "3",
+      "RkEq": false,
+      "RkPo": 3,
+      "WLT": "",
+      "Result": "204.117",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "TEAM_ROUND_SCORE",
+          "Pos": 0,
+          "Value": "204.117",
+          "Extensions": []
+        }
+      ],
+      "Name": "Japan",
+      "NameS": "JPN",
+      "OrgDesc": "Japan",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "ME_BRONZE",
+      "Members": [
+        {
+          "Reg": "1033404",
+          "Org": "JPN",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "KING LEATHERDALE O",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD/KWPN/Bay/2015/LORD LEATHERDALE/RONALDO",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "218",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 0,
+              "Value": "E",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 1,
+              "Value": "H",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 2,
+              "Value": "C",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 3,
+              "Value": "M",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 4,
+              "Value": "B",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 0,
+              "Value": "8",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 1,
+              "Value": "4",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 2,
+              "Value": "5",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 3,
+              "Value": "5",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 4,
+              "Value": "2",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 0,
+              "Value": "68.529",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 1,
+              "Value": "69.559",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 2,
+              "Value": "68.676",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 3,
+              "Value": "69.118",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 4,
+              "Value": "70.588",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "PERCENTAGE",
+              "Pos": 0,
+              "Value": "69.294",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "15:04",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOUR",
+              "Pos": 0,
+              "Value": "Small",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 1,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "69.294",
+          "Guides": [],
+          "Name": "HAYASHI Shingo",
+          "NameS": "HAYASHI S",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        },
+        {
+          "Reg": "1034144",
+          "Org": "JPN",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "VAGABUND 131",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD/WESTF/Chestnut/2012//",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "219",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 0,
+              "Value": "E",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 1,
+              "Value": "H",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 2,
+              "Value": "C",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 3,
+              "Value": "M",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 4,
+              "Value": "B",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 0,
+              "Value": "10",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 1,
+              "Value": "15",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 2,
+              "Value": "13",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 3,
+              "Value": "11",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 4,
+              "Value": "13",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 0,
+              "Value": "68.235",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 1,
+              "Value": "67.206",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 2,
+              "Value": "67.206",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 3,
+              "Value": "67.500",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 4,
+              "Value": "67.500",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "PERCENTAGE",
+              "Pos": 0,
+              "Value": "67.529",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "09:54",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOUR",
+              "Pos": 0,
+              "Value": "Small",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 2,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "67.529",
+          "Guides": [],
+          "Name": "HIEDA Ryuma",
+          "NameS": "HIEDA R",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        },
+        {
+          "Reg": "1742089",
+          "Org": "JPN",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "BOMBAY SAPHIRE",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD/HANN/Chestnut/2015/BORDEAUX 28/WELT HIT II",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "221",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 0,
+              "Value": "E",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 1,
+              "Value": "H",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 2,
+              "Value": "C",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 3,
+              "Value": "M",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 4,
+              "Value": "B",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 0,
+              "Value": "20",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 1,
+              "Value": "23",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 2,
+              "Value": "20",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 3,
+              "Value": "12",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 4,
+              "Value": "18",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 0,
+              "Value": "66.618",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 1,
+              "Value": "65.735",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 2,
+              "Value": "66.324",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 3,
+              "Value": "67.353",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 4,
+              "Value": "67.206",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "PERCENTAGE",
+              "Pos": 0,
+              "Value": "66.647",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "13:04",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOUR",
+              "Pos": 0,
+              "Value": "Small",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 3,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "66.647",
+          "Guides": [],
+          "Name": "YONEMOTO Akiko",
+          "NameS": "YONEMOTO A",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        },
+        {
+          "Reg": "1742509",
+          "Org": "JPN",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "FUERST WILLIAM",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD/OLDBG/Bay/2012/FUERST WILHELM/LORD SINCLAIR",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "220",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 0,
+              "Value": "E",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 1,
+              "Value": "H",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 2,
+              "Value": "C",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 3,
+              "Value": "M",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 4,
+              "Value": "B",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 0,
+              "Value": "8",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 1,
+              "Value": "13",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 2,
+              "Value": "13",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 3,
+              "Value": "4",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 4,
+              "Value": "35",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 0,
+              "Value": "68.529",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 1,
+              "Value": "67.500",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 2,
+              "Value": "67.206",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 3,
+              "Value": "69.265",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 4,
+              "Value": "63.971",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "PERCENTAGE",
+              "Pos": 0,
+              "Value": "67.294",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "11:37",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOUR",
+              "Pos": 0,
+              "Value": "Small",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 4,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "67.294",
+          "Guides": [],
+          "Name": "NISHIWAKI Fumiyasu",
+          "NameS": "NISHIWAKI F",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        }
+      ]
+    },
+    {
+      "Reg": "EQUODRESTEAM---KOR01",
+      "Bib": "",
+      "Org": "KOR",
+      "MedClass": "",
+      "StartOrder": "4",
+      "StartSortOrder": 4,
+      "Rk": "2",
+      "RkEq": false,
+      "RkPo": 2,
+      "WLT": "",
+      "Result": "205.265",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "TEAM_ROUND_SCORE",
+          "Pos": 0,
+          "Value": "205.265",
+          "Extensions": []
+        }
+      ],
+      "Name": "Republic of Korea",
+      "NameS": "KOR",
+      "OrgDesc": "Republic of Korea",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "ME_SILVER",
+      "Members": [
+        {
+          "Reg": "885026",
+          "Org": "KOR",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "LEONIDAS",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD/KWPN/Bay/2016/TRAFALGAR/ALEXANDRO P",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "225",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 0,
+              "Value": "E",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 1,
+              "Value": "H",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 2,
+              "Value": "C",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 3,
+              "Value": "M",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 4,
+              "Value": "B",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 0,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 1,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 2,
+              "Value": "3",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 3,
+              "Value": "5",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 4,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 0,
+              "Value": "70.735",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 1,
+              "Value": "71.471",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 2,
+              "Value": "70.000",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 3,
+              "Value": "69.118",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 4,
+              "Value": "71.471",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "PERCENTAGE",
+              "Pos": 0,
+              "Value": "70.559",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "13:12",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOUR",
+              "Pos": 0,
+              "Value": "Small",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 1,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "70.559",
+          "Guides": [],
+          "Name": "NAM Dongheon",
+          "NameS": "NAM D",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        },
+        {
+          "Reg": "886275",
+          "Org": "KOR",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "SIR HUBERT",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD/WESTF/Chestnut/2013/SIR HEINRICH OLD/FLORESTAN I",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "223",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 0,
+              "Value": "E",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 1,
+              "Value": "H",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 2,
+              "Value": "C",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 3,
+              "Value": "M",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 4,
+              "Value": "B",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 0,
+              "Value": "38",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 1,
+              "Value": "35",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 2,
+              "Value": "33",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 3,
+              "Value": "39",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 4,
+              "Value": "37",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 0,
+              "Value": "61.957",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 1,
+              "Value": "63.478",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 2,
+              "Value": "63.478",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 3,
+              "Value": "62.283",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 4,
+              "Value": "63.478",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "PERCENTAGE",
+              "Pos": 0,
+              "Value": "62.935",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "16:31",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOUR",
+              "Pos": 0,
+              "Value": "Big",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 2,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "62.935",
+          "Guides": [],
+          "Name": "KIM Shiwoo",
+          "NameS": "KIM S",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        },
+        {
+          "Reg": "886795",
+          "Org": "KOR",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "ROSSETTI",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD/DWB/Bay/2008/GLOCK'S ROMANOV/MIDT WEST IBI LIGHT",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "224",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 0,
+              "Value": "E",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 1,
+              "Value": "H",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 2,
+              "Value": "C",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 3,
+              "Value": "M",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 4,
+              "Value": "B",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 0,
+              "Value": "3",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 1,
+              "Value": "10",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 2,
+              "Value": "7",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 3,
+              "Value": "14",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 4,
+              "Value": "15",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 0,
+              "Value": "69.265",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 1,
+              "Value": "67.941",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 2,
+              "Value": "68.235",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 3,
+              "Value": "67.059",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 4,
+              "Value": "67.353",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "PERCENTAGE",
+              "Pos": 0,
+              "Value": "67.971",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "10:10",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOUR",
+              "Pos": 0,
+              "Value": "Small",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 3,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "67.971",
+          "Guides": [],
+          "Name": "LEE Myeongseok",
+          "NameS": "LEE M",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        },
+        {
+          "Reg": "887315",
+          "Org": "KOR",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "NINA RICCI MP",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "MA/KWPN/Other/2018/JUST WIMPHOF/TOTILAS",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "222",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 0,
+              "Value": "E",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 1,
+              "Value": "H",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 2,
+              "Value": "C",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 3,
+              "Value": "M",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 4,
+              "Value": "B",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 0,
+              "Value": "14",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 1,
+              "Value": "19",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 2,
+              "Value": "9",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 3,
+              "Value": "33",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 4,
+              "Value": "11",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 0,
+              "Value": "67.647",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 1,
+              "Value": "66.176",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 2,
+              "Value": "67.647",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 3,
+              "Value": "64.412",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 4,
+              "Value": "67.794",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "PERCENTAGE",
+              "Pos": 0,
+              "Value": "66.735",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "11:45",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOUR",
+              "Pos": 0,
+              "Value": "Small",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 4,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "66.735",
+          "Guides": [],
+          "Name": "DO Hyunwoo",
+          "NameS": "DO H",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        }
+      ]
+    },
+    {
+      "Reg": "EQUODRESTEAM---UAE01",
+      "Bib": "",
+      "Org": "UAE",
+      "MedClass": "",
+      "StartOrder": "5",
+      "StartSortOrder": 5,
+      "Rk": "6",
+      "RkEq": false,
+      "RkPo": 6,
+      "WLT": "",
+      "Result": "197.442",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "TEAM_ROUND_SCORE",
+          "Pos": 0,
+          "Value": "197.442",
+          "Extensions": []
+        }
+      ],
+      "Name": "United Arab Emirates",
+      "NameS": "UAE",
+      "OrgDesc": "United Arab Emirates",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "",
+      "Members": [
+        {
+          "Reg": "13503090",
+          "Org": "UAE",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "LOTUS-S",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD/KWPN/Bay/2016/KASTEL'S GRAND GALAXY WIN/JUVENTUS",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "241",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 0,
+              "Value": "E",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 1,
+              "Value": "H",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 2,
+              "Value": "C",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 3,
+              "Value": "M",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 4,
+              "Value": "B",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 0,
+              "Value": "13",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 1,
+              "Value": "17",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 2,
+              "Value": "20",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 3,
+              "Value": "18",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 4,
+              "Value": "15",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 0,
+              "Value": "67.794",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 1,
+              "Value": "66.912",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 2,
+              "Value": "66.324",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 3,
+              "Value": "66.765",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 4,
+              "Value": "67.353",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "PERCENTAGE",
+              "Pos": 0,
+              "Value": "67.030",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "13:20",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOUR",
+              "Pos": 0,
+              "Value": "Small",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 1,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "67.030",
+          "Guides": [],
+          "Name": "ALJAHOURI Ali",
+          "NameS": "ALJAHOURI A",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        },
+        {
+          "Reg": "14146559",
+          "Org": "UAE",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "ZEN LIQUIDITY",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "ST//Bay/2014/GLOCK'S ZONIK N.O.P./",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "242",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 0,
+              "Value": "E",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 1,
+              "Value": "H",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 2,
+              "Value": "C",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 3,
+              "Value": "M",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 4,
+              "Value": "B",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 0,
+              "Value": "39",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 1,
+              "Value": "32",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 2,
+              "Value": "35",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 3,
+              "Value": "26",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 4,
+              "Value": "29",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 0,
+              "Value": "61.324",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 1,
+              "Value": "63.676",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 2,
+              "Value": "62.794",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 3,
+              "Value": "65.588",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 4,
+              "Value": "65.441",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "PERCENTAGE",
+              "Pos": 0,
+              "Value": "63.765",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "11:53",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOUR",
+              "Pos": 0,
+              "Value": "Small",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 2,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "63.765",
+          "Guides": [],
+          "Name": "ALSERKAL Mohamed",
+          "NameS": "ALSERKAL M",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        },
+        {
+          "Reg": "9966910",
+          "Org": "UAE",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "LE GRAND AYDEN HB",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "ST/KWPN/Other/2016/KASTEL'S GRAND GALAXY WIN/",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "244",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 0,
+              "Value": "E",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 1,
+              "Value": "H",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 2,
+              "Value": "C",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 3,
+              "Value": "M",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 4,
+              "Value": "B",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 0,
+              "Value": "23",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 1,
+              "Value": "19",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 2,
+              "Value": "18",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 3,
+              "Value": "12",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 4,
+              "Value": "23",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 0,
+              "Value": "66.176",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 1,
+              "Value": "66.176",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 2,
+              "Value": "66.765",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 3,
+              "Value": "67.353",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 4,
+              "Value": "66.765",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "PERCENTAGE",
+              "Pos": 0,
+              "Value": "66.647",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "15:27",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOUR",
+              "Pos": 0,
+              "Value": "Small",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 3,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "66.647",
+          "Guides": [],
+          "Name": "SCHUTZ Bianca",
+          "NameS": "SCHUTZ B",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        },
+        {
+          "Reg": "9967391",
+          "Org": "UAE",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "TESLA",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "ST/KWPN/Chestnut/2015/VITALIS/JOHNSON",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "243",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 0,
+              "Value": "E",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 1,
+              "Value": "H",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 2,
+              "Value": "C",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 3,
+              "Value": "M",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 4,
+              "Value": "B",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 0,
+              "Value": "37",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 1,
+              "Value": "37",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 2,
+              "Value": "39",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 3,
+              "Value": "40",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 4,
+              "Value": "42",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 0,
+              "Value": "62.294",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 1,
+              "Value": "61.265",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 2,
+              "Value": "61.853",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 3,
+              "Value": "60.235",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 4,
+              "Value": "58.471",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "PERCENTAGE",
+              "Pos": 0,
+              "Value": "60.824",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "10:18",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOUR",
+              "Pos": 0,
+              "Value": "Small",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 4,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "60.824",
+          "Guides": [],
+          "Name": "LANKESTER Natalie",
+          "NameS": "LANKESTER N",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        }
+      ]
+    },
+    {
+      "Reg": "EQUODRESTEAM---THA01",
+      "Bib": "",
+      "Org": "THA",
+      "MedClass": "",
+      "StartOrder": "6",
+      "StartSortOrder": 6,
+      "Rk": "8",
+      "RkEq": false,
+      "RkPo": 8,
+      "WLT": "",
+      "Result": "194.765",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "TEAM_ROUND_SCORE",
+          "Pos": 0,
+          "Value": "194.765",
+          "Extensions": []
+        }
+      ],
+      "Name": "Thailand",
+      "NameS": "THA",
+      "OrgDesc": "Thailand",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "",
+      "Members": [
+        {
+          "Reg": "14755015",
+          "Org": "THA",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "BOULEVARD",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD//Chestnut/2011//",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "233",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 0,
+              "Value": "E",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 1,
+              "Value": "H",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 2,
+              "Value": "C",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 3,
+              "Value": "M",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 4,
+              "Value": "B",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 0,
+              "Value": "43",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 1,
+              "Value": "40",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 2,
+              "Value": "40",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 3,
+              "Value": "42",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 4,
+              "Value": "36",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 0,
+              "Value": "57.059",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 1,
+              "Value": "60.294",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 2,
+              "Value": "60.735",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 3,
+              "Value": "59.412",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 4,
+              "Value": "63.824",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "PERCENTAGE",
+              "Pos": 0,
+              "Value": "60.265",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "12:01",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOUR",
+              "Pos": 0,
+              "Value": "Small",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 1,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "60.265",
+          "Guides": [],
+          "Name": "SIRIVANNAVARI MAHIDOL H R H Princess",
+          "NameS": "SIRIVANNAVARI MAHIDOL HRHP",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        },
+        {
+          "Reg": "1712656",
+          "Org": "THA",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "VINCENT 186",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD/BRAND/Other/2013/VISCOUNT 22/STALYPSO",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "235",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 0,
+              "Value": "E",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 1,
+              "Value": "H",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 2,
+              "Value": "C",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 3,
+              "Value": "M",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 4,
+              "Value": "B",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 0,
+              "Value": "25",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 1,
+              "Value": "25",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 2,
+              "Value": "29",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 3,
+              "Value": "14",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 4,
+              "Value": "13",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 0,
+              "Value": "65.735",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 1,
+              "Value": "65.000",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 2,
+              "Value": "64.706",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 3,
+              "Value": "67.059",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 4,
+              "Value": "67.500",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "PERCENTAGE",
+              "Pos": 0,
+              "Value": "66.000",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "13:28",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOUR",
+              "Pos": 0,
+              "Value": "Small",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 2,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "66.000",
+          "Guides": [],
+          "Name": "RUECKER Chanjanok",
+          "NameS": "RUECKER C",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        },
+        {
+          "Reg": "1815785",
+          "Org": "THA",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "ROCK THAT TANGO",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD/OLDBG/Black/2013/ROCKEFELLER/",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "234",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 0,
+              "Value": "E",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 1,
+              "Value": "H",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 2,
+              "Value": "C",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 3,
+              "Value": "M",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 4,
+              "Value": "B",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 0,
+              "Value": "5",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 1,
+              "Value": "6",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 2,
+              "Value": "9",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 3,
+              "Value": "3",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 4,
+              "Value": "12",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 0,
+              "Value": "68.824",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 1,
+              "Value": "68.971",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 2,
+              "Value": "67.647",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 3,
+              "Value": "69.412",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 4,
+              "Value": "67.647",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "PERCENTAGE",
+              "Pos": 0,
+              "Value": "68.500",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "15:51",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOUR",
+              "Pos": 0,
+              "Value": "Small",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 3,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "68.500",
+          "Guides": [],
+          "Name": "PUTTISOMBAT Nynn",
+          "NameS": "PUTTISOMBAT N",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        },
+        {
+          "Reg": "9313253",
+          "Org": "THA",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "SANT JORDI 3",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD/HANN/Chestnut/2014/SCUDERIA/ROTSPON",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "236",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 0,
+              "Value": "E",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 1,
+              "Value": "H",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 2,
+              "Value": "C",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 3,
+              "Value": "M",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 4,
+              "Value": "B",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 1,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 2,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 3,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 4,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 1,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 2,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 3,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 4,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "10:26",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOUR",
+              "Pos": 0,
+              "Value": "Small",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 4,
+          "Substitute": false,
+          "MedClass": "",
+          "IRM": "EL",
+          "Result": "EL",
+          "Guides": [],
+          "Name": "YOTVIRIYAPANIT Chalermcharn",
+          "NameS": "YOTVIRIYAPANIT C",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        }
+      ]
+    },
+    {
+      "Reg": "EQUODRESTEAM---TPE01",
+      "Bib": "",
+      "Org": "TPE",
+      "MedClass": "",
+      "StartOrder": "7",
+      "StartSortOrder": 7,
+      "Rk": "5",
+      "RkEq": false,
+      "RkPo": 5,
+      "WLT": "",
+      "Result": "197.824",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "TEAM_ROUND_SCORE",
+          "Pos": 0,
+          "Value": "197.824",
+          "Extensions": []
+        }
+      ],
+      "Name": "Chinese Taipei",
+      "NameS": "TPE",
+      "OrgDesc": "Chinese Taipei",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "",
+      "Members": [
+        {
+          "Reg": "10513535",
+          "Org": "TPE",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "LORAVA",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD/KWPN/Chestnut/2016/EQUILENCE'S GIOVANNI/WESTPOINT",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "240",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 0,
+              "Value": "E",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 1,
+              "Value": "H",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 2,
+              "Value": "C",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 3,
+              "Value": "M",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 4,
+              "Value": "B",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 0,
+              "Value": "4",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 1,
+              "Value": "11",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 2,
+              "Value": "13",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 3,
+              "Value": "7",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 4,
+              "Value": "8",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 0,
+              "Value": "68.971",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 1,
+              "Value": "67.794",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 2,
+              "Value": "67.206",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 3,
+              "Value": "68.824",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 4,
+              "Value": "69.118",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "PERCENTAGE",
+              "Pos": 0,
+              "Value": "68.383",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "15:59",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOUR",
+              "Pos": 0,
+              "Value": "Small",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 1,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "68.383",
+          "Guides": [],
+          "Name": "YEH Hsiu-hua",
+          "NameS": "YEH H",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        },
+        {
+          "Reg": "10521853",
+          "Org": "TPE",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "CENNIN",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "ST/KWPN/Chestnut/2007/EXQUIS VIVALDI/DONNERHALL 11",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "238",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 0,
+              "Value": "E",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 1,
+              "Value": "H",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 2,
+              "Value": "C",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 3,
+              "Value": "M",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 4,
+              "Value": "B",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 0,
+              "Value": "30",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 1,
+              "Value": "36",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 2,
+              "Value": "24",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 3,
+              "Value": "27",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 4,
+              "Value": "43",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 0,
+              "Value": "64.706",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 1,
+              "Value": "61.471",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 2,
+              "Value": "65.735",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 3,
+              "Value": "65.147",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 4,
+              "Value": "57.353",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "PERCENTAGE",
+              "Pos": 0,
+              "Value": "62.882",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "10:34",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOUR",
+              "Pos": 0,
+              "Value": "Small",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 2,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "62.882",
+          "Guides": [],
+          "Name": "WANG Yu-jun",
+          "NameS": "WANG Y",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        },
+        {
+          "Reg": "2703666",
+          "Org": "TPE",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "DORDOGNE DN",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD/NRPS/Bay/2014/DALOXE CORTON D.N/ROYAL HIGHNESS",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "239",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 0,
+              "Value": "E",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 1,
+              "Value": "H",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 2,
+              "Value": "C",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 3,
+              "Value": "M",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 4,
+              "Value": "B",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 0,
+              "Value": "27",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 1,
+              "Value": "25",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 2,
+              "Value": "31",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 3,
+              "Value": "29",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 4,
+              "Value": "23",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 0,
+              "Value": "65.588",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 1,
+              "Value": "65.000",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 2,
+              "Value": "64.412",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 3,
+              "Value": "64.706",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 4,
+              "Value": "66.765",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "PERCENTAGE",
+              "Pos": 0,
+              "Value": "65.294",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "14:08",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOUR",
+              "Pos": 0,
+              "Value": "Small",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 3,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "65.294",
+          "Guides": [],
+          "Name": "SHYONG Tien-chi",
+          "NameS": "SHYONG T",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        },
+        {
+          "Reg": "2724373",
+          "Org": "TPE",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "GUT W. LARRY BIRD",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD/WESTF/Bay/2015/LORD LEATHERDALE/SAN AMOUR I",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "237",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 0,
+              "Value": "E",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 1,
+              "Value": "H",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 2,
+              "Value": "C",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 3,
+              "Value": "M",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 4,
+              "Value": "B",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 0,
+              "Value": "31",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 1,
+              "Value": "33",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 2,
+              "Value": "32",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 3,
+              "Value": "28",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 4,
+              "Value": "33",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 0,
+              "Value": "64.559",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 1,
+              "Value": "63.529",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 2,
+              "Value": "63.529",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 3,
+              "Value": "65.000",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 4,
+              "Value": "64.118",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "PERCENTAGE",
+              "Pos": 0,
+              "Value": "64.147",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "12:24",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOUR",
+              "Pos": 0,
+              "Value": "Small",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 4,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "64.147",
+          "Guides": [],
+          "Name": "CHEN Yi-ju",
+          "NameS": "CHEN Y",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        }
+      ]
+    },
+    {
+      "Reg": "EQUODRESTEAM---CHN01",
+      "Bib": "",
+      "Org": "CHN",
+      "MedClass": "",
+      "StartOrder": "8",
+      "StartSortOrder": 8,
+      "Rk": "1",
+      "RkEq": false,
+      "RkPo": 1,
+      "WLT": "",
+      "Result": "208.148",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "TEAM_ROUND_SCORE",
+          "Pos": 0,
+          "Value": "208.148",
+          "Extensions": []
+        }
+      ],
+      "Name": "People's Republic of China",
+      "NameS": "CHN",
+      "OrgDesc": "People's Republic of China",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "ME_GOLD",
+      "Members": [
+        {
+          "Reg": "395091",
+          "Org": "CHN",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "GENIAAL",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "ST/KWPN/Bay/2011/EXQUIS VIVALDI/BIOTOP",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "204",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 0,
+              "Value": "E",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 1,
+              "Value": "H",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 2,
+              "Value": "C",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 3,
+              "Value": "M",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 4,
+              "Value": "B",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 0,
+              "Value": "2",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 1,
+              "Value": "4",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 2,
+              "Value": "4",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 3,
+              "Value": "7",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 4,
+              "Value": "4",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 0,
+              "Value": "70.294",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 1,
+              "Value": "69.559",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 2,
+              "Value": "69.118",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 3,
+              "Value": "68.824",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 4,
+              "Value": "70.294",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "PERCENTAGE",
+              "Pos": 0,
+              "Value": "69.618",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "16:07",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOUR",
+              "Pos": 0,
+              "Value": "Small",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 1,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "69.618",
+          "Guides": [],
+          "Name": "RAO Jiayi",
+          "NameS": "RAO J",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        },
+        {
+          "Reg": "7914876",
+          "Org": "CHN",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "JACKPOINT",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD/DWB/Bay/2012/GLOCK'S JOHNSON TN/WELT HIT II",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "206",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 0,
+              "Value": "E",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 1,
+              "Value": "H",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 2,
+              "Value": "C",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 3,
+              "Value": "M",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 4,
+              "Value": "B",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 0,
+              "Value": "5",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 1,
+              "Value": "2",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 2,
+              "Value": "2",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 3,
+              "Value": "2",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 4,
+              "Value": "5",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 0,
+              "Value": "68.824",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 1,
+              "Value": "71.324",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 2,
+              "Value": "70.294",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 3,
+              "Value": "70.882",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 4,
+              "Value": "70.000",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "PERCENTAGE",
+              "Pos": 0,
+              "Value": "70.265",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "14:24",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOUR",
+              "Pos": 0,
+              "Value": "Small",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 2,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "70.265",
+          "Guides": [],
+          "Name": "YU Jiayi",
+          "NameS": "YU J",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        },
+        {
+          "Reg": "7934547",
+          "Org": "CHN",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "SHAKESPEARE 82",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD/MECKL/Bay/2010/SANCISCO OLD/LOMBER",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "203",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 0,
+              "Value": "E",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 1,
+              "Value": "H",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 2,
+              "Value": "C",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 3,
+              "Value": "M",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 4,
+              "Value": "B",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 0,
+              "Value": "27",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 1,
+              "Value": "6",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 2,
+              "Value": "8",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 3,
+              "Value": "9",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 4,
+              "Value": "2",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 0,
+              "Value": "65.588",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 1,
+              "Value": "68.971",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 2,
+              "Value": "68.088",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 3,
+              "Value": "68.088",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 4,
+              "Value": "70.588",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "PERCENTAGE",
+              "Pos": 0,
+              "Value": "68.265",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "12:32",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOUR",
+              "Pos": 0,
+              "Value": "Small",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 3,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "68.265",
+          "Guides": [],
+          "Name": "GU Zhanzhao",
+          "NameS": "GU Z",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        },
+        {
+          "Reg": "7937004",
+          "Org": "CHN",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "IGGY POP BEK",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD/KWPN/Black/2013//",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "205",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 0,
+              "Value": "E",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 1,
+              "Value": "H",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 2,
+              "Value": "C",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 3,
+              "Value": "M",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 4,
+              "Value": "B",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 0,
+              "Value": "16",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 1,
+              "Value": "8",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 2,
+              "Value": "6",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 3,
+              "Value": "29",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 4,
+              "Value": "7",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 0,
+              "Value": "67.059",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 1,
+              "Value": "68.824",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 2,
+              "Value": "68.382",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 3,
+              "Value": "64.706",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 4,
+              "Value": "69.706",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "PERCENTAGE",
+              "Pos": 0,
+              "Value": "67.735",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "10:57",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOUR",
+              "Pos": 0,
+              "Value": "Small",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 4,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "67.735",
+          "Guides": [],
+          "Name": "WU Yue",
+          "NameS": "WU Y",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        }
+      ]
+    },
+    {
+      "Reg": "EQUODRESTEAM---INA01",
+      "Bib": "",
+      "Org": "INA",
+      "MedClass": "",
+      "StartOrder": "9",
+      "StartSortOrder": 9,
+      "Rk": "7",
+      "RkEq": false,
+      "RkPo": 7,
+      "WLT": "",
+      "Result": "197.236",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "TEAM_ROUND_SCORE",
+          "Pos": 0,
+          "Value": "197.236",
+          "Extensions": []
+        }
+      ],
+      "Name": "Indonesia",
+      "NameS": "INA",
+      "OrgDesc": "Indonesia",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "",
+      "Members": [
+        {
+          "Reg": "14722970",
+          "Org": "INA",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "BREFOOD'S FAYETTE K",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "MA/OLDBG/Black/2014/FUERSTENBALL OLD/FUERST ROMANCIER",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "210",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 0,
+              "Value": "E",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 1,
+              "Value": "H",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 2,
+              "Value": "C",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 3,
+              "Value": "M",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 4,
+              "Value": "B",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 0,
+              "Value": "19",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 1,
+              "Value": "33",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 2,
+              "Value": "28",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 3,
+              "Value": "32",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 4,
+              "Value": "26",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 0,
+              "Value": "66.765",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 1,
+              "Value": "63.529",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 2,
+              "Value": "64.853",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 3,
+              "Value": "64.559",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 4,
+              "Value": "66.324",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "PERCENTAGE",
+              "Pos": 0,
+              "Value": "65.206",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "12:40",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOUR",
+              "Pos": 0,
+              "Value": "Small",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 1,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "65.206",
+          "Guides": [],
+          "Name": "HERJAWAN Karen Leticia",
+          "NameS": "HERJAWAN KL",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        },
+        {
+          "Reg": "8109445",
+          "Org": "INA",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "FOR FUTURE",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD/WESTF/Other/2014/FUERSTENBALL OLD/SAMARANT",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "213",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 0,
+              "Value": "E",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 1,
+              "Value": "H",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 2,
+              "Value": "C",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 3,
+              "Value": "M",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 4,
+              "Value": "B",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 0,
+              "Value": "29",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 1,
+              "Value": "21",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 2,
+              "Value": "27",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 3,
+              "Value": "16",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 4,
+              "Value": "25",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 0,
+              "Value": "65.294",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 1,
+              "Value": "66.029",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 2,
+              "Value": "65.000",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 3,
+              "Value": "66.912",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 4,
+              "Value": "66.618",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "PERCENTAGE",
+              "Pos": 0,
+              "Value": "65.971",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "16:23",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOUR",
+              "Pos": 0,
+              "Value": "Small",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 2,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "65.971",
+          "Guides": [],
+          "Name": "PUTRI Audirania Amanda",
+          "NameS": "PUTRI AA",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        },
+        {
+          "Reg": "8788860",
+          "Org": "INA",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "FRIBALDI",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD/OLDBG/Other/2014/FUERST ROMANCIER/SIR DONNERHALL",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "211",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 0,
+              "Value": "E",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 1,
+              "Value": "H",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 2,
+              "Value": "C",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 3,
+              "Value": "M",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 4,
+              "Value": "B",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 0,
+              "Value": "17",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 1,
+              "Value": "22",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 2,
+              "Value": "25",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 3,
+              "Value": "18",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 4,
+              "Value": "29",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 0,
+              "Value": "66.912",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 1,
+              "Value": "65.882",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 2,
+              "Value": "65.294",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 3,
+              "Value": "66.765",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 4,
+              "Value": "65.441",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "PERCENTAGE",
+              "Pos": 0,
+              "Value": "66.059",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "11:13",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOUR",
+              "Pos": 0,
+              "Value": "Small",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 3,
+          "Substitute": false,
+          "MedClass": "",
+          "Result": "66.059",
+          "Guides": [],
+          "Name": "MENAYANG Alfaro",
+          "NameS": "MENAYANG A",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        },
+        {
+          "Reg": "8795024",
+          "Org": "INA",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "R",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE",
+              "Pos": 0,
+              "Value": "FINE ART VON BELLIN",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_INFO",
+              "Pos": 0,
+              "Value": "GD/HANN/Other/2014/FIDERTANZ 2/DE NIRO 6",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HORSE_NUMBER",
+              "Pos": 0,
+              "Value": "212",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 0,
+              "Value": "E",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 1,
+              "Value": "H",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 2,
+              "Value": "C",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 3,
+              "Value": "M",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_POSITION",
+              "Pos": 4,
+              "Value": "B",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 1,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 2,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 3,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_RANK",
+              "Pos": 4,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 1,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 2,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 3,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "JUDGE_SCORE",
+              "Pos": 4,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "STARTTIME",
+              "Pos": 0,
+              "Value": "14:32",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TEAM_MEMBER",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOUR",
+              "Pos": 0,
+              "Value": "Small",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 4,
+          "Substitute": false,
+          "MedClass": "",
+          "IRM": "EL",
+          "Result": "EL",
+          "Guides": [],
+          "Name": "PRAMESWARI Dara Ninggar",
+          "NameS": "PRAMESWARI DN",
+          "FuncDesc": "Rider",
+          "PosDesc": "Athlete"
+        }
+      ]
+    }
+  ],
+  "Legends": {
+    "records": [],
+    "irms": [],
+    "qs": [],
+    "funcs": [
+      {
+        "DescS": "AA01",
+        "Desc": "Rider"
+      }
+    ],
+    "pos": [
+      {
+        "DescS": "R",
+        "Desc": "Athlete"
+      }
+    ]
+  }
+}

@@ -1,1 +1,2069 @@
-null
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "FEN",
+    "DiscDesc": "Fencing",
+    "Key": "W.TEAMEPEE----------.FNL-.000100--",
+    "isH2H": true,
+    "Type": "T",
+    "Medal": "1",
+    "Status": "OFFICIAL",
+    "StatusDesc": "Official",
+    "DateTimeRaw": "2026-09-25T19:20:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "Followed by",
+    "HideLocation": false,
+    "Venue": "SKEF",
+    "VenueDesc": "Aichi Sky Expo Hall F",
+    "VenueDescS": "Aichi Sky Expo Hall F",
+    "Loc": "FEF",
+    "LocDesc": "Podium",
+    "LocDescS": "Podium",
+    "Event": "W.TEAMEPEE----------",
+    "EventDesc": "Women's Épée Team",
+    "Phase": "W.TEAMEPEE----------.FNL-",
+    "PhaseOrder": 4,
+    "PhaseDesc": "Women's Épée Team Finals",
+    "PhaseDescS": "Women's Épée Team Finals",
+    "PhaseDescA": "Finals",
+    "UnitDesc": "Women's Épée Team - Finals - Gold Medal Match",
+    "UnitDescS": "Women's Épée Team - Finals - Gold Medal Match",
+    "UnitDescA": "Gold Medal Match",
+    "UnitNum": "9999",
+    "IsLive": false,
+    "ShowResults": true,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "28 - 45",
+    "ResDetail": "D28 - V45",
+    "Duration": "",
+    "CurrentPeriod": 9,
+    "Current": "",
+    "Last": "",
+    "Extensions": [
+      {
+        "Type": "UNIT_INFO",
+        "Code": "InfoMatch",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "InfoTeam",
+        "Pos": 0,
+        "Value": "1",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "ServerHomeAway",
+        "Pos": 0,
+        "Value": "",
+        "Extensions": []
+      }
+    ],
+    "Periods": [
+      {
+        "Order": 1,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "3",
+        "ResAway": "2",
+        "TotHome": "3",
+        "TotAway": "2",
+        "Extensions": [
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayFencer",
+            "Pos": 0,
+            "Value": "3978513",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayFencerTVName",
+            "Pos": 0,
+            "Value": "LIU C",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwaySeq",
+            "Pos": 0,
+            "Value": "6",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenFencer",
+            "Pos": 0,
+            "Value": "7771922",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenFencerTVName",
+            "Pos": 0,
+            "Value": "SONG S",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeFencer",
+            "Pos": 0,
+            "Value": "7771922",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeFencerTVName",
+            "Pos": 0,
+            "Value": "SONG S",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeSeq",
+            "Pos": 0,
+            "Value": "3",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "Overtime",
+            "Pos": 0,
+            "Value": "false",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedFencer",
+            "Pos": 0,
+            "Value": "3978513",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedFencerTVName",
+            "Pos": 0,
+            "Value": "LIU C",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ResGreen",
+            "Pos": 0,
+            "Value": "3",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ResRed",
+            "Pos": 0,
+            "Value": "2",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "TotGreen",
+            "Pos": 0,
+            "Value": "3",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "TotRed",
+            "Pos": 0,
+            "Value": "2",
+            "Extensions": []
+          }
+        ],
+        "Desc": "Relay 1",
+        "DescS": "Relay 1"
+      },
+      {
+        "Order": 2,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "4",
+        "ResAway": "4",
+        "TotHome": "7",
+        "TotAway": "6",
+        "Extensions": [
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayFencer",
+            "Pos": 0,
+            "Value": "3980700",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayFencerTVName",
+            "Pos": 0,
+            "Value": "YU S",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwaySeq",
+            "Pos": 0,
+            "Value": "5",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenFencer",
+            "Pos": 0,
+            "Value": "7773614",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenFencerTVName",
+            "Pos": 0,
+            "Value": "YANG S",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeFencer",
+            "Pos": 0,
+            "Value": "7773614",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeFencerTVName",
+            "Pos": 0,
+            "Value": "YANG S",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeSeq",
+            "Pos": 0,
+            "Value": "1",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "Overtime",
+            "Pos": 0,
+            "Value": "false",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedFencer",
+            "Pos": 0,
+            "Value": "3980700",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedFencerTVName",
+            "Pos": 0,
+            "Value": "YU S",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ResGreen",
+            "Pos": 0,
+            "Value": "4",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ResRed",
+            "Pos": 0,
+            "Value": "4",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "TotGreen",
+            "Pos": 0,
+            "Value": "7",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "TotRed",
+            "Pos": 0,
+            "Value": "6",
+            "Extensions": []
+          }
+        ],
+        "Desc": "Relay 2",
+        "DescS": "Relay 2"
+      },
+      {
+        "Order": 3,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "6",
+        "ResAway": "9",
+        "TotHome": "13",
+        "TotAway": "15",
+        "Extensions": [
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayFencer",
+            "Pos": 0,
+            "Value": "3979436",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayFencerTVName",
+            "Pos": 0,
+            "Value": "TANG J",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwaySeq",
+            "Pos": 0,
+            "Value": "4",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenFencer",
+            "Pos": 0,
+            "Value": "7774646",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenFencerTVName",
+            "Pos": 0,
+            "Value": "LIM T",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeFencer",
+            "Pos": 0,
+            "Value": "7774646",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeFencerTVName",
+            "Pos": 0,
+            "Value": "LIM T",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeSeq",
+            "Pos": 0,
+            "Value": "2",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "Overtime",
+            "Pos": 0,
+            "Value": "false",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedFencer",
+            "Pos": 0,
+            "Value": "3979436",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedFencerTVName",
+            "Pos": 0,
+            "Value": "TANG J",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ResGreen",
+            "Pos": 0,
+            "Value": "6",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ResRed",
+            "Pos": 0,
+            "Value": "9",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "TotGreen",
+            "Pos": 0,
+            "Value": "13",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "TotRed",
+            "Pos": 0,
+            "Value": "15",
+            "Extensions": []
+          }
+        ],
+        "Desc": "Relay 3",
+        "DescS": "Relay 3"
+      },
+      {
+        "Order": 4,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "2",
+        "ResAway": "3",
+        "TotHome": "15",
+        "TotAway": "18",
+        "Extensions": [
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayFencer",
+            "Pos": 0,
+            "Value": "3978513",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayFencerTVName",
+            "Pos": 0,
+            "Value": "LIU C",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwaySeq",
+            "Pos": 0,
+            "Value": "6",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenFencer",
+            "Pos": 0,
+            "Value": "7773614",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenFencerTVName",
+            "Pos": 0,
+            "Value": "YANG S",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeFencer",
+            "Pos": 0,
+            "Value": "7773614",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeFencerTVName",
+            "Pos": 0,
+            "Value": "YANG S",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeSeq",
+            "Pos": 0,
+            "Value": "1",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "Overtime",
+            "Pos": 0,
+            "Value": "false",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedFencer",
+            "Pos": 0,
+            "Value": "3978513",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedFencerTVName",
+            "Pos": 0,
+            "Value": "LIU C",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ResGreen",
+            "Pos": 0,
+            "Value": "2",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ResRed",
+            "Pos": 0,
+            "Value": "3",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "TotGreen",
+            "Pos": 0,
+            "Value": "15",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "TotRed",
+            "Pos": 0,
+            "Value": "18",
+            "Extensions": []
+          }
+        ],
+        "Desc": "Relay 4",
+        "DescS": "Relay 4"
+      },
+      {
+        "Order": 5,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "2",
+        "ResAway": "4",
+        "TotHome": "17",
+        "TotAway": "22",
+        "Extensions": [
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayFencer",
+            "Pos": 0,
+            "Value": "3979436",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayFencerTVName",
+            "Pos": 0,
+            "Value": "TANG J",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwaySeq",
+            "Pos": 0,
+            "Value": "4",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenFencer",
+            "Pos": 0,
+            "Value": "7771922",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenFencerTVName",
+            "Pos": 0,
+            "Value": "SONG S",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeFencer",
+            "Pos": 0,
+            "Value": "7771922",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeFencerTVName",
+            "Pos": 0,
+            "Value": "SONG S",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeSeq",
+            "Pos": 0,
+            "Value": "3",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "Overtime",
+            "Pos": 0,
+            "Value": "false",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedFencer",
+            "Pos": 0,
+            "Value": "3979436",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedFencerTVName",
+            "Pos": 0,
+            "Value": "TANG J",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ResGreen",
+            "Pos": 0,
+            "Value": "2",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ResRed",
+            "Pos": 0,
+            "Value": "4",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "TotGreen",
+            "Pos": 0,
+            "Value": "17",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "TotRed",
+            "Pos": 0,
+            "Value": "22",
+            "Extensions": []
+          }
+        ],
+        "Desc": "Relay 5",
+        "DescS": "Relay 5"
+      },
+      {
+        "Order": 6,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "4",
+        "ResAway": "5",
+        "TotHome": "21",
+        "TotAway": "27",
+        "Extensions": [
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayFencer",
+            "Pos": 0,
+            "Value": "3980700",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayFencerTVName",
+            "Pos": 0,
+            "Value": "YU S",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwaySeq",
+            "Pos": 0,
+            "Value": "5",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenFencer",
+            "Pos": 0,
+            "Value": "7774646",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenFencerTVName",
+            "Pos": 0,
+            "Value": "LIM T",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeFencer",
+            "Pos": 0,
+            "Value": "7774646",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeFencerTVName",
+            "Pos": 0,
+            "Value": "LIM T",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeSeq",
+            "Pos": 0,
+            "Value": "2",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "Overtime",
+            "Pos": 0,
+            "Value": "false",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedFencer",
+            "Pos": 0,
+            "Value": "3980700",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedFencerTVName",
+            "Pos": 0,
+            "Value": "YU S",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ResGreen",
+            "Pos": 0,
+            "Value": "4",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ResRed",
+            "Pos": 0,
+            "Value": "5",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "TotGreen",
+            "Pos": 0,
+            "Value": "21",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "TotRed",
+            "Pos": 0,
+            "Value": "27",
+            "Extensions": []
+          }
+        ],
+        "Desc": "Relay 6",
+        "DescS": "Relay 6"
+      },
+      {
+        "Order": 7,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "4",
+        "ResAway": "8",
+        "TotHome": "25",
+        "TotAway": "35",
+        "Extensions": [
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayFencer",
+            "Pos": 0,
+            "Value": "3979436",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayFencerTVName",
+            "Pos": 0,
+            "Value": "TANG J",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwaySeq",
+            "Pos": 0,
+            "Value": "4",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenFencer",
+            "Pos": 0,
+            "Value": "7775320",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenFencerTVName",
+            "Pos": 0,
+            "Value": "LEE H",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenSubstitution",
+            "Pos": 0,
+            "Value": "true",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeFencer",
+            "Pos": 0,
+            "Value": "7775320",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeFencerTVName",
+            "Pos": 0,
+            "Value": "LEE H",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeSubstitution",
+            "Pos": 0,
+            "Value": "true",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "Overtime",
+            "Pos": 0,
+            "Value": "false",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedFencer",
+            "Pos": 0,
+            "Value": "3979436",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedFencerTVName",
+            "Pos": 0,
+            "Value": "TANG J",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ResGreen",
+            "Pos": 0,
+            "Value": "4",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ResRed",
+            "Pos": 0,
+            "Value": "8",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "TotGreen",
+            "Pos": 0,
+            "Value": "25",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "TotRed",
+            "Pos": 0,
+            "Value": "35",
+            "Extensions": []
+          }
+        ],
+        "Desc": "Relay 7",
+        "DescS": "Relay 7"
+      },
+      {
+        "Order": 8,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "2",
+        "ResAway": "5",
+        "TotHome": "27",
+        "TotAway": "40",
+        "Extensions": [
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayFencer",
+            "Pos": 0,
+            "Value": "3978513",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayFencerTVName",
+            "Pos": 0,
+            "Value": "LIU C",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwaySeq",
+            "Pos": 0,
+            "Value": "6",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenFencer",
+            "Pos": 0,
+            "Value": "7774646",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenFencerTVName",
+            "Pos": 0,
+            "Value": "LIM T",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeFencer",
+            "Pos": 0,
+            "Value": "7774646",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeFencerTVName",
+            "Pos": 0,
+            "Value": "LIM T",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeSeq",
+            "Pos": 0,
+            "Value": "2",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "Overtime",
+            "Pos": 0,
+            "Value": "false",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedFencer",
+            "Pos": 0,
+            "Value": "3978513",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedFencerTVName",
+            "Pos": 0,
+            "Value": "LIU C",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ResGreen",
+            "Pos": 0,
+            "Value": "2",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ResRed",
+            "Pos": 0,
+            "Value": "5",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "TotGreen",
+            "Pos": 0,
+            "Value": "27",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "TotRed",
+            "Pos": 0,
+            "Value": "40",
+            "Extensions": []
+          }
+        ],
+        "Desc": "Relay 8",
+        "DescS": "Relay 8"
+      },
+      {
+        "Order": 9,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "1",
+        "ResAway": "5",
+        "TotHome": "28",
+        "TotAway": "45",
+        "Extensions": [
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayFencer",
+            "Pos": 0,
+            "Value": "3980700",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayFencerTVName",
+            "Pos": 0,
+            "Value": "YU S",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwaySeq",
+            "Pos": 0,
+            "Value": "5",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenFencer",
+            "Pos": 0,
+            "Value": "7771922",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenFencerTVName",
+            "Pos": 0,
+            "Value": "SONG S",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeFencer",
+            "Pos": 0,
+            "Value": "7771922",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeFencerTVName",
+            "Pos": 0,
+            "Value": "SONG S",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeSeq",
+            "Pos": 0,
+            "Value": "3",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "Overtime",
+            "Pos": 0,
+            "Value": "false",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedFencer",
+            "Pos": 0,
+            "Value": "3980700",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedFencerTVName",
+            "Pos": 0,
+            "Value": "YU S",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ResGreen",
+            "Pos": 0,
+            "Value": "1",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ResRed",
+            "Pos": 0,
+            "Value": "5",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "TotGreen",
+            "Pos": 0,
+            "Value": "28",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "TotRed",
+            "Pos": 0,
+            "Value": "45",
+            "Extensions": []
+          }
+        ],
+        "Desc": "Relay 9",
+        "DescS": "Relay 9"
+      }
+    ],
+    "Officials": [
+      {
+        "Reg": "16748125",
+        "Org": "IRQ",
+        "Order": 1,
+        "Function": "RE",
+        "Extensions": [],
+        "FuncOrder": "1",
+        "OrgDesc": "Iraq",
+        "Name": "AL RAWI Alaa",
+        "NameS": "AL RAWI A",
+        "FuncDesc": "Referee"
+      },
+      {
+        "Reg": "38239",
+        "Org": "NZL",
+        "Order": 2,
+        "Function": "RE",
+        "Extensions": [],
+        "FuncOrder": "1",
+        "OrgDesc": "New Zealand",
+        "Name": "KAMYNINA Anna",
+        "NameS": "KAMYNINA Anna",
+        "FuncDesc": "Referee"
+      },
+      {
+        "Reg": "11243112",
+        "Org": "QAT",
+        "Order": 3,
+        "Function": "AR",
+        "Extensions": [],
+        "FuncOrder": "2",
+        "OrgDesc": "Qatar",
+        "Name": "YAHYA Abdulla",
+        "NameS": "YAHYA A",
+        "FuncDesc": "Assistant Referee"
+      },
+      {
+        "Reg": "11223690",
+        "Org": "UZB",
+        "Order": 4,
+        "Function": "AR",
+        "Extensions": [],
+        "FuncOrder": "2",
+        "OrgDesc": "Uzbekistan",
+        "Name": "TURDUKULOVA Dilorom",
+        "NameS": "TURDUKULOVA D",
+        "FuncDesc": "Assistant Referee"
+      }
+    ],
+    "Paralympic": false
+  },
+  "Competitors": [
+    {
+      "Reg": "FENWTEAMEPEE---KOR01",
+      "Bib": "",
+      "Org": "KOR",
+      "StartOrder": "1",
+      "StartSortOrder": 1,
+      "Rk": "2",
+      "RkEq": false,
+      "RkPo": 2,
+      "WLT": "L",
+      "Result": "28",
+      "ResDetail": "L28",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "Lane": "",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Color",
+          "Pos": 0,
+          "Value": "2",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "LightOn",
+          "Pos": 0,
+          "Value": "N",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ResultType",
+          "Pos": 0,
+          "Value": "D",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "WhiteLightOn",
+          "Pos": 0,
+          "Value": "N",
+          "Extensions": []
+        }
+      ],
+      "Stats": {
+        "ST_pRED_CARDS": "",
+        "ST_pBLACK_CARDS": "",
+        "ST_YELLOW_CARDS": "1",
+        "ST_RED_CARDS": "",
+        "ST_BLACK_CARDS": ""
+      },
+      "Name": "Republic of Korea",
+      "NameS": "Korea",
+      "OrgDesc": "Republic of Korea",
+      "Splits": [
+        {
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "3",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "3",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        },
+        {
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "4",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "7",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        },
+        {
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "6",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "13",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        },
+        {
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "2",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "15",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        },
+        {
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "2",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "17",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        },
+        {
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "4",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "21",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        },
+        {
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "4",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "25",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        },
+        {
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "2",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "27",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        },
+        {
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "1",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "28",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "",
+      "Members": [
+        {
+          "Reg": "7775320",
+          "Org": "KOR",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Extensions": [],
+          "Gender": "W",
+          "Order": 0,
+          "Substitute": true,
+          "Result": "",
+          "Guides": [],
+          "Name": "LEE Hyein",
+          "NameS": "LEE H",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "7773614",
+          "Org": "KOR",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Extensions": [],
+          "Gender": "W",
+          "Order": 1,
+          "Substitute": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "YANG Seunghye",
+          "NameS": "YANG S",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "7774646",
+          "Org": "KOR",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Extensions": [],
+          "Gender": "W",
+          "Order": 2,
+          "Substitute": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "LIM Taehee",
+          "NameS": "LIM T",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "7771922",
+          "Org": "KOR",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Extensions": [],
+          "Gender": "W",
+          "Order": 3,
+          "Substitute": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "SONG Sera",
+          "NameS": "SONG S",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        }
+      ]
+    },
+    {
+      "Reg": "FENWTEAMEPEE---CHN01",
+      "Bib": "",
+      "Org": "CHN",
+      "StartOrder": "2",
+      "StartSortOrder": 2,
+      "Rk": "1",
+      "RkEq": false,
+      "RkPo": 1,
+      "WLT": "W",
+      "Result": "45",
+      "ResDetail": "W45",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "Q",
+      "Lane": "",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Color",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "LightOn",
+          "Pos": 0,
+          "Value": "N",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ResultType",
+          "Pos": 0,
+          "Value": "V",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "WhiteLightOn",
+          "Pos": 0,
+          "Value": "N",
+          "Extensions": []
+        }
+      ],
+      "Stats": {
+        "ST_pRED_CARDS": "",
+        "ST_pBLACK_CARDS": "",
+        "ST_YELLOW_CARDS": "",
+        "ST_RED_CARDS": "",
+        "ST_BLACK_CARDS": ""
+      },
+      "Name": "People's Republic of China",
+      "NameS": "China",
+      "OrgDesc": "People's Republic of China",
+      "Splits": [
+        {
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "2",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "2",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        },
+        {
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "4",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "6",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        },
+        {
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "9",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "15",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        },
+        {
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "3",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "18",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        },
+        {
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "4",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "22",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        },
+        {
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "5",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "27",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        },
+        {
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "8",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "35",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        },
+        {
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "5",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "40",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        },
+        {
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "5",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "45",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "",
+      "Members": [
+        {
+          "Reg": "3980212",
+          "Org": "CHN",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Extensions": [],
+          "Gender": "W",
+          "Order": 0,
+          "Substitute": true,
+          "Result": "",
+          "Guides": [],
+          "Name": "YANG Jingwen",
+          "NameS": "YANG JW",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "3979436",
+          "Org": "CHN",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Extensions": [],
+          "Gender": "W",
+          "Order": 4,
+          "Substitute": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "TANG Junyao",
+          "NameS": "TANG J",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "3980700",
+          "Org": "CHN",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Extensions": [],
+          "Gender": "W",
+          "Order": 5,
+          "Substitute": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "YU Sihan",
+          "NameS": "YU S",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "3978513",
+          "Org": "CHN",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Extensions": [],
+          "Gender": "W",
+          "Order": 6,
+          "Substitute": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "LIU Chang",
+          "NameS": "LIU C",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        }
+      ]
+    }
+  ],
+  "Legends": {
+    "records": [],
+    "irms": [],
+    "qs": [
+      {
+        "Desc": "legends.FEN.Q",
+        "DescS": "Q"
+      }
+    ],
+    "funcs": [
+      {
+        "DescS": "AA01",
+        "Desc": "Athlete"
+      }
+    ]
+  }
+}

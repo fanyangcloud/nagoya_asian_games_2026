@@ -1,1 +1,6280 @@
-null
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "ATH",
+    "DiscDesc": "Athletics",
+    "Key": "W.SHOTPUT-----------.FNL-.000100--",
+    "isH2H": false,
+    "Type": "A",
+    "Medal": "1",
+    "Status": "OFFICIAL",
+    "StatusDesc": "Official",
+    "DateTimeRaw": "2026-09-25T19:05:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "",
+    "HideLocation": false,
+    "Venue": "MPA",
+    "VenueDesc": "Nagoya City Mizuho Park Athletic Stadium",
+    "VenueDescS": "Nagoya City Mizuho Park Athletic Stadium",
+    "Loc": "001",
+    "LocDesc": "National Stadium",
+    "LocDescS": "National Stadium",
+    "Event": "W.SHOTPUT-----------",
+    "EventDesc": "Women's Shot Put",
+    "Phase": "W.SHOTPUT-----------.FNL-",
+    "PhaseOrder": 1,
+    "PhaseDesc": "Women's Shot Put Final",
+    "PhaseDescS": "Women's Shot Put F",
+    "PhaseDescA": "Final",
+    "UnitDesc": "Women's Shot Put Final",
+    "UnitDescS": "Women's Shot Put F",
+    "UnitDescA": "",
+    "UnitNum": "1",
+    "IsLive": false,
+    "ShowResults": true,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "",
+    "ResDetail": "",
+    "Duration": "",
+    "CurrentPeriod": 6,
+    "Current": "14735634",
+    "Last": "14735356",
+    "Extensions": [
+      {
+        "Type": "UNIT_INFO",
+        "Code": "After",
+        "Pos": 0,
+        "Value": "1",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "CallRoomOpens",
+        "Pos": 0,
+        "Value": "",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Combined",
+        "Pos": 0,
+        "Value": "F",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "CurrentDistance",
+        "Pos": 0,
+        "Value": "",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "CurrentDistanceTV",
+        "Pos": 0,
+        "Value": "",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "CurrentSplit",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Distance",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "EventCategory",
+        "Pos": 0,
+        "Value": "B",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Factor",
+        "Pos": 0,
+        "Value": "F",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "FieldFirstSplitToBeDisplayed",
+        "Pos": 0,
+        "Value": "4",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "FinishedTV",
+        "Pos": 0,
+        "Value": "N",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "HasReactionTime",
+        "Pos": 0,
+        "Value": "N",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "ImprovAtt1",
+        "Pos": 0,
+        "Value": "4",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "ImprovAtt2",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "ImprovAtt3",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "ImprovNum",
+        "Pos": 0,
+        "Value": "1",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "ImprovQ1",
+        "Pos": 0,
+        "Value": "8",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "ImprovQ2",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "ImprovQ3",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Indoor",
+        "Pos": 0,
+        "Value": "N",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "InfoMatch",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "InfoTeam",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "LapsToGo",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "LapsToGoTV",
+        "Pos": 0,
+        "Value": "",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "NewOrder1",
+        "Pos": 0,
+        "Value": "Y",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "NewOrder2",
+        "Pos": 0,
+        "Value": "N",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "NewOrder3",
+        "Pos": 0,
+        "Value": "N",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "NHeats",
+        "Pos": 0,
+        "Value": "1",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "NLanes",
+        "Pos": 0,
+        "Value": "8",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "PrevPhaseKey",
+        "Pos": 0,
+        "Value": "",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "PrevPhaseUnitKey",
+        "Pos": 0,
+        "Value": "",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "QMark",
+        "Pos": 0,
+        "Value": "",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "QRules",
+        "Pos": 0,
+        "Value": "",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "RecordTV",
+        "Pos": 0,
+        "Value": "",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "ServerHomeAway",
+        "Pos": 0,
+        "Value": "",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "ShowWind",
+        "Pos": 0,
+        "Value": "N",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "TeamRelayMembersLimitTime",
+        "Pos": 0,
+        "Value": "17:05",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "TimeSplit",
+        "Pos": 0,
+        "Value": "",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "TypeDrawSort",
+        "Pos": 0,
+        "Value": "O",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "UnitCategory",
+        "Pos": 0,
+        "Value": "B",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "UseWorldRanking",
+        "Pos": 0,
+        "Value": "Y",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Wind",
+        "Pos": 0,
+        "Value": "",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "WorldRankingDate",
+        "Pos": 0,
+        "Value": "25 August 2026",
+        "Extensions": []
+      }
+    ],
+    "Periods": [
+      {
+        "Order": 1,
+        "Duration": "",
+        "Distance": "1",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "LapTime",
+            "Pos": 0,
+            "Value": null,
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "LapTimeAcc",
+            "Pos": 0,
+            "Value": null,
+            "Extensions": []
+          }
+        ],
+        "Desc": "Attempt 1",
+        "DescS": "1"
+      },
+      {
+        "Order": 2,
+        "Duration": "",
+        "Distance": "2",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "LapTime",
+            "Pos": 0,
+            "Value": null,
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "LapTimeAcc",
+            "Pos": 0,
+            "Value": null,
+            "Extensions": []
+          }
+        ],
+        "Desc": "Attempt 2",
+        "DescS": "2"
+      },
+      {
+        "Order": 3,
+        "Duration": "",
+        "Distance": "3",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "LapTime",
+            "Pos": 0,
+            "Value": null,
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "LapTimeAcc",
+            "Pos": 0,
+            "Value": null,
+            "Extensions": []
+          }
+        ],
+        "Desc": "Attempt 3",
+        "DescS": "3"
+      },
+      {
+        "Order": 4,
+        "Duration": "",
+        "Distance": "4",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "LapTime",
+            "Pos": 0,
+            "Value": null,
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "LapTimeAcc",
+            "Pos": 0,
+            "Value": null,
+            "Extensions": []
+          }
+        ],
+        "Desc": "Attempt 4",
+        "DescS": "4"
+      },
+      {
+        "Order": 5,
+        "Duration": "",
+        "Distance": "5",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "LapTime",
+            "Pos": 0,
+            "Value": null,
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "LapTimeAcc",
+            "Pos": 0,
+            "Value": null,
+            "Extensions": []
+          }
+        ],
+        "Desc": "Attempt 5",
+        "DescS": "5"
+      },
+      {
+        "Order": 6,
+        "Duration": "",
+        "Distance": "6",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "LapTime",
+            "Pos": 0,
+            "Value": null,
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "LapTimeAcc",
+            "Pos": 0,
+            "Value": null,
+            "Extensions": []
+          }
+        ],
+        "Desc": "Attempt 6",
+        "DescS": "6"
+      }
+    ],
+    "Records": [
+      {
+        "EvCode": "W.SHOTPUT-----------",
+        "Desc": "Women's Shot Put",
+        "DescS": "Women's Shot Put",
+        "Records": [
+          {
+            "Result": "22.63",
+            "Equalled": false,
+            "Indicator": "WR",
+            "Indicator1": "WR",
+            "Desc": "World Record",
+            "AreaDesc": "World",
+            "Loc": "Moskva (URS)",
+            "DateTimeRaw": "1987-07-06T00:00:00+09:00",
+            "ShowLinkBio": false,
+            "Reg": "R0057",
+            "Name": "LISOVSKAYA Natalya",
+            "Org": "URS",
+            "OrgDesc": "USSR"
+          },
+          {
+            "Result": "21.76",
+            "Equalled": false,
+            "Indicator": "AR",
+            "Indicator1": "AR",
+            "Desc": "Asian Record",
+            "AreaDesc": "Asia",
+            "Loc": "Shijiazhuang (CHN)",
+            "DateTimeRaw": "1988-04-23T00:00:00+09:00",
+            "ShowLinkBio": false,
+            "Reg": "R00139",
+            "Name": "LI Meisu",
+            "Org": "CHN",
+            "OrgDesc": "People's Republic of China"
+          },
+          {
+            "Result": "20.55",
+            "Equalled": false,
+            "Indicator": "GR",
+            "Indicator1": "GR",
+            "Desc": "Games Record",
+            "AreaDesc": "Asian Games",
+            "Loc": "Beijing (CHN)",
+            "DateTimeRaw": "1990-10-01T00:00:00+09:00",
+            "ShowLinkBio": false,
+            "Reg": "R0081",
+            "Name": "SUI Xinmei",
+            "Org": "CHN",
+            "OrgDesc": "People's Republic of China"
+          }
+        ]
+      }
+    ],
+    "Paralympic": false
+  },
+  "Competitors": [
+    {
+      "Reg": "14735634",
+      "Bib": "267",
+      "Org": "CHN",
+      "StartOrder": "2",
+      "StartSortOrder": 2,
+      "Rk": "1",
+      "RkEq": false,
+      "RkPo": 1,
+      "WLT": "",
+      "Result": "19.40",
+      "ResDetail": "19.40",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "2",
+      "Seed": "2",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Age",
+          "Pos": 0,
+          "Value": "29",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ArticlesCode",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ArticlesDesc",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ArticlesFederation",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ChangeNumber",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "CurrentSplit",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "DisplayPhRk",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "DisplayPhRkPo",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "FS",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "HasPB",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "HasSB",
+          "Pos": 0,
+          "Value": "SB",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "HeatRank",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "HeatRankPo",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Height",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "IsHighJumpCurrent",
+          "Pos": 0,
+          "Value": "N",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "L",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "LaneGroupAllocation",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "LastSplitResult",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "MovedToHeat",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "MovedToHeatDesc",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "MovedToLane",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "NewOrder1",
+          "Pos": 0,
+          "Value": "8",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "NewOrder2",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "NewOrder3",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PB",
+          "Pos": 0,
+          "Value": "20.38",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevBestRec",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevHeatRank",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevHeatRankPo",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevPB",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevQualified",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevRank",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevRankPo",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevRecInd",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevRegister",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevResult",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevSB",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "QualificationType",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "RB",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "RC",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Reaction",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "RedCards",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "SB",
+          "Pos": 0,
+          "Value": "18.89",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "TeamXCtry",
+          "Pos": 0,
+          "Value": "N",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "TV_RedCards",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "UnitResults",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "WalkWarnings",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Wind",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "WR",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "YC",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "YRC",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "MemberServer",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "Server",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        }
+      ],
+      "Name": "SONG Jiayuan",
+      "NameS": "SONG J",
+      "OrgDesc": "People's Republic of China",
+      "Splits": [
+        {
+          "Category": "MAIN",
+          "Distance": "1",
+          "Rk": "1",
+          "RkEq": false,
+          "RkPo": 1,
+          "RkAcc": "1",
+          "RkAccEq": false,
+          "RkAccPo": 1,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "19.08",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "19.08",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "Discard",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Order",
+              "Pos": 0,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Wind",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Category": "MAIN",
+          "Distance": "2",
+          "Rk": "1",
+          "RkEq": false,
+          "RkPo": 1,
+          "RkAcc": "1",
+          "RkAccEq": false,
+          "RkAccPo": 1,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "19.40",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "19.40",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Order",
+              "Pos": 0,
+              "Value": "2",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Wind",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Category": "MAIN",
+          "Distance": "3",
+          "Rk": "1",
+          "RkEq": false,
+          "RkPo": 1,
+          "RkAcc": "1",
+          "RkAccEq": false,
+          "RkAccPo": 1,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "18.69",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "19.40",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "Discard",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Order",
+              "Pos": 0,
+              "Value": "3",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Wind",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Category": "MAIN",
+          "Distance": "4",
+          "Rk": "6",
+          "RkEq": false,
+          "RkPo": 7,
+          "RkAcc": "1",
+          "RkAccEq": false,
+          "RkAccPo": 1,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "X",
+          "Diff": "-17.18",
+          "LegResult": "",
+          "AcumulatedResult": "19.40",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "Discard",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Order",
+              "Pos": 0,
+              "Value": "4",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Wind",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Category": "MAIN",
+          "Distance": "5",
+          "Rk": "4",
+          "RkEq": false,
+          "RkPo": 7,
+          "RkAcc": "1",
+          "RkAccEq": false,
+          "RkAccPo": 1,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "X",
+          "Diff": "-16.76",
+          "LegResult": "",
+          "AcumulatedResult": "19.40",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "Discard",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Order",
+              "Pos": 0,
+              "Value": "5",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Wind",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Category": "MAIN",
+          "Distance": "6",
+          "Rk": "5",
+          "RkEq": false,
+          "RkPo": 6,
+          "RkAcc": "1",
+          "RkAccEq": false,
+          "RkAccPo": 1,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "X",
+          "Diff": "-17.94",
+          "LegResult": "",
+          "AcumulatedResult": "19.40",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "Discard",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Order",
+              "Pos": 0,
+              "Value": "6",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Wind",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_GOLD"
+    },
+    {
+      "Reg": "14735356",
+      "Bib": "273",
+      "Org": "CHN",
+      "StartOrder": "1",
+      "StartSortOrder": 1,
+      "Rk": "2",
+      "RkEq": false,
+      "RkPo": 2,
+      "WLT": "",
+      "Result": "18.14",
+      "ResDetail": "18.14",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "1",
+      "Seed": "1",
+      "Diff": "-1.26",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Age",
+          "Pos": 0,
+          "Value": "27",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ArticlesCode",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ArticlesDesc",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ArticlesFederation",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ChangeNumber",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "CurrentSplit",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "DisplayPhRk",
+          "Pos": 0,
+          "Value": "2",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "DisplayPhRkPo",
+          "Pos": 0,
+          "Value": "2",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "FS",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "HasPB",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "HasSB",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "HeatRank",
+          "Pos": 0,
+          "Value": "2",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "HeatRankPo",
+          "Pos": 0,
+          "Value": "2",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Height",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "IsHighJumpCurrent",
+          "Pos": 0,
+          "Value": "N",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "L",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "LaneGroupAllocation",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "LastSplitResult",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "MovedToHeat",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "MovedToHeatDesc",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "MovedToLane",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "NewOrder1",
+          "Pos": 0,
+          "Value": "7",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "NewOrder2",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "NewOrder3",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PB",
+          "Pos": 0,
+          "Value": "19.63",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevBestRec",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevHeatRank",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevHeatRankPo",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevPB",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevQualified",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevRank",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevRankPo",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevRecInd",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevRegister",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevResult",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevSB",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "QualificationType",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "RB",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "RC",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Reaction",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "RedCards",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "SB",
+          "Pos": 0,
+          "Value": "19.63",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "TeamXCtry",
+          "Pos": 0,
+          "Value": "N",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "TV_RedCards",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "UnitResults",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "WalkWarnings",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Wind",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "WR",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "YC",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "YRC",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "MemberServer",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "Server",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        }
+      ],
+      "Name": "ZHANG Linru",
+      "NameS": "ZHANG L",
+      "OrgDesc": "People's Republic of China",
+      "Splits": [
+        {
+          "Category": "MAIN",
+          "Distance": "1",
+          "Rk": "2",
+          "RkEq": false,
+          "RkPo": 2,
+          "RkAcc": "2",
+          "RkAccEq": false,
+          "RkAccPo": 2,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "18.14",
+          "Diff": "-0.94",
+          "LegResult": "",
+          "AcumulatedResult": "18.14",
+          "AcumulatedDiff": "-0.94",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Order",
+              "Pos": 0,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Wind",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Category": "MAIN",
+          "Distance": "2",
+          "Rk": "2",
+          "RkEq": false,
+          "RkPo": 2,
+          "RkAcc": "2",
+          "RkAccEq": false,
+          "RkAccPo": 2,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "18.04",
+          "Diff": "-1.36",
+          "LegResult": "",
+          "AcumulatedResult": "18.14",
+          "AcumulatedDiff": "-1.26",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "Discard",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Order",
+              "Pos": 0,
+              "Value": "2",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Wind",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Category": "MAIN",
+          "Distance": "3",
+          "Rk": "7",
+          "RkEq": false,
+          "RkPo": 7,
+          "RkAcc": "2",
+          "RkAccEq": false,
+          "RkAccPo": 2,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "X",
+          "Diff": "-18.70",
+          "LegResult": "",
+          "AcumulatedResult": "18.14",
+          "AcumulatedDiff": "-1.26",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "Discard",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Order",
+              "Pos": 0,
+              "Value": "3",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Wind",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Category": "MAIN",
+          "Distance": "4",
+          "Rk": "6",
+          "RkEq": false,
+          "RkPo": 6,
+          "RkAcc": "2",
+          "RkAccEq": false,
+          "RkAccPo": 2,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "X",
+          "Diff": "-17.18",
+          "LegResult": "",
+          "AcumulatedResult": "18.14",
+          "AcumulatedDiff": "-1.26",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "Discard",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Order",
+              "Pos": 0,
+              "Value": "4",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Wind",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Category": "MAIN",
+          "Distance": "5",
+          "Rk": "4",
+          "RkEq": false,
+          "RkPo": 6,
+          "RkAcc": "2",
+          "RkAccEq": false,
+          "RkAccPo": 2,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "X",
+          "Diff": "-16.76",
+          "LegResult": "",
+          "AcumulatedResult": "18.14",
+          "AcumulatedDiff": "-1.26",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "Discard",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Order",
+              "Pos": 0,
+              "Value": "5",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Wind",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Category": "MAIN",
+          "Distance": "6",
+          "Rk": "1",
+          "RkEq": false,
+          "RkPo": 1,
+          "RkAcc": "2",
+          "RkAccEq": false,
+          "RkAccPo": 2,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "17.93",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "18.14",
+          "AcumulatedDiff": "-1.26",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "Discard",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Order",
+              "Pos": 0,
+              "Value": "6",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Wind",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_SILVER"
+    },
+    {
+      "Reg": "13358440",
+      "Bib": "330",
+      "Org": "IND",
+      "StartOrder": "3",
+      "StartSortOrder": 3,
+      "Rk": "3",
+      "RkEq": false,
+      "RkPo": 3,
+      "WLT": "",
+      "Result": "17.17",
+      "ResDetail": "17.17",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "3",
+      "Seed": "3",
+      "Diff": "-2.23",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Age",
+          "Pos": 0,
+          "Value": "36",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ArticlesCode",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ArticlesDesc",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ArticlesFederation",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ChangeNumber",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "CurrentSplit",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "DisplayPhRk",
+          "Pos": 0,
+          "Value": "3",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "DisplayPhRkPo",
+          "Pos": 0,
+          "Value": "3",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "FS",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "HasPB",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "HasSB",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "HeatRank",
+          "Pos": 0,
+          "Value": "3",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "HeatRankPo",
+          "Pos": 0,
+          "Value": "3",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Height",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "IsHighJumpCurrent",
+          "Pos": 0,
+          "Value": "N",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "L",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "LaneGroupAllocation",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "LastSplitResult",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "MovedToHeat",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "MovedToHeatDesc",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "MovedToLane",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "NewOrder1",
+          "Pos": 0,
+          "Value": "6",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "NewOrder2",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "NewOrder3",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PB",
+          "Pos": 0,
+          "Value": "18.06",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevBestRec",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevHeatRank",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevHeatRankPo",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevPB",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevQualified",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevRank",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevRankPo",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevRecInd",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevRegister",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevResult",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevSB",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "QualificationType",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "RB",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "RC",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Reaction",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "RedCards",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "SB",
+          "Pos": 0,
+          "Value": "17.75",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "TeamXCtry",
+          "Pos": 0,
+          "Value": "N",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "TV_RedCards",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "UnitResults",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "WalkWarnings",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Wind",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "WR",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "YC",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "YRC",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "MemberServer",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "Server",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        }
+      ],
+      "Name": "MANPREET KAUR",
+      "NameS": "MANPREET KAUR",
+      "OrgDesc": "India",
+      "Splits": [
+        {
+          "Category": "MAIN",
+          "Distance": "1",
+          "Rk": "5",
+          "RkEq": false,
+          "RkPo": 5,
+          "RkAcc": "5",
+          "RkAccEq": false,
+          "RkAccPo": 5,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "16.32",
+          "Diff": "-2.76",
+          "LegResult": "",
+          "AcumulatedResult": "16.32",
+          "AcumulatedDiff": "-2.76",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "Discard",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Order",
+              "Pos": 0,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Wind",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Category": "MAIN",
+          "Distance": "2",
+          "Rk": "4",
+          "RkEq": false,
+          "RkPo": 4,
+          "RkAcc": "5",
+          "RkAccEq": false,
+          "RkAccPo": 5,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "16.41",
+          "Diff": "-2.99",
+          "LegResult": "",
+          "AcumulatedResult": "16.41",
+          "AcumulatedDiff": "-2.99",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "Discard",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Order",
+              "Pos": 0,
+              "Value": "2",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Wind",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Category": "MAIN",
+          "Distance": "3",
+          "Rk": "2",
+          "RkEq": false,
+          "RkPo": 2,
+          "RkAcc": "3",
+          "RkAccEq": false,
+          "RkAccPo": 3,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "16.80",
+          "Diff": "-1.89",
+          "LegResult": "",
+          "AcumulatedResult": "16.80",
+          "AcumulatedDiff": "-2.60",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "Discard",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Order",
+              "Pos": 0,
+              "Value": "3",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Wind",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Category": "MAIN",
+          "Distance": "4",
+          "Rk": "1",
+          "RkEq": false,
+          "RkPo": 1,
+          "RkAcc": "3",
+          "RkAccEq": false,
+          "RkAccPo": 3,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "17.17",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "17.17",
+          "AcumulatedDiff": "-2.23",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Order",
+              "Pos": 0,
+              "Value": "4",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Wind",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Category": "MAIN",
+          "Distance": "5",
+          "Rk": "1",
+          "RkEq": false,
+          "RkPo": 1,
+          "RkAcc": "3",
+          "RkAccEq": false,
+          "RkAccPo": 3,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "16.75",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "17.17",
+          "AcumulatedDiff": "-2.23",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "Discard",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Order",
+              "Pos": 0,
+              "Value": "5",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Wind",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Category": "MAIN",
+          "Distance": "6",
+          "Rk": "5",
+          "RkEq": false,
+          "RkPo": 5,
+          "RkAcc": "3",
+          "RkAccEq": false,
+          "RkAccPo": 3,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "X",
+          "Diff": "-17.94",
+          "LegResult": "",
+          "AcumulatedResult": "17.17",
+          "AcumulatedDiff": "-2.23",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "Discard",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Order",
+              "Pos": 0,
+              "Value": "6",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Wind",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_BRONZE"
+    },
+    {
+      "Reg": "16730641",
+      "Bib": "491",
+      "Org": "KOR",
+      "StartOrder": "7",
+      "StartSortOrder": 7,
+      "Rk": "4",
+      "RkEq": false,
+      "RkPo": 4,
+      "WLT": "",
+      "Result": "16.78",
+      "ResDetail": "16.78",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "7",
+      "Seed": "7",
+      "Diff": "-2.62",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Age",
+          "Pos": 0,
+          "Value": "28",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ArticlesCode",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ArticlesDesc",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ArticlesFederation",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ChangeNumber",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "CurrentSplit",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "DisplayPhRk",
+          "Pos": 0,
+          "Value": "4",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "DisplayPhRkPo",
+          "Pos": 0,
+          "Value": "4",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "FS",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "HasPB",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "HasSB",
+          "Pos": 0,
+          "Value": "SB",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "HeatRank",
+          "Pos": 0,
+          "Value": "4",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "HeatRankPo",
+          "Pos": 0,
+          "Value": "4",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Height",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "IsHighJumpCurrent",
+          "Pos": 0,
+          "Value": "N",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "L",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "LaneGroupAllocation",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "LastSplitResult",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "MovedToHeat",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "MovedToHeatDesc",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "MovedToLane",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "NewOrder1",
+          "Pos": 0,
+          "Value": "5",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "NewOrder2",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "NewOrder3",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PB",
+          "Pos": 0,
+          "Value": "17.12",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevBestRec",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevHeatRank",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevHeatRankPo",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevPB",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevQualified",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevRank",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevRankPo",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevRecInd",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevRegister",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevResult",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevSB",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "QualificationType",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "RB",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "RC",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Reaction",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "RedCards",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "SB",
+          "Pos": 0,
+          "Value": "16.51",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "TeamXCtry",
+          "Pos": 0,
+          "Value": "N",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "TV_RedCards",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "UnitResults",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "WalkWarnings",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Wind",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "WR",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "YC",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "YRC",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "MemberServer",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "Server",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        }
+      ],
+      "Name": "JEONG Yu Sun",
+      "NameS": "JEONG Y",
+      "OrgDesc": "Republic of Korea",
+      "Splits": [
+        {
+          "Category": "MAIN",
+          "Distance": "1",
+          "Rk": "4",
+          "RkEq": false,
+          "RkPo": 4,
+          "RkAcc": "4",
+          "RkAccEq": false,
+          "RkAccPo": 4,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "16.52",
+          "Diff": "-2.56",
+          "LegResult": "",
+          "AcumulatedResult": "16.52",
+          "AcumulatedDiff": "-2.56",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "Discard",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Order",
+              "Pos": 0,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Wind",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Category": "MAIN",
+          "Distance": "2",
+          "Rk": "5",
+          "RkEq": false,
+          "RkPo": 5,
+          "RkAcc": "4",
+          "RkAccEq": false,
+          "RkAccPo": 4,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "16.29",
+          "Diff": "-3.11",
+          "LegResult": "",
+          "AcumulatedResult": "16.52",
+          "AcumulatedDiff": "-2.88",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "Discard",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Order",
+              "Pos": 0,
+              "Value": "2",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Wind",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Category": "MAIN",
+          "Distance": "3",
+          "Rk": "3",
+          "RkEq": false,
+          "RkPo": 3,
+          "RkAcc": "4",
+          "RkAccEq": false,
+          "RkAccPo": 4,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "16.60",
+          "Diff": "-2.09",
+          "LegResult": "",
+          "AcumulatedResult": "16.60",
+          "AcumulatedDiff": "-2.80",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "Discard",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Order",
+              "Pos": 0,
+              "Value": "3",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Wind",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Category": "MAIN",
+          "Distance": "4",
+          "Rk": "2",
+          "RkEq": false,
+          "RkPo": 2,
+          "RkAcc": "4",
+          "RkAccEq": false,
+          "RkAccPo": 4,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "16.78",
+          "Diff": "-0.39",
+          "LegResult": "",
+          "AcumulatedResult": "16.78",
+          "AcumulatedDiff": "-2.62",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Order",
+              "Pos": 0,
+              "Value": "4",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Wind",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Category": "MAIN",
+          "Distance": "5",
+          "Rk": "2",
+          "RkEq": false,
+          "RkPo": 2,
+          "RkAcc": "4",
+          "RkAccEq": false,
+          "RkAccPo": 4,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "16.43",
+          "Diff": "-0.32",
+          "LegResult": "",
+          "AcumulatedResult": "16.78",
+          "AcumulatedDiff": "-2.62",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "Discard",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Order",
+              "Pos": 0,
+              "Value": "5",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Wind",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Category": "MAIN",
+          "Distance": "6",
+          "Rk": "5",
+          "RkEq": false,
+          "RkPo": 7,
+          "RkAcc": "4",
+          "RkAccEq": false,
+          "RkAccPo": 4,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "X",
+          "Diff": "-17.94",
+          "LegResult": "",
+          "AcumulatedResult": "16.78",
+          "AcumulatedDiff": "-2.62",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "Discard",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Order",
+              "Pos": 0,
+              "Value": "6",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Wind",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": ""
+    },
+    {
+      "Reg": "10231555",
+      "Bib": "342",
+      "Org": "IND",
+      "StartOrder": "5",
+      "StartSortOrder": 5,
+      "Rk": "5",
+      "RkEq": false,
+      "RkPo": 5,
+      "WLT": "",
+      "Result": "16.57",
+      "ResDetail": "16.57",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "5",
+      "Seed": "5",
+      "Diff": "-2.83",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Age",
+          "Pos": 0,
+          "Value": "23",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ArticlesCode",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ArticlesDesc",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ArticlesFederation",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ChangeNumber",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "CurrentSplit",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "DisplayPhRk",
+          "Pos": 0,
+          "Value": "5",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "DisplayPhRkPo",
+          "Pos": 0,
+          "Value": "5",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "FS",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "HasPB",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "HasSB",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "HeatRank",
+          "Pos": 0,
+          "Value": "5",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "HeatRankPo",
+          "Pos": 0,
+          "Value": "5",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Height",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "IsHighJumpCurrent",
+          "Pos": 0,
+          "Value": "N",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "L",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "LaneGroupAllocation",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "LastSplitResult",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "MovedToHeat",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "MovedToHeatDesc",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "MovedToLane",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "NewOrder1",
+          "Pos": 0,
+          "Value": "4",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "NewOrder2",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "NewOrder3",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PB",
+          "Pos": 0,
+          "Value": "17.35 ",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevBestRec",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevHeatRank",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevHeatRankPo",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevPB",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevQualified",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevRank",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevRankPo",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevRecInd",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevRegister",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevResult",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevSB",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "QualificationType",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "RB",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "RC",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Reaction",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "RedCards",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "SB",
+          "Pos": 0,
+          "Value": "17.35 ",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "TeamXCtry",
+          "Pos": 0,
+          "Value": "N",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "TV_RedCards",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "UnitResults",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "WalkWarnings",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Wind",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "WR",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "YC",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "YRC",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "MemberServer",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "Server",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        }
+      ],
+      "Name": "JAYASANKAR MENON Krishna",
+      "NameS": "JAYASANKAR K",
+      "OrgDesc": "India",
+      "Splits": [
+        {
+          "Category": "MAIN",
+          "Distance": "1",
+          "Rk": "3",
+          "RkEq": false,
+          "RkPo": 3,
+          "RkAcc": "3",
+          "RkAccEq": false,
+          "RkAccPo": 3,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "16.57",
+          "Diff": "-2.51",
+          "LegResult": "",
+          "AcumulatedResult": "16.57",
+          "AcumulatedDiff": "-2.51",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Order",
+              "Pos": 0,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Wind",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Category": "MAIN",
+          "Distance": "2",
+          "Rk": "3",
+          "RkEq": false,
+          "RkPo": 3,
+          "RkAcc": "3",
+          "RkAccEq": false,
+          "RkAccPo": 3,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "16.51",
+          "Diff": "-2.89",
+          "LegResult": "",
+          "AcumulatedResult": "16.57",
+          "AcumulatedDiff": "-2.83",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "Discard",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Order",
+              "Pos": 0,
+              "Value": "2",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Wind",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Category": "MAIN",
+          "Distance": "3",
+          "Rk": "4",
+          "RkEq": false,
+          "RkPo": 4,
+          "RkAcc": "5",
+          "RkAccEq": false,
+          "RkAccPo": 5,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "15.94",
+          "Diff": "-2.75",
+          "LegResult": "",
+          "AcumulatedResult": "16.57",
+          "AcumulatedDiff": "-2.83",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "Discard",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Order",
+              "Pos": 0,
+              "Value": "3",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Wind",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Category": "MAIN",
+          "Distance": "4",
+          "Rk": "4",
+          "RkEq": false,
+          "RkPo": 4,
+          "RkAcc": "5",
+          "RkAccEq": false,
+          "RkAccPo": 5,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "16.16",
+          "Diff": "-1.01",
+          "LegResult": "",
+          "AcumulatedResult": "16.57",
+          "AcumulatedDiff": "-2.83",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "Discard",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Order",
+              "Pos": 0,
+              "Value": "4",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Wind",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Category": "MAIN",
+          "Distance": "5",
+          "Rk": "4",
+          "RkEq": false,
+          "RkPo": 4,
+          "RkAcc": "5",
+          "RkAccEq": false,
+          "RkAccPo": 5,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "X",
+          "Diff": "-16.76",
+          "LegResult": "",
+          "AcumulatedResult": "16.57",
+          "AcumulatedDiff": "-2.83",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "Discard",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Order",
+              "Pos": 0,
+              "Value": "5",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Wind",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Category": "MAIN",
+          "Distance": "6",
+          "Rk": "3",
+          "RkEq": false,
+          "RkPo": 3,
+          "RkAcc": "5",
+          "RkAccEq": false,
+          "RkAccPo": 5,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "14.97",
+          "Diff": "-2.96",
+          "LegResult": "",
+          "AcumulatedResult": "16.57",
+          "AcumulatedDiff": "-2.83",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "Discard",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Order",
+              "Pos": 0,
+              "Value": "6",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Wind",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": ""
+    },
+    {
+      "Reg": "5070298",
+      "Bib": "708",
+      "Org": "TPE",
+      "StartOrder": "4",
+      "StartSortOrder": 4,
+      "Rk": "6",
+      "RkEq": false,
+      "RkPo": 6,
+      "WLT": "",
+      "Result": "16.36",
+      "ResDetail": "16.36",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "4",
+      "Seed": "4",
+      "Diff": "-3.04",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Age",
+          "Pos": 0,
+          "Value": "19",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ArticlesCode",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ArticlesDesc",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ArticlesFederation",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ChangeNumber",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "CurrentSplit",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "DisplayPhRk",
+          "Pos": 0,
+          "Value": "6",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "DisplayPhRkPo",
+          "Pos": 0,
+          "Value": "6",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "FS",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "HasPB",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "HasSB",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "HeatRank",
+          "Pos": 0,
+          "Value": "6",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "HeatRankPo",
+          "Pos": 0,
+          "Value": "6",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Height",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "IsHighJumpCurrent",
+          "Pos": 0,
+          "Value": "N",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "L",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "LaneGroupAllocation",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "LastSplitResult",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "MovedToHeat",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "MovedToHeatDesc",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "MovedToLane",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "NewOrder1",
+          "Pos": 0,
+          "Value": "2",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "NewOrder2",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "NewOrder3",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PB",
+          "Pos": 0,
+          "Value": "18.08",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevBestRec",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevHeatRank",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevHeatRankPo",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevPB",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevQualified",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevRank",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevRankPo",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevRecInd",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevRegister",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevResult",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevSB",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "QualificationType",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "RB",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "RC",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Reaction",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "RedCards",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "SB",
+          "Pos": 0,
+          "Value": "17.39",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "TeamXCtry",
+          "Pos": 0,
+          "Value": "N",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "TV_RedCards",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "UnitResults",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "WalkWarnings",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Wind",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "WR",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "YC",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "YRC",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "MemberServer",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "Server",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        }
+      ],
+      "Name": "CHIANG Ching-yuan",
+      "NameS": "CHIANG C",
+      "OrgDesc": "Chinese Taipei",
+      "Splits": [
+        {
+          "Category": "MAIN",
+          "Distance": "1",
+          "Rk": "8",
+          "RkEq": false,
+          "RkPo": 8,
+          "RkAcc": "8",
+          "RkAccEq": false,
+          "RkAccPo": 8,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "X",
+          "Diff": "-19.09",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "Discard",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Order",
+              "Pos": 0,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Wind",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Category": "MAIN",
+          "Distance": "2",
+          "Rk": "6",
+          "RkEq": false,
+          "RkPo": 6,
+          "RkAcc": "7",
+          "RkAccEq": false,
+          "RkAccPo": 7,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "15.66",
+          "Diff": "-3.74",
+          "LegResult": "",
+          "AcumulatedResult": "15.66",
+          "AcumulatedDiff": "-3.74",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "Discard",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Order",
+              "Pos": 0,
+              "Value": "2",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Wind",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Category": "MAIN",
+          "Distance": "3",
+          "Rk": "5",
+          "RkEq": false,
+          "RkPo": 5,
+          "RkAcc": "7",
+          "RkAccEq": false,
+          "RkAccPo": 7,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "15.22",
+          "Diff": "-3.47",
+          "LegResult": "",
+          "AcumulatedResult": "15.66",
+          "AcumulatedDiff": "-3.74",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "Discard",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Order",
+              "Pos": 0,
+              "Value": "3",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Wind",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Category": "MAIN",
+          "Distance": "4",
+          "Rk": "3",
+          "RkEq": false,
+          "RkPo": 3,
+          "RkAcc": "6",
+          "RkAccEq": false,
+          "RkAccPo": 6,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "16.36",
+          "Diff": "-0.81",
+          "LegResult": "",
+          "AcumulatedResult": "16.36",
+          "AcumulatedDiff": "-3.04",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Order",
+              "Pos": 0,
+              "Value": "4",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Wind",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Category": "MAIN",
+          "Distance": "5",
+          "Rk": "3",
+          "RkEq": false,
+          "RkPo": 3,
+          "RkAcc": "6",
+          "RkAccEq": false,
+          "RkAccPo": 6,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "16.27",
+          "Diff": "-0.48",
+          "LegResult": "",
+          "AcumulatedResult": "16.36",
+          "AcumulatedDiff": "-3.04",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "Discard",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Order",
+              "Pos": 0,
+              "Value": "5",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Wind",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Category": "MAIN",
+          "Distance": "6",
+          "Rk": "2",
+          "RkEq": false,
+          "RkPo": 2,
+          "RkAcc": "6",
+          "RkAccEq": false,
+          "RkAccPo": 6,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "16.06",
+          "Diff": "-1.87",
+          "LegResult": "",
+          "AcumulatedResult": "16.36",
+          "AcumulatedDiff": "-3.04",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "Discard",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Order",
+              "Pos": 0,
+              "Value": "6",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Wind",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": ""
+    },
+    {
+      "Reg": "5093083",
+      "Bib": "715",
+      "Org": "TPE",
+      "StartOrder": "6",
+      "StartSortOrder": 6,
+      "Rk": "7",
+      "RkEq": false,
+      "RkPo": 7,
+      "WLT": "",
+      "Result": "16.05",
+      "ResDetail": "16.05",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "6",
+      "Seed": "6",
+      "Diff": "-3.35",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Age",
+          "Pos": 0,
+          "Value": "25",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ArticlesCode",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ArticlesDesc",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ArticlesFederation",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ChangeNumber",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "CurrentSplit",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "DisplayPhRk",
+          "Pos": 0,
+          "Value": "7",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "DisplayPhRkPo",
+          "Pos": 0,
+          "Value": "7",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "FS",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "HasPB",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "HasSB",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "HeatRank",
+          "Pos": 0,
+          "Value": "7",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "HeatRankPo",
+          "Pos": 0,
+          "Value": "7",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Height",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "IsHighJumpCurrent",
+          "Pos": 0,
+          "Value": "N",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "L",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "LaneGroupAllocation",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "LastSplitResult",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "MovedToHeat",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "MovedToHeatDesc",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "MovedToLane",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "NewOrder1",
+          "Pos": 0,
+          "Value": "3",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "NewOrder2",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "NewOrder3",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PB",
+          "Pos": 0,
+          "Value": "16.67",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevBestRec",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevHeatRank",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevHeatRankPo",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevPB",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevQualified",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevRank",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevRankPo",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevRecInd",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevRegister",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevResult",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevSB",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "QualificationType",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "RB",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "RC",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Reaction",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "RedCards",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "SB",
+          "Pos": 0,
+          "Value": "16.54",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "TeamXCtry",
+          "Pos": 0,
+          "Value": "N",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "TV_RedCards",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "UnitResults",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "WalkWarnings",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Wind",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "WR",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "YC",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "YRC",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "MemberServer",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "Server",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        }
+      ],
+      "Name": "WU Ci-en",
+      "NameS": "WU C",
+      "OrgDesc": "Chinese Taipei",
+      "Splits": [
+        {
+          "Category": "MAIN",
+          "Distance": "1",
+          "Rk": "6",
+          "RkEq": false,
+          "RkPo": 6,
+          "RkAcc": "6",
+          "RkAccEq": false,
+          "RkAccPo": 6,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "16.05",
+          "Diff": "-3.03",
+          "LegResult": "",
+          "AcumulatedResult": "16.05",
+          "AcumulatedDiff": "-3.03",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Order",
+              "Pos": 0,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Wind",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Category": "MAIN",
+          "Distance": "2",
+          "Rk": "8",
+          "RkEq": false,
+          "RkPo": 8,
+          "RkAcc": "6",
+          "RkAccEq": false,
+          "RkAccPo": 6,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "X",
+          "Diff": "-19.41",
+          "LegResult": "",
+          "AcumulatedResult": "16.05",
+          "AcumulatedDiff": "-3.35",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "Discard",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Order",
+              "Pos": 0,
+              "Value": "2",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Wind",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Category": "MAIN",
+          "Distance": "3",
+          "Rk": "7",
+          "RkEq": false,
+          "RkPo": 8,
+          "RkAcc": "6",
+          "RkAccEq": false,
+          "RkAccPo": 6,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "X",
+          "Diff": "-18.70",
+          "LegResult": "",
+          "AcumulatedResult": "16.05",
+          "AcumulatedDiff": "-3.35",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "Discard",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Order",
+              "Pos": 0,
+              "Value": "3",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Wind",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Category": "MAIN",
+          "Distance": "4",
+          "Rk": "6",
+          "RkEq": false,
+          "RkPo": 8,
+          "RkAcc": "7",
+          "RkAccEq": false,
+          "RkAccPo": 7,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "X",
+          "Diff": "-17.18",
+          "LegResult": "",
+          "AcumulatedResult": "16.05",
+          "AcumulatedDiff": "-3.35",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "Discard",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Order",
+              "Pos": 0,
+              "Value": "4",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Wind",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Category": "MAIN",
+          "Distance": "5",
+          "Rk": "4",
+          "RkEq": false,
+          "RkPo": 8,
+          "RkAcc": "7",
+          "RkAccEq": false,
+          "RkAccPo": 7,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "X",
+          "Diff": "-16.76",
+          "LegResult": "",
+          "AcumulatedResult": "16.05",
+          "AcumulatedDiff": "-3.35",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "Discard",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Order",
+              "Pos": 0,
+              "Value": "5",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Wind",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Category": "MAIN",
+          "Distance": "6",
+          "Rk": "5",
+          "RkEq": false,
+          "RkPo": 8,
+          "RkAcc": "7",
+          "RkAccEq": false,
+          "RkAccPo": 7,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "X",
+          "Diff": "-17.94",
+          "LegResult": "",
+          "AcumulatedResult": "16.05",
+          "AcumulatedDiff": "-3.35",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "Discard",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Order",
+              "Pos": 0,
+              "Value": "6",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Wind",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": ""
+    },
+    {
+      "Reg": "1398378",
+      "Bib": "541",
+      "Org": "MAS",
+      "StartOrder": "8",
+      "StartSortOrder": 8,
+      "Rk": "8",
+      "RkEq": false,
+      "RkPo": 8,
+      "WLT": "",
+      "Result": "15.07",
+      "ResDetail": "15.07",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "8",
+      "Seed": "8",
+      "Diff": "-4.33",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Age",
+          "Pos": 0,
+          "Value": "25",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ArticlesCode",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ArticlesDesc",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ArticlesFederation",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ChangeNumber",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "CurrentSplit",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "DisplayPhRk",
+          "Pos": 0,
+          "Value": "8",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "DisplayPhRkPo",
+          "Pos": 0,
+          "Value": "8",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "FS",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "HasPB",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "HasSB",
+          "Pos": 0,
+          "Value": "SB",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "HeatRank",
+          "Pos": 0,
+          "Value": "8",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "HeatRankPo",
+          "Pos": 0,
+          "Value": "8",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Height",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "IsHighJumpCurrent",
+          "Pos": 0,
+          "Value": "N",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "L",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "LaneGroupAllocation",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "LastSplitResult",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "MovedToHeat",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "MovedToHeatDesc",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "MovedToLane",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "NewOrder1",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "NewOrder2",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "NewOrder3",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PB",
+          "Pos": 0,
+          "Value": "16.36",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevBestRec",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevHeatRank",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevHeatRankPo",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevPB",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevQualified",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevRank",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevRankPo",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevRecInd",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevRegister",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevResult",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PrevSB",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "QualificationType",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "RB",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "RC",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Reaction",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "RedCards",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "SB",
+          "Pos": 0,
+          "Value": "14.83",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "TeamXCtry",
+          "Pos": 0,
+          "Value": "N",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "TV_RedCards",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "UnitResults",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "WalkWarnings",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Wind",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "WR",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "YC",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "YRC",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "MemberServer",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "Server",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        }
+      ],
+      "Name": "MARYATA Nani Sahirah",
+      "NameS": "MARYATA NS",
+      "OrgDesc": "Malaysia",
+      "Splits": [
+        {
+          "Category": "MAIN",
+          "Distance": "1",
+          "Rk": "7",
+          "RkEq": false,
+          "RkPo": 7,
+          "RkAcc": "7",
+          "RkAccEq": false,
+          "RkAccPo": 7,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "15.07",
+          "Diff": "-4.01",
+          "LegResult": "",
+          "AcumulatedResult": "15.07",
+          "AcumulatedDiff": "-4.01",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "true",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Order",
+              "Pos": 0,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Wind",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Category": "MAIN",
+          "Distance": "2",
+          "Rk": "7",
+          "RkEq": false,
+          "RkPo": 7,
+          "RkAcc": "8",
+          "RkAccEq": false,
+          "RkAccPo": 8,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "14.94",
+          "Diff": "-4.46",
+          "LegResult": "",
+          "AcumulatedResult": "15.07",
+          "AcumulatedDiff": "-4.33",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "Discard",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Order",
+              "Pos": 0,
+              "Value": "2",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Wind",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Category": "MAIN",
+          "Distance": "3",
+          "Rk": "6",
+          "RkEq": false,
+          "RkPo": 6,
+          "RkAcc": "8",
+          "RkAccEq": false,
+          "RkAccPo": 8,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "14.87",
+          "Diff": "-3.82",
+          "LegResult": "",
+          "AcumulatedResult": "15.07",
+          "AcumulatedDiff": "-4.33",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "Discard",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Order",
+              "Pos": 0,
+              "Value": "3",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Wind",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Category": "MAIN",
+          "Distance": "4",
+          "Rk": "5",
+          "RkEq": false,
+          "RkPo": 5,
+          "RkAcc": "8",
+          "RkAccEq": false,
+          "RkAccPo": 8,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "14.67",
+          "Diff": "-2.50",
+          "LegResult": "",
+          "AcumulatedResult": "15.07",
+          "AcumulatedDiff": "-4.33",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "Discard",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Order",
+              "Pos": 0,
+              "Value": "4",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Wind",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Category": "MAIN",
+          "Distance": "5",
+          "Rk": "4",
+          "RkEq": false,
+          "RkPo": 5,
+          "RkAcc": "8",
+          "RkAccEq": false,
+          "RkAccPo": 8,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "X",
+          "Diff": "-16.76",
+          "LegResult": "",
+          "AcumulatedResult": "15.07",
+          "AcumulatedDiff": "-4.33",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "Discard",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Order",
+              "Pos": 0,
+              "Value": "5",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Wind",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Category": "MAIN",
+          "Distance": "6",
+          "Rk": "4",
+          "RkEq": false,
+          "RkPo": 4,
+          "RkAcc": "8",
+          "RkAccEq": false,
+          "RkAccPo": 8,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "13.96",
+          "Diff": "-3.97",
+          "LegResult": "",
+          "AcumulatedResult": "15.07",
+          "AcumulatedDiff": "-4.33",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "Discard",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Order",
+              "Pos": 0,
+              "Value": "6",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Wind",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": ""
+    }
+  ],
+  "Legends": {
+    "records": [
+      {
+        "Desc": "legends.ATH.SB",
+        "DescS": "SB"
+      }
+    ],
+    "irms": [],
+    "qs": []
+  }
+}
