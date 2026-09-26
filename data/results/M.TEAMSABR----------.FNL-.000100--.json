@@ -1,1 +1,2062 @@
-null
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "FEN",
+    "DiscDesc": "Fencing",
+    "Key": "M.TEAMSABR----------.FNL-.000100--",
+    "isH2H": true,
+    "Type": "T",
+    "Medal": "1",
+    "Status": "OFFICIAL",
+    "StatusDesc": "Official",
+    "DateTimeRaw": "2026-09-26T18:20:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "Followed by",
+    "HideLocation": false,
+    "Venue": "SKEF",
+    "VenueDesc": "Aichi Sky Expo Hall F",
+    "VenueDescS": "Aichi Sky Expo Hall F",
+    "Loc": "FEF",
+    "LocDesc": "Podium",
+    "LocDescS": "Podium",
+    "Event": "M.TEAMSABR----------",
+    "EventDesc": "Men's Sabre Team",
+    "Phase": "M.TEAMSABR----------.FNL-",
+    "PhaseOrder": 4,
+    "PhaseDesc": "Men's Sabre Team Finals",
+    "PhaseDescS": "Men's Sabre Team Finals",
+    "PhaseDescA": "Finals",
+    "UnitDesc": "Men's Sabre Team - Finals - Gold Medal Match",
+    "UnitDescS": "Men's Sabre Team - Finals - Gold Medal Match",
+    "UnitDescA": "Gold Medal Match",
+    "UnitNum": "9999",
+    "IsLive": false,
+    "ShowResults": true,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "45 - 44",
+    "ResDetail": "V45 - D44",
+    "Duration": "",
+    "CurrentPeriod": 9,
+    "Current": "",
+    "Last": "",
+    "Extensions": [
+      {
+        "Type": "UNIT_INFO",
+        "Code": "InfoMatch",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "InfoTeam",
+        "Pos": 0,
+        "Value": "1",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "ServerHomeAway",
+        "Pos": 0,
+        "Value": "",
+        "Extensions": []
+      }
+    ],
+    "Periods": [
+      {
+        "Order": 1,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "5",
+        "ResAway": "3",
+        "TotHome": "5",
+        "TotAway": "3",
+        "Extensions": [
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayFencer",
+            "Pos": 0,
+            "Value": "10703005",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayFencerTVName",
+            "Pos": 0,
+            "Value": "KOKUBO M.",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwaySeq",
+            "Pos": 0,
+            "Value": "3",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenFencer",
+            "Pos": 0,
+            "Value": "7769119",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenFencerTVName",
+            "Pos": 0,
+            "Value": "PARK S",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeFencer",
+            "Pos": 0,
+            "Value": "7769119",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeFencerTVName",
+            "Pos": 0,
+            "Value": "PARK S",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeSeq",
+            "Pos": 0,
+            "Value": "6",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "Overtime",
+            "Pos": 0,
+            "Value": "false",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedFencer",
+            "Pos": 0,
+            "Value": "10703005",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedFencerTVName",
+            "Pos": 0,
+            "Value": "KOKUBO M.",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ResGreen",
+            "Pos": 0,
+            "Value": "5",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ResRed",
+            "Pos": 0,
+            "Value": "3",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "TotGreen",
+            "Pos": 0,
+            "Value": "5",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "TotRed",
+            "Pos": 0,
+            "Value": "3",
+            "Extensions": []
+          }
+        ],
+        "Desc": "Relay 1",
+        "DescS": "Relay 1"
+      },
+      {
+        "Order": 2,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "5",
+        "ResAway": "3",
+        "TotHome": "10",
+        "TotAway": "6",
+        "Extensions": [
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayFencer",
+            "Pos": 0,
+            "Value": "10705057",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayFencerTVName",
+            "Pos": 0,
+            "Value": "YOSHIDA K.",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwaySeq",
+            "Pos": 0,
+            "Value": "1",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenFencer",
+            "Pos": 0,
+            "Value": "7769284",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenFencerTVName",
+            "Pos": 0,
+            "Value": "OH S",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeFencer",
+            "Pos": 0,
+            "Value": "7769284",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeFencerTVName",
+            "Pos": 0,
+            "Value": "OH S",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeSeq",
+            "Pos": 0,
+            "Value": "5",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "Overtime",
+            "Pos": 0,
+            "Value": "false",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedFencer",
+            "Pos": 0,
+            "Value": "10705057",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedFencerTVName",
+            "Pos": 0,
+            "Value": "YOSHIDA K.",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ResGreen",
+            "Pos": 0,
+            "Value": "5",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ResRed",
+            "Pos": 0,
+            "Value": "3",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "TotGreen",
+            "Pos": 0,
+            "Value": "10",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "TotRed",
+            "Pos": 0,
+            "Value": "6",
+            "Extensions": []
+          }
+        ],
+        "Desc": "Relay 2",
+        "DescS": "Relay 2"
+      },
+      {
+        "Order": 3,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "5",
+        "ResAway": "2",
+        "TotHome": "15",
+        "TotAway": "8",
+        "Extensions": [
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayFencer",
+            "Pos": 0,
+            "Value": "10703447",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayFencerTVName",
+            "Pos": 0,
+            "Value": "TSUBO H.",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwaySeq",
+            "Pos": 0,
+            "Value": "2",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenFencer",
+            "Pos": 0,
+            "Value": "7768550",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenFencerTVName",
+            "Pos": 0,
+            "Value": "DO G",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeFencer",
+            "Pos": 0,
+            "Value": "7768550",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeFencerTVName",
+            "Pos": 0,
+            "Value": "DO G",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeSeq",
+            "Pos": 0,
+            "Value": "4",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "Overtime",
+            "Pos": 0,
+            "Value": "false",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedFencer",
+            "Pos": 0,
+            "Value": "10703447",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedFencerTVName",
+            "Pos": 0,
+            "Value": "TSUBO H.",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ResGreen",
+            "Pos": 0,
+            "Value": "5",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ResRed",
+            "Pos": 0,
+            "Value": "2",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "TotGreen",
+            "Pos": 0,
+            "Value": "15",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "TotRed",
+            "Pos": 0,
+            "Value": "8",
+            "Extensions": []
+          }
+        ],
+        "Desc": "Relay 3",
+        "DescS": "Relay 3"
+      },
+      {
+        "Order": 4,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "5",
+        "ResAway": "8",
+        "TotHome": "20",
+        "TotAway": "16",
+        "Extensions": [
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayFencer",
+            "Pos": 0,
+            "Value": "10705057",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayFencerTVName",
+            "Pos": 0,
+            "Value": "YOSHIDA K.",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwaySeq",
+            "Pos": 0,
+            "Value": "1",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenFencer",
+            "Pos": 0,
+            "Value": "7769119",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenFencerTVName",
+            "Pos": 0,
+            "Value": "PARK S",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeFencer",
+            "Pos": 0,
+            "Value": "7769119",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeFencerTVName",
+            "Pos": 0,
+            "Value": "PARK S",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeSeq",
+            "Pos": 0,
+            "Value": "6",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "Overtime",
+            "Pos": 0,
+            "Value": "false",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedFencer",
+            "Pos": 0,
+            "Value": "10705057",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedFencerTVName",
+            "Pos": 0,
+            "Value": "YOSHIDA K.",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ResGreen",
+            "Pos": 0,
+            "Value": "5",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ResRed",
+            "Pos": 0,
+            "Value": "8",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "TotGreen",
+            "Pos": 0,
+            "Value": "20",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "TotRed",
+            "Pos": 0,
+            "Value": "16",
+            "Extensions": []
+          }
+        ],
+        "Desc": "Relay 4",
+        "DescS": "Relay 4"
+      },
+      {
+        "Order": 5,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "5",
+        "ResAway": "5",
+        "TotHome": "25",
+        "TotAway": "21",
+        "Extensions": [
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayFencer",
+            "Pos": 0,
+            "Value": "10703005",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayFencerTVName",
+            "Pos": 0,
+            "Value": "KOKUBO M.",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwaySeq",
+            "Pos": 0,
+            "Value": "3",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenFencer",
+            "Pos": 0,
+            "Value": "7768550",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenFencerTVName",
+            "Pos": 0,
+            "Value": "DO G",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeFencer",
+            "Pos": 0,
+            "Value": "7768550",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeFencerTVName",
+            "Pos": 0,
+            "Value": "DO G",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeSeq",
+            "Pos": 0,
+            "Value": "4",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "Overtime",
+            "Pos": 0,
+            "Value": "false",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedFencer",
+            "Pos": 0,
+            "Value": "10703005",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedFencerTVName",
+            "Pos": 0,
+            "Value": "KOKUBO M.",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ResGreen",
+            "Pos": 0,
+            "Value": "5",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ResRed",
+            "Pos": 0,
+            "Value": "5",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "TotGreen",
+            "Pos": 0,
+            "Value": "25",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "TotRed",
+            "Pos": 0,
+            "Value": "21",
+            "Extensions": []
+          }
+        ],
+        "Desc": "Relay 5",
+        "DescS": "Relay 5"
+      },
+      {
+        "Order": 6,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "5",
+        "ResAway": "5",
+        "TotHome": "30",
+        "TotAway": "26",
+        "Extensions": [
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayFencer",
+            "Pos": 0,
+            "Value": "10703447",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayFencerTVName",
+            "Pos": 0,
+            "Value": "TSUBO H.",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwaySeq",
+            "Pos": 0,
+            "Value": "2",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenFencer",
+            "Pos": 0,
+            "Value": "7769284",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenFencerTVName",
+            "Pos": 0,
+            "Value": "OH S",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeFencer",
+            "Pos": 0,
+            "Value": "7769284",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeFencerTVName",
+            "Pos": 0,
+            "Value": "OH S",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeSeq",
+            "Pos": 0,
+            "Value": "5",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "Overtime",
+            "Pos": 0,
+            "Value": "false",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedFencer",
+            "Pos": 0,
+            "Value": "10703447",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedFencerTVName",
+            "Pos": 0,
+            "Value": "TSUBO H.",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ResGreen",
+            "Pos": 0,
+            "Value": "5",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ResRed",
+            "Pos": 0,
+            "Value": "5",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "TotGreen",
+            "Pos": 0,
+            "Value": "30",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "TotRed",
+            "Pos": 0,
+            "Value": "26",
+            "Extensions": []
+          }
+        ],
+        "Desc": "Relay 6",
+        "DescS": "Relay 6"
+      },
+      {
+        "Order": 7,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "2",
+        "ResAway": "9",
+        "TotHome": "32",
+        "TotAway": "35",
+        "Extensions": [
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayFencer",
+            "Pos": 0,
+            "Value": "10705057",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayFencerTVName",
+            "Pos": 0,
+            "Value": "YOSHIDA K.",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwaySeq",
+            "Pos": 0,
+            "Value": "1",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenFencer",
+            "Pos": 0,
+            "Value": "7768550",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenFencerTVName",
+            "Pos": 0,
+            "Value": "DO G",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeFencer",
+            "Pos": 0,
+            "Value": "7768550",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeFencerTVName",
+            "Pos": 0,
+            "Value": "DO G",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeSeq",
+            "Pos": 0,
+            "Value": "4",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "Overtime",
+            "Pos": 0,
+            "Value": "false",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedFencer",
+            "Pos": 0,
+            "Value": "10705057",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedFencerTVName",
+            "Pos": 0,
+            "Value": "YOSHIDA K.",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ResGreen",
+            "Pos": 0,
+            "Value": "2",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ResRed",
+            "Pos": 0,
+            "Value": "9",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "TotGreen",
+            "Pos": 0,
+            "Value": "32",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "TotRed",
+            "Pos": 0,
+            "Value": "35",
+            "Extensions": []
+          }
+        ],
+        "Desc": "Relay 7",
+        "DescS": "Relay 7"
+      },
+      {
+        "Order": 8,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "7",
+        "ResAway": "5",
+        "TotHome": "39",
+        "TotAway": "40",
+        "Extensions": [
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayFencer",
+            "Pos": 0,
+            "Value": "10703447",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayFencerTVName",
+            "Pos": 0,
+            "Value": "TSUBO H.",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwaySeq",
+            "Pos": 0,
+            "Value": "2",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenFencer",
+            "Pos": 0,
+            "Value": "7769119",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenFencerTVName",
+            "Pos": 0,
+            "Value": "PARK S",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeFencer",
+            "Pos": 0,
+            "Value": "7769119",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeFencerTVName",
+            "Pos": 0,
+            "Value": "PARK S",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeSeq",
+            "Pos": 0,
+            "Value": "6",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "Overtime",
+            "Pos": 0,
+            "Value": "false",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedFencer",
+            "Pos": 0,
+            "Value": "10703447",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedFencerTVName",
+            "Pos": 0,
+            "Value": "TSUBO H.",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ResGreen",
+            "Pos": 0,
+            "Value": "7",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ResRed",
+            "Pos": 0,
+            "Value": "5",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "TotGreen",
+            "Pos": 0,
+            "Value": "39",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "TotRed",
+            "Pos": 0,
+            "Value": "40",
+            "Extensions": []
+          }
+        ],
+        "Desc": "Relay 8",
+        "DescS": "Relay 8"
+      },
+      {
+        "Order": 9,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "6",
+        "ResAway": "4",
+        "TotHome": "45",
+        "TotAway": "44",
+        "Extensions": [
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayFencer",
+            "Pos": 0,
+            "Value": "10703005",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayFencerTVName",
+            "Pos": 0,
+            "Value": "KOKUBO M.",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwaySeq",
+            "Pos": 0,
+            "Value": "3",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenFencer",
+            "Pos": 0,
+            "Value": "7769284",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenFencerTVName",
+            "Pos": 0,
+            "Value": "OH S",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "GreenIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeFencer",
+            "Pos": 0,
+            "Value": "7769284",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeFencerTVName",
+            "Pos": 0,
+            "Value": "OH S",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeSeq",
+            "Pos": 0,
+            "Value": "5",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "Overtime",
+            "Pos": 0,
+            "Value": "false",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedFencer",
+            "Pos": 0,
+            "Value": "10703005",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedFencerTVName",
+            "Pos": 0,
+            "Value": "KOKUBO M.",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "RedIRM",
+            "Pos": 0,
+            "Value": "OK",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ResGreen",
+            "Pos": 0,
+            "Value": "6",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ResRed",
+            "Pos": 0,
+            "Value": "4",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "TotGreen",
+            "Pos": 0,
+            "Value": "45",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "TotRed",
+            "Pos": 0,
+            "Value": "44",
+            "Extensions": []
+          }
+        ],
+        "Desc": "Relay 9",
+        "DescS": "Relay 9"
+      }
+    ],
+    "Officials": [
+      {
+        "Reg": "509802",
+        "Org": "IRI",
+        "Order": 1,
+        "Function": "RE",
+        "Extensions": [],
+        "FuncOrder": "1",
+        "OrgDesc": "Islamic Republic of Iran",
+        "Name": "PEYKARARA Reza",
+        "NameS": "PEYKARARA R",
+        "FuncDesc": "Referee"
+      },
+      {
+        "Reg": "13218641",
+        "Org": "KAZ",
+        "Order": 2,
+        "Function": "RE",
+        "Extensions": [],
+        "FuncOrder": "1",
+        "OrgDesc": "Kazakhstan",
+        "Name": "TILENSHIYEV Yerali",
+        "NameS": "TILENSHIYEV Y",
+        "FuncDesc": "Referee"
+      },
+      {
+        "Reg": "2984305",
+        "Org": "VIE",
+        "Order": 3,
+        "Function": "AR",
+        "Extensions": [],
+        "FuncOrder": "2",
+        "OrgDesc": "Vietnam",
+        "Name": "NGUYEN Thi Tuoi",
+        "NameS": "NGUYEN Thi Tuoi",
+        "FuncDesc": "Assistant Referee"
+      },
+      {
+        "Reg": "15754905",
+        "Org": "PHI",
+        "Order": 4,
+        "Function": "AR",
+        "Extensions": [],
+        "FuncOrder": "2",
+        "OrgDesc": "Philippines",
+        "Name": "FUENZALIDA Richard",
+        "NameS": "FUENZALIDA R",
+        "FuncDesc": "Assistant Referee"
+      }
+    ],
+    "Paralympic": false
+  },
+  "Competitors": [
+    {
+      "Reg": "FENMTEAMSABR---KOR01",
+      "Bib": "",
+      "Org": "KOR",
+      "StartOrder": "1",
+      "StartSortOrder": 1,
+      "Rk": "1",
+      "RkEq": false,
+      "RkPo": 1,
+      "WLT": "W",
+      "Result": "45",
+      "ResDetail": "W45",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "Q",
+      "Lane": "",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Color",
+          "Pos": 0,
+          "Value": "2",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "LightOn",
+          "Pos": 0,
+          "Value": "N",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ResultType",
+          "Pos": 0,
+          "Value": "V",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "WhiteLightOn",
+          "Pos": 0,
+          "Value": "N",
+          "Extensions": []
+        }
+      ],
+      "Stats": {
+        "ST_pRED_CARDS": "",
+        "ST_pBLACK_CARDS": "",
+        "ST_YELLOW_CARDS": "2",
+        "ST_RED_CARDS": "",
+        "ST_BLACK_CARDS": ""
+      },
+      "Name": "Republic of Korea",
+      "NameS": "Korea",
+      "OrgDesc": "Republic of Korea",
+      "Splits": [
+        {
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "5",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "5",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        },
+        {
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "5",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "10",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        },
+        {
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "5",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "15",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        },
+        {
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "5",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "20",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        },
+        {
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "5",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "25",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        },
+        {
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "5",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "30",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        },
+        {
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "2",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "32",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        },
+        {
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "7",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "39",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        },
+        {
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "6",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "45",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_GOLD",
+      "Members": [
+        {
+          "Reg": "7771188",
+          "Org": "KOR",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Extensions": [],
+          "Gender": "M",
+          "Order": 0,
+          "Substitute": true,
+          "Result": "",
+          "Guides": [],
+          "Name": "HWANG Heegeun",
+          "NameS": "HWANG H",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "7768550",
+          "Org": "KOR",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Extensions": [],
+          "Gender": "M",
+          "Order": 4,
+          "Substitute": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "DO Gyeongdong",
+          "NameS": "DO G",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "7769284",
+          "Org": "KOR",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Extensions": [],
+          "Gender": "M",
+          "Order": 5,
+          "Substitute": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "OH Sanguk",
+          "NameS": "OH S",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "7769119",
+          "Org": "KOR",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Extensions": [],
+          "Gender": "M",
+          "Order": 6,
+          "Substitute": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "PARK Sangwon",
+          "NameS": "PARK S",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        }
+      ]
+    },
+    {
+      "Reg": "FENMTEAMSABR---JPN01",
+      "Bib": "",
+      "Org": "JPN",
+      "StartOrder": "2",
+      "StartSortOrder": 2,
+      "Rk": "2",
+      "RkEq": false,
+      "RkPo": 2,
+      "WLT": "L",
+      "Result": "44",
+      "ResDetail": "L44",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "Lane": "",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Color",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "LightOn",
+          "Pos": 0,
+          "Value": "N",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ResultType",
+          "Pos": 0,
+          "Value": "D",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "WhiteLightOn",
+          "Pos": 0,
+          "Value": "N",
+          "Extensions": []
+        }
+      ],
+      "Stats": {
+        "ST_pRED_CARDS": "",
+        "ST_pBLACK_CARDS": "",
+        "ST_YELLOW_CARDS": "2",
+        "ST_RED_CARDS": "",
+        "ST_BLACK_CARDS": ""
+      },
+      "Name": "Japan",
+      "NameS": "Japan",
+      "OrgDesc": "Japan",
+      "Splits": [
+        {
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "3",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "3",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        },
+        {
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "3",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "6",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        },
+        {
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "2",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "8",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        },
+        {
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "8",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "16",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        },
+        {
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "5",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "21",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        },
+        {
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "5",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "26",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        },
+        {
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "9",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "35",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        },
+        {
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "5",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "40",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        },
+        {
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "4",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "44",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_SILVER",
+      "Members": [
+        {
+          "Reg": "10702901",
+          "Org": "JPN",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Extensions": [],
+          "Gender": "M",
+          "Order": 0,
+          "Substitute": true,
+          "Result": "",
+          "Guides": [],
+          "Name": "TSUMORI Shido",
+          "NameS": "TSUMORI S",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "10705057",
+          "Org": "JPN",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Extensions": [],
+          "Gender": "M",
+          "Order": 1,
+          "Substitute": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "YOSHIDA Kento",
+          "NameS": "YOSHIDA K",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "10703447",
+          "Org": "JPN",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Extensions": [],
+          "Gender": "M",
+          "Order": 2,
+          "Substitute": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "TSUBO Hayato",
+          "NameS": "TSUBO H",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "10703005",
+          "Org": "JPN",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Extensions": [],
+          "Gender": "M",
+          "Order": 3,
+          "Substitute": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "KOKUBO Mao",
+          "NameS": "KOKUBO M",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        }
+      ]
+    }
+  ],
+  "Legends": {
+    "records": [],
+    "irms": [],
+    "qs": [
+      {
+        "Desc": "legends.FEN.Q",
+        "DescS": "Q"
+      }
+    ],
+    "funcs": [
+      {
+        "DescS": "AA01",
+        "Desc": "Athlete"
+      }
+    ]
+  }
+}

@@ -1,1 +1,4383 @@
-null
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "SHO",
+    "DiscDesc": "Shooting",
+    "Key": "W.R3PW--------------.FNL-.000100--",
+    "isH2H": false,
+    "Type": "A",
+    "Medal": "1",
+    "Status": "OFFICIAL",
+    "StatusDesc": "Official",
+    "DateTimeRaw": "2026-09-26T13:00:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "",
+    "HideLocation": false,
+    "Venue": "PGS",
+    "VenueDesc": "Aichi Prefectural General Shooting Gallery",
+    "VenueDescS": "Aichi Pref. General Shooting Gallery",
+    "Loc": "SH1",
+    "LocDesc": "Final Range",
+    "LocDescS": "Final Range",
+    "Event": "W.R3PW--------------",
+    "EventDesc": "50m Rifle 3 Positions Women Individual",
+    "Phase": "W.R3PW--------------.FNL-",
+    "PhaseOrder": 3,
+    "PhaseDesc": "50m Rifle 3 Positions Women Individual Final",
+    "PhaseDescS": "50m Rifle 3 Positions Women Individual Final",
+    "PhaseDescA": "Final",
+    "UnitDesc": "50m Rifle 3 Positions Women Individual - Final",
+    "UnitDescS": "50m Rifle 3 Positions Women Individual - Final",
+    "UnitDescA": "",
+    "UnitNum": "2",
+    "IsLive": false,
+    "ShowResults": true,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "",
+    "ResDetail": "",
+    "Duration": "",
+    "CurrentPeriod": 6,
+    "Current": "",
+    "Last": "",
+    "Extensions": [
+      {
+        "Type": "UNIT_INFO",
+        "Code": "CURRENT",
+        "Pos": 0,
+        "Value": "",
+        "Extensions": [
+          {
+            "Type": "CURRENT",
+            "Code": "CURRENT_SERIE",
+            "Pos": 0,
+            "Value": "1"
+          },
+          {
+            "Type": "CURRENT",
+            "Code": "CURRENT_SHOOT",
+            "Pos": 0,
+            "Value": "1"
+          },
+          {
+            "Type": "CURRENT",
+            "Code": "CURRENT_SPLIT",
+            "Pos": 0,
+            "Value": "1"
+          }
+        ]
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "InfoMatch",
+        "Pos": 0,
+        "Value": "1",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "InfoTeam",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "MAX_SERIES",
+        "Pos": 0,
+        "Value": "9",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "MIXED",
+        "Pos": 0,
+        "Value": "F",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "MODE_SETS",
+        "Pos": 0,
+        "Value": "F",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "NUM_SERIES",
+        "Pos": 0,
+        "Value": "9",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "NUM_SHOOTS",
+        "Pos": 0,
+        "Value": "35",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "RELAYS",
+        "Pos": 0,
+        "Value": "1",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "SHO_TYPE",
+        "Pos": 0,
+        "Value": "R3PW",
+        "Extensions": []
+      }
+    ],
+    "Periods": [
+      {
+        "Order": 1,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "Kneeling Series 1",
+        "DescS": "Kneeling Series 1"
+      },
+      {
+        "Order": 2,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "Prone Series 1",
+        "DescS": "Prone Series 1"
+      },
+      {
+        "Order": 3,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "Standing Series 1",
+        "DescS": "Standing Series 1"
+      },
+      {
+        "Order": 4,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "Standing Series 2",
+        "DescS": "Standing Series 2"
+      },
+      {
+        "Order": 5,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "Standing Series 3",
+        "DescS": "Standing Series 3"
+      },
+      {
+        "Order": 6,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "Standing Series 4",
+        "DescS": "Standing Series 4"
+      },
+      {
+        "Order": 7,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "Standing Series 5",
+        "DescS": "Standing Series 5"
+      },
+      {
+        "Order": 8,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "Standing Series 6",
+        "DescS": "Standing Series 6"
+      },
+      {
+        "Order": 9,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "Standing Series 7",
+        "DescS": "Standing Series 7"
+      }
+    ],
+    "Records": [
+      {
+        "EvCode": "W.R3PW--------------",
+        "Desc": "50m Rifle 3 Positions Women Individual",
+        "DescS": "50m Rifle 3 Positions Women Individual",
+        "Records": [
+          {
+            "Result": "363.3",
+            "Equalled": false,
+            "Indicator": "WR",
+            "Indicator1": "WR",
+            "Desc": "World Record",
+            "AreaDesc": "World Record",
+            "Loc": "Osijek (CRO)",
+            "DateTimeRaw": "2026-05-08T00:00:00+09:00",
+            "ShowLinkBio": false,
+            "Reg": "SHORH0000000874",
+            "Name": "STARK Nele",
+            "Org": "GER",
+            "OrgDesc": "Germany"
+          },
+          {
+            "Result": "358.2",
+            "Equalled": false,
+            "Indicator": "AsR",
+            "Indicator1": "AsR",
+            "Desc": "Asian Record",
+            "AreaDesc": "Asian Record",
+            "Loc": "New Delhi (IND)",
+            "DateTimeRaw": "2026-02-10T00:00:00+09:00",
+            "ShowLinkBio": false,
+            "Reg": "SHORH0000000920",
+            "Name": "SHULZHENKO Sofiya",
+            "Org": "KAZ",
+            "OrgDesc": "Kazakhstan"
+          }
+        ]
+      }
+    ],
+    "Paralympic": false
+  },
+  "Competitors": [
+    {
+      "Reg": "240263",
+      "Bib": "1028",
+      "Org": "CHN",
+      "StartOrder": "8",
+      "StartSortOrder": 8,
+      "Rk": "1",
+      "RkEq": false,
+      "RkPo": 1,
+      "WLT": "",
+      "Result": "359.0",
+      "ResDetail": "359.0",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "GR AsR",
+      "RecordBest": "AsR",
+      "Lane": "",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "INFO_COMP",
+          "Code": "COUNT_BACK",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "FIRE_POS",
+          "Pos": 0,
+          "Value": "H",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "GENDER",
+          "Pos": 0,
+          "Value": "W",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "INNER_TENS",
+          "Pos": 0,
+          "Value": "33",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "IQS",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "MIXED",
+          "Pos": 0,
+          "Value": "F",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "NUM_RELAYS",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "QMARK",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "RPO",
+          "Pos": 0,
+          "Value": "8",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "RULED_OUT",
+          "Pos": 0,
+          "Value": "N",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "SOFF",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "START_TIME",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "PENALTIES",
+          "Code": "CODE",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "PENALTIES",
+          "Code": "DESC",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "PENALTIES",
+          "Code": "SCORE",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "SIUS_INFO",
+          "Code": "CURRENT",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": [
+            {
+              "Type": "CURRENT",
+              "Code": "CURRENT_AVERAGE",
+              "Pos": 0,
+              "Value": "9.90"
+            },
+            {
+              "Type": "CURRENT",
+              "Code": "CURRENT_MARK",
+              "Pos": 0,
+              "Value": ""
+            },
+            {
+              "Type": "CURRENT",
+              "Code": "CURRENT_RESULT",
+              "Pos": 0,
+              "Value": "359.0"
+            },
+            {
+              "Type": "CURRENT",
+              "Code": "CURRENT_SHOOT",
+              "Pos": 0,
+              "Value": "35"
+            },
+            {
+              "Type": "CURRENT",
+              "Code": "CURRENT_SOFF",
+              "Pos": 0,
+              "Value": ""
+            }
+          ]
+        }
+      ],
+      "Name": "HAN Jiayu",
+      "NameS": "HAN J",
+      "OrgDesc": "People's Republic of China",
+      "Splits": [
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 1,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 1,
+          "AttResult": "",
+          "Result": "100.7",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "100.7",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 1,
+              "Value": "1",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "100.7"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "10"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "100.7"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X,X,X,X,X,X,X,X,X,X"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 1,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 1,
+          "AttResult": "",
+          "Result": "104.7",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "205.4",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 1,
+              "Value": "1",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "205.4"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "10"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "104.7"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X,X,X,X,X,X,X,X,X,X"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 1,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 1,
+          "AttResult": "",
+          "Result": "50.7",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "256.1",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 1,
+              "Value": "1",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "256.1"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "5"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "50.7"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X,X,X,X,X"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 1,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 1,
+          "AttResult": "",
+          "Result": "52.3",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "308.4",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 2,
+              "Value": "2",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "308.4"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "5"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "52.3"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X,X,X,X,X"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 1,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 1,
+          "AttResult": "",
+          "Result": "10.5",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "318.9",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 3,
+              "Value": "3",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "318.9"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "1"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "10.5"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 1,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 1,
+          "AttResult": "",
+          "Result": "10.6",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "329.5",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 4,
+              "Value": "4",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "329.5"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "1"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "10.6"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 1,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 1,
+          "AttResult": "",
+          "Result": "9.5",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "339.0",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 5,
+              "Value": "5",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "339.0"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "1"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "9.5"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 1,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 1,
+          "AttResult": "",
+          "Result": "9.5",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "348.5",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 6,
+              "Value": "6",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "348.5"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "1"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "9.5"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 1,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 1,
+          "AttResult": "",
+          "Result": "10.5",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "359.0",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 7,
+              "Value": "7",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "359.0"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "1"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "10.5"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_GOLD"
+    },
+    {
+      "Reg": "243524",
+      "Bib": "1029",
+      "Org": "CHN",
+      "StartOrder": "2",
+      "StartSortOrder": 2,
+      "Rk": "2",
+      "RkEq": false,
+      "RkPo": 2,
+      "WLT": "",
+      "Result": "358.8",
+      "ResDetail": "358.8",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "INFO_COMP",
+          "Code": "COUNT_BACK",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "FIRE_POS",
+          "Pos": 0,
+          "Value": "B",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "GENDER",
+          "Pos": 0,
+          "Value": "W",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "INNER_TENS",
+          "Pos": 0,
+          "Value": "38",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "IQS",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "MIXED",
+          "Pos": 0,
+          "Value": "F",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "NUM_RELAYS",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "QMARK",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "RPO",
+          "Pos": 0,
+          "Value": "2",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "RULED_OUT",
+          "Pos": 0,
+          "Value": "N",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "SOFF",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "START_TIME",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "PENALTIES",
+          "Code": "CODE",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "PENALTIES",
+          "Code": "DESC",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "PENALTIES",
+          "Code": "SCORE",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "SIUS_INFO",
+          "Code": "CURRENT",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": [
+            {
+              "Type": "CURRENT",
+              "Code": "CURRENT_AVERAGE",
+              "Pos": 0,
+              "Value": "9.85"
+            },
+            {
+              "Type": "CURRENT",
+              "Code": "CURRENT_MARK",
+              "Pos": 0,
+              "Value": ""
+            },
+            {
+              "Type": "CURRENT",
+              "Code": "CURRENT_RESULT",
+              "Pos": 0,
+              "Value": "358.8"
+            },
+            {
+              "Type": "CURRENT",
+              "Code": "CURRENT_SHOOT",
+              "Pos": 0,
+              "Value": "35"
+            },
+            {
+              "Type": "CURRENT",
+              "Code": "CURRENT_SOFF",
+              "Pos": 0,
+              "Value": ""
+            }
+          ]
+        }
+      ],
+      "Name": "ZHANG Liyuan",
+      "NameS": "ZHANG L",
+      "OrgDesc": "People's Republic of China",
+      "Splits": [
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 2,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 2,
+          "AttResult": "",
+          "Result": "103.0",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "103.0",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 1,
+              "Value": "1",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "103.0"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "10"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "103.0"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X,X,X,X,X,X,X,X,X,X"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 2,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 2,
+          "AttResult": "",
+          "Result": "103.5",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "206.5",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 1,
+              "Value": "1",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "206.5"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "10"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "103.5"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X,X,X,X,X,X,X,X,X,X"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 2,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 2,
+          "AttResult": "",
+          "Result": "50.8",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "257.3",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 1,
+              "Value": "1",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "257.3"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "5"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "50.8"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X,X,X,X,X"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 2,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 2,
+          "AttResult": "",
+          "Result": "50.9",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "308.2",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 2,
+              "Value": "2",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "308.2"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "5"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "50.9"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X,X,X,X,X"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 2,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 2,
+          "AttResult": "",
+          "Result": "9.6",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "317.8",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 3,
+              "Value": "3",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "317.8"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "1"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "9.6"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 2,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 2,
+          "AttResult": "",
+          "Result": "10.7",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "328.5",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 4,
+              "Value": "4",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "328.5"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "1"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "10.7"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 2,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 2,
+          "AttResult": "",
+          "Result": "10.3",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "338.8",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 5,
+              "Value": "5",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "338.8"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "1"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "10.3"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 2,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 2,
+          "AttResult": "",
+          "Result": "9.9",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "348.7",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 6,
+              "Value": "6",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "348.7"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "1"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "9.9"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 2,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 2,
+          "AttResult": "",
+          "Result": "10.1",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "358.8",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 7,
+              "Value": "7",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "358.8"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "1"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "10.1"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_SILVER"
+    },
+    {
+      "Reg": "8859614",
+      "Bib": "1187",
+      "Org": "KOR",
+      "StartOrder": "1",
+      "StartSortOrder": 1,
+      "Rk": "3",
+      "RkEq": false,
+      "RkPo": 3,
+      "WLT": "",
+      "Result": "348.4",
+      "ResDetail": "348.4",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "INFO_COMP",
+          "Code": "COUNT_BACK",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "FIRE_POS",
+          "Pos": 0,
+          "Value": "A",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "GENDER",
+          "Pos": 0,
+          "Value": "W",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "INNER_TENS",
+          "Pos": 0,
+          "Value": "28",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "IQS",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "MIXED",
+          "Pos": 0,
+          "Value": "F",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "NUM_RELAYS",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "QMARK",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "RPO",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "RULED_OUT",
+          "Pos": 0,
+          "Value": "Y",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "SOFF",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "START_TIME",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "PENALTIES",
+          "Code": "CODE",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "PENALTIES",
+          "Code": "DESC",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "PENALTIES",
+          "Code": "SCORE",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "SIUS_INFO",
+          "Code": "CURRENT",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": [
+            {
+              "Type": "CURRENT",
+              "Code": "CURRENT_AVERAGE",
+              "Pos": 0,
+              "Value": "9.80"
+            },
+            {
+              "Type": "CURRENT",
+              "Code": "CURRENT_MARK",
+              "Pos": 0,
+              "Value": ""
+            },
+            {
+              "Type": "CURRENT",
+              "Code": "CURRENT_RESULT",
+              "Pos": 0,
+              "Value": "348.4"
+            },
+            {
+              "Type": "CURRENT",
+              "Code": "CURRENT_SHOOT",
+              "Pos": 0,
+              "Value": "34"
+            },
+            {
+              "Type": "CURRENT",
+              "Code": "CURRENT_SOFF",
+              "Pos": 0,
+              "Value": ""
+            }
+          ]
+        }
+      ],
+      "Name": "KIM Jieun",
+      "NameS": "KIM J",
+      "OrgDesc": "Republic of Korea",
+      "Splits": [
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 3,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 3,
+          "AttResult": "",
+          "Result": "103.3",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "103.3",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 1,
+              "Value": "1",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "103.3"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "10"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "103.3"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X,X,X,X,X,X,X,X,X,X"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 3,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 3,
+          "AttResult": "",
+          "Result": "103.0",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "206.3",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 1,
+              "Value": "1",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "206.3"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "10"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "103.0"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X,X,X,X,X,X,X,X,X,X"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 3,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 3,
+          "AttResult": "",
+          "Result": "50.0",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "256.3",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 1,
+              "Value": "1",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "256.3"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "5"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "50.0"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X,X,X,X,X"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 3,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 3,
+          "AttResult": "",
+          "Result": "51.3",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "307.6",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 2,
+              "Value": "2",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "307.6"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "5"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "51.3"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X,X,X,X,X"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 3,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 3,
+          "AttResult": "",
+          "Result": "10.5",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "318.1",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 3,
+              "Value": "3",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "318.1"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "1"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "10.5"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 3,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 3,
+          "AttResult": "",
+          "Result": "9.5",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "327.6",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 4,
+              "Value": "4",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "327.6"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "1"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "9.5"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 3,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 3,
+          "AttResult": "",
+          "Result": "10.5",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "338.1",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 5,
+              "Value": "5",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "338.1"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "1"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "10.5"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 3,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 3,
+          "AttResult": "",
+          "Result": "10.3",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "348.4",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 6,
+              "Value": "6",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "348.4"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "1"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "10.3"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_BRONZE"
+    },
+    {
+      "Reg": "6344776",
+      "Bib": "1102",
+      "Org": "IND",
+      "StartOrder": "6",
+      "StartSortOrder": 6,
+      "Rk": "4",
+      "RkEq": false,
+      "RkPo": 4,
+      "WLT": "",
+      "Result": "337.3",
+      "ResDetail": "337.3",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "INFO_COMP",
+          "Code": "COUNT_BACK",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "FIRE_POS",
+          "Pos": 0,
+          "Value": "F",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "GENDER",
+          "Pos": 0,
+          "Value": "W",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "INNER_TENS",
+          "Pos": 0,
+          "Value": "32",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "IQS",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "MIXED",
+          "Pos": 0,
+          "Value": "F",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "NUM_RELAYS",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "QMARK",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "RPO",
+          "Pos": 0,
+          "Value": "6",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "RULED_OUT",
+          "Pos": 0,
+          "Value": "Y",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "SOFF",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "START_TIME",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "PENALTIES",
+          "Code": "CODE",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "PENALTIES",
+          "Code": "DESC",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "PENALTIES",
+          "Code": "SCORE",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "SIUS_INFO",
+          "Code": "CURRENT",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": [
+            {
+              "Type": "CURRENT",
+              "Code": "CURRENT_AVERAGE",
+              "Pos": 0,
+              "Value": "9.83"
+            },
+            {
+              "Type": "CURRENT",
+              "Code": "CURRENT_MARK",
+              "Pos": 0,
+              "Value": ""
+            },
+            {
+              "Type": "CURRENT",
+              "Code": "CURRENT_RESULT",
+              "Pos": 0,
+              "Value": "337.3"
+            },
+            {
+              "Type": "CURRENT",
+              "Code": "CURRENT_SHOOT",
+              "Pos": 0,
+              "Value": "33"
+            },
+            {
+              "Type": "CURRENT",
+              "Code": "CURRENT_SOFF",
+              "Pos": 0,
+              "Value": ""
+            }
+          ]
+        }
+      ],
+      "Name": "SEN Tilottama",
+      "NameS": "SEN T",
+      "OrgDesc": "India",
+      "Splits": [
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 4,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 4,
+          "AttResult": "",
+          "Result": "102.4",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "102.4",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 1,
+              "Value": "1",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "102.4"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "10"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "102.4"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X,X,X,X,X,X,X,X,X,X"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 4,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 4,
+          "AttResult": "",
+          "Result": "103.5",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "205.9",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 1,
+              "Value": "1",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "205.9"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "10"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "103.5"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X,X,X,X,X,X,X,X,X,X"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 4,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 4,
+          "AttResult": "",
+          "Result": "51.7",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "257.6",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 1,
+              "Value": "1",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "257.6"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "5"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "51.7"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X,X,X,X,X"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 4,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 4,
+          "AttResult": "",
+          "Result": "50.2",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "307.8",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 2,
+              "Value": "2",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "307.8"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "5"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "50.2"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X,X,X,X,X"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 4,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 4,
+          "AttResult": "",
+          "Result": "9.7",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "317.5",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 3,
+              "Value": "3",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "317.5"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "1"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "9.7"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 4,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 4,
+          "AttResult": "",
+          "Result": "10.4",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "327.9",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 4,
+              "Value": "4",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "327.9"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "1"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "10.4"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 4,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 4,
+          "AttResult": "",
+          "Result": "9.4",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "337.3",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 5,
+              "Value": "5",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "337.3"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "1"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "9.4"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": ""
+    },
+    {
+      "Reg": "12901175",
+      "Bib": "1093",
+      "Org": "IND",
+      "StartOrder": "3",
+      "StartSortOrder": 3,
+      "Rk": "5",
+      "RkEq": false,
+      "RkPo": 5,
+      "WLT": "",
+      "Result": "327.4",
+      "ResDetail": "327.4",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "INFO_COMP",
+          "Code": "COUNT_BACK",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "FIRE_POS",
+          "Pos": 0,
+          "Value": "C",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "GENDER",
+          "Pos": 0,
+          "Value": "W",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "INNER_TENS",
+          "Pos": 0,
+          "Value": "29",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "IQS",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "MIXED",
+          "Pos": 0,
+          "Value": "F",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "NUM_RELAYS",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "QMARK",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "RPO",
+          "Pos": 0,
+          "Value": "3",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "RULED_OUT",
+          "Pos": 0,
+          "Value": "Y",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "SOFF",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "START_TIME",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "PENALTIES",
+          "Code": "CODE",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "PENALTIES",
+          "Code": "DESC",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "PENALTIES",
+          "Code": "SCORE",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "SIUS_INFO",
+          "Code": "CURRENT",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": [
+            {
+              "Type": "CURRENT",
+              "Code": "CURRENT_AVERAGE",
+              "Pos": 0,
+              "Value": "9.80"
+            },
+            {
+              "Type": "CURRENT",
+              "Code": "CURRENT_MARK",
+              "Pos": 0,
+              "Value": ""
+            },
+            {
+              "Type": "CURRENT",
+              "Code": "CURRENT_RESULT",
+              "Pos": 0,
+              "Value": "327.4"
+            },
+            {
+              "Type": "CURRENT",
+              "Code": "CURRENT_SHOOT",
+              "Pos": 0,
+              "Value": "32"
+            },
+            {
+              "Type": "CURRENT",
+              "Code": "CURRENT_SOFF",
+              "Pos": 0,
+              "Value": ""
+            }
+          ]
+        }
+      ],
+      "Name": "KOCHALUMKAL VINOD Vidarsa",
+      "NameS": "KOCHALUMKAL VINOD V",
+      "OrgDesc": "India",
+      "Splits": [
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 5,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 5,
+          "AttResult": "",
+          "Result": "102.1",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "102.1",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 1,
+              "Value": "1",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "102.1"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "10"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "102.1"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X,X,X,X,X,X,X,X,X,X"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 5,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 5,
+          "AttResult": "",
+          "Result": "103.2",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "205.3",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 1,
+              "Value": "1",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "205.3"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "10"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "103.2"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X,X,X,X,X,X,X,X,X,X"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 5,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 5,
+          "AttResult": "",
+          "Result": "50.7",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "256.0",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 1,
+              "Value": "1",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "256.0"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "5"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "50.7"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X,X,X,X,X"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 5,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 5,
+          "AttResult": "",
+          "Result": "51.0",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "307.0",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 2,
+              "Value": "2",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "307.0"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "5"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "51.0"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X,X,X,X,X"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 5,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 5,
+          "AttResult": "",
+          "Result": "10.4",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "317.4",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 3,
+              "Value": "3",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "317.4"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "1"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "10.4"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 5,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 5,
+          "AttResult": "",
+          "Result": "10.0",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "327.4",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 4,
+              "Value": "4",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "327.4"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "1"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "10.0"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": ""
+    },
+    {
+      "Reg": "8640030",
+      "Bib": "1172",
+      "Org": "KAZ",
+      "StartOrder": "7",
+      "StartSortOrder": 7,
+      "Rk": "6",
+      "RkEq": false,
+      "RkPo": 6,
+      "WLT": "",
+      "Result": "316.7",
+      "ResDetail": "316.7",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "INFO_COMP",
+          "Code": "COUNT_BACK",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "FIRE_POS",
+          "Pos": 0,
+          "Value": "G",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "GENDER",
+          "Pos": 0,
+          "Value": "W",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "INNER_TENS",
+          "Pos": 0,
+          "Value": "32",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "IQS",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "MIXED",
+          "Pos": 0,
+          "Value": "F",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "NUM_RELAYS",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "QMARK",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "RPO",
+          "Pos": 0,
+          "Value": "7",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "RULED_OUT",
+          "Pos": 0,
+          "Value": "Y",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "SOFF",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "START_TIME",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "PENALTIES",
+          "Code": "CODE",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "PENALTIES",
+          "Code": "DESC",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "PENALTIES",
+          "Code": "SCORE",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "SIUS_INFO",
+          "Code": "CURRENT",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": [
+            {
+              "Type": "CURRENT",
+              "Code": "CURRENT_AVERAGE",
+              "Pos": 0,
+              "Value": "9.78"
+            },
+            {
+              "Type": "CURRENT",
+              "Code": "CURRENT_MARK",
+              "Pos": 0,
+              "Value": ""
+            },
+            {
+              "Type": "CURRENT",
+              "Code": "CURRENT_RESULT",
+              "Pos": 0,
+              "Value": "316.7"
+            },
+            {
+              "Type": "CURRENT",
+              "Code": "CURRENT_SHOOT",
+              "Pos": 0,
+              "Value": "31"
+            },
+            {
+              "Type": "CURRENT",
+              "Code": "CURRENT_SOFF",
+              "Pos": 0,
+              "Value": ""
+            }
+          ]
+        }
+      ],
+      "Name": "MALINOVSKAYA Arina",
+      "NameS": "MALINOVSKAYA A",
+      "OrgDesc": "Kazakhstan",
+      "Splits": [
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 6,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 6,
+          "AttResult": "",
+          "Result": "103.4",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "103.4",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 1,
+              "Value": "1",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "103.4"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "10"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "103.4"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X,X,X,X,X,X,X,X,X,X"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 6,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 6,
+          "AttResult": "",
+          "Result": "102.8",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "206.2",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 1,
+              "Value": "1",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "206.2"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "10"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "102.8"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X,X,X,X,X,X,X,X,X,X"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 6,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 6,
+          "AttResult": "",
+          "Result": "50.2",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "256.4",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 1,
+              "Value": "1",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "256.4"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "5"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "50.2"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X,X,X,X,X"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 6,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 6,
+          "AttResult": "",
+          "Result": "50.2",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "306.6",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 2,
+              "Value": "2",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "306.6"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "5"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "50.2"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X,X,X,X,X"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 6,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 6,
+          "AttResult": "",
+          "Result": "10.1",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "316.7",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 3,
+              "Value": "3",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "316.7"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "1"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "10.1"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": ""
+    },
+    {
+      "Reg": "931991",
+      "Bib": "1149",
+      "Org": "JPN",
+      "StartOrder": "5",
+      "StartSortOrder": 5,
+      "Rk": "7",
+      "RkEq": false,
+      "RkPo": 7,
+      "WLT": "",
+      "Result": "306.5",
+      "ResDetail": "306.5",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "INFO_COMP",
+          "Code": "COUNT_BACK",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "FIRE_POS",
+          "Pos": 0,
+          "Value": "E",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "GENDER",
+          "Pos": 0,
+          "Value": "W",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "INNER_TENS",
+          "Pos": 0,
+          "Value": "32",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "IQS",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "MIXED",
+          "Pos": 0,
+          "Value": "F",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "NUM_RELAYS",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "QMARK",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "RPO",
+          "Pos": 0,
+          "Value": "5",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "RULED_OUT",
+          "Pos": 0,
+          "Value": "Y",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "SOFF",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "START_TIME",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "PENALTIES",
+          "Code": "CODE",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "PENALTIES",
+          "Code": "DESC",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "PENALTIES",
+          "Code": "SCORE",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "SIUS_INFO",
+          "Code": "CURRENT",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": [
+            {
+              "Type": "CURRENT",
+              "Code": "CURRENT_AVERAGE",
+              "Pos": 0,
+              "Value": "9.80"
+            },
+            {
+              "Type": "CURRENT",
+              "Code": "CURRENT_MARK",
+              "Pos": 0,
+              "Value": ""
+            },
+            {
+              "Type": "CURRENT",
+              "Code": "CURRENT_RESULT",
+              "Pos": 0,
+              "Value": "306.5"
+            },
+            {
+              "Type": "CURRENT",
+              "Code": "CURRENT_SHOOT",
+              "Pos": 0,
+              "Value": "30"
+            },
+            {
+              "Type": "CURRENT",
+              "Code": "CURRENT_SOFF",
+              "Pos": 0,
+              "Value": ""
+            }
+          ]
+        }
+      ],
+      "Name": "NOBATA Misaki",
+      "NameS": "NOBATA M",
+      "OrgDesc": "Japan",
+      "Splits": [
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 7,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 7,
+          "AttResult": "",
+          "Result": "102.9",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "102.9",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 1,
+              "Value": "1",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "102.9"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "10"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "102.9"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X,X,X,X,X,X,X,X,X,X"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 7,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 7,
+          "AttResult": "",
+          "Result": "103.1",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "206.0",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 1,
+              "Value": "1",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "206.0"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "10"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "103.1"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X,X,X,X,X,X,X,X,X,X"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 7,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 7,
+          "AttResult": "",
+          "Result": "50.8",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "256.8",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 1,
+              "Value": "1",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "256.8"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "5"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "50.8"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X,X,X,X,X"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 7,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 7,
+          "AttResult": "",
+          "Result": "49.7",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "306.5",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 2,
+              "Value": "2",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "306.5"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "5"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "49.7"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X,X,X,X,X"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": ""
+    },
+    {
+      "Reg": "5678309",
+      "Bib": "1245",
+      "Org": "MAS",
+      "StartOrder": "4",
+      "StartSortOrder": 4,
+      "Rk": "8",
+      "RkEq": false,
+      "RkPo": 8,
+      "WLT": "",
+      "Result": "299.1",
+      "ResDetail": "299.1",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "INFO_COMP",
+          "Code": "COUNT_BACK",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "FIRE_POS",
+          "Pos": 0,
+          "Value": "D",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "GENDER",
+          "Pos": 0,
+          "Value": "W",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "INNER_TENS",
+          "Pos": 0,
+          "Value": "37",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "IQS",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "MIXED",
+          "Pos": 0,
+          "Value": "F",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "NUM_RELAYS",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "QMARK",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "RPO",
+          "Pos": 0,
+          "Value": "4",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "RULED_OUT",
+          "Pos": 0,
+          "Value": "Y",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "SOFF",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "INFO_COMP",
+          "Code": "START_TIME",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "PENALTIES",
+          "Code": "CODE",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "PENALTIES",
+          "Code": "DESC",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "PENALTIES",
+          "Code": "SCORE",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "SIUS_INFO",
+          "Code": "CURRENT",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": [
+            {
+              "Type": "CURRENT",
+              "Code": "CURRENT_AVERAGE",
+              "Pos": 0,
+              "Value": "9.78"
+            },
+            {
+              "Type": "CURRENT",
+              "Code": "CURRENT_MARK",
+              "Pos": 0,
+              "Value": ""
+            },
+            {
+              "Type": "CURRENT",
+              "Code": "CURRENT_RESULT",
+              "Pos": 0,
+              "Value": "299.1"
+            },
+            {
+              "Type": "CURRENT",
+              "Code": "CURRENT_SHOOT",
+              "Pos": 0,
+              "Value": "30"
+            },
+            {
+              "Type": "CURRENT",
+              "Code": "CURRENT_SOFF",
+              "Pos": 0,
+              "Value": ""
+            }
+          ]
+        }
+      ],
+      "Name": "GAN Chen Jie",
+      "NameS": "GAN CJ",
+      "OrgDesc": "Malaysia",
+      "Splits": [
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 8,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 8,
+          "AttResult": "",
+          "Result": "98.9",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "98.9",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 1,
+              "Value": "1",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "98.9"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "10"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "98.9"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X,X,X,X,X,X,X,X,X,X"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 8,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 8,
+          "AttResult": "",
+          "Result": "102.3",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "201.2",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 1,
+              "Value": "1",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "201.2"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "10"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "102.3"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X,X,X,X,X,X,X,X,X,X"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 8,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 8,
+          "AttResult": "",
+          "Result": "48.8",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "250.0",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 1,
+              "Value": "1",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "250.0"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "5"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "48.8"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X,X,X,X,X"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 8,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 8,
+          "AttResult": "",
+          "Result": "49.1",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "299.1",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "INFO_SERIE",
+              "Code": "SERIE",
+              "Pos": 2,
+              "Value": "2",
+              "Extensions": [
+                {
+                  "Type": "SERIE",
+                  "Code": "ACC_RESULT",
+                  "Pos": 0,
+                  "Value": "299.1"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "NUM_SHOOTS",
+                  "Pos": 0,
+                  "Value": "5"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "RESULT",
+                  "Pos": 0,
+                  "Value": "49.1"
+                },
+                {
+                  "Type": "SERIE",
+                  "Code": "SHOOTS",
+                  "Pos": 0,
+                  "Value": "X,X,X,X,X"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": ""
+    }
+  ],
+  "Legends": {
+    "records": [
+      {
+        "DescS": "AsR",
+        "Desc": "Asian Record"
+      }
+    ],
+    "irms": [],
+    "qs": []
+  }
+}
