@@ -1,1 +1,1493 @@
-null
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "BMX",
+    "DiscDesc": "Cycling BMX Racing",
+    "Key": "M.INDVRACE----------.FNL-.000100--",
+    "isH2H": false,
+    "Type": "A",
+    "Medal": "1",
+    "Status": "OFFICIAL",
+    "StatusDesc": "Official",
+    "DateTimeRaw": "2026-09-28T12:18:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "",
+    "HideLocation": false,
+    "Venue": "VBR",
+    "VenueDesc": "Nagoya Velodrome BMX Race Course",
+    "VenueDescS": "Nagoya Velodrome BMX Race Course",
+    "Loc": "001",
+    "LocDesc": "BMX Race Course",
+    "LocDescS": "BMX Race Course",
+    "Event": "M.INDVRACE----------",
+    "EventDesc": "Men",
+    "Phase": "M.INDVRACE----------.FNL-",
+    "PhaseOrder": 1,
+    "PhaseDesc": "Men Final",
+    "PhaseDescS": "Men F",
+    "PhaseDescA": "Final",
+    "UnitDesc": "Men Final",
+    "UnitDescS": "Men F",
+    "UnitDescA": "",
+    "UnitNum": "1",
+    "IsLive": false,
+    "ShowResults": true,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "",
+    "ResDetail": "",
+    "Duration": "",
+    "CurrentPeriod": 1,
+    "Current": "",
+    "Last": "",
+    "Extensions": [
+      {
+        "Type": "UNIT_INFO",
+        "Code": "BMXCategory",
+        "Pos": 0,
+        "Value": "3",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "BMXType",
+        "Pos": 0,
+        "Value": "O",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "HeatsNum",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "InterCurrent",
+        "Pos": 0,
+        "Value": "F",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "INTERMEDIATES",
+        "Pos": 0,
+        "Value": "2",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "IsPtsUnit",
+        "Pos": 0,
+        "Value": "False",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "QRulesL",
+        "Pos": 0,
+        "Value": "",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "QRulesS",
+        "Pos": 0,
+        "Value": "",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "RunNum",
+        "Pos": 0,
+        "Value": "1",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "ShowInSchedule",
+        "Pos": 0,
+        "Value": "T",
+        "Extensions": []
+      }
+    ],
+    "Periods": [
+      {
+        "Order": 1,
+        "Duration": "",
+        "Distance": "0",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "Start",
+        "DescS": "1"
+      }
+    ],
+    "Paralympic": false
+  },
+  "Competitors": [
+    {
+      "Reg": "7997576",
+      "Bib": "21",
+      "Org": "JPN",
+      "StartOrder": "1",
+      "StartSortOrder": 1,
+      "Rk": "1",
+      "RkEq": false,
+      "RkPo": 1,
+      "WLT": "",
+      "Result": "30.103",
+      "ResDetail": "30.103",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "1",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BirthDate",
+          "Pos": 0,
+          "Value": "2000-06-24",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "INTERMEDIATES",
+          "Pos": 0,
+          "Value": "2",
+          "Extensions": [
+            {
+              "Type": "INTERMEDIATES",
+              "Code": "1",
+              "Pos": 0,
+              "Value": "INTER_1",
+              "Extensions": [
+                {
+                  "Type": "INTER",
+                  "Code": "GAP",
+                  "Pos": 0,
+                  "Value": "+0.000"
+                },
+                {
+                  "Type": "INTER",
+                  "Code": "PHOTO",
+                  "Pos": 0,
+                  "Value": "F"
+                },
+                {
+                  "Type": "INTER",
+                  "Code": "RANK",
+                  "Pos": 0,
+                  "Value": "1"
+                },
+                {
+                  "Type": "INTER",
+                  "Code": "TIME",
+                  "Pos": 0,
+                  "Value": "2.421"
+                }
+              ]
+            },
+            {
+              "Type": "INTERMEDIATES",
+              "Code": "F",
+              "Pos": 0,
+              "Value": "INTER_F",
+              "Extensions": [
+                {
+                  "Type": "INTER",
+                  "Code": "GAP",
+                  "Pos": 0,
+                  "Value": "+0.000"
+                },
+                {
+                  "Type": "INTER",
+                  "Code": "PHOTO",
+                  "Pos": 0,
+                  "Value": "F"
+                },
+                {
+                  "Type": "INTER",
+                  "Code": "RANK",
+                  "Pos": 0,
+                  "Value": "1"
+                },
+                {
+                  "Type": "INTER",
+                  "Code": "TIME",
+                  "Pos": 0,
+                  "Value": "30.103"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "PHOTO",
+          "Pos": 0,
+          "Value": "F",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "QTIME",
+          "Pos": 0,
+          "Value": "29.714",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "StartTime",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "UCICode",
+          "Pos": 0,
+          "Value": "10020973606",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "WARNING",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        }
+      ],
+      "Name": "NAKAI Asuma",
+      "NameS": "NAKAI A",
+      "OrgDesc": "Japan",
+      "Splits": [
+        {
+          "Category": "MAIN",
+          "Distance": "0",
+          "Rk": "1",
+          "RkEq": false,
+          "RkPo": 1,
+          "RkAcc": "1",
+          "RkAccEq": false,
+          "RkAccPo": 1,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "30.103",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "30.103",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_GOLD"
+    },
+    {
+      "Reg": "7999170",
+      "Bib": "22",
+      "Org": "JPN",
+      "StartOrder": "2",
+      "StartSortOrder": 2,
+      "Rk": "2",
+      "RkEq": false,
+      "RkPo": 2,
+      "WLT": "",
+      "Result": "30.583",
+      "ResDetail": "30.583",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "2",
+      "Seed": "0",
+      "Diff": "+0.480",
+      "Extensions": [
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BirthDate",
+          "Pos": 0,
+          "Value": "2005-03-20",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "INTERMEDIATES",
+          "Pos": 0,
+          "Value": "2",
+          "Extensions": [
+            {
+              "Type": "INTERMEDIATES",
+              "Code": "1",
+              "Pos": 0,
+              "Value": "INTER_1",
+              "Extensions": [
+                {
+                  "Type": "INTER",
+                  "Code": "GAP",
+                  "Pos": 0,
+                  "Value": "+0.063"
+                },
+                {
+                  "Type": "INTER",
+                  "Code": "PHOTO",
+                  "Pos": 0,
+                  "Value": "F"
+                },
+                {
+                  "Type": "INTER",
+                  "Code": "RANK",
+                  "Pos": 0,
+                  "Value": "7"
+                },
+                {
+                  "Type": "INTER",
+                  "Code": "TIME",
+                  "Pos": 0,
+                  "Value": "2.484"
+                }
+              ]
+            },
+            {
+              "Type": "INTERMEDIATES",
+              "Code": "F",
+              "Pos": 0,
+              "Value": "INTER_F",
+              "Extensions": [
+                {
+                  "Type": "INTER",
+                  "Code": "GAP",
+                  "Pos": 0,
+                  "Value": "+0.480"
+                },
+                {
+                  "Type": "INTER",
+                  "Code": "PHOTO",
+                  "Pos": 0,
+                  "Value": "F"
+                },
+                {
+                  "Type": "INTER",
+                  "Code": "RANK",
+                  "Pos": 0,
+                  "Value": "2"
+                },
+                {
+                  "Type": "INTER",
+                  "Code": "TIME",
+                  "Pos": 0,
+                  "Value": "30.583"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "PHOTO",
+          "Pos": 0,
+          "Value": "F",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "QTIME",
+          "Pos": 0,
+          "Value": "30.111",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "StartTime",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "UCICode",
+          "Pos": 0,
+          "Value": "10020895905",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "WARNING",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        }
+      ],
+      "Name": "KIUCHI Hyoga",
+      "NameS": "KIUCHI H",
+      "OrgDesc": "Japan",
+      "Splits": [
+        {
+          "Category": "MAIN",
+          "Distance": "0",
+          "Rk": "2",
+          "RkEq": false,
+          "RkPo": 2,
+          "RkAcc": "2",
+          "RkAccEq": false,
+          "RkAccPo": 2,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "30.583",
+          "Diff": "+0.480",
+          "LegResult": "",
+          "AcumulatedResult": "30.583",
+          "AcumulatedDiff": "+0.480",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_SILVER"
+    },
+    {
+      "Reg": "12075771",
+      "Bib": "61",
+      "Org": "CHN",
+      "StartOrder": "8",
+      "StartSortOrder": 8,
+      "Rk": "3",
+      "RkEq": false,
+      "RkPo": 3,
+      "WLT": "",
+      "Result": "32.947",
+      "ResDetail": "32.947",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "7",
+      "Seed": "0",
+      "Diff": "+2.844",
+      "Extensions": [
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BirthDate",
+          "Pos": 0,
+          "Value": "1999-03-03",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "INTERMEDIATES",
+          "Pos": 0,
+          "Value": "2",
+          "Extensions": [
+            {
+              "Type": "INTERMEDIATES",
+              "Code": "1",
+              "Pos": 0,
+              "Value": "INTER_1",
+              "Extensions": [
+                {
+                  "Type": "INTER",
+                  "Code": "GAP",
+                  "Pos": 0,
+                  "Value": "+0.031"
+                },
+                {
+                  "Type": "INTER",
+                  "Code": "PHOTO",
+                  "Pos": 0,
+                  "Value": "F"
+                },
+                {
+                  "Type": "INTER",
+                  "Code": "RANK",
+                  "Pos": 0,
+                  "Value": "4"
+                },
+                {
+                  "Type": "INTER",
+                  "Code": "TIME",
+                  "Pos": 0,
+                  "Value": "2.452"
+                }
+              ]
+            },
+            {
+              "Type": "INTERMEDIATES",
+              "Code": "F",
+              "Pos": 0,
+              "Value": "INTER_F",
+              "Extensions": [
+                {
+                  "Type": "INTER",
+                  "Code": "GAP",
+                  "Pos": 0,
+                  "Value": "+2.844"
+                },
+                {
+                  "Type": "INTER",
+                  "Code": "PHOTO",
+                  "Pos": 0,
+                  "Value": "F"
+                },
+                {
+                  "Type": "INTER",
+                  "Code": "RANK",
+                  "Pos": 0,
+                  "Value": "3"
+                },
+                {
+                  "Type": "INTER",
+                  "Code": "TIME",
+                  "Pos": 0,
+                  "Value": "32.947"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "PHOTO",
+          "Pos": 0,
+          "Value": "F",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "QTIME",
+          "Pos": 0,
+          "Value": "32.438",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "StartTime",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "UCICode",
+          "Pos": 0,
+          "Value": "10061018539",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "WARNING",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        }
+      ],
+      "Name": "LIN Haochao",
+      "NameS": "LIN H",
+      "OrgDesc": "People's Republic of China",
+      "Splits": [
+        {
+          "Category": "MAIN",
+          "Distance": "0",
+          "Rk": "3",
+          "RkEq": false,
+          "RkPo": 3,
+          "RkAcc": "3",
+          "RkAccEq": false,
+          "RkAccPo": 3,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "32.947",
+          "Diff": "+2.844",
+          "LegResult": "",
+          "AcumulatedResult": "32.947",
+          "AcumulatedDiff": "+2.844",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_BRONZE"
+    },
+    {
+      "Reg": "11662678",
+      "Bib": "12",
+      "Org": "INA",
+      "StartOrder": "7",
+      "StartSortOrder": 7,
+      "Rk": "4",
+      "RkEq": false,
+      "RkPo": 4,
+      "WLT": "",
+      "Result": "32.980",
+      "ResDetail": "32.980",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "8",
+      "Seed": "0",
+      "Diff": "+2.877",
+      "Extensions": [
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BirthDate",
+          "Pos": 0,
+          "Value": "2000-07-27",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "INTERMEDIATES",
+          "Pos": 0,
+          "Value": "2",
+          "Extensions": [
+            {
+              "Type": "INTERMEDIATES",
+              "Code": "1",
+              "Pos": 0,
+              "Value": "INTER_1",
+              "Extensions": [
+                {
+                  "Type": "INTER",
+                  "Code": "GAP",
+                  "Pos": 0,
+                  "Value": "+0.037"
+                },
+                {
+                  "Type": "INTER",
+                  "Code": "PHOTO",
+                  "Pos": 0,
+                  "Value": "F"
+                },
+                {
+                  "Type": "INTER",
+                  "Code": "RANK",
+                  "Pos": 0,
+                  "Value": "6"
+                },
+                {
+                  "Type": "INTER",
+                  "Code": "TIME",
+                  "Pos": 0,
+                  "Value": "2.458"
+                }
+              ]
+            },
+            {
+              "Type": "INTERMEDIATES",
+              "Code": "F",
+              "Pos": 0,
+              "Value": "INTER_F",
+              "Extensions": [
+                {
+                  "Type": "INTER",
+                  "Code": "GAP",
+                  "Pos": 0,
+                  "Value": "+2.877"
+                },
+                {
+                  "Type": "INTER",
+                  "Code": "PHOTO",
+                  "Pos": 0,
+                  "Value": "F"
+                },
+                {
+                  "Type": "INTER",
+                  "Code": "RANK",
+                  "Pos": 0,
+                  "Value": "4"
+                },
+                {
+                  "Type": "INTER",
+                  "Code": "TIME",
+                  "Pos": 0,
+                  "Value": "32.980"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "PHOTO",
+          "Pos": 0,
+          "Value": "F",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "QTIME",
+          "Pos": 0,
+          "Value": "31.916",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "StartTime",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "UCICode",
+          "Pos": 0,
+          "Value": "10058643857",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "WARNING",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        }
+      ],
+      "Name": "RIFKI Fasya Ahsana",
+      "NameS": "RIFKI F",
+      "OrgDesc": "Indonesia",
+      "Splits": [
+        {
+          "Category": "MAIN",
+          "Distance": "0",
+          "Rk": "4",
+          "RkEq": false,
+          "RkPo": 4,
+          "RkAcc": "4",
+          "RkAccEq": false,
+          "RkAccPo": 4,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "32.980",
+          "Diff": "+2.877",
+          "LegResult": "",
+          "AcumulatedResult": "32.980",
+          "AcumulatedDiff": "+2.877",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": ""
+    },
+    {
+      "Reg": "12075954",
+      "Bib": "62",
+      "Org": "CHN",
+      "StartOrder": "6",
+      "StartSortOrder": 6,
+      "Rk": "5",
+      "RkEq": false,
+      "RkPo": 5,
+      "WLT": "",
+      "Result": "33.466",
+      "ResDetail": "33.466",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "5",
+      "Seed": "0",
+      "Diff": "+3.363",
+      "Extensions": [
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BirthDate",
+          "Pos": 0,
+          "Value": "2003-03-29",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "INTERMEDIATES",
+          "Pos": 0,
+          "Value": "2",
+          "Extensions": [
+            {
+              "Type": "INTERMEDIATES",
+              "Code": "1",
+              "Pos": 0,
+              "Value": "INTER_1",
+              "Extensions": [
+                {
+                  "Type": "INTER",
+                  "Code": "GAP",
+                  "Pos": 0,
+                  "Value": "+0.096"
+                },
+                {
+                  "Type": "INTER",
+                  "Code": "PHOTO",
+                  "Pos": 0,
+                  "Value": "F"
+                },
+                {
+                  "Type": "INTER",
+                  "Code": "RANK",
+                  "Pos": 0,
+                  "Value": "8"
+                },
+                {
+                  "Type": "INTER",
+                  "Code": "TIME",
+                  "Pos": 0,
+                  "Value": "2.517"
+                }
+              ]
+            },
+            {
+              "Type": "INTERMEDIATES",
+              "Code": "F",
+              "Pos": 0,
+              "Value": "INTER_F",
+              "Extensions": [
+                {
+                  "Type": "INTER",
+                  "Code": "GAP",
+                  "Pos": 0,
+                  "Value": "+3.363"
+                },
+                {
+                  "Type": "INTER",
+                  "Code": "PHOTO",
+                  "Pos": 0,
+                  "Value": "F"
+                },
+                {
+                  "Type": "INTER",
+                  "Code": "RANK",
+                  "Pos": 0,
+                  "Value": "5"
+                },
+                {
+                  "Type": "INTER",
+                  "Code": "TIME",
+                  "Pos": 0,
+                  "Value": "33.466"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "PHOTO",
+          "Pos": 0,
+          "Value": "F",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "QTIME",
+          "Pos": 0,
+          "Value": "31.621",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "StartTime",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "UCICode",
+          "Pos": 0,
+          "Value": "10135100671",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "WARNING",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        }
+      ],
+      "Name": "CHEN Yucheng",
+      "NameS": "CHEN Y",
+      "OrgDesc": "People's Republic of China",
+      "Splits": [
+        {
+          "Category": "MAIN",
+          "Distance": "0",
+          "Rk": "5",
+          "RkEq": false,
+          "RkPo": 5,
+          "RkAcc": "5",
+          "RkAccEq": false,
+          "RkAccPo": 5,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "33.466",
+          "Diff": "+3.363",
+          "LegResult": "",
+          "AcumulatedResult": "33.466",
+          "AcumulatedDiff": "+3.363",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": ""
+    },
+    {
+      "Reg": "16425934",
+      "Bib": "31",
+      "Org": "THA",
+      "StartOrder": "5",
+      "StartSortOrder": 5,
+      "Rk": "6",
+      "RkEq": false,
+      "RkPo": 6,
+      "WLT": "",
+      "Result": "38.581",
+      "ResDetail": "38.581",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "4",
+      "Seed": "0",
+      "Diff": "+8.478",
+      "Extensions": [
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BirthDate",
+          "Pos": 0,
+          "Value": "2007-10-08",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "INTERMEDIATES",
+          "Pos": 0,
+          "Value": "2",
+          "Extensions": [
+            {
+              "Type": "INTERMEDIATES",
+              "Code": "1",
+              "Pos": 0,
+              "Value": "INTER_1",
+              "Extensions": [
+                {
+                  "Type": "INTER",
+                  "Code": "GAP",
+                  "Pos": 0,
+                  "Value": "+0.016"
+                },
+                {
+                  "Type": "INTER",
+                  "Code": "PHOTO",
+                  "Pos": 0,
+                  "Value": "F"
+                },
+                {
+                  "Type": "INTER",
+                  "Code": "RANK",
+                  "Pos": 0,
+                  "Value": "3"
+                },
+                {
+                  "Type": "INTER",
+                  "Code": "TIME",
+                  "Pos": 0,
+                  "Value": "2.437"
+                }
+              ]
+            },
+            {
+              "Type": "INTERMEDIATES",
+              "Code": "F",
+              "Pos": 0,
+              "Value": "INTER_F",
+              "Extensions": [
+                {
+                  "Type": "INTER",
+                  "Code": "GAP",
+                  "Pos": 0,
+                  "Value": "+8.478"
+                },
+                {
+                  "Type": "INTER",
+                  "Code": "PHOTO",
+                  "Pos": 0,
+                  "Value": "F"
+                },
+                {
+                  "Type": "INTER",
+                  "Code": "RANK",
+                  "Pos": 0,
+                  "Value": "6"
+                },
+                {
+                  "Type": "INTER",
+                  "Code": "TIME",
+                  "Pos": 0,
+                  "Value": "38.581"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "PHOTO",
+          "Pos": 0,
+          "Value": "F",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "QTIME",
+          "Pos": 0,
+          "Value": "31.044",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "StartTime",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "UCICode",
+          "Pos": 0,
+          "Value": "10092864245",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "WARNING",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        }
+      ],
+      "Name": "NAKPAEN Putthaphum",
+      "NameS": "NAKPAEN P",
+      "OrgDesc": "Thailand",
+      "Splits": [
+        {
+          "Category": "MAIN",
+          "Distance": "0",
+          "Rk": "6",
+          "RkEq": false,
+          "RkPo": 6,
+          "RkAcc": "6",
+          "RkAccEq": false,
+          "RkAccPo": 6,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "38.581",
+          "Diff": "+8.478",
+          "LegResult": "",
+          "AcumulatedResult": "38.581",
+          "AcumulatedDiff": "+8.478",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": ""
+    },
+    {
+      "Reg": "819288",
+      "Bib": "41",
+      "Org": "PHI",
+      "StartOrder": "4",
+      "StartSortOrder": 4,
+      "Rk": "7",
+      "RkEq": false,
+      "RkPo": 7,
+      "WLT": "",
+      "Result": "54.897",
+      "ResDetail": "54.897",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "3",
+      "Seed": "0",
+      "Diff": "+24.794",
+      "Extensions": [
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BirthDate",
+          "Pos": 0,
+          "Value": "2002-03-17",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "INTERMEDIATES",
+          "Pos": 0,
+          "Value": "2",
+          "Extensions": [
+            {
+              "Type": "INTERMEDIATES",
+              "Code": "1",
+              "Pos": 0,
+              "Value": "INTER_1",
+              "Extensions": [
+                {
+                  "Type": "INTER",
+                  "Code": "GAP",
+                  "Pos": 0,
+                  "Value": "+0.005"
+                },
+                {
+                  "Type": "INTER",
+                  "Code": "PHOTO",
+                  "Pos": 0,
+                  "Value": "F"
+                },
+                {
+                  "Type": "INTER",
+                  "Code": "RANK",
+                  "Pos": 0,
+                  "Value": "2"
+                },
+                {
+                  "Type": "INTER",
+                  "Code": "TIME",
+                  "Pos": 0,
+                  "Value": "2.426"
+                }
+              ]
+            },
+            {
+              "Type": "INTERMEDIATES",
+              "Code": "F",
+              "Pos": 0,
+              "Value": "INTER_F",
+              "Extensions": [
+                {
+                  "Type": "INTER",
+                  "Code": "GAP",
+                  "Pos": 0,
+                  "Value": "+24.794"
+                },
+                {
+                  "Type": "INTER",
+                  "Code": "PHOTO",
+                  "Pos": 0,
+                  "Value": "F"
+                },
+                {
+                  "Type": "INTER",
+                  "Code": "RANK",
+                  "Pos": 0,
+                  "Value": "7"
+                },
+                {
+                  "Type": "INTER",
+                  "Code": "TIME",
+                  "Pos": 0,
+                  "Value": "54.897"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "PHOTO",
+          "Pos": 0,
+          "Value": "F",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "QTIME",
+          "Pos": 0,
+          "Value": "30.594",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "StartTime",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "UCICode",
+          "Pos": 0,
+          "Value": "10092067532",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "WARNING",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        }
+      ],
+      "Name": "COO Patrick Bren",
+      "NameS": "COO P",
+      "OrgDesc": "Philippines",
+      "Splits": [
+        {
+          "Category": "MAIN",
+          "Distance": "0",
+          "Rk": "7",
+          "RkEq": false,
+          "RkPo": 7,
+          "RkAcc": "7",
+          "RkAccEq": false,
+          "RkAccPo": 7,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "54.897",
+          "Diff": "+24.794",
+          "LegResult": "",
+          "AcumulatedResult": "54.897",
+          "AcumulatedDiff": "+24.794",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": ""
+    },
+    {
+      "Reg": "16425395",
+      "Bib": "43",
+      "Org": "THA",
+      "StartOrder": "3",
+      "StartSortOrder": 3,
+      "Rk": "8",
+      "RkEq": false,
+      "RkPo": 8,
+      "WLT": "",
+      "Result": "",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "DNF",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "6",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BirthDate",
+          "Pos": 0,
+          "Value": "2000-06-12",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "INTERMEDIATES",
+          "Pos": 0,
+          "Value": "2",
+          "Extensions": [
+            {
+              "Type": "INTERMEDIATES",
+              "Code": "1",
+              "Pos": 0,
+              "Value": "INTER_1",
+              "Extensions": [
+                {
+                  "Type": "INTER",
+                  "Code": "GAP",
+                  "Pos": 0,
+                  "Value": "+0.033"
+                },
+                {
+                  "Type": "INTER",
+                  "Code": "PHOTO",
+                  "Pos": 0,
+                  "Value": "F"
+                },
+                {
+                  "Type": "INTER",
+                  "Code": "RANK",
+                  "Pos": 0,
+                  "Value": "5"
+                },
+                {
+                  "Type": "INTER",
+                  "Code": "TIME",
+                  "Pos": 0,
+                  "Value": "2.454"
+                }
+              ]
+            },
+            {
+              "Type": "INTERMEDIATES",
+              "Code": "F",
+              "Pos": 0,
+              "Value": "INTER_F",
+              "Extensions": [
+                {
+                  "Type": "INTER",
+                  "Code": "GAP",
+                  "Pos": 0,
+                  "Value": ""
+                },
+                {
+                  "Type": "INTER",
+                  "Code": "PHOTO",
+                  "Pos": 0,
+                  "Value": "F"
+                },
+                {
+                  "Type": "INTER",
+                  "Code": "RANK",
+                  "Pos": 0,
+                  "Value": "0"
+                },
+                {
+                  "Type": "INTER",
+                  "Code": "TIME",
+                  "Pos": 0,
+                  "Value": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "PHOTO",
+          "Pos": 0,
+          "Value": "F",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "QTIME",
+          "Pos": 0,
+          "Value": "30.189",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "StartTime",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "UCICode",
+          "Pos": 0,
+          "Value": "10062332180",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "WARNING",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        }
+      ],
+      "Name": "SUKPRASERT Komet",
+      "NameS": "SUKPRASERT K",
+      "OrgDesc": "Thailand",
+      "Splits": [
+        {
+          "Category": "MAIN",
+          "Distance": "0",
+          "Rk": "0",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "0",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": ""
+    }
+  ],
+  "Legends": {
+    "records": [],
+    "irms": [
+      {
+        "Desc": "Did not finish",
+        "DescS": "DNF"
+      }
+    ],
+    "qs": []
+  }
+}

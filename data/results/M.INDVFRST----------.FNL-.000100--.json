@@ -1,1 +1,1261 @@
-null
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "BMF",
+    "DiscDesc": "Cycling BMX Freestyle",
+    "Key": "M.INDVFRST----------.FNL-.000100--",
+    "isH2H": false,
+    "Type": "A",
+    "Medal": "1",
+    "Status": "OFFICIAL",
+    "StatusDesc": "Official",
+    "DateTimeRaw": "2026-09-27T11:15:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "",
+    "HideLocation": false,
+    "Venue": "SKEC",
+    "VenueDesc": "Aichi Sky Expo Hall C",
+    "VenueDescS": "Aichi Sky Expo Hall C",
+    "Loc": "001",
+    "LocDesc": "Hall C",
+    "LocDescS": "Hall C",
+    "Event": "M.INDVFRST----------",
+    "EventDesc": "Men's Park",
+    "Phase": "M.INDVFRST----------.FNL-",
+    "PhaseOrder": 1,
+    "PhaseDesc": "Men's Park Final",
+    "PhaseDescS": "Men's Park F",
+    "PhaseDescA": "Final",
+    "UnitDesc": "Men's Park Final",
+    "UnitDescS": "Men's Park F",
+    "UnitDescA": "",
+    "UnitNum": "1",
+    "IsLive": false,
+    "ShowResults": true,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "",
+    "ResDetail": "",
+    "Duration": "",
+    "CurrentPeriod": 2,
+    "Current": "",
+    "Last": "7997291",
+    "Extensions": [
+      {
+        "Type": "PH_INFO",
+        "Code": "NJUDGES",
+        "Pos": 0,
+        "Value": "5",
+        "Extensions": []
+      },
+      {
+        "Type": "PH_INFO",
+        "Code": "NQUALIFIED",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "PH_INFO",
+        "Code": "NUM_HEATS",
+        "Pos": 0,
+        "Value": "1",
+        "Extensions": []
+      },
+      {
+        "Type": "PH_INFO",
+        "Code": "QRulesL",
+        "Pos": 0,
+        "Value": "",
+        "Extensions": []
+      },
+      {
+        "Type": "PH_INFO",
+        "Code": "QRulesS",
+        "Pos": 0,
+        "Value": "",
+        "Extensions": []
+      },
+      {
+        "Type": "PH_INFO",
+        "Code": "TYPEOFPHASE",
+        "Pos": 0,
+        "Value": "SPLIT_BEST",
+        "Extensions": []
+      },
+      {
+        "Type": "SCH_INFO",
+        "Code": "ShowInSchedule",
+        "Pos": 0,
+        "Value": "T",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "NUM_RUNS",
+        "Pos": 0,
+        "Value": "2",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "ShowInSchedule",
+        "Pos": 0,
+        "Value": "T",
+        "Extensions": []
+      }
+    ],
+    "Periods": [
+      {
+        "Order": 1,
+        "Duration": "",
+        "Distance": "0",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "Run 1",
+        "DescS": "1"
+      },
+      {
+        "Order": 2,
+        "Duration": "",
+        "Distance": "0",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "Run 2",
+        "DescS": "2"
+      }
+    ],
+    "Officials": [
+      {
+        "Reg": "1102848",
+        "Org": "MAS",
+        "Order": 1,
+        "Function": "JU",
+        "Extensions": [],
+        "Bib": "",
+        "FuncOrder": "7",
+        "OrgDesc": "Malaysia",
+        "Name": "FATHURRAHMAN Shahrul Reezwan",
+        "NameS": "FATHURRAHMAN S",
+        "FuncDesc": "Judge"
+      },
+      {
+        "Reg": "12134904",
+        "Org": "KOR",
+        "Order": 2,
+        "Function": "JU",
+        "Extensions": [],
+        "Bib": "",
+        "FuncOrder": "7",
+        "OrgDesc": "Republic of Korea",
+        "Name": "HYUK Jeon",
+        "NameS": "HYUK J",
+        "FuncDesc": "Judge"
+      },
+      {
+        "Reg": "12134612",
+        "Org": "JPN",
+        "Order": 3,
+        "Function": "JU",
+        "Extensions": [],
+        "Bib": "",
+        "FuncOrder": "7",
+        "OrgDesc": "Japan",
+        "Name": "ISHII Shunya",
+        "NameS": "ISHII S",
+        "FuncDesc": "Judge"
+      },
+      {
+        "Reg": "7654369",
+        "Org": "SGP",
+        "Order": 4,
+        "Function": "JU",
+        "Extensions": [],
+        "Bib": "",
+        "FuncOrder": "7",
+        "OrgDesc": "Singapore",
+        "Name": "JUFRI Muhammad Ariff",
+        "NameS": "JUFRI M",
+        "FuncDesc": "Judge"
+      },
+      {
+        "Reg": "12134761",
+        "Org": "JPN",
+        "Order": 5,
+        "Function": "JU",
+        "Extensions": [],
+        "Bib": "",
+        "FuncOrder": "7",
+        "OrgDesc": "Japan",
+        "Name": "SHINJO Yasuaki",
+        "NameS": "SHINJO Y",
+        "FuncDesc": "Judge"
+      },
+      {
+        "Reg": "9678048",
+        "Org": "GER",
+        "Order": 6,
+        "Function": "HEADJ",
+        "Extensions": [],
+        "Bib": "",
+        "FuncOrder": "6",
+        "OrgDesc": "Germany",
+        "Name": "WILKE Markus",
+        "NameS": "WILKE M",
+        "FuncDesc": "Head Judge"
+      }
+    ],
+    "Paralympic": false
+  },
+  "Competitors": [
+    {
+      "Reg": "7997291",
+      "Bib": "8",
+      "Org": "JPN",
+      "StartOrder": "8",
+      "StartSortOrder": 8,
+      "Rk": "1",
+      "RkEq": false,
+      "RkPo": 1,
+      "WLT": "",
+      "Result": "96.20",
+      "ResDetail": "96.20",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "1",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "AGE",
+          "Pos": 0,
+          "Value": "24",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "HEAT",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "UCICode",
+          "Pos": 0,
+          "Value": "100 685 737 28",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "WARNING",
+          "Pos": 0,
+          "Value": "F",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "WORLDRK",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        }
+      ],
+      "Name": "NAKAMURA Rimu",
+      "NameS": "NAKAMURA R",
+      "OrgDesc": "Japan",
+      "Splits": [
+        {
+          "Category": "MAIN",
+          "Distance": "0",
+          "Rk": "1",
+          "RkEq": false,
+          "RkPo": 1,
+          "RkAcc": "1",
+          "RkAccEq": false,
+          "RkAccPo": 1,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "92.80",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "92.80",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "Discard",
+          "Extensions": [
+            {
+              "Type": "ISBEST",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Category": "MAIN",
+          "Distance": "0",
+          "Rk": "1",
+          "RkEq": false,
+          "RkPo": 1,
+          "RkAcc": "1",
+          "RkAccEq": false,
+          "RkAccPo": 1,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "96.20",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "96.20",
+          "AcumulatedDiff": "",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "ISBEST",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "True",
+              "Extensions": []
+            }
+          ]
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_GOLD"
+    },
+    {
+      "Reg": "7996140",
+      "Bib": "7",
+      "Org": "JPN",
+      "StartOrder": "7",
+      "StartSortOrder": 7,
+      "Rk": "2",
+      "RkEq": false,
+      "RkPo": 2,
+      "WLT": "",
+      "Result": "90.00",
+      "ResDetail": "90.00",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "1",
+      "Seed": "0",
+      "Diff": "+6.20",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "AGE",
+          "Pos": 0,
+          "Value": "19",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "HEAT",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "UCICode",
+          "Pos": 0,
+          "Value": "101 231 534 06",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "WARNING",
+          "Pos": 0,
+          "Value": "F",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "WORLDRK",
+          "Pos": 0,
+          "Value": "24",
+          "Extensions": []
+        }
+      ],
+      "Name": "OZAWA Kaede",
+      "NameS": "OZAWA K",
+      "OrgDesc": "Japan",
+      "Splits": [
+        {
+          "Category": "MAIN",
+          "Distance": "0",
+          "Rk": "2",
+          "RkEq": false,
+          "RkPo": 2,
+          "RkAcc": "2",
+          "RkAccEq": false,
+          "RkAccPo": 2,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "88.20",
+          "Diff": "+-4.-60",
+          "LegResult": "",
+          "AcumulatedResult": "88.20",
+          "AcumulatedDiff": "+-4.-60",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "Discard",
+          "Extensions": [
+            {
+              "Type": "ISBEST",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Category": "MAIN",
+          "Distance": "0",
+          "Rk": "2",
+          "RkEq": false,
+          "RkPo": 2,
+          "RkAcc": "2",
+          "RkAccEq": false,
+          "RkAccPo": 2,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "90.00",
+          "Diff": "+-6.-20",
+          "LegResult": "",
+          "AcumulatedResult": "90.00",
+          "AcumulatedDiff": "+-6.-20",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "ISBEST",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "True",
+              "Extensions": []
+            }
+          ]
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_SILVER"
+    },
+    {
+      "Reg": "11976116",
+      "Bib": "6",
+      "Org": "CHN",
+      "StartOrder": "6",
+      "StartSortOrder": 6,
+      "Rk": "3",
+      "RkEq": false,
+      "RkPo": 3,
+      "WLT": "",
+      "Result": "86.20",
+      "ResDetail": "86.20",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "1",
+      "Seed": "0",
+      "Diff": "+10.00",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "AGE",
+          "Pos": 0,
+          "Value": "23",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "HEAT",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "UCICode",
+          "Pos": 0,
+          "Value": "10085892066",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "WARNING",
+          "Pos": 0,
+          "Value": "F",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "WORLDRK",
+          "Pos": 0,
+          "Value": "45",
+          "Extensions": []
+        }
+      ],
+      "Name": "SHA Xiaolong",
+      "NameS": "SHA X",
+      "OrgDesc": "People's Republic of China",
+      "Splits": [
+        {
+          "Category": "MAIN",
+          "Distance": "0",
+          "Rk": "3",
+          "RkEq": false,
+          "RkPo": 3,
+          "RkAcc": "3",
+          "RkAccEq": false,
+          "RkAccPo": 3,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "81.00",
+          "Diff": "+-11.-80",
+          "LegResult": "",
+          "AcumulatedResult": "81.00",
+          "AcumulatedDiff": "+-11.-80",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "Discard",
+          "Extensions": [
+            {
+              "Type": "ISBEST",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Category": "MAIN",
+          "Distance": "0",
+          "Rk": "3",
+          "RkEq": false,
+          "RkPo": 3,
+          "RkAcc": "3",
+          "RkAccEq": false,
+          "RkAccPo": 3,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "86.20",
+          "Diff": "+-10.00",
+          "LegResult": "",
+          "AcumulatedResult": "86.20",
+          "AcumulatedDiff": "+-10.00",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "ISBEST",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "True",
+              "Extensions": []
+            }
+          ]
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_BRONZE"
+    },
+    {
+      "Reg": "11976297",
+      "Bib": "4",
+      "Org": "CHN",
+      "StartOrder": "4",
+      "StartSortOrder": 4,
+      "Rk": "4",
+      "RkEq": false,
+      "RkPo": 4,
+      "WLT": "",
+      "Result": "84.80",
+      "ResDetail": "84.80",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "1",
+      "Seed": "0",
+      "Diff": "+11.40",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "AGE",
+          "Pos": 0,
+          "Value": "18",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "HEAT",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "UCICode",
+          "Pos": 0,
+          "Value": "10165391650",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "WARNING",
+          "Pos": 0,
+          "Value": "F",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "WORLDRK",
+          "Pos": 0,
+          "Value": "54",
+          "Extensions": []
+        }
+      ],
+      "Name": "LIU Xing",
+      "NameS": "LIU X",
+      "OrgDesc": "People's Republic of China",
+      "Splits": [
+        {
+          "Category": "MAIN",
+          "Distance": "0",
+          "Rk": "4",
+          "RkEq": false,
+          "RkPo": 4,
+          "RkAcc": "4",
+          "RkAccEq": false,
+          "RkAccPo": 4,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "80.20",
+          "Diff": "+-12.-60",
+          "LegResult": "",
+          "AcumulatedResult": "80.20",
+          "AcumulatedDiff": "+-12.-60",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "Discard",
+          "Extensions": [
+            {
+              "Type": "ISBEST",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Category": "MAIN",
+          "Distance": "0",
+          "Rk": "4",
+          "RkEq": false,
+          "RkPo": 4,
+          "RkAcc": "4",
+          "RkAccEq": false,
+          "RkAccPo": 4,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "84.80",
+          "Diff": "+-11.-40",
+          "LegResult": "",
+          "AcumulatedResult": "84.80",
+          "AcumulatedDiff": "+-11.-40",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "ISBEST",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "True",
+              "Extensions": []
+            }
+          ]
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": ""
+    },
+    {
+      "Reg": "525696",
+      "Bib": "5",
+      "Org": "KOR",
+      "StartOrder": "5",
+      "StartSortOrder": 5,
+      "Rk": "5",
+      "RkEq": false,
+      "RkPo": 5,
+      "WLT": "",
+      "Result": "82.20",
+      "ResDetail": "82.20",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "1",
+      "Seed": "0",
+      "Diff": "+14.00",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "AGE",
+          "Pos": 0,
+          "Value": "17",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "HEAT",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "UCICode",
+          "Pos": 0,
+          "Value": "101 427 633 68",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "WARNING",
+          "Pos": 0,
+          "Value": "F",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "WORLDRK",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        }
+      ],
+      "Name": "KIM Yool",
+      "NameS": "KIM Y",
+      "OrgDesc": "Republic of Korea",
+      "Splits": [
+        {
+          "Category": "MAIN",
+          "Distance": "0",
+          "Rk": "7",
+          "RkEq": false,
+          "RkPo": 7,
+          "RkAcc": "7",
+          "RkAccEq": false,
+          "RkAccPo": 7,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "41.00",
+          "Diff": "+-51.-80",
+          "LegResult": "",
+          "AcumulatedResult": "41.00",
+          "AcumulatedDiff": "+-51.-80",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "Discard",
+          "Extensions": [
+            {
+              "Type": "ISBEST",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Category": "MAIN",
+          "Distance": "0",
+          "Rk": "5",
+          "RkEq": false,
+          "RkPo": 5,
+          "RkAcc": "5",
+          "RkAccEq": false,
+          "RkAccPo": 5,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "82.20",
+          "Diff": "+-14.00",
+          "LegResult": "",
+          "AcumulatedResult": "82.20",
+          "AcumulatedDiff": "+-14.00",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "ISBEST",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "True",
+              "Extensions": []
+            }
+          ]
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": ""
+    },
+    {
+      "Reg": "4834237",
+      "Bib": "3",
+      "Org": "THA",
+      "StartOrder": "3",
+      "StartSortOrder": 3,
+      "Rk": "6",
+      "RkEq": false,
+      "RkPo": 6,
+      "WLT": "",
+      "Result": "60.80",
+      "ResDetail": "60.80",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "1",
+      "Seed": "0",
+      "Diff": "+35.40",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "AGE",
+          "Pos": 0,
+          "Value": "30",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "HEAT",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "UCICode",
+          "Pos": 0,
+          "Value": "10062332685",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "WARNING",
+          "Pos": 0,
+          "Value": "F",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "WORLDRK",
+          "Pos": 0,
+          "Value": "90",
+          "Extensions": []
+        }
+      ],
+      "Name": "PHETNUM Saithan",
+      "NameS": "PHETNUM S",
+      "OrgDesc": "Thailand",
+      "Splits": [
+        {
+          "Category": "MAIN",
+          "Distance": "0",
+          "Rk": "5",
+          "RkEq": false,
+          "RkPo": 5,
+          "RkAcc": "5",
+          "RkAccEq": false,
+          "RkAccPo": 5,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "60.80",
+          "Diff": "+-32.00",
+          "LegResult": "",
+          "AcumulatedResult": "60.80",
+          "AcumulatedDiff": "+-32.00",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "ISBEST",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "True",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Category": "MAIN",
+          "Distance": "0",
+          "Rk": "7",
+          "RkEq": false,
+          "RkPo": 7,
+          "RkAcc": "6",
+          "RkAccEq": false,
+          "RkAccPo": 6,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "45.00",
+          "Diff": "+-51.-20",
+          "LegResult": "",
+          "AcumulatedResult": "60.80",
+          "AcumulatedDiff": "+-35.-40",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "Discard",
+          "Extensions": [
+            {
+              "Type": "ISBEST",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            }
+          ]
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": ""
+    },
+    {
+      "Reg": "734506",
+      "Bib": "2",
+      "Org": "THA",
+      "StartOrder": "2",
+      "StartSortOrder": 2,
+      "Rk": "7",
+      "RkEq": false,
+      "RkPo": 7,
+      "WLT": "",
+      "Result": "54.20",
+      "ResDetail": "54.20",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "1",
+      "Seed": "0",
+      "Diff": "+42.00",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "AGE",
+          "Pos": 0,
+          "Value": "35",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "HEAT",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "UCICode",
+          "Pos": 0,
+          "Value": "10069243129",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "WARNING",
+          "Pos": 0,
+          "Value": "F",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "WORLDRK",
+          "Pos": 0,
+          "Value": "86",
+          "Extensions": []
+        }
+      ],
+      "Name": "PHAMEE Rungrueang",
+      "NameS": "PHAMEE R",
+      "OrgDesc": "Thailand",
+      "Splits": [
+        {
+          "Category": "MAIN",
+          "Distance": "0",
+          "Rk": "8",
+          "RkEq": false,
+          "RkPo": 8,
+          "RkAcc": "8",
+          "RkAccEq": false,
+          "RkAccPo": 8,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "34.20",
+          "Diff": "+-58.-60",
+          "LegResult": "",
+          "AcumulatedResult": "34.20",
+          "AcumulatedDiff": "+-58.-60",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "Discard",
+          "Extensions": [
+            {
+              "Type": "ISBEST",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Category": "MAIN",
+          "Distance": "0",
+          "Rk": "6",
+          "RkEq": false,
+          "RkPo": 6,
+          "RkAcc": "7",
+          "RkAccEq": false,
+          "RkAccPo": 7,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "54.20",
+          "Diff": "+-42.00",
+          "LegResult": "",
+          "AcumulatedResult": "54.20",
+          "AcumulatedDiff": "+-42.00",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "ISBEST",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "True",
+              "Extensions": []
+            }
+          ]
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": ""
+    },
+    {
+      "Reg": "1806041",
+      "Bib": "1",
+      "Org": "TPE",
+      "StartOrder": "1",
+      "StartSortOrder": 1,
+      "Rk": "8",
+      "RkEq": false,
+      "RkPo": 8,
+      "WLT": "",
+      "Result": "45.20",
+      "ResDetail": "45.20",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "1",
+      "Seed": "0",
+      "Diff": "+51.00",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "AGE",
+          "Pos": 0,
+          "Value": "32",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "HEAT",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "UCICode",
+          "Pos": 0,
+          "Value": "10085476582",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "WARNING",
+          "Pos": 0,
+          "Value": "F",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "WORLDRK",
+          "Pos": 0,
+          "Value": "75",
+          "Extensions": []
+        }
+      ],
+      "Name": "CHENG Chiao-hung",
+      "NameS": "CHENG C",
+      "OrgDesc": "Chinese Taipei",
+      "Splits": [
+        {
+          "Category": "MAIN",
+          "Distance": "0",
+          "Rk": "6",
+          "RkEq": false,
+          "RkPo": 6,
+          "RkAcc": "6",
+          "RkAccEq": false,
+          "RkAccPo": 6,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "45.20",
+          "Diff": "+-47.-60",
+          "LegResult": "",
+          "AcumulatedResult": "45.20",
+          "AcumulatedDiff": "+-47.-60",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "OK",
+          "Extensions": [
+            {
+              "Type": "ISBEST",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "True",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Category": "MAIN",
+          "Distance": "0",
+          "Rk": "8",
+          "RkEq": false,
+          "RkPo": 8,
+          "RkAcc": "8",
+          "RkAccEq": false,
+          "RkAccPo": 8,
+          "LegRk": "0",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "32.80",
+          "Diff": "+-63.-40",
+          "LegResult": "",
+          "AcumulatedResult": "45.20",
+          "AcumulatedDiff": "+-51.00",
+          "IRM": "OK",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "Discard",
+          "Extensions": [
+            {
+              "Type": "ISBEST",
+              "Code": "IsBest",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            }
+          ]
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": ""
+    }
+  ],
+  "Legends": {
+    "records": [],
+    "irms": [],
+    "qs": []
+  }
+}
