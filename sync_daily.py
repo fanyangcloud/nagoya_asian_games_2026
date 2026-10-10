@@ -49,6 +49,15 @@ BASE_SCHEDULE_URL = "https://back.results.asiangames2026.org/s/AG2026/en/ALL/sch
 BASE_RESULT_URL = "https://back.results.asiangames2026.org/s/AG2026/en/{disc}/results/{key}"
 REPORTS_API_URL = "https://back.results.asiangames2026.org/s/AG2026/en/{disc}/reports/unit/{key}"
 
+# 关注的热门球类项目白名单（全轮次同步，排除三人篮球）：足球、五人制篮球、网球、乒乓球、羽毛球
+POPULAR_DISCS = {
+    "FBL",  # 足球
+    "BKB",  # 五人制篮球
+    "TEN",  # 网球
+    "TTE",  # 乒乓球
+    "BDM",  # 羽毛球
+}
+
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
@@ -117,35 +126,38 @@ def pick_best_final_pdf(report_groups: list) -> Optional[dict]:
 
 def sync_gold_match_data(matches: list, session: requests.Session):
     """
-    全量/增量同步金牌战的 JSON 战报与官方 PDF 原始技术公报
+    全量/增量同步：所有金牌战 + 五大热门球类全轮次的 JSON 战报与官方 PDF
     """
     os.makedirs(RESULTS_DIR, exist_ok=True)
     json_updated = 0
     pdf_updated = 0
 
-    # 提取已决出金牌的比赛
-    gold_matches = [
+    # 只要已完赛(OFFICIAL)，且满足【是金牌赛】或【属于五大热门球类项目全轮次】
+    target_matches = [
         m for m in matches 
-        if m.get("Medal") == "1" and m.get("Status") == "OFFICIAL"
+        if m.get("Medal") == "1" or (m.get("Status") == "OFFICIAL" and m.get("Disc") in POPULAR_DISCS)
     ]
     
-    if not gold_matches:
-        print("☕ 暂无新决出的金牌赛事。")
+    if not target_matches:
+        print("☕ 暂无新完赛的目标赛事。")
         return
 
-    print(f"\n📊 正在巡检金牌战数据 (本轮共 {len(gold_matches)} 场金牌赛) ...")
+    print(f"\n📊 正在巡检战报数据 (本轮共 {len(target_matches)} 场目标比赛) ...")
 
-    for m in gold_matches:
+    for m in target_matches:
         disc = m.get("Disc")
         key = m.get("Key")
         desc = m.get("EventDesc")
+        is_medal = m.get("Medal") == "1"
+        tag = "🥇金牌" if is_medal else "🔥热门"
+        
         target_json = os.path.join(RESULTS_DIR, f"{key}.json")
         target_pdf = os.path.join(RESULTS_DIR, f"{key}.pdf")
 
         # 1. 同步 JSON 战报
         need_json = not os.path.exists(target_json) or os.path.getsize(target_json) < 50
         if need_json:
-            print(f"🥇 同步战报JSON [{disc}] {desc} ...", end=" ", flush=True)
+            print(f"{tag} 同步战报JSON [{disc}] {desc} ...", end=" ", flush=True)
             url = BASE_RESULT_URL.format(disc=disc, key=key)
             try:
                 res = session.get(url, headers=HEADERS, timeout=15)
@@ -206,9 +218,12 @@ def run():
     session = requests.Session()
 
     # 1. 同步今天与昨天的最新赛程（覆盖更新）
-    today = date.today()
-    yesterday = today - timedelta(days=1)
-    dates_to_sync = [yesterday.strftime("%Y-%m-%d"), today.strftime("%Y-%m-%d")]
+    start_d = date(2026, 9, 10)
+    end_d = date(2026, 10, 4)
+    dates_to_sync = [
+        (start_d + timedelta(days=i)).strftime("%Y-%m-%d")
+        for i in range((end_d - start_d).days + 1)
+    ]
 
     for d_str in dates_to_sync:
         sync_schedule_for_date(d_str, session)
@@ -231,7 +246,7 @@ def run():
         except Exception:
             pass
 
-    # 3. 增量同步金牌战的 JSON 与官方 PDF
+    # 3. 增量同步金牌战及热门球类赛事的 JSON 与官方 PDF
     sync_gold_match_data(all_schedule_matches, session)
 
     # 4. 自动触发 DeepSeek 多语言增量翻译
