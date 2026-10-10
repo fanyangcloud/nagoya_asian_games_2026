@@ -1,1 +1,562 @@
-null
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "JUD",
+    "DiscDesc": "Judo",
+    "Key": "M.O100KG------------.FNL-.000100--",
+    "isH2H": true,
+    "Type": "A",
+    "Medal": "1",
+    "Status": "OFFICIAL",
+    "StatusDesc": "Official",
+    "DateTimeRaw": "2026-10-02T17:00:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "",
+    "HideLocation": false,
+    "Venue": "AIA",
+    "VenueDesc": "Aichi International Arena",
+    "VenueDescS": "Aichi International Arena",
+    "Loc": "JUD1",
+    "LocDesc": "AIA Tatami 1",
+    "LocDescS": "AIA Tatami 1",
+    "Event": "M.O100KG------------",
+    "EventDesc": "Men +100kg",
+    "Phase": "M.O100KG------------.FNL-",
+    "PhaseOrder": 56,
+    "PhaseDesc": "Men +100 kg Final",
+    "PhaseDescS": "Men +100 kg Final",
+    "PhaseDescA": "Final",
+    "UnitDesc": "Men +100 kg Final",
+    "UnitDescS": "Men +100 kg Final",
+    "UnitDescA": "Men +100 kg Final",
+    "EndDateTimeRaw": "2026-10-02T18:46:05+09:00",
+    "ActualEndDateTimeRaw": "2026-10-02T18:46:05+09:00",
+    "UnitNum": "46",
+    "IsLive": false,
+    "ShowResults": true,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "100-0s1",
+    "ResDetail": "Ippon",
+    "Duration": "00:06:35",
+    "CurrentPeriod": 1,
+    "Current": "",
+    "Last": "",
+    "Extensions": [
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Progression",
+        "Pos": 0,
+        "Value": "",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Decision",
+        "Pos": 0,
+        "Value": "IPP",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "DecisionText",
+        "Pos": 0,
+        "Value": "won by Ippon in 3:52",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "DecisionInfo",
+        "Pos": 0,
+        "Value": "Ippon|3:52",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "GoldenScore",
+        "Pos": 0,
+        "Value": "false",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "InfoMatch",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "InfoTeam",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "ServerHomeAway",
+        "Pos": 0,
+        "Value": "",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "TeamCategories",
+        "Pos": 0,
+        "Value": "",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Technique_01",
+        "Pos": 0,
+        "Value": "2:50;Shido;White",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Technique_02",
+        "Pos": 0,
+        "Value": "3:52;Ippon;Blue",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "TimeDetail",
+        "Pos": 0,
+        "Value": "3:52",
+        "Extensions": []
+      }
+    ],
+    "Periods": [],
+    "Officials": [
+      {
+        "Reg": "10864773",
+        "Org": "TPE",
+        "Function": "RE",
+        "Bib": "",
+        "Extensions": [],
+        "OrgDesc": "Chinese Taipei",
+        "Name": "LIAO Chun-Chiang",
+        "NameS": "LIAO C",
+        "FuncDesc": "Referee"
+      }
+    ],
+    "Paralympic": false
+  },
+  "Competitors": [
+    {
+      "Reg": "5926743",
+      "Bib": "",
+      "Org": "JPN",
+      "MedClass": "",
+      "StartOrder": "",
+      "StartSortOrder": 0,
+      "Rk": "2",
+      "RkEq": false,
+      "RkPo": 2,
+      "WLT": "L",
+      "Result": "0S1",
+      "ResDetail": "0S1",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BestResult",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Color",
+          "Pos": 0,
+          "Value": "White",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Detailed",
+          "Pos": 0,
+          "Value": "0s1",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Ippon",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Outcome",
+          "Pos": 0,
+          "Value": "Awarded Silver Medal",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Shido",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Warning",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "WazaAri",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "WorldRanking",
+          "Pos": 0,
+          "Value": "5",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Yuko",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "MemberServer",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Server",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Time",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "PREV_RESULT",
+          "Code": "UNIT_KEY",
+          "Pos": 1,
+          "Value": "JUDMO100KG------------SFNL000100--",
+          "Extensions": [
+            {
+              "Type": "RESULT",
+              "Code": "Register",
+              "Pos": 0,
+              "Value": "5926743"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "RegisterOpp",
+              "Pos": 0,
+              "Value": "8022247"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "Result",
+              "Pos": 0,
+              "Value": "1s1-0s2"
+            }
+          ]
+        }
+      ],
+      "Name": "OTA Hyoga",
+      "NameS": "OTA H",
+      "OrgDesc": "Japan",
+      "Splits": [
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": true,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": true,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "",
+          "Extensions": [
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Ippon",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Shido",
+              "Pos": 0,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "WazaAri",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Yuko",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            }
+          ]
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_SILVER"
+    },
+    {
+      "Reg": "2100691",
+      "Bib": "",
+      "Org": "UZB",
+      "MedClass": "",
+      "StartOrder": "",
+      "StartSortOrder": 0,
+      "Rk": "1",
+      "RkEq": false,
+      "RkPo": 1,
+      "WLT": "W",
+      "Result": "100",
+      "ResDetail": "100",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BestResult",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Color",
+          "Pos": 0,
+          "Value": "Blue",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Detailed",
+          "Pos": 0,
+          "Value": "100",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Ippon",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Outcome",
+          "Pos": 0,
+          "Value": "Awarded Gold Medal",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Shido",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Warning",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "WazaAri",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "WorldRanking",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Yuko",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "MemberServer",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Server",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Time",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "PREV_RESULT",
+          "Code": "UNIT_KEY",
+          "Pos": 1,
+          "Value": "JUDMO100KG------------SFNL000200--",
+          "Extensions": [
+            {
+              "Type": "RESULT",
+              "Code": "Register",
+              "Pos": 0,
+              "Value": "2100691"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "RegisterOpp",
+              "Pos": 0,
+              "Value": "9507375"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "Result",
+              "Pos": 0,
+              "Value": "101-0"
+            }
+          ]
+        }
+      ],
+      "Name": "TUROBOYEV Muzaffarbek",
+      "NameS": "TUROBOYEV M",
+      "OrgDesc": "Uzbekistan",
+      "Splits": [
+        {
+          "Category": "",
+          "Distance": "",
+          "Rk": "",
+          "RkEq": true,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": true,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "RecordInd": "",
+          "RecordBest": "",
+          "Status": "",
+          "Extensions": [
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Ippon",
+              "Pos": 0,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Shido",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "WazaAri",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Yuko",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            }
+          ]
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_GOLD"
+    }
+  ],
+  "Legends": {
+    "records": [],
+    "irms": [],
+    "qs": []
+  }
+}

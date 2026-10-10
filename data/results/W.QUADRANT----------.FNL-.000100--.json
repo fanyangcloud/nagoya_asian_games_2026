@@ -1,1 +1,850 @@
-null
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "SPK",
+    "DiscDesc": "Sepaktakraw",
+    "Key": "W.QUADRANT----------.FNL-.000100--",
+    "isH2H": true,
+    "Type": "T",
+    "Medal": "1",
+    "Status": "OFFICIAL",
+    "StatusDesc": "Official",
+    "DateTimeRaw": "2026-10-03T09:00:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "",
+    "HideLocation": false,
+    "Venue": "MPG",
+    "VenueDesc": "",
+    "VenueDescS": "",
+    "Loc": "SE2",
+    "LocDesc": "Nagoya City Mizuho Park Gymnasium - Court 2",
+    "LocDescS": "Court 2",
+    "Event": "W.QUADRANT----------",
+    "EventDesc": "Women's Quadrant",
+    "Phase": "W.QUADRANT----------.FNL-",
+    "PhaseOrder": 42,
+    "PhaseDesc": "Women's Quadrant Final",
+    "PhaseDescS": "Women's Quadrant Final",
+    "PhaseDescA": "Final",
+    "UnitDesc": "Women's Quadrant Gold Medal Match",
+    "UnitDescS": "Women's Quadrant Gold Medal Match",
+    "UnitDescA": "Women's Quadrant Gold Medal Match",
+    "EndDateTimeRaw": "2026-10-03T10:23:12+09:00",
+    "ActualEndDateTimeRaw": "2026-10-03T10:23:12+09:00",
+    "UnitNum": "WQ15",
+    "IsLive": false,
+    "ShowResults": true,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "2-1",
+    "ResDetail": "15:11,15:17,15:11",
+    "Duration": "75",
+    "CurrentPeriod": 3,
+    "Current": "",
+    "Last": "",
+    "Extensions": [],
+    "Periods": [
+      {
+        "Order": 1,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "15",
+        "ResAway": "11",
+        "TotHome": "2",
+        "TotAway": "1",
+        "Extensions": [],
+        "Desc": "Set 1",
+        "DescS": "Set 1"
+      },
+      {
+        "Order": 2,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "15",
+        "ResAway": "17",
+        "TotHome": "2",
+        "TotAway": "1",
+        "Extensions": [],
+        "Desc": "Set 2",
+        "DescS": "Set 2"
+      },
+      {
+        "Order": 3,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "15",
+        "ResAway": "11",
+        "TotHome": "2",
+        "TotAway": "1",
+        "Extensions": [],
+        "Desc": "Set 3",
+        "DescS": "Set 3"
+      }
+    ],
+    "Officials": [
+      {
+        "Reg": "8361034",
+        "Org": "MAS",
+        "Function": "SE03",
+        "Bib": "",
+        "Extensions": [],
+        "OrgDesc": "Malaysia",
+        "Name": "Muhamad Ariffin AHMAD RAHIM",
+        "NameS": "BIN AHMAD RAHIM MA",
+        "FuncDesc": "Official Referee"
+      },
+      {
+        "Reg": "11772073",
+        "Org": "IND",
+        "Function": "SE03",
+        "Bib": "",
+        "Extensions": [],
+        "OrgDesc": "India",
+        "Name": "KUMAR Karunesh",
+        "NameS": "KUMAR K",
+        "FuncDesc": "Court Referee"
+      },
+      {
+        "Reg": "11673512",
+        "Org": "MAS",
+        "Function": "SE03",
+        "Bib": "",
+        "Extensions": [],
+        "OrgDesc": "Malaysia",
+        "Name": "BIN MUHAMAD SHARI Mohd Zubir",
+        "NameS": "BIN MUHAMAD SHARI",
+        "FuncDesc": "Referee"
+      },
+      {
+        "Reg": "7661803",
+        "Org": "INA",
+        "Function": "SE03",
+        "Bib": "",
+        "Extensions": [],
+        "OrgDesc": "Indonesia",
+        "Name": "JAMALONG Ahmad",
+        "NameS": "JAMALONG A",
+        "FuncDesc": "Assistant Referee"
+      },
+      {
+        "Reg": "1956700",
+        "Org": "MAS",
+        "Function": "SE03",
+        "Bib": "",
+        "Extensions": [],
+        "OrgDesc": "Malaysia",
+        "Name": "BIN MANSOR Muzaini",
+        "NameS": "BIN MANSOR M",
+        "FuncDesc": "Line Referee"
+      },
+      {
+        "Reg": "2543159",
+        "Org": "MYA",
+        "Function": "SE03",
+        "Bib": "",
+        "Extensions": [],
+        "OrgDesc": "Myanmar",
+        "Name": "MOE Kyaw Yar Za",
+        "NameS": "MOE KYZ",
+        "FuncDesc": "Line Referee"
+      },
+      {
+        "Reg": "3695836",
+        "Org": "SGP",
+        "Function": "SE03",
+        "Bib": "",
+        "Extensions": [],
+        "OrgDesc": "Singapore",
+        "Name": "BINTE MOHAMMED RADHI Nor Azura",
+        "NameS": "BINTE MOHAMMED RA.",
+        "FuncDesc": "Challenge Referee"
+      },
+      {
+        "Reg": "1215186",
+        "Org": "NEP",
+        "Function": "SE03",
+        "Bib": "",
+        "Extensions": [],
+        "OrgDesc": "Nepal",
+        "Name": "THAPA MAGAR Som Maya",
+        "NameS": "THAPA MAGAR SM",
+        "FuncDesc": "Challenge Referee"
+      }
+    ],
+    "Paralympic": false
+  },
+  "Competitors": [
+    {
+      "Reg": "SPKWQUADRANT---VIE01",
+      "Bib": "",
+      "Org": "VIE",
+      "MedClass": "",
+      "StartOrder": "",
+      "StartSortOrder": 0,
+      "Rk": "1",
+      "RkEq": false,
+      "RkPo": 1,
+      "WLT": "W",
+      "Result": "2",
+      "ResDetail": "15, 15, 15",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [],
+      "Name": "Vietnam",
+      "NameS": "Vietnam",
+      "OrgDesc": "Vietnam",
+      "Splits": [
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "15",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OFFICIAL",
+          "Extensions": []
+        },
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "15",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OFFICIAL",
+          "Extensions": []
+        },
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "15",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OFFICIAL",
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_GOLD",
+      "Members": [
+        {
+          "Reg": "13344642",
+          "Org": "VIE",
+          "Bib": "2",
+          "Function": "AA01",
+          "Position": "F",
+          "Captain": true,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "163.00",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "1998-02-16",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 2,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": true,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "NGUYEN Thi My",
+          "NameS": "NGUYEN TM",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Feeder"
+        },
+        {
+          "Reg": "13348511",
+          "Org": "VIE",
+          "Bib": "4",
+          "Function": "AA01",
+          "Position": "S",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "176.00",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2004-04-06",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 4,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": true,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "TRAN Thi Ngoc Yen",
+          "NameS": "TRAN TNY",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Striker"
+        },
+        {
+          "Reg": "3051894",
+          "Org": "VIE",
+          "Bib": "8",
+          "Function": "AA01",
+          "Position": "F",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "160.00",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2000-07-31",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 8,
+          "Substitute": true,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "HOANG Thi Thu Thao",
+          "NameS": "HOANG TTT",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Feeder"
+        },
+        {
+          "Reg": "3164652",
+          "Org": "VIE",
+          "Bib": "11",
+          "Function": "AA01",
+          "Position": "S",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "170.00",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "1996-11-04",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 11,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": true,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "NGUYEN Thi Yen",
+          "NameS": "NGUYEN TY",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Striker"
+        },
+        {
+          "Reg": "3055877",
+          "Org": "VIE",
+          "Bib": "12",
+          "Function": "AA01",
+          "Position": "F",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "166.00",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "1999-10-03",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 12,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": true,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "NGUYEN Thi Ngoc Huyen",
+          "NameS": "NGUYEN TNH",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Feeder"
+        },
+        {
+          "Reg": "3053367",
+          "Org": "VIE",
+          "Bib": "13",
+          "Function": "AA01",
+          "Position": "S",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "164.00",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2001-05-24",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 13,
+          "Substitute": true,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "LE Ngoc Tuyet",
+          "NameS": "LE NT",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Striker"
+        }
+      ]
+    },
+    {
+      "Reg": "SPKWQUADRANT---THA01",
+      "Bib": "",
+      "Org": "THA",
+      "MedClass": "",
+      "StartOrder": "",
+      "StartSortOrder": 0,
+      "Rk": "2",
+      "RkEq": false,
+      "RkPo": 0,
+      "WLT": "L",
+      "Result": "1",
+      "ResDetail": "11, 17, 11",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [],
+      "Name": "Thailand",
+      "NameS": "Thailand",
+      "OrgDesc": "Thailand",
+      "Splits": [
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "11",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OFFICIAL",
+          "Extensions": []
+        },
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "17",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OFFICIAL",
+          "Extensions": []
+        },
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "11",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OFFICIAL",
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_SILVER",
+      "Members": [
+        {
+          "Reg": "12083033",
+          "Org": "THA",
+          "Bib": "6",
+          "Function": "AA01",
+          "Position": "S",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "166.00",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "1999-04-21",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 6,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "THONGSOD Ratsamee",
+          "NameS": "THONGSOD R",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Striker"
+        },
+        {
+          "Reg": "12083785",
+          "Org": "THA",
+          "Bib": "7",
+          "Function": "AA01",
+          "Position": "S",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "168.00",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "1996-01-05",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 7,
+          "Substitute": true,
+          "Convoke": false,
+          "InField": true,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "BUNTHOD Manlika",
+          "NameS": "BUNTHOD M",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Striker"
+        },
+        {
+          "Reg": "5077794",
+          "Org": "THA",
+          "Bib": "10",
+          "Function": "AA01",
+          "Position": "S",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "171.00",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "1994-06-03",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 10,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": true,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "PRUEPRUK Somruedee",
+          "NameS": "PRUEPRUK S",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Striker"
+        },
+        {
+          "Reg": "849443",
+          "Org": "THA",
+          "Bib": "12",
+          "Function": "AA01",
+          "Position": "T",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "172.00",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "1999-04-18",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 12,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": true,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "CHITPHUAN Wiphada",
+          "NameS": "CHITPHUAN W",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Tekong"
+        },
+        {
+          "Reg": "859840",
+          "Org": "THA",
+          "Bib": "14",
+          "Function": "AA01",
+          "Position": "F",
+          "Captain": true,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "158.00",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "1998-11-18",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 14,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "SAEHEANG Ratchaneekorn",
+          "NameS": "SAEHEANG R",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Feeder"
+        },
+        {
+          "Reg": "8238433",
+          "Org": "THA",
+          "Bib": "36",
+          "Function": "AA01",
+          "Position": "F",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "168.00",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "1990-12-11",
+              "Extensions": []
+            }
+          ],
+          "Gender": "W",
+          "Order": 36,
+          "Substitute": true,
+          "Convoke": false,
+          "InField": true,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "DUANGSRI Masaya",
+          "NameS": "DUANGSRI M",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Feeder"
+        }
+      ]
+    }
+  ],
+  "Legends": {
+    "records": [],
+    "irms": [],
+    "qs": [],
+    "funcs": [
+      {
+        "DescS": "AA01",
+        "Desc": "Athlete"
+      }
+    ],
+    "pos": [
+      {
+        "DescS": "F",
+        "Desc": "Feeder"
+      },
+      {
+        "DescS": "S",
+        "Desc": "Striker"
+      },
+      {
+        "DescS": "T",
+        "Desc": "Tekong"
+      }
+    ],
+    "captain": "legends.captain"
+  }
+}

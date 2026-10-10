@@ -1,0 +1,6579 @@
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "GLF",
+    "DiscDesc": "Golf",
+    "Key": "W.TEAM--------------.FNL-.000400--",
+    "isH2H": false,
+    "Type": "A",
+    "Medal": "1",
+    "Status": "OFFICIAL",
+    "StatusDesc": "Official",
+    "DateTimeRaw": "2026-10-03T06:10:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "",
+    "HideLocation": false,
+    "Venue": "CCE",
+    "VenueDesc": "Kasugai Country Club East Course",
+    "VenueDescS": "Kasugai Country Club East Course",
+    "Loc": "CCE",
+    "LocDesc": "Kasugai Country Club East Course",
+    "LocDescS": "Kasugai Country Club East Course",
+    "Event": "W.TEAM--------------",
+    "EventDesc": "Women's Team",
+    "Phase": "W.TEAM--------------.FNL-",
+    "PhaseOrder": 4,
+    "PhaseDesc": "Women's Team",
+    "PhaseDescS": "Women's Team",
+    "PhaseDescA": "Rounds",
+    "UnitDesc": "Round 4",
+    "UnitDescS": "Round 4",
+    "UnitDescA": "Round 4",
+    "EndDateTimeRaw": "2026-10-03T13:36:25+09:00",
+    "ActualEndDateTimeRaw": "2026-10-03T13:36:25+09:00",
+    "UnitNum": "412",
+    "IsLive": false,
+    "ShowResults": true,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "",
+    "ResDetail": "",
+    "Duration": "",
+    "Current": "",
+    "Last": "",
+    "Extensions": [
+      {
+        "Type": "UNIT_INFO",
+        "Code": "InfoMatch",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "InfoTeam",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Round",
+        "Pos": 0,
+        "Value": "4",
+        "Extensions": []
+      }
+    ],
+    "Periods": [
+      {
+        "Order": 1,
+        "Duration": "",
+        "Distance": "347",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [
+          {
+            "Type": "UNIT_INFO",
+            "Code": "TOPAR",
+            "Pos": 1,
+            "Value": "4",
+            "Extensions": []
+          }
+        ],
+        "Desc": "Hole 1",
+        "DescS": "H1"
+      },
+      {
+        "Order": 2,
+        "Duration": "",
+        "Distance": "327",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [
+          {
+            "Type": "UNIT_INFO",
+            "Code": "TOPAR",
+            "Pos": 1,
+            "Value": "4",
+            "Extensions": []
+          }
+        ],
+        "Desc": "Hole 2",
+        "DescS": "H2"
+      },
+      {
+        "Order": 3,
+        "Duration": "",
+        "Distance": "424",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [
+          {
+            "Type": "UNIT_INFO",
+            "Code": "TOPAR",
+            "Pos": 1,
+            "Value": "4",
+            "Extensions": []
+          }
+        ],
+        "Desc": "Hole 3",
+        "DescS": "H3"
+      },
+      {
+        "Order": 4,
+        "Duration": "",
+        "Distance": "138",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [
+          {
+            "Type": "UNIT_INFO",
+            "Code": "TOPAR",
+            "Pos": 1,
+            "Value": "3",
+            "Extensions": []
+          }
+        ],
+        "Desc": "Hole 4",
+        "DescS": "H4"
+      },
+      {
+        "Order": 5,
+        "Duration": "",
+        "Distance": "367",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [
+          {
+            "Type": "UNIT_INFO",
+            "Code": "TOPAR",
+            "Pos": 1,
+            "Value": "4",
+            "Extensions": []
+          }
+        ],
+        "Desc": "Hole 5",
+        "DescS": "H5"
+      },
+      {
+        "Order": 6,
+        "Duration": "",
+        "Distance": "369",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [
+          {
+            "Type": "UNIT_INFO",
+            "Code": "TOPAR",
+            "Pos": 1,
+            "Value": "4",
+            "Extensions": []
+          }
+        ],
+        "Desc": "Hole 6",
+        "DescS": "H6"
+      },
+      {
+        "Order": 7,
+        "Duration": "",
+        "Distance": "117",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [
+          {
+            "Type": "UNIT_INFO",
+            "Code": "TOPAR",
+            "Pos": 1,
+            "Value": "3",
+            "Extensions": []
+          }
+        ],
+        "Desc": "Hole 7",
+        "DescS": "H7"
+      },
+      {
+        "Order": 8,
+        "Duration": "",
+        "Distance": "462",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [
+          {
+            "Type": "UNIT_INFO",
+            "Code": "TOPAR",
+            "Pos": 1,
+            "Value": "5",
+            "Extensions": []
+          }
+        ],
+        "Desc": "Hole 8",
+        "DescS": "H8"
+      },
+      {
+        "Order": 9,
+        "Duration": "",
+        "Distance": "342",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [
+          {
+            "Type": "UNIT_INFO",
+            "Code": "TOPAR",
+            "Pos": 1,
+            "Value": "4",
+            "Extensions": []
+          }
+        ],
+        "Desc": "Hole 9",
+        "DescS": "H9"
+      },
+      {
+        "Order": 10,
+        "Duration": "",
+        "Distance": "324",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [
+          {
+            "Type": "UNIT_INFO",
+            "Code": "TOPAR",
+            "Pos": 1,
+            "Value": "4",
+            "Extensions": []
+          }
+        ],
+        "Desc": "Hole 10",
+        "DescS": "H10"
+      },
+      {
+        "Order": 11,
+        "Duration": "",
+        "Distance": "316",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [
+          {
+            "Type": "UNIT_INFO",
+            "Code": "TOPAR",
+            "Pos": 1,
+            "Value": "4",
+            "Extensions": []
+          }
+        ],
+        "Desc": "Hole 11",
+        "DescS": "H11"
+      },
+      {
+        "Order": 12,
+        "Duration": "",
+        "Distance": "140",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [
+          {
+            "Type": "UNIT_INFO",
+            "Code": "TOPAR",
+            "Pos": 1,
+            "Value": "3",
+            "Extensions": []
+          }
+        ],
+        "Desc": "Hole 12",
+        "DescS": "H12"
+      },
+      {
+        "Order": 13,
+        "Duration": "",
+        "Distance": "449",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [
+          {
+            "Type": "UNIT_INFO",
+            "Code": "TOPAR",
+            "Pos": 1,
+            "Value": "5",
+            "Extensions": []
+          }
+        ],
+        "Desc": "Hole 13",
+        "DescS": "H13"
+      },
+      {
+        "Order": 14,
+        "Duration": "",
+        "Distance": "333",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [
+          {
+            "Type": "UNIT_INFO",
+            "Code": "TOPAR",
+            "Pos": 1,
+            "Value": "4",
+            "Extensions": []
+          }
+        ],
+        "Desc": "Hole 14",
+        "DescS": "H14"
+      },
+      {
+        "Order": 15,
+        "Duration": "",
+        "Distance": "154",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [
+          {
+            "Type": "UNIT_INFO",
+            "Code": "TOPAR",
+            "Pos": 1,
+            "Value": "3",
+            "Extensions": []
+          }
+        ],
+        "Desc": "Hole 15",
+        "DescS": "H15"
+      },
+      {
+        "Order": 16,
+        "Duration": "",
+        "Distance": "358",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [
+          {
+            "Type": "UNIT_INFO",
+            "Code": "TOPAR",
+            "Pos": 1,
+            "Value": "4",
+            "Extensions": []
+          }
+        ],
+        "Desc": "Hole 16",
+        "DescS": "H16"
+      },
+      {
+        "Order": 17,
+        "Duration": "",
+        "Distance": "393",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [
+          {
+            "Type": "UNIT_INFO",
+            "Code": "TOPAR",
+            "Pos": 1,
+            "Value": "4",
+            "Extensions": []
+          }
+        ],
+        "Desc": "Hole 17",
+        "DescS": "H17"
+      },
+      {
+        "Order": 18,
+        "Duration": "",
+        "Distance": "373",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [
+          {
+            "Type": "UNIT_INFO",
+            "Code": "TOPAR",
+            "Pos": 1,
+            "Value": "4",
+            "Extensions": []
+          }
+        ],
+        "Desc": "Hole 18",
+        "DescS": "H18"
+      }
+    ],
+    "Paralympic": false
+  },
+  "Competitors": [
+    {
+      "Reg": "GLFWTEAM-------CHN01",
+      "Bib": "",
+      "Org": "CHN",
+      "StartOrder": "",
+      "StartSortOrder": 1,
+      "Rk": "1",
+      "RkEq": false,
+      "RkPo": 1,
+      "WLT": "",
+      "Result": "-22",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "TOPAR",
+          "Pos": 4,
+          "Value": "-22",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Round1Strokes",
+          "Pos": 0,
+          "Value": "136",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Round2Strokes",
+          "Pos": 0,
+          "Value": "132",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Round3Strokes",
+          "Pos": 0,
+          "Value": "137",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Round4Strokes",
+          "Pos": 0,
+          "Value": "133",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "HOLE_COUNT",
+          "Pos": 0,
+          "Value": "-",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "HOLE_CURRENT",
+          "Pos": 0,
+          "Value": "-",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "TODAYPAR",
+          "Pos": 0,
+          "Value": "-",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "TOHITINCURRENTHOLE",
+          "Pos": 0,
+          "Value": "False",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "InGreen",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ParCurrentRound",
+          "Pos": 0,
+          "Value": "-7",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ParTotal",
+          "Pos": 0,
+          "Value": "-22",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "StrokesCurrentRound",
+          "Pos": 0,
+          "Value": "133",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "StrokesIn",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "StrokesOut",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "StrokesPerHole",
+          "Pos": 0,
+          "Value": "[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "StrokesTotal",
+          "Pos": 0,
+          "Value": "538",
+          "Extensions": []
+        }
+      ],
+      "Name": "People's Republic of China",
+      "NameS": "China",
+      "OrgDesc": "People's Republic of China",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "ME_GOLD",
+      "Members": [
+        {
+          "Reg": "11356657",
+          "Org": "CHN",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "GROUP",
+              "Pos": 1,
+              "Value": "8",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "START_TIME",
+              "Pos": 2,
+              "Value": "(Tee 1)   07:32",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "TEE",
+              "Pos": 3,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOPAR",
+              "Pos": 4,
+              "Value": "-6",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "FRONT",
+              "Pos": 5,
+              "Value": "34",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "BACK",
+              "Pos": 6,
+              "Value": "32",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_CURRENT",
+              "Pos": 7,
+              "Value": "18",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_COUNT",
+              "Pos": 8,
+              "Value": "F",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TODAYPAR",
+              "Pos": 0,
+              "Value": "-4",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOHITINCURRENTHOLE",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParCurrentRound",
+              "Pos": 0,
+              "Value": "-4",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParTotal",
+              "Pos": 0,
+              "Value": "-6",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round1Strokes",
+              "Pos": 0,
+              "Value": "71",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round2Strokes",
+              "Pos": 0,
+              "Value": "66",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round3Strokes",
+              "Pos": 0,
+              "Value": "71",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round4Strokes",
+              "Pos": 0,
+              "Value": "66",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesCurrentRound",
+              "Pos": 0,
+              "Value": "66",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesIn",
+              "Pos": 0,
+              "Value": "32",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesOut",
+              "Pos": 0,
+              "Value": "34",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesPerHole",
+              "Pos": 0,
+              "Value": "[3,3,5,3,4,5,3,4,4,3,4,3,4,3,3,4,5,3]",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesTotal",
+              "Pos": 0,
+              "Value": "274",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "InGreen",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Order": 1,
+          "Substitute": false,
+          "Guides": [],
+          "Convoke": true,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "66",
+          "Name": "LIU Yan",
+          "NameS": "LIU Y",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "11357570",
+          "Org": "CHN",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "GROUP",
+              "Pos": 1,
+              "Value": "10",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "START_TIME",
+              "Pos": 2,
+              "Value": "(Tee 1)   07:54",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "TEE",
+              "Pos": 3,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOPAR",
+              "Pos": 4,
+              "Value": "-14",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "FRONT",
+              "Pos": 5,
+              "Value": "32",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "BACK",
+              "Pos": 6,
+              "Value": "35",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_CURRENT",
+              "Pos": 7,
+              "Value": "18",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_COUNT",
+              "Pos": 8,
+              "Value": "F",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TODAYPAR",
+              "Pos": 0,
+              "Value": "-3",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOHITINCURRENTHOLE",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParCurrentRound",
+              "Pos": 0,
+              "Value": "-3",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParTotal",
+              "Pos": 0,
+              "Value": "-14",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round1Strokes",
+              "Pos": 0,
+              "Value": "67",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round2Strokes",
+              "Pos": 0,
+              "Value": "66",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round3Strokes",
+              "Pos": 0,
+              "Value": "66",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round4Strokes",
+              "Pos": 0,
+              "Value": "67",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesCurrentRound",
+              "Pos": 0,
+              "Value": "67",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesIn",
+              "Pos": 0,
+              "Value": "35",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesOut",
+              "Pos": 0,
+              "Value": "32",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesPerHole",
+              "Pos": 0,
+              "Value": "[4,3,4,2,4,4,2,5,4,4,4,3,5,4,3,4,4,4]",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesTotal",
+              "Pos": 0,
+              "Value": "266",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "InGreen",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Order": 2,
+          "Substitute": false,
+          "Guides": [],
+          "Convoke": true,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "67",
+          "Name": "YIN Ruoning",
+          "NameS": "YIN R",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "11357879",
+          "Org": "CHN",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "GROUP",
+              "Pos": 1,
+              "Value": "7",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "START_TIME",
+              "Pos": 2,
+              "Value": "(Tee 1)   07:21",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "TEE",
+              "Pos": 3,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOPAR",
+              "Pos": 4,
+              "Value": "+4",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "FRONT",
+              "Pos": 5,
+              "Value": "38",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "BACK",
+              "Pos": 6,
+              "Value": "36",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_CURRENT",
+              "Pos": 7,
+              "Value": "18",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_COUNT",
+              "Pos": 8,
+              "Value": "F",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TODAYPAR",
+              "Pos": 0,
+              "Value": "+4",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOHITINCURRENTHOLE",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParCurrentRound",
+              "Pos": 0,
+              "Value": "+4",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParTotal",
+              "Pos": 0,
+              "Value": "+4",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round1Strokes",
+              "Pos": 0,
+              "Value": "69",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round2Strokes",
+              "Pos": 0,
+              "Value": "69",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round3Strokes",
+              "Pos": 0,
+              "Value": "72",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round4Strokes",
+              "Pos": 0,
+              "Value": "74",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesCurrentRound",
+              "Pos": 0,
+              "Value": "74",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesIn",
+              "Pos": 0,
+              "Value": "36",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesOut",
+              "Pos": 0,
+              "Value": "38",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesPerHole",
+              "Pos": 0,
+              "Value": "[4,5,6,2,5,3,3,6,4,6,4,3,4,4,3,4,4,4]",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesTotal",
+              "Pos": 0,
+              "Value": "284",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "InGreen",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Order": 3,
+          "Substitute": false,
+          "Guides": [],
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "74",
+          "Name": "ZHANG Weiwei",
+          "NameS": "ZHANG W",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        }
+      ]
+    },
+    {
+      "Reg": "GLFWTEAM-------IND01",
+      "Bib": "",
+      "Org": "IND",
+      "StartOrder": "",
+      "StartSortOrder": 2,
+      "Rk": "2",
+      "RkEq": false,
+      "RkPo": 2,
+      "WLT": "",
+      "Result": "-14",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "TOPAR",
+          "Pos": 4,
+          "Value": "-14",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Round1Strokes",
+          "Pos": 0,
+          "Value": "137",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Round2Strokes",
+          "Pos": 0,
+          "Value": "136",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Round3Strokes",
+          "Pos": 0,
+          "Value": "136",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Round4Strokes",
+          "Pos": 0,
+          "Value": "137",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "HOLE_COUNT",
+          "Pos": 0,
+          "Value": "-",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "HOLE_CURRENT",
+          "Pos": 0,
+          "Value": "-",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "TODAYPAR",
+          "Pos": 0,
+          "Value": "-",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "TOHITINCURRENTHOLE",
+          "Pos": 0,
+          "Value": "False",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "InGreen",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ParCurrentRound",
+          "Pos": 0,
+          "Value": "-3",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ParTotal",
+          "Pos": 0,
+          "Value": "-14",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "StrokesCurrentRound",
+          "Pos": 0,
+          "Value": "137",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "StrokesIn",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "StrokesOut",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "StrokesPerHole",
+          "Pos": 0,
+          "Value": "[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "StrokesTotal",
+          "Pos": 0,
+          "Value": "546",
+          "Extensions": []
+        }
+      ],
+      "Name": "India",
+      "NameS": "India",
+      "OrgDesc": "India",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "ME_SILVER",
+      "Members": [
+        {
+          "Reg": "14104925",
+          "Org": "IND",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "GROUP",
+              "Pos": 1,
+              "Value": "5",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "START_TIME",
+              "Pos": 2,
+              "Value": "(Tee 1)   06:54",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "TEE",
+              "Pos": 3,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOPAR",
+              "Pos": 4,
+              "Value": "+2",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "FRONT",
+              "Pos": 5,
+              "Value": "37",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "BACK",
+              "Pos": 6,
+              "Value": "30",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_CURRENT",
+              "Pos": 7,
+              "Value": "18",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_COUNT",
+              "Pos": 8,
+              "Value": "F",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TODAYPAR",
+              "Pos": 0,
+              "Value": "-3",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOHITINCURRENTHOLE",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParCurrentRound",
+              "Pos": 0,
+              "Value": "-3",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParTotal",
+              "Pos": 0,
+              "Value": "+2",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round1Strokes",
+              "Pos": 0,
+              "Value": "71",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round2Strokes",
+              "Pos": 0,
+              "Value": "74",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round3Strokes",
+              "Pos": 0,
+              "Value": "70",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round4Strokes",
+              "Pos": 0,
+              "Value": "67",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesCurrentRound",
+              "Pos": 0,
+              "Value": "67",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesIn",
+              "Pos": 0,
+              "Value": "30",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesOut",
+              "Pos": 0,
+              "Value": "37",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesPerHole",
+              "Pos": 0,
+              "Value": "[4,4,4,3,4,6,3,5,4,3,3,2,4,3,2,4,5,4]",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesTotal",
+              "Pos": 0,
+              "Value": "282",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "InGreen",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Order": 1,
+          "Substitute": false,
+          "Guides": [],
+          "Convoke": true,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "67",
+          "Name": "ASHOK Aditi",
+          "NameS": "ASHOK A",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "10223109",
+          "Org": "IND",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "GROUP",
+              "Pos": 1,
+              "Value": "10",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "START_TIME",
+              "Pos": 2,
+              "Value": "(Tee 1)   07:54",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "TEE",
+              "Pos": 3,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOPAR",
+              "Pos": 4,
+              "Value": "-15",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "FRONT",
+              "Pos": 5,
+              "Value": "37",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "BACK",
+              "Pos": 6,
+              "Value": "33",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_CURRENT",
+              "Pos": 7,
+              "Value": "18",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_COUNT",
+              "Pos": 8,
+              "Value": "F",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TODAYPAR",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOHITINCURRENTHOLE",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParCurrentRound",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParTotal",
+              "Pos": 0,
+              "Value": "-15",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round1Strokes",
+              "Pos": 0,
+              "Value": "66",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round2Strokes",
+              "Pos": 0,
+              "Value": "63",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round3Strokes",
+              "Pos": 0,
+              "Value": "66",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round4Strokes",
+              "Pos": 0,
+              "Value": "70",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesCurrentRound",
+              "Pos": 0,
+              "Value": "70",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesIn",
+              "Pos": 0,
+              "Value": "33",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesOut",
+              "Pos": 0,
+              "Value": "37",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesPerHole",
+              "Pos": 0,
+              "Value": "[4,4,7,3,4,3,3,5,4,3,4,3,4,4,3,4,4,4]",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesTotal",
+              "Pos": 0,
+              "Value": "265",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "InGreen",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Order": 2,
+          "Substitute": false,
+          "Guides": [],
+          "Convoke": true,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "70",
+          "Name": "SHARATH URS Pranavi",
+          "NameS": "SHARATH URS P",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "5005610",
+          "Org": "IND",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "GROUP",
+              "Pos": 1,
+              "Value": "4",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "START_TIME",
+              "Pos": 2,
+              "Value": "(Tee 1)   06:43",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "TEE",
+              "Pos": 3,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOPAR",
+              "Pos": 4,
+              "Value": "+12",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "FRONT",
+              "Pos": 5,
+              "Value": "40",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "BACK",
+              "Pos": 6,
+              "Value": "37",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_CURRENT",
+              "Pos": 7,
+              "Value": "18",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_COUNT",
+              "Pos": 8,
+              "Value": "F",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TODAYPAR",
+              "Pos": 0,
+              "Value": "+7",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOHITINCURRENTHOLE",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParCurrentRound",
+              "Pos": 0,
+              "Value": "+7",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParTotal",
+              "Pos": 0,
+              "Value": "+12",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round1Strokes",
+              "Pos": 0,
+              "Value": "71",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round2Strokes",
+              "Pos": 0,
+              "Value": "73",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round3Strokes",
+              "Pos": 0,
+              "Value": "71",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round4Strokes",
+              "Pos": 0,
+              "Value": "77",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesCurrentRound",
+              "Pos": 0,
+              "Value": "77",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesIn",
+              "Pos": 0,
+              "Value": "37",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesOut",
+              "Pos": 0,
+              "Value": "40",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesPerHole",
+              "Pos": 0,
+              "Value": "[5,3,5,3,5,5,4,5,5,3,4,5,4,4,4,4,4,5]",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesTotal",
+              "Pos": 0,
+              "Value": "292",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "InGreen",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Order": 3,
+          "Substitute": false,
+          "Guides": [],
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "77",
+          "Name": "DAGAR Diksha",
+          "NameS": "DAGAR D",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        }
+      ]
+    },
+    {
+      "Reg": "GLFWTEAM-------TPE01",
+      "Bib": "",
+      "Org": "TPE",
+      "StartOrder": "",
+      "StartSortOrder": 3,
+      "Rk": "3",
+      "RkEq": false,
+      "RkPo": 3,
+      "WLT": "",
+      "Result": "-10",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "TOPAR",
+          "Pos": 4,
+          "Value": "-10",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Round1Strokes",
+          "Pos": 0,
+          "Value": "136",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Round2Strokes",
+          "Pos": 0,
+          "Value": "138",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Round3Strokes",
+          "Pos": 0,
+          "Value": "140",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Round4Strokes",
+          "Pos": 0,
+          "Value": "136",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "HOLE_COUNT",
+          "Pos": 0,
+          "Value": "-",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "HOLE_CURRENT",
+          "Pos": 0,
+          "Value": "-",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "TODAYPAR",
+          "Pos": 0,
+          "Value": "-",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "TOHITINCURRENTHOLE",
+          "Pos": 0,
+          "Value": "False",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "InGreen",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ParCurrentRound",
+          "Pos": 0,
+          "Value": "-4",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ParTotal",
+          "Pos": 0,
+          "Value": "-10",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "StrokesCurrentRound",
+          "Pos": 0,
+          "Value": "136",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "StrokesIn",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "StrokesOut",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "StrokesPerHole",
+          "Pos": 0,
+          "Value": "[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "StrokesTotal",
+          "Pos": 0,
+          "Value": "550",
+          "Extensions": []
+        }
+      ],
+      "Name": "Chinese Taipei",
+      "NameS": "Chinese Taipei",
+      "OrgDesc": "Chinese Taipei",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "ME_BRONZE",
+      "Members": [
+        {
+          "Reg": "10587356",
+          "Org": "TPE",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "GROUP",
+              "Pos": 1,
+              "Value": "6",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "START_TIME",
+              "Pos": 2,
+              "Value": "(Tee 1)   07:10",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "TEE",
+              "Pos": 3,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOPAR",
+              "Pos": 4,
+              "Value": "-2",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "FRONT",
+              "Pos": 5,
+              "Value": "34",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "BACK",
+              "Pos": 6,
+              "Value": "34",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_CURRENT",
+              "Pos": 7,
+              "Value": "18",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_COUNT",
+              "Pos": 8,
+              "Value": "F",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TODAYPAR",
+              "Pos": 0,
+              "Value": "-2",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOHITINCURRENTHOLE",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParCurrentRound",
+              "Pos": 0,
+              "Value": "-2",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParTotal",
+              "Pos": 0,
+              "Value": "-2",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round1Strokes",
+              "Pos": 0,
+              "Value": "69",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round2Strokes",
+              "Pos": 0,
+              "Value": "69",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round3Strokes",
+              "Pos": 0,
+              "Value": "72",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round4Strokes",
+              "Pos": 0,
+              "Value": "68",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesCurrentRound",
+              "Pos": 0,
+              "Value": "68",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesIn",
+              "Pos": 0,
+              "Value": "34",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesOut",
+              "Pos": 0,
+              "Value": "34",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesPerHole",
+              "Pos": 0,
+              "Value": "[4,4,4,3,5,3,3,4,4,4,5,2,4,4,2,4,5,4]",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesTotal",
+              "Pos": 0,
+              "Value": "278",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "InGreen",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Order": 1,
+          "Substitute": false,
+          "Guides": [],
+          "Convoke": true,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "68",
+          "Name": "CHIEN Pei-Yun",
+          "NameS": "CHIEN P",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "8374574",
+          "Org": "TPE",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "GROUP",
+              "Pos": 1,
+              "Value": "8",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "START_TIME",
+              "Pos": 2,
+              "Value": "(Tee 1)   07:32",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "TEE",
+              "Pos": 3,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOPAR",
+              "Pos": 4,
+              "Value": "-4",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "FRONT",
+              "Pos": 5,
+              "Value": "34",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "BACK",
+              "Pos": 6,
+              "Value": "34",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_CURRENT",
+              "Pos": 7,
+              "Value": "18",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_COUNT",
+              "Pos": 8,
+              "Value": "F",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TODAYPAR",
+              "Pos": 0,
+              "Value": "-2",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOHITINCURRENTHOLE",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParCurrentRound",
+              "Pos": 0,
+              "Value": "-2",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParTotal",
+              "Pos": 0,
+              "Value": "-4",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round1Strokes",
+              "Pos": 0,
+              "Value": "71",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round2Strokes",
+              "Pos": 0,
+              "Value": "69",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round3Strokes",
+              "Pos": 0,
+              "Value": "68",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round4Strokes",
+              "Pos": 0,
+              "Value": "68",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesCurrentRound",
+              "Pos": 0,
+              "Value": "68",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesIn",
+              "Pos": 0,
+              "Value": "34",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesOut",
+              "Pos": 0,
+              "Value": "34",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesPerHole",
+              "Pos": 0,
+              "Value": "[4,5,4,3,5,4,2,4,3,3,4,4,5,4,3,3,4,4]",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesTotal",
+              "Pos": 0,
+              "Value": "276",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "InGreen",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Order": 2,
+          "Substitute": false,
+          "Guides": [],
+          "Convoke": true,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "68",
+          "Name": "TSENG Ya-Ni",
+          "NameS": "TSENG Y",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "8390832",
+          "Org": "TPE",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "GROUP",
+              "Pos": 1,
+              "Value": "7",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "START_TIME",
+              "Pos": 2,
+              "Value": "(Tee 1)   07:21",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "TEE",
+              "Pos": 3,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOPAR",
+              "Pos": 4,
+              "Value": "-2",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "FRONT",
+              "Pos": 5,
+              "Value": "37",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "BACK",
+              "Pos": 6,
+              "Value": "32",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_CURRENT",
+              "Pos": 7,
+              "Value": "18",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_COUNT",
+              "Pos": 8,
+              "Value": "F",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TODAYPAR",
+              "Pos": 0,
+              "Value": "-1",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOHITINCURRENTHOLE",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParCurrentRound",
+              "Pos": 0,
+              "Value": "-1",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParTotal",
+              "Pos": 0,
+              "Value": "-2",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round1Strokes",
+              "Pos": 0,
+              "Value": "67",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round2Strokes",
+              "Pos": 0,
+              "Value": "70",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round3Strokes",
+              "Pos": 0,
+              "Value": "72",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round4Strokes",
+              "Pos": 0,
+              "Value": "69",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesCurrentRound",
+              "Pos": 0,
+              "Value": "69",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesIn",
+              "Pos": 0,
+              "Value": "32",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesOut",
+              "Pos": 0,
+              "Value": "37",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesPerHole",
+              "Pos": 0,
+              "Value": "[4,4,5,3,5,4,3,4,5,5,4,2,4,3,3,4,4,3]",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesTotal",
+              "Pos": 0,
+              "Value": "278",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "InGreen",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Order": 3,
+          "Substitute": false,
+          "Guides": [],
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "69",
+          "Name": "HSU Wei-Ling",
+          "NameS": "HSU W",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        }
+      ]
+    },
+    {
+      "Reg": "GLFWTEAM-------KOR01",
+      "Bib": "",
+      "Org": "KOR",
+      "StartOrder": "",
+      "StartSortOrder": 4,
+      "Rk": "4",
+      "RkEq": true,
+      "RkPo": 4,
+      "WLT": "",
+      "Result": "-7",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "TOPAR",
+          "Pos": 4,
+          "Value": "-7",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Round1Strokes",
+          "Pos": 0,
+          "Value": "136",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Round2Strokes",
+          "Pos": 0,
+          "Value": "138",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Round3Strokes",
+          "Pos": 0,
+          "Value": "146",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Round4Strokes",
+          "Pos": 0,
+          "Value": "133",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "HOLE_COUNT",
+          "Pos": 0,
+          "Value": "-",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "HOLE_CURRENT",
+          "Pos": 0,
+          "Value": "-",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "TODAYPAR",
+          "Pos": 0,
+          "Value": "-",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "TOHITINCURRENTHOLE",
+          "Pos": 0,
+          "Value": "False",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "InGreen",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ParCurrentRound",
+          "Pos": 0,
+          "Value": "-7",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ParTotal",
+          "Pos": 0,
+          "Value": "-7",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "StrokesCurrentRound",
+          "Pos": 0,
+          "Value": "133",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "StrokesIn",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "StrokesOut",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "StrokesPerHole",
+          "Pos": 0,
+          "Value": "[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "StrokesTotal",
+          "Pos": 0,
+          "Value": "553",
+          "Extensions": []
+        }
+      ],
+      "Name": "Republic of Korea",
+      "NameS": "Korea",
+      "OrgDesc": "Republic of Korea",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "",
+      "Members": [
+        {
+          "Reg": "7738509",
+          "Org": "KOR",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "GROUP",
+              "Pos": 1,
+              "Value": "4",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "START_TIME",
+              "Pos": 2,
+              "Value": "(Tee 1)   06:43",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "TEE",
+              "Pos": 3,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOPAR",
+              "Pos": 4,
+              "Value": "+3",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "FRONT",
+              "Pos": 5,
+              "Value": "31",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "BACK",
+              "Pos": 6,
+              "Value": "34",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_CURRENT",
+              "Pos": 7,
+              "Value": "18",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_COUNT",
+              "Pos": 8,
+              "Value": "F",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TODAYPAR",
+              "Pos": 0,
+              "Value": "-5",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOHITINCURRENTHOLE",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParCurrentRound",
+              "Pos": 0,
+              "Value": "-5",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParTotal",
+              "Pos": 0,
+              "Value": "+3",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round1Strokes",
+              "Pos": 0,
+              "Value": "71",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round2Strokes",
+              "Pos": 0,
+              "Value": "73",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round3Strokes",
+              "Pos": 0,
+              "Value": "74",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round4Strokes",
+              "Pos": 0,
+              "Value": "65",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesCurrentRound",
+              "Pos": 0,
+              "Value": "65",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesIn",
+              "Pos": 0,
+              "Value": "34",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesOut",
+              "Pos": 0,
+              "Value": "31",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesPerHole",
+              "Pos": 0,
+              "Value": "[4,3,3,2,6,3,2,5,3,4,3,3,5,4,3,3,5,4]",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesTotal",
+              "Pos": 0,
+              "Value": "283",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "InGreen",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Order": 1,
+          "Substitute": false,
+          "Guides": [],
+          "Convoke": true,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "65",
+          "Name": "PARK Seojin",
+          "NameS": "PARK S",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "7737702",
+          "Org": "KOR",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "GROUP",
+              "Pos": 1,
+              "Value": "9",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "START_TIME",
+              "Pos": 2,
+              "Value": "(Tee 1)   07:43",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "TEE",
+              "Pos": 3,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOPAR",
+              "Pos": 4,
+              "Value": "-7",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "FRONT",
+              "Pos": 5,
+              "Value": "33",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "BACK",
+              "Pos": 6,
+              "Value": "35",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_CURRENT",
+              "Pos": 7,
+              "Value": "18",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_COUNT",
+              "Pos": 8,
+              "Value": "F",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TODAYPAR",
+              "Pos": 0,
+              "Value": "-2",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOHITINCURRENTHOLE",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParCurrentRound",
+              "Pos": 0,
+              "Value": "-2",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParTotal",
+              "Pos": 0,
+              "Value": "-7",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round1Strokes",
+              "Pos": 0,
+              "Value": "68",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round2Strokes",
+              "Pos": 0,
+              "Value": "65",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round3Strokes",
+              "Pos": 0,
+              "Value": "72",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round4Strokes",
+              "Pos": 0,
+              "Value": "68",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesCurrentRound",
+              "Pos": 0,
+              "Value": "68",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesIn",
+              "Pos": 0,
+              "Value": "35",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesOut",
+              "Pos": 0,
+              "Value": "33",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesPerHole",
+              "Pos": 0,
+              "Value": "[5,4,3,3,4,3,2,5,4,4,3,3,6,4,3,3,4,5]",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesTotal",
+              "Pos": 0,
+              "Value": "273",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "InGreen",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Order": 2,
+          "Substitute": false,
+          "Guides": [],
+          "Convoke": true,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "68",
+          "Name": "YANG Yunseo",
+          "NameS": "YANG Y",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "7737598",
+          "Org": "KOR",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "GROUP",
+              "Pos": 1,
+              "Value": "3",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "START_TIME",
+              "Pos": 2,
+              "Value": "(Tee 1)   06:32",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "TEE",
+              "Pos": 3,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOPAR",
+              "Pos": 4,
+              "Value": "+9",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "FRONT",
+              "Pos": 5,
+              "Value": "34",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "BACK",
+              "Pos": 6,
+              "Value": "36",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_CURRENT",
+              "Pos": 7,
+              "Value": "18",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_COUNT",
+              "Pos": 8,
+              "Value": "F",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TODAYPAR",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOHITINCURRENTHOLE",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParCurrentRound",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParTotal",
+              "Pos": 0,
+              "Value": "+9",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round1Strokes",
+              "Pos": 0,
+              "Value": "68",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round2Strokes",
+              "Pos": 0,
+              "Value": "73",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round3Strokes",
+              "Pos": 0,
+              "Value": "78",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round4Strokes",
+              "Pos": 0,
+              "Value": "70",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesCurrentRound",
+              "Pos": 0,
+              "Value": "70",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesIn",
+              "Pos": 0,
+              "Value": "36",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesOut",
+              "Pos": 0,
+              "Value": "34",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesPerHole",
+              "Pos": 0,
+              "Value": "[4,4,5,3,5,3,2,4,4,4,4,3,6,3,3,4,4,5]",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesTotal",
+              "Pos": 0,
+              "Value": "289",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "InGreen",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Order": 3,
+          "Substitute": false,
+          "Guides": [],
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "70",
+          "Name": "KIM Gyubeen",
+          "NameS": "KIM G",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        }
+      ]
+    },
+    {
+      "Reg": "GLFWTEAM-------SGP01",
+      "Bib": "",
+      "Org": "SGP",
+      "StartOrder": "",
+      "StartSortOrder": 5,
+      "Rk": "4",
+      "RkEq": true,
+      "RkPo": 5,
+      "WLT": "",
+      "Result": "-7",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "TOPAR",
+          "Pos": 4,
+          "Value": "-7",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Round1Strokes",
+          "Pos": 0,
+          "Value": "132",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Round2Strokes",
+          "Pos": 0,
+          "Value": "137",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Round3Strokes",
+          "Pos": 0,
+          "Value": "146",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Round4Strokes",
+          "Pos": 0,
+          "Value": "138",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "HOLE_COUNT",
+          "Pos": 0,
+          "Value": "-",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "HOLE_CURRENT",
+          "Pos": 0,
+          "Value": "-",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "TODAYPAR",
+          "Pos": 0,
+          "Value": "-",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "TOHITINCURRENTHOLE",
+          "Pos": 0,
+          "Value": "False",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "InGreen",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ParCurrentRound",
+          "Pos": 0,
+          "Value": "-2",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ParTotal",
+          "Pos": 0,
+          "Value": "-7",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "StrokesCurrentRound",
+          "Pos": 0,
+          "Value": "138",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "StrokesIn",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "StrokesOut",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "StrokesPerHole",
+          "Pos": 0,
+          "Value": "[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "StrokesTotal",
+          "Pos": 0,
+          "Value": "553",
+          "Extensions": []
+        }
+      ],
+      "Name": "Singapore",
+      "NameS": "Singapore",
+      "OrgDesc": "Singapore",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "",
+      "Members": [
+        {
+          "Reg": "13935931",
+          "Org": "SGP",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "GROUP",
+              "Pos": 1,
+              "Value": "10",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "START_TIME",
+              "Pos": 2,
+              "Value": "(Tee 1)   07:54",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "TEE",
+              "Pos": 3,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOPAR",
+              "Pos": 4,
+              "Value": "-14",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "FRONT",
+              "Pos": 5,
+              "Value": "37",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "BACK",
+              "Pos": 6,
+              "Value": "31",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_CURRENT",
+              "Pos": 7,
+              "Value": "18",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_COUNT",
+              "Pos": 8,
+              "Value": "F",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TODAYPAR",
+              "Pos": 0,
+              "Value": "-2",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOHITINCURRENTHOLE",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParCurrentRound",
+              "Pos": 0,
+              "Value": "-2",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParTotal",
+              "Pos": 0,
+              "Value": "-14",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round1Strokes",
+              "Pos": 0,
+              "Value": "63",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round2Strokes",
+              "Pos": 0,
+              "Value": "64",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round3Strokes",
+              "Pos": 0,
+              "Value": "71",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round4Strokes",
+              "Pos": 0,
+              "Value": "68",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesCurrentRound",
+              "Pos": 0,
+              "Value": "68",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesIn",
+              "Pos": 0,
+              "Value": "31",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesOut",
+              "Pos": 0,
+              "Value": "37",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesPerHole",
+              "Pos": 0,
+              "Value": "[5,4,5,3,4,3,2,7,4,4,4,2,4,3,3,3,4,4]",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesTotal",
+              "Pos": 0,
+              "Value": "266",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "InGreen",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Order": 1,
+          "Substitute": false,
+          "Guides": [],
+          "Convoke": true,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "68",
+          "Name": "TAN Shannon Xuan Yin",
+          "NameS": "TAN SXY",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "11966207",
+          "Org": "SGP",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "GROUP",
+              "Pos": 1,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "START_TIME",
+              "Pos": 2,
+              "Value": "(Tee 1)   06:10",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "TEE",
+              "Pos": 3,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOPAR",
+              "Pos": 4,
+              "Value": "+10",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "FRONT",
+              "Pos": 5,
+              "Value": "39",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "BACK",
+              "Pos": 6,
+              "Value": "31",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_CURRENT",
+              "Pos": 7,
+              "Value": "18",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_COUNT",
+              "Pos": 8,
+              "Value": "F",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TODAYPAR",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOHITINCURRENTHOLE",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParCurrentRound",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParTotal",
+              "Pos": 0,
+              "Value": "+10",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round1Strokes",
+              "Pos": 0,
+              "Value": "69",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round2Strokes",
+              "Pos": 0,
+              "Value": "73",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round3Strokes",
+              "Pos": 0,
+              "Value": "78",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round4Strokes",
+              "Pos": 0,
+              "Value": "70",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesCurrentRound",
+              "Pos": 0,
+              "Value": "70",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesIn",
+              "Pos": 0,
+              "Value": "31",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesOut",
+              "Pos": 0,
+              "Value": "39",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesPerHole",
+              "Pos": 0,
+              "Value": "[4,4,6,3,5,4,3,5,5,3,6,2,4,3,2,3,4,4]",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesTotal",
+              "Pos": 0,
+              "Value": "290",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "InGreen",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Order": 2,
+          "Substitute": false,
+          "Guides": [],
+          "Convoke": true,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "70",
+          "Name": "CHEN Xingtong",
+          "NameS": "CHEN X",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "11350110",
+          "Org": "SGP",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "GROUP",
+              "Pos": 1,
+              "Value": "2",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "START_TIME",
+              "Pos": 2,
+              "Value": "(Tee 1)   06:21",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "TEE",
+              "Pos": 3,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOPAR",
+              "Pos": 4,
+              "Value": "+13",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "FRONT",
+              "Pos": 5,
+              "Value": "36",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "BACK",
+              "Pos": 6,
+              "Value": "37",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_CURRENT",
+              "Pos": 7,
+              "Value": "18",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_COUNT",
+              "Pos": 8,
+              "Value": "F",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TODAYPAR",
+              "Pos": 0,
+              "Value": "+3",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOHITINCURRENTHOLE",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParCurrentRound",
+              "Pos": 0,
+              "Value": "+3",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParTotal",
+              "Pos": 0,
+              "Value": "+13",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round1Strokes",
+              "Pos": 0,
+              "Value": "72",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round2Strokes",
+              "Pos": 0,
+              "Value": "73",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round3Strokes",
+              "Pos": 0,
+              "Value": "75",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round4Strokes",
+              "Pos": 0,
+              "Value": "73",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesCurrentRound",
+              "Pos": 0,
+              "Value": "73",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesIn",
+              "Pos": 0,
+              "Value": "37",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesOut",
+              "Pos": 0,
+              "Value": "36",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesPerHole",
+              "Pos": 0,
+              "Value": "[4,4,5,3,4,4,3,5,4,4,5,4,5,3,3,4,5,4]",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesTotal",
+              "Pos": 0,
+              "Value": "293",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "InGreen",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Order": 3,
+          "Substitute": false,
+          "Guides": [],
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "73",
+          "Name": "TAN Amanda",
+          "NameS": "TAN A",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        }
+      ]
+    },
+    {
+      "Reg": "GLFWTEAM-------THA01",
+      "Bib": "",
+      "Org": "THA",
+      "StartOrder": "",
+      "StartSortOrder": 6,
+      "Rk": "4",
+      "RkEq": true,
+      "RkPo": 6,
+      "WLT": "",
+      "Result": "-7",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "TOPAR",
+          "Pos": 4,
+          "Value": "-7",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Round1Strokes",
+          "Pos": 0,
+          "Value": "136",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Round2Strokes",
+          "Pos": 0,
+          "Value": "140",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Round3Strokes",
+          "Pos": 0,
+          "Value": "140",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Round4Strokes",
+          "Pos": 0,
+          "Value": "137",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "HOLE_COUNT",
+          "Pos": 0,
+          "Value": "-",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "HOLE_CURRENT",
+          "Pos": 0,
+          "Value": "-",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "TODAYPAR",
+          "Pos": 0,
+          "Value": "-",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "TOHITINCURRENTHOLE",
+          "Pos": 0,
+          "Value": "False",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "InGreen",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ParCurrentRound",
+          "Pos": 0,
+          "Value": "-3",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ParTotal",
+          "Pos": 0,
+          "Value": "-7",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "StrokesCurrentRound",
+          "Pos": 0,
+          "Value": "137",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "StrokesIn",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "StrokesOut",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "StrokesPerHole",
+          "Pos": 0,
+          "Value": "[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "StrokesTotal",
+          "Pos": 0,
+          "Value": "553",
+          "Extensions": []
+        }
+      ],
+      "Name": "Thailand",
+      "NameS": "Thailand",
+      "OrgDesc": "Thailand",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "",
+      "Members": [
+        {
+          "Reg": "2464174",
+          "Org": "THA",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "GROUP",
+              "Pos": 1,
+              "Value": "8",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "START_TIME",
+              "Pos": 2,
+              "Value": "(Tee 1)   07:32",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "TEE",
+              "Pos": 3,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOPAR",
+              "Pos": 4,
+              "Value": "-6",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "FRONT",
+              "Pos": 5,
+              "Value": "34",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "BACK",
+              "Pos": 6,
+              "Value": "33",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_CURRENT",
+              "Pos": 7,
+              "Value": "18",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_COUNT",
+              "Pos": 8,
+              "Value": "F",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TODAYPAR",
+              "Pos": 0,
+              "Value": "-3",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOHITINCURRENTHOLE",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParCurrentRound",
+              "Pos": 0,
+              "Value": "-3",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParTotal",
+              "Pos": 0,
+              "Value": "-6",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round1Strokes",
+              "Pos": 0,
+              "Value": "67",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round2Strokes",
+              "Pos": 0,
+              "Value": "74",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round3Strokes",
+              "Pos": 0,
+              "Value": "66",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round4Strokes",
+              "Pos": 0,
+              "Value": "67",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesCurrentRound",
+              "Pos": 0,
+              "Value": "67",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesIn",
+              "Pos": 0,
+              "Value": "33",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesOut",
+              "Pos": 0,
+              "Value": "34",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesPerHole",
+              "Pos": 0,
+              "Value": "[3,4,4,4,4,4,2,5,4,4,4,3,4,3,3,4,4,4]",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesTotal",
+              "Pos": 0,
+              "Value": "274",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "InGreen",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Order": 1,
+          "Substitute": false,
+          "Guides": [],
+          "Convoke": true,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "67",
+          "Name": "YUBOL Arpichaya",
+          "NameS": "YUBOL A",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "5273925",
+          "Org": "THA",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "GROUP",
+              "Pos": 1,
+              "Value": "5",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "START_TIME",
+              "Pos": 2,
+              "Value": "(Tee 1)   06:54",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "TEE",
+              "Pos": 3,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOPAR",
+              "Pos": 4,
+              "Value": "+3",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "FRONT",
+              "Pos": 5,
+              "Value": "37",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "BACK",
+              "Pos": 6,
+              "Value": "33",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_CURRENT",
+              "Pos": 7,
+              "Value": "18",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_COUNT",
+              "Pos": 8,
+              "Value": "F",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TODAYPAR",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOHITINCURRENTHOLE",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParCurrentRound",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParTotal",
+              "Pos": 0,
+              "Value": "+3",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round1Strokes",
+              "Pos": 0,
+              "Value": "69",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round2Strokes",
+              "Pos": 0,
+              "Value": "70",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round3Strokes",
+              "Pos": 0,
+              "Value": "74",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round4Strokes",
+              "Pos": 0,
+              "Value": "70",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesCurrentRound",
+              "Pos": 0,
+              "Value": "70",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesIn",
+              "Pos": 0,
+              "Value": "33",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesOut",
+              "Pos": 0,
+              "Value": "37",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesPerHole",
+              "Pos": 0,
+              "Value": "[4,4,4,3,5,4,3,6,4,5,4,3,4,4,3,3,3,4]",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesTotal",
+              "Pos": 0,
+              "Value": "283",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "InGreen",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Order": 2,
+          "Substitute": false,
+          "Guides": [],
+          "Convoke": true,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "70",
+          "Name": "KONGKRAPHAN Patcharajutar",
+          "NameS": "KONGKRAPHAN P",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "16222023",
+          "Org": "THA",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "GROUP",
+              "Pos": 1,
+              "Value": "3",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "START_TIME",
+              "Pos": 2,
+              "Value": "(Tee 1)   06:32",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "TEE",
+              "Pos": 3,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOPAR",
+              "Pos": 4,
+              "Value": "+12",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "FRONT",
+              "Pos": 5,
+              "Value": "38",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "BACK",
+              "Pos": 6,
+              "Value": "36",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_CURRENT",
+              "Pos": 7,
+              "Value": "18",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_COUNT",
+              "Pos": 8,
+              "Value": "F",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TODAYPAR",
+              "Pos": 0,
+              "Value": "+4",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOHITINCURRENTHOLE",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParCurrentRound",
+              "Pos": 0,
+              "Value": "+4",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParTotal",
+              "Pos": 0,
+              "Value": "+12",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round1Strokes",
+              "Pos": 0,
+              "Value": "74",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round2Strokes",
+              "Pos": 0,
+              "Value": "70",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round3Strokes",
+              "Pos": 0,
+              "Value": "74",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round4Strokes",
+              "Pos": 0,
+              "Value": "74",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesCurrentRound",
+              "Pos": 0,
+              "Value": "74",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesIn",
+              "Pos": 0,
+              "Value": "36",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesOut",
+              "Pos": 0,
+              "Value": "38",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesPerHole",
+              "Pos": 0,
+              "Value": "[5,4,4,3,5,4,3,6,4,3,4,3,7,4,3,3,5,4]",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesTotal",
+              "Pos": 0,
+              "Value": "292",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "InGreen",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Order": 3,
+          "Substitute": false,
+          "Guides": [],
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "74",
+          "Name": "VONGTAVEELAP Natthakritta",
+          "NameS": "VONGTAVEELAP N",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        }
+      ]
+    },
+    {
+      "Reg": "GLFWTEAM-------HKG01",
+      "Bib": "",
+      "Org": "HKG",
+      "StartOrder": "",
+      "StartSortOrder": 7,
+      "Rk": "7",
+      "RkEq": false,
+      "RkPo": 7,
+      "WLT": "",
+      "Result": "-6",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "TOPAR",
+          "Pos": 4,
+          "Value": "-6",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Round1Strokes",
+          "Pos": 0,
+          "Value": "140",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Round2Strokes",
+          "Pos": 0,
+          "Value": "134",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Round3Strokes",
+          "Pos": 0,
+          "Value": "137",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Round4Strokes",
+          "Pos": 0,
+          "Value": "143",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "HOLE_COUNT",
+          "Pos": 0,
+          "Value": "-",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "HOLE_CURRENT",
+          "Pos": 0,
+          "Value": "-",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "TODAYPAR",
+          "Pos": 0,
+          "Value": "-",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "TOHITINCURRENTHOLE",
+          "Pos": 0,
+          "Value": "False",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "InGreen",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ParCurrentRound",
+          "Pos": 0,
+          "Value": "+3",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ParTotal",
+          "Pos": 0,
+          "Value": "-6",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "StrokesCurrentRound",
+          "Pos": 0,
+          "Value": "143",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "StrokesIn",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "StrokesOut",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "StrokesPerHole",
+          "Pos": 0,
+          "Value": "[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "StrokesTotal",
+          "Pos": 0,
+          "Value": "554",
+          "Extensions": []
+        }
+      ],
+      "Name": "Hong Kong, China",
+      "NameS": "Hong Kong, China",
+      "OrgDesc": "Hong Kong, China",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "",
+      "Members": [
+        {
+          "Reg": "11304784",
+          "Org": "HKG",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "GROUP",
+              "Pos": 1,
+              "Value": "9",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "START_TIME",
+              "Pos": 2,
+              "Value": "(Tee 1)   07:43",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "TEE",
+              "Pos": 3,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOPAR",
+              "Pos": 4,
+              "Value": "-5",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "FRONT",
+              "Pos": 5,
+              "Value": "35",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "BACK",
+              "Pos": 6,
+              "Value": "36",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_CURRENT",
+              "Pos": 7,
+              "Value": "18",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_COUNT",
+              "Pos": 8,
+              "Value": "F",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TODAYPAR",
+              "Pos": 0,
+              "Value": "+1",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOHITINCURRENTHOLE",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParCurrentRound",
+              "Pos": 0,
+              "Value": "+1",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParTotal",
+              "Pos": 0,
+              "Value": "-5",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round1Strokes",
+              "Pos": 0,
+              "Value": "70",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round2Strokes",
+              "Pos": 0,
+              "Value": "67",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round3Strokes",
+              "Pos": 0,
+              "Value": "67",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round4Strokes",
+              "Pos": 0,
+              "Value": "71",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesCurrentRound",
+              "Pos": 0,
+              "Value": "71",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesIn",
+              "Pos": 0,
+              "Value": "36",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesOut",
+              "Pos": 0,
+              "Value": "35",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesPerHole",
+              "Pos": 0,
+              "Value": "[4,4,4,4,4,4,2,5,4,4,3,4,5,3,3,4,5,5]",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesTotal",
+              "Pos": 0,
+              "Value": "275",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "InGreen",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Order": 1,
+          "Substitute": false,
+          "Guides": [],
+          "Convoke": true,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "71",
+          "Name": "HAN Sophie",
+          "NameS": "HAN S",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "11304678",
+          "Org": "HKG",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "GROUP",
+              "Pos": 1,
+              "Value": "6",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "START_TIME",
+              "Pos": 2,
+              "Value": "(Tee 1)   07:10",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "TEE",
+              "Pos": 3,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOPAR",
+              "Pos": 4,
+              "Value": "+3",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "FRONT",
+              "Pos": 5,
+              "Value": "35",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "BACK",
+              "Pos": 6,
+              "Value": "37",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_CURRENT",
+              "Pos": 7,
+              "Value": "18",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_COUNT",
+              "Pos": 8,
+              "Value": "F",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TODAYPAR",
+              "Pos": 0,
+              "Value": "+2",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOHITINCURRENTHOLE",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParCurrentRound",
+              "Pos": 0,
+              "Value": "+2",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParTotal",
+              "Pos": 0,
+              "Value": "+3",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round1Strokes",
+              "Pos": 0,
+              "Value": "70",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round2Strokes",
+              "Pos": 0,
+              "Value": "70",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round3Strokes",
+              "Pos": 0,
+              "Value": "71",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round4Strokes",
+              "Pos": 0,
+              "Value": "72",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesCurrentRound",
+              "Pos": 0,
+              "Value": "72",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesIn",
+              "Pos": 0,
+              "Value": "37",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesOut",
+              "Pos": 0,
+              "Value": "35",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesPerHole",
+              "Pos": 0,
+              "Value": "[4,4,3,3,5,4,3,5,4,4,4,5,5,3,3,4,4,5]",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesTotal",
+              "Pos": 0,
+              "Value": "283",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "InGreen",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Order": 2,
+          "Substitute": false,
+          "Guides": [],
+          "Convoke": true,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "72",
+          "Name": "LAU Arianna",
+          "NameS": "LAU A",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "11304965",
+          "Org": "HKG",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "GROUP",
+              "Pos": 1,
+              "Value": "9",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "START_TIME",
+              "Pos": 2,
+              "Value": "(Tee 1)   07:43",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "TEE",
+              "Pos": 3,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOPAR",
+              "Pos": 4,
+              "Value": "-1",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "FRONT",
+              "Pos": 5,
+              "Value": "37",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "BACK",
+              "Pos": 6,
+              "Value": "35",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_CURRENT",
+              "Pos": 7,
+              "Value": "18",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_COUNT",
+              "Pos": 8,
+              "Value": "F",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TODAYPAR",
+              "Pos": 0,
+              "Value": "+2",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOHITINCURRENTHOLE",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParCurrentRound",
+              "Pos": 0,
+              "Value": "+2",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParTotal",
+              "Pos": 0,
+              "Value": "-1",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round1Strokes",
+              "Pos": 0,
+              "Value": "70",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round2Strokes",
+              "Pos": 0,
+              "Value": "67",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round3Strokes",
+              "Pos": 0,
+              "Value": "70",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round4Strokes",
+              "Pos": 0,
+              "Value": "72",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesCurrentRound",
+              "Pos": 0,
+              "Value": "72",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesIn",
+              "Pos": 0,
+              "Value": "35",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesOut",
+              "Pos": 0,
+              "Value": "37",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesPerHole",
+              "Pos": 0,
+              "Value": "[4,5,6,2,4,4,3,6,3,4,5,3,5,3,4,3,4,4]",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesTotal",
+              "Pos": 0,
+              "Value": "279",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "InGreen",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Order": 3,
+          "Substitute": false,
+          "Guides": [],
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "72",
+          "Name": "DING Wai Chung Virginie",
+          "NameS": "DING WCV",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        }
+      ]
+    },
+    {
+      "Reg": "GLFWTEAM-------PHI01",
+      "Bib": "",
+      "Org": "PHI",
+      "StartOrder": "",
+      "StartSortOrder": 8,
+      "Rk": "8",
+      "RkEq": false,
+      "RkPo": 8,
+      "WLT": "",
+      "Result": "-4",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "TOPAR",
+          "Pos": 4,
+          "Value": "-4",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Round1Strokes",
+          "Pos": 0,
+          "Value": "137",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Round2Strokes",
+          "Pos": 0,
+          "Value": "139",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Round3Strokes",
+          "Pos": 0,
+          "Value": "142",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Round4Strokes",
+          "Pos": 0,
+          "Value": "138",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "HOLE_COUNT",
+          "Pos": 0,
+          "Value": "-",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "HOLE_CURRENT",
+          "Pos": 0,
+          "Value": "-",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "TODAYPAR",
+          "Pos": 0,
+          "Value": "-",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "TOHITINCURRENTHOLE",
+          "Pos": 0,
+          "Value": "False",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "InGreen",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ParCurrentRound",
+          "Pos": 0,
+          "Value": "-2",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ParTotal",
+          "Pos": 0,
+          "Value": "-4",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "StrokesCurrentRound",
+          "Pos": 0,
+          "Value": "138",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "StrokesIn",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "StrokesOut",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "StrokesPerHole",
+          "Pos": 0,
+          "Value": "[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "StrokesTotal",
+          "Pos": 0,
+          "Value": "556",
+          "Extensions": []
+        }
+      ],
+      "Name": "Philippines",
+      "NameS": "Philippines",
+      "OrgDesc": "Philippines",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "",
+      "Members": [
+        {
+          "Reg": "3991960",
+          "Org": "PHI",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "GROUP",
+              "Pos": 1,
+              "Value": "7",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "START_TIME",
+              "Pos": 2,
+              "Value": "(Tee 1)   07:21",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "TEE",
+              "Pos": 3,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOPAR",
+              "Pos": 4,
+              "Value": "-6",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "FRONT",
+              "Pos": 5,
+              "Value": "35",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "BACK",
+              "Pos": 6,
+              "Value": "32",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_CURRENT",
+              "Pos": 7,
+              "Value": "18",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_COUNT",
+              "Pos": 8,
+              "Value": "F",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TODAYPAR",
+              "Pos": 0,
+              "Value": "-3",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOHITINCURRENTHOLE",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParCurrentRound",
+              "Pos": 0,
+              "Value": "-3",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParTotal",
+              "Pos": 0,
+              "Value": "-6",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round1Strokes",
+              "Pos": 0,
+              "Value": "70",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round2Strokes",
+              "Pos": 0,
+              "Value": "66",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round3Strokes",
+              "Pos": 0,
+              "Value": "71",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round4Strokes",
+              "Pos": 0,
+              "Value": "67",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesCurrentRound",
+              "Pos": 0,
+              "Value": "67",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesIn",
+              "Pos": 0,
+              "Value": "32",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesOut",
+              "Pos": 0,
+              "Value": "35",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesPerHole",
+              "Pos": 0,
+              "Value": "[5,4,5,3,4,4,3,4,3,4,3,3,4,4,2,4,4,4]",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesTotal",
+              "Pos": 0,
+              "Value": "274",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "InGreen",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Order": 1,
+          "Substitute": false,
+          "Guides": [],
+          "Convoke": true,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "67",
+          "Name": "MALIXI Rianne Mikaela",
+          "NameS": "MALIXI RM",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "3989502",
+          "Org": "PHI",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "GROUP",
+              "Pos": 1,
+              "Value": "6",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "START_TIME",
+              "Pos": 2,
+              "Value": "(Tee 1)   07:10",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "TEE",
+              "Pos": 3,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOPAR",
+              "Pos": 4,
+              "Value": "+3",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "FRONT",
+              "Pos": 5,
+              "Value": "37",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "BACK",
+              "Pos": 6,
+              "Value": "34",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_CURRENT",
+              "Pos": 7,
+              "Value": "18",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_COUNT",
+              "Pos": 8,
+              "Value": "F",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TODAYPAR",
+              "Pos": 0,
+              "Value": "+1",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOHITINCURRENTHOLE",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParCurrentRound",
+              "Pos": 0,
+              "Value": "+1",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParTotal",
+              "Pos": 0,
+              "Value": "+3",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round1Strokes",
+              "Pos": 0,
+              "Value": "67",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round2Strokes",
+              "Pos": 0,
+              "Value": "74",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round3Strokes",
+              "Pos": 0,
+              "Value": "71",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round4Strokes",
+              "Pos": 0,
+              "Value": "71",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesCurrentRound",
+              "Pos": 0,
+              "Value": "71",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesIn",
+              "Pos": 0,
+              "Value": "34",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesOut",
+              "Pos": 0,
+              "Value": "37",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesPerHole",
+              "Pos": 0,
+              "Value": "[4,4,5,3,4,4,3,5,5,4,4,3,5,5,3,3,4,3]",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesTotal",
+              "Pos": 0,
+              "Value": "283",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "InGreen",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Order": 2,
+          "Substitute": false,
+          "Guides": [],
+          "Convoke": true,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "71",
+          "Name": "PAGDANGANAN Bianca Isabel",
+          "NameS": "PAGDANGANAN BI",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "2027184",
+          "Org": "PHI",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "GROUP",
+              "Pos": 1,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "START_TIME",
+              "Pos": 2,
+              "Value": "(Tee 1)   06:10",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "TEE",
+              "Pos": 3,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOPAR",
+              "Pos": 4,
+              "Value": "+16",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "FRONT",
+              "Pos": 5,
+              "Value": "34",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "BACK",
+              "Pos": 6,
+              "Value": "38",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_CURRENT",
+              "Pos": 7,
+              "Value": "18",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_COUNT",
+              "Pos": 8,
+              "Value": "F",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TODAYPAR",
+              "Pos": 0,
+              "Value": "+2",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOHITINCURRENTHOLE",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParCurrentRound",
+              "Pos": 0,
+              "Value": "+2",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParTotal",
+              "Pos": 0,
+              "Value": "+16",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round1Strokes",
+              "Pos": 0,
+              "Value": "78",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round2Strokes",
+              "Pos": 0,
+              "Value": "73",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round3Strokes",
+              "Pos": 0,
+              "Value": "75",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round4Strokes",
+              "Pos": 0,
+              "Value": "72",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesCurrentRound",
+              "Pos": 0,
+              "Value": "72",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesIn",
+              "Pos": 0,
+              "Value": "38",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesOut",
+              "Pos": 0,
+              "Value": "34",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesPerHole",
+              "Pos": 0,
+              "Value": "[3,4,4,3,5,4,2,5,4,6,5,4,4,4,3,3,4,5]",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesTotal",
+              "Pos": 0,
+              "Value": "226",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "InGreen",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Order": 3,
+          "Substitute": false,
+          "Guides": [],
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "72",
+          "Name": "DEL ROSARIO Pauline Beatriz",
+          "NameS": "DEL ROSARIO PB",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        }
+      ]
+    },
+    {
+      "Reg": "GLFWTEAM-------JPN01",
+      "Bib": "",
+      "Org": "JPN",
+      "StartOrder": "",
+      "StartSortOrder": 9,
+      "Rk": "9",
+      "RkEq": false,
+      "RkPo": 9,
+      "WLT": "",
+      "Result": "-2",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "TOPAR",
+          "Pos": 4,
+          "Value": "-2",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Round1Strokes",
+          "Pos": 0,
+          "Value": "141",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Round2Strokes",
+          "Pos": 0,
+          "Value": "141",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Round3Strokes",
+          "Pos": 0,
+          "Value": "144",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Round4Strokes",
+          "Pos": 0,
+          "Value": "132",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "HOLE_COUNT",
+          "Pos": 0,
+          "Value": "-",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "HOLE_CURRENT",
+          "Pos": 0,
+          "Value": "-",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "TODAYPAR",
+          "Pos": 0,
+          "Value": "-",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_EXTENDED",
+          "Code": "TOHITINCURRENTHOLE",
+          "Pos": 0,
+          "Value": "False",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "InGreen",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ParCurrentRound",
+          "Pos": 0,
+          "Value": "-8",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ParTotal",
+          "Pos": 0,
+          "Value": "-2",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "StrokesCurrentRound",
+          "Pos": 0,
+          "Value": "132",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "StrokesIn",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "StrokesOut",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "StrokesPerHole",
+          "Pos": 0,
+          "Value": "[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "StrokesTotal",
+          "Pos": 0,
+          "Value": "558",
+          "Extensions": []
+        }
+      ],
+      "Name": "Japan",
+      "NameS": "Japan",
+      "OrgDesc": "Japan",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "",
+      "Members": [
+        {
+          "Reg": "14727488",
+          "Org": "JPN",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "GROUP",
+              "Pos": 1,
+              "Value": "5",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "START_TIME",
+              "Pos": 2,
+              "Value": "(Tee 1)   06:54",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "TEE",
+              "Pos": 3,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOPAR",
+              "Pos": 4,
+              "Value": "-4",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "FRONT",
+              "Pos": 5,
+              "Value": "30",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "BACK",
+              "Pos": 6,
+              "Value": "34",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_CURRENT",
+              "Pos": 7,
+              "Value": "18",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_COUNT",
+              "Pos": 8,
+              "Value": "F",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TODAYPAR",
+              "Pos": 0,
+              "Value": "-6",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOHITINCURRENTHOLE",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParCurrentRound",
+              "Pos": 0,
+              "Value": "-6",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParTotal",
+              "Pos": 0,
+              "Value": "-4",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round1Strokes",
+              "Pos": 0,
+              "Value": "69",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round2Strokes",
+              "Pos": 0,
+              "Value": "71",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round3Strokes",
+              "Pos": 0,
+              "Value": "72",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round4Strokes",
+              "Pos": 0,
+              "Value": "64",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesCurrentRound",
+              "Pos": 0,
+              "Value": "64",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesIn",
+              "Pos": 0,
+              "Value": "34",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesOut",
+              "Pos": 0,
+              "Value": "30",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesPerHole",
+              "Pos": 0,
+              "Value": "[3,4,4,2,4,3,2,4,4,4,4,4,5,3,3,3,4,4]",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesTotal",
+              "Pos": 0,
+              "Value": "276",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "InGreen",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Order": 1,
+          "Substitute": false,
+          "Guides": [],
+          "Convoke": true,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "64",
+          "Name": "NAGASAWA Aira",
+          "NameS": "NAGASAWA A",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "14727178",
+          "Org": "JPN",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "GROUP",
+              "Pos": 1,
+              "Value": "4",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "START_TIME",
+              "Pos": 2,
+              "Value": "(Tee 1)   06:43",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "TEE",
+              "Pos": 3,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOPAR",
+              "Pos": 4,
+              "Value": "+4",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "FRONT",
+              "Pos": 5,
+              "Value": "34",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "BACK",
+              "Pos": 6,
+              "Value": "34",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_CURRENT",
+              "Pos": 7,
+              "Value": "18",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_COUNT",
+              "Pos": 8,
+              "Value": "F",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TODAYPAR",
+              "Pos": 0,
+              "Value": "-2",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOHITINCURRENTHOLE",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParCurrentRound",
+              "Pos": 0,
+              "Value": "-2",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParTotal",
+              "Pos": 0,
+              "Value": "+4",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round1Strokes",
+              "Pos": 0,
+              "Value": "72",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round2Strokes",
+              "Pos": 0,
+              "Value": "72",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round3Strokes",
+              "Pos": 0,
+              "Value": "72",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round4Strokes",
+              "Pos": 0,
+              "Value": "68",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesCurrentRound",
+              "Pos": 0,
+              "Value": "68",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesIn",
+              "Pos": 0,
+              "Value": "34",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesOut",
+              "Pos": 0,
+              "Value": "34",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesPerHole",
+              "Pos": 0,
+              "Value": "[4,3,4,3,5,4,2,5,4,4,3,3,7,3,2,4,4,4]",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesTotal",
+              "Pos": 0,
+              "Value": "284",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "InGreen",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Order": 2,
+          "Substitute": false,
+          "Guides": [],
+          "Convoke": true,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "68",
+          "Name": "GOTO Ai",
+          "NameS": "GOTO A",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "14729123",
+          "Org": "JPN",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "GROUP",
+              "Pos": 1,
+              "Value": "3",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "START_TIME",
+              "Pos": 2,
+              "Value": "(Tee 1)   06:32",
+              "Extensions": []
+            },
+            {
+              "Type": "START_LIST_INFO",
+              "Code": "TEE",
+              "Pos": 3,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOPAR",
+              "Pos": 4,
+              "Value": "+13",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "FRONT",
+              "Pos": 5,
+              "Value": "37",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "BACK",
+              "Pos": 6,
+              "Value": "39",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_CURRENT",
+              "Pos": 7,
+              "Value": "18",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "HOLE_COUNT",
+              "Pos": 8,
+              "Value": "F",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TODAYPAR",
+              "Pos": 0,
+              "Value": "+6",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_EXTENDED",
+              "Code": "TOHITINCURRENTHOLE",
+              "Pos": 0,
+              "Value": "False",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParCurrentRound",
+              "Pos": 0,
+              "Value": "+6",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "ParTotal",
+              "Pos": 0,
+              "Value": "+13",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round1Strokes",
+              "Pos": 0,
+              "Value": "72",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round2Strokes",
+              "Pos": 0,
+              "Value": "70",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round3Strokes",
+              "Pos": 0,
+              "Value": "75",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "Round4Strokes",
+              "Pos": 0,
+              "Value": "76",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesCurrentRound",
+              "Pos": 0,
+              "Value": "76",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesIn",
+              "Pos": 0,
+              "Value": "39",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesOut",
+              "Pos": 0,
+              "Value": "37",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesPerHole",
+              "Pos": 0,
+              "Value": "[4,4,5,3,4,4,3,6,4,5,4,4,4,3,4,5,5,5]",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "StrokesTotal",
+              "Pos": 0,
+              "Value": "293",
+              "Extensions": []
+            },
+            {
+              "Type": "RESULT_INFO",
+              "Code": "InGreen",
+              "Pos": 0,
+              "Value": "false",
+              "Extensions": []
+            }
+          ],
+          "Order": 3,
+          "Substitute": false,
+          "Guides": [],
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "76",
+          "Name": "SHINCHI Mamika",
+          "NameS": "SHINCHI M",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        }
+      ]
+    }
+  ],
+  "Legends": {
+    "records": [],
+    "irms": [],
+    "qs": [],
+    "funcs": [
+      {
+        "DescS": "AA01",
+        "Desc": "Athlete"
+      }
+    ]
+  }
+}

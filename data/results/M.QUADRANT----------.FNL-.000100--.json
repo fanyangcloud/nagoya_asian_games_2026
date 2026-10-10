@@ -1,1 +1,850 @@
-null
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "SPK",
+    "DiscDesc": "Sepaktakraw",
+    "Key": "M.QUADRANT----------.FNL-.000100--",
+    "isH2H": true,
+    "Type": "T",
+    "Medal": "1",
+    "Status": "OFFICIAL",
+    "StatusDesc": "Official",
+    "DateTimeRaw": "2026-10-03T10:30:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "",
+    "HideLocation": false,
+    "Venue": "MPG",
+    "VenueDesc": "",
+    "VenueDescS": "",
+    "Loc": "SE2",
+    "LocDesc": "Nagoya City Mizuho Park Gymnasium - Court 2",
+    "LocDescS": "Court 2",
+    "Event": "M.QUADRANT----------",
+    "EventDesc": "Men's Quadrant",
+    "Phase": "M.QUADRANT----------.FNL-",
+    "PhaseOrder": 3,
+    "PhaseDesc": "Men's Quadrant Final",
+    "PhaseDescS": "Men's Quadrant Final",
+    "PhaseDescA": "Final",
+    "UnitDesc": "Men's Quadrant Gold Medal Match",
+    "UnitDescS": "Men's Quadrant Gold Medal Match",
+    "UnitDescA": "Men's Quadrant Gold Medal Match",
+    "EndDateTimeRaw": "2026-10-03T12:11:53+09:00",
+    "ActualEndDateTimeRaw": "2026-10-03T12:11:53+09:00",
+    "UnitNum": "MQ15",
+    "IsLive": false,
+    "ShowResults": true,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "2-1",
+    "ResDetail": "17:15,9:15,15:13",
+    "Duration": "83",
+    "CurrentPeriod": 3,
+    "Current": "",
+    "Last": "",
+    "Extensions": [],
+    "Periods": [
+      {
+        "Order": 1,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "17",
+        "ResAway": "15",
+        "TotHome": "2",
+        "TotAway": "1",
+        "Extensions": [],
+        "Desc": "Set 1",
+        "DescS": "Set 1"
+      },
+      {
+        "Order": 2,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "9",
+        "ResAway": "15",
+        "TotHome": "2",
+        "TotAway": "1",
+        "Extensions": [],
+        "Desc": "Set 2",
+        "DescS": "Set 2"
+      },
+      {
+        "Order": 3,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "15",
+        "ResAway": "13",
+        "TotHome": "2",
+        "TotAway": "1",
+        "Extensions": [],
+        "Desc": "Set 3",
+        "DescS": "Set 3"
+      }
+    ],
+    "Officials": [
+      {
+        "Reg": "6357532",
+        "Org": "SGP",
+        "Function": "SE03",
+        "Bib": "",
+        "Extensions": [],
+        "OrgDesc": "Singapore",
+        "Name": "BIN CHE MEI Mohammed Radhi",
+        "NameS": "BIN CHE MEI MR",
+        "FuncDesc": "Official Referee"
+      },
+      {
+        "Reg": "3876680",
+        "Org": "PHI",
+        "Function": "SE03",
+        "Bib": "",
+        "Extensions": [],
+        "OrgDesc": "Philippines",
+        "Name": "LABOY Richel",
+        "NameS": "LABOY R",
+        "FuncDesc": "Court Referee"
+      },
+      {
+        "Reg": "175363",
+        "Org": "PHI",
+        "Function": "SE03",
+        "Bib": "",
+        "Extensions": [],
+        "OrgDesc": "Philippines",
+        "Name": "BENGCO Michael",
+        "NameS": "BENGCO M",
+        "FuncDesc": "Referee"
+      },
+      {
+        "Reg": "2439005",
+        "Org": "IRI",
+        "Function": "SE03",
+        "Bib": "",
+        "Extensions": [],
+        "OrgDesc": "Islamic Republic of Iran",
+        "Name": "SHAHVERDISHAHRAKI Malihe",
+        "NameS": "SHAHVERDISHAHRAKI",
+        "FuncDesc": "Assistant Referee"
+      },
+      {
+        "Reg": "9134539",
+        "Org": "MAS",
+        "Function": "SE03",
+        "Bib": "",
+        "Extensions": [],
+        "OrgDesc": "Malaysia",
+        "Name": "BIN MD DIN Rozikin",
+        "NameS": "BIN MD DIN R",
+        "FuncDesc": "Line Referee"
+      },
+      {
+        "Reg": "9155698",
+        "Org": "MAS",
+        "Function": "SE03",
+        "Bib": "",
+        "Extensions": [],
+        "OrgDesc": "Malaysia",
+        "Name": "BIN MD ALI Ismail",
+        "NameS": "BIN MD ALI I",
+        "FuncDesc": "Line Referee"
+      },
+      {
+        "Reg": "11195701",
+        "Org": "CHN",
+        "Function": "SE03",
+        "Bib": "",
+        "Extensions": [],
+        "OrgDesc": "People's Republic of China",
+        "Name": "CHEN Jingguo",
+        "NameS": "CHEN J",
+        "FuncDesc": "Challenge Referee"
+      },
+      {
+        "Reg": "16421307",
+        "Org": "MAS",
+        "Function": "SE03",
+        "Bib": "",
+        "Extensions": [],
+        "OrgDesc": "Malaysia",
+        "Name": "BIN JUNAIDI Bahtiar",
+        "NameS": "BIN JUNAIDI B",
+        "FuncDesc": "Challenge Referee"
+      }
+    ],
+    "Paralympic": false
+  },
+  "Competitors": [
+    {
+      "Reg": "SPKMQUADRANT---JPN01",
+      "Bib": "",
+      "Org": "JPN",
+      "MedClass": "",
+      "StartOrder": "",
+      "StartSortOrder": 0,
+      "Rk": "1",
+      "RkEq": false,
+      "RkPo": 1,
+      "WLT": "W",
+      "Result": "2",
+      "ResDetail": "17, 9, 15",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [],
+      "Name": "Japan",
+      "NameS": "Japan",
+      "OrgDesc": "Japan",
+      "Splits": [
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "17",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OFFICIAL",
+          "Extensions": []
+        },
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "9",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OFFICIAL",
+          "Extensions": []
+        },
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "15",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OFFICIAL",
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_GOLD",
+      "Members": [
+        {
+          "Reg": "12030383",
+          "Org": "JPN",
+          "Bib": "1",
+          "Function": "AA01",
+          "Position": "S",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "179.00",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "1988-12-16",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 1,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": true,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "SATO Yuki",
+          "NameS": "SATO Y",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Striker"
+        },
+        {
+          "Reg": "12031221",
+          "Org": "JPN",
+          "Bib": "2",
+          "Function": "AA01",
+          "Position": "F",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "166.00",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "1989-01-09",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 2,
+          "Substitute": true,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "TAKANO Seiya",
+          "NameS": "TAKANO S",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Feeder"
+        },
+        {
+          "Reg": "12031114",
+          "Org": "JPN",
+          "Bib": "3",
+          "Function": "AA01",
+          "Position": "F",
+          "Captain": true,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "173.00",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "1998-11-27",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 3,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": true,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "HARUHARA Ryota",
+          "NameS": "HARUHARA R",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Feeder"
+        },
+        {
+          "Reg": "12031762",
+          "Org": "JPN",
+          "Bib": "4",
+          "Function": "AA01",
+          "Position": "S",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "175.00",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "1994-03-13",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 4,
+          "Substitute": true,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "NAITO Toshitaka",
+          "NameS": "NAITO T",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Striker"
+        },
+        {
+          "Reg": "12030892",
+          "Org": "JPN",
+          "Bib": "6",
+          "Function": "AA01",
+          "Position": "T",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "180.00",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "1997-10-08",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 6,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": true,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "NARAWA Wataru",
+          "NameS": "NARAWA W",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Tekong"
+        },
+        {
+          "Reg": "12031545",
+          "Org": "JPN",
+          "Bib": "12",
+          "Function": "AA01",
+          "Position": "S",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "170.00",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "1995-08-11",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 12,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": true,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "ICHIKAWA Yota",
+          "NameS": "ICHIKAWA Y",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Striker"
+        }
+      ]
+    },
+    {
+      "Reg": "SPKMQUADRANT---INA01",
+      "Bib": "",
+      "Org": "INA",
+      "MedClass": "",
+      "StartOrder": "",
+      "StartSortOrder": 0,
+      "Rk": "2",
+      "RkEq": false,
+      "RkPo": 0,
+      "WLT": "L",
+      "Result": "1",
+      "ResDetail": "15, 15, 13",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [],
+      "Name": "Indonesia",
+      "NameS": "Indonesia",
+      "OrgDesc": "Indonesia",
+      "Splits": [
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "15",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OFFICIAL",
+          "Extensions": []
+        },
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "15",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OFFICIAL",
+          "Extensions": []
+        },
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "13",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OFFICIAL",
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_SILVER",
+      "Members": [
+        {
+          "Reg": "11835732",
+          "Org": "INA",
+          "Bib": "3",
+          "Function": "AA01",
+          "Position": "F",
+          "Captain": true,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "166.00",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "1994-03-27",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 3,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": true,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "MULIANG Muhammad Hardiansyah",
+          "NameS": "MULIANG MH",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Feeder"
+        },
+        {
+          "Reg": "5964496",
+          "Org": "INA",
+          "Bib": "4",
+          "Function": "AA01",
+          "Position": "S",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "166.00",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2008-03-15",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 4,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": true,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "ROHMAN Muhammad Ubaidur",
+          "NameS": "ROHMAN MU",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Striker"
+        },
+        {
+          "Reg": "2742024",
+          "Org": "INA",
+          "Bib": "5",
+          "Function": "AA01",
+          "Position": "S",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "165.00",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2001-08-14",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 5,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": true,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "LADADA Jelki",
+          "NameS": "LADADA J",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Striker"
+        },
+        {
+          "Reg": "2755351",
+          "Org": "INA",
+          "Bib": "7",
+          "Function": "AA01",
+          "Position": "S",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "176.00",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "1990-10-16",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 7,
+          "Substitute": true,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "RIJAL Saiful",
+          "NameS": "RIJAL S",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Striker"
+        },
+        {
+          "Reg": "3658195",
+          "Org": "INA",
+          "Bib": "10",
+          "Function": "AA01",
+          "Position": "T",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "165.00",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2006-03-10",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 10,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": true,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "ASWINATAMA Yudha",
+          "NameS": "ASWINATAMA Y",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Tekong"
+        },
+        {
+          "Reg": "9811786",
+          "Org": "INA",
+          "Bib": "11",
+          "Function": "AA01",
+          "Position": "F",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "169.00",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "1997-01-01",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 11,
+          "Substitute": true,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "SAPUTRA Andi Try Sandi",
+          "NameS": "SAPUTRA ATS",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Feeder"
+        }
+      ]
+    }
+  ],
+  "Legends": {
+    "records": [],
+    "irms": [],
+    "qs": [],
+    "funcs": [
+      {
+        "DescS": "AA01",
+        "Desc": "Athlete"
+      }
+    ],
+    "pos": [
+      {
+        "DescS": "S",
+        "Desc": "Striker"
+      },
+      {
+        "DescS": "F",
+        "Desc": "Feeder"
+      },
+      {
+        "DescS": "T",
+        "Desc": "Tekong"
+      }
+    ],
+    "captain": "legends.captain"
+  }
+}

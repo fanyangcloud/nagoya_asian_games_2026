@@ -1,1 +1,779 @@
-null
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "TKW",
+    "DiscDesc": "Taekwondo",
+    "Key": "M.INDPOOM-----------.FNL-.000100--",
+    "isH2H": false,
+    "Type": "A",
+    "Medal": "1",
+    "Status": "OFFICIAL",
+    "StatusDesc": "Official",
+    "DateTimeRaw": "2026-10-01T17:00:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "",
+    "HideLocation": false,
+    "Venue": "TYH",
+    "VenueDesc": "Toyohashi Gymnasium",
+    "VenueDescS": "Toyohashi Gymnasium",
+    "Loc": "TK2",
+    "LocDesc": "Toyohashi Gymnasium Mat 2",
+    "LocDescS": "Toyohashi Gymnasium Mat 2",
+    "Event": "M.INDPOOM-----------",
+    "EventDesc": "Men Individual Poomsae",
+    "Phase": "M.INDPOOM-----------.FNL-",
+    "PhaseOrder": 18,
+    "PhaseDesc": "Men Individual Poomsae Gold Medal Contest",
+    "PhaseDescS": "Men Ind. Poomsae Gold Medal Contest",
+    "PhaseDescA": "Gold Medal Contest",
+    "UnitDesc": "Men Individual Poomsae Gold Medal Contest",
+    "UnitDescS": "Men Ind. Poomsae Gold Medal Contest",
+    "UnitDescA": "Men Individual Poomsae Gold Medal Contest",
+    "EndDateTimeRaw": "2026-10-01T17:49:53+09:00",
+    "ActualEndDateTimeRaw": "2026-10-01T17:49:53+09:00",
+    "UnitNum": "206",
+    "IsLive": false,
+    "ShowResults": true,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "",
+    "ResDetail": "",
+    "Duration": "",
+    "CurrentPeriod": 0,
+    "Current": "",
+    "Last": "",
+    "Extensions": [],
+    "Periods": [],
+    "Officials": [
+      {
+        "Reg": "15444819",
+        "Org": "UZB",
+        "Order": 101,
+        "Function": "TK04",
+        "Bib": "1973-12-26",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Uzbekistan",
+        "Name": "KIM Dmitriy",
+        "NameS": "KIM D",
+        "FuncDesc": "Referee"
+      },
+      {
+        "Reg": "15440072",
+        "Org": "CHN",
+        "Order": 102,
+        "Function": "TK05",
+        "Bib": "1982-04-19",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "People's Republic of China",
+        "Name": "TAI Yu",
+        "NameS": "TAI Y",
+        "FuncDesc": "Judge 1"
+      },
+      {
+        "Reg": "15441631",
+        "Org": "KAZ",
+        "Order": 103,
+        "Function": "TK06",
+        "Bib": "1977-08-25",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Kazakhstan",
+        "Name": "BAKIYEV Ruslan",
+        "NameS": "BAKIYEV R",
+        "FuncDesc": "Judge 2"
+      },
+      {
+        "Reg": "15442988",
+        "Org": "MGL",
+        "Order": 104,
+        "Function": "TK07",
+        "Bib": "1976-07-24",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Mongolia",
+        "Name": "TUMUR Uyanga",
+        "NameS": "TUMUR U",
+        "FuncDesc": "Judge 3"
+      },
+      {
+        "Reg": "15443952",
+        "Org": "KSA",
+        "Order": 105,
+        "Function": "TK10",
+        "Bib": "1977-05-30",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Saudi Arabia",
+        "Name": "SHEEKABOBAKOR Mujashia",
+        "NameS": "SHEEKABOBAKOR M",
+        "FuncDesc": "Judge 4"
+      },
+      {
+        "Reg": "15443121",
+        "Org": "MYA",
+        "Order": 106,
+        "Function": "TK11",
+        "Bib": "1983-06-07",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Myanmar",
+        "Name": "MYAR Soe Soe",
+        "NameS": "MYAR SS",
+        "FuncDesc": "Judge 5"
+      },
+      {
+        "Reg": "15442761",
+        "Org": "MAS",
+        "Order": 107,
+        "Function": "TK12",
+        "Bib": "1979-01-24",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Malaysia",
+        "Name": "LEE Eit Seng",
+        "NameS": "LEE ES",
+        "FuncDesc": "Judge 6"
+      }
+    ],
+    "Paralympic": false
+  },
+  "Competitors": [
+    {
+      "Reg": "16180028",
+      "Bib": "106",
+      "Org": "KOR",
+      "StartOrder": "7",
+      "StartSortOrder": 7,
+      "Rk": "1",
+      "RkEq": false,
+      "RkPo": 1,
+      "WLT": "",
+      "Result": "9.3800",
+      "ResDetail": "131.3",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Acc1",
+          "Pos": 0,
+          "Value": "3.680",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Tec1",
+          "Pos": 0,
+          "Value": "5.680",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Pre1",
+          "Pos": 0,
+          "Value": "5.660",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Pre2",
+          "Pos": 0,
+          "Value": "3.740",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Sum1",
+          "Pos": 0,
+          "Value": "9.340",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Sum2",
+          "Pos": 0,
+          "Value": "9.420",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "FinalScore",
+          "Pos": 0,
+          "Value": "9.3800",
+          "Extensions": []
+        }
+      ],
+      "Name": "YUN Kyusung",
+      "NameS": "YUN K",
+      "OrgDesc": "Republic of Korea",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "ME_GOLD"
+    },
+    {
+      "Reg": "7585648",
+      "Bib": "113",
+      "Org": "THA",
+      "StartOrder": "8",
+      "StartSortOrder": 8,
+      "Rk": "2",
+      "RkEq": false,
+      "RkPo": 2,
+      "WLT": "",
+      "Result": "9.2800",
+      "ResDetail": "129.9",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Acc1",
+          "Pos": 0,
+          "Value": "3.640",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Tec1",
+          "Pos": 0,
+          "Value": "5.580",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Pre1",
+          "Pos": 0,
+          "Value": "5.660",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Pre2",
+          "Pos": 0,
+          "Value": "3.680",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Sum1",
+          "Pos": 0,
+          "Value": "9.300",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Sum2",
+          "Pos": 0,
+          "Value": "9.260",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "FinalScore",
+          "Pos": 0,
+          "Value": "9.2800",
+          "Extensions": []
+        }
+      ],
+      "Name": "PINTHASUTE Navin",
+      "NameS": "PINTHASUTE N",
+      "OrgDesc": "Thailand",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "ME_SILVER"
+    },
+    {
+      "Reg": "13474376",
+      "Bib": "111",
+      "Org": "PHI",
+      "StartOrder": "4",
+      "StartSortOrder": 4,
+      "Rk": "3",
+      "RkEq": false,
+      "RkPo": 3,
+      "WLT": "",
+      "Result": "9.0900",
+      "ResDetail": "127.3",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Acc1",
+          "Pos": 0,
+          "Value": "3.600",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Tec1",
+          "Pos": 0,
+          "Value": "5.460",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Pre1",
+          "Pos": 0,
+          "Value": "5.500",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Pre2",
+          "Pos": 0,
+          "Value": "3.620",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Sum1",
+          "Pos": 0,
+          "Value": "9.100",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Sum2",
+          "Pos": 0,
+          "Value": "9.080",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "FinalScore",
+          "Pos": 0,
+          "Value": "9.0900",
+          "Extensions": []
+        }
+      ],
+      "Name": "YAPE Jeus Gabriel Derick",
+      "NameS": "YAPE JGD",
+      "OrgDesc": "Philippines",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "ME_BRONZE"
+    },
+    {
+      "Reg": "15948461",
+      "Bib": "112",
+      "Org": "SGP",
+      "StartOrder": "6",
+      "StartSortOrder": 6,
+      "Rk": "4",
+      "RkEq": false,
+      "RkPo": 4,
+      "WLT": "",
+      "Result": "9.0400",
+      "ResDetail": "126.7",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Acc1",
+          "Pos": 0,
+          "Value": "3.540",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Tec1",
+          "Pos": 0,
+          "Value": "5.440",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Pre1",
+          "Pos": 0,
+          "Value": "5.460",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Pre2",
+          "Pos": 0,
+          "Value": "3.640",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Sum1",
+          "Pos": 0,
+          "Value": "9.000",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Sum2",
+          "Pos": 0,
+          "Value": "9.080",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "FinalScore",
+          "Pos": 0,
+          "Value": "9.0400",
+          "Extensions": []
+        }
+      ],
+      "Name": "YAP Zong Han Darren",
+      "NameS": "YAP ZHD",
+      "OrgDesc": "Singapore",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "ME_BRONZE"
+    },
+    {
+      "Reg": "234254",
+      "Bib": "115",
+      "Org": "VIE",
+      "StartOrder": "3",
+      "StartSortOrder": 3,
+      "Rk": "5",
+      "RkEq": false,
+      "RkPo": 5,
+      "WLT": "",
+      "Result": "9.0300",
+      "ResDetail": "126.5",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Acc1",
+          "Pos": 0,
+          "Value": "3.580",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Tec1",
+          "Pos": 0,
+          "Value": "5.420",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Pre1",
+          "Pos": 0,
+          "Value": "5.480",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Pre2",
+          "Pos": 0,
+          "Value": "3.580",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Sum1",
+          "Pos": 0,
+          "Value": "9.060",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Sum2",
+          "Pos": 0,
+          "Value": "9.000",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "FinalScore",
+          "Pos": 0,
+          "Value": "9.0300",
+          "Extensions": []
+        }
+      ],
+      "Name": "NGUYEN Xuan Thanh",
+      "NameS": "NGUYEN XT",
+      "OrgDesc": "Vietnam",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": ""
+    },
+    {
+      "Reg": "9769118",
+      "Bib": "114",
+      "Org": "TPE",
+      "StartOrder": "2",
+      "StartSortOrder": 2,
+      "Rk": "6",
+      "RkEq": false,
+      "RkPo": 6,
+      "WLT": "",
+      "Result": "9.0100",
+      "ResDetail": "126.3",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Acc1",
+          "Pos": 0,
+          "Value": "3.640",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Tec1",
+          "Pos": 0,
+          "Value": "5.300",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Pre1",
+          "Pos": 0,
+          "Value": "5.520",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Pre2",
+          "Pos": 0,
+          "Value": "3.560",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Sum1",
+          "Pos": 0,
+          "Value": "9.160",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Sum2",
+          "Pos": 0,
+          "Value": "8.860",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "FinalScore",
+          "Pos": 0,
+          "Value": "9.0100",
+          "Extensions": []
+        }
+      ],
+      "Name": "KE Hsiang-shuo",
+      "NameS": "KE H",
+      "OrgDesc": "Chinese Taipei",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": ""
+    },
+    {
+      "Reg": "7864576",
+      "Bib": "108",
+      "Org": "MAS",
+      "StartOrder": "5",
+      "StartSortOrder": 5,
+      "Rk": "7",
+      "RkEq": false,
+      "RkPo": 7,
+      "WLT": "",
+      "Result": "8.8700",
+      "ResDetail": "124.3",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Acc1",
+          "Pos": 0,
+          "Value": "3.540",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Tec1",
+          "Pos": 0,
+          "Value": "5.160",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Pre1",
+          "Pos": 0,
+          "Value": "5.480",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Pre2",
+          "Pos": 0,
+          "Value": "3.560",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Sum1",
+          "Pos": 0,
+          "Value": "9.020",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Sum2",
+          "Pos": 0,
+          "Value": "8.720",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "FinalScore",
+          "Pos": 0,
+          "Value": "8.8700",
+          "Extensions": []
+        }
+      ],
+      "Name": "CHIN Ken Haw",
+      "NameS": "CHIN KH",
+      "OrgDesc": "Malaysia",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": ""
+    },
+    {
+      "Reg": "6205081",
+      "Bib": "101",
+      "Org": "HKG",
+      "StartOrder": "1",
+      "StartSortOrder": 1,
+      "Rk": "8",
+      "RkEq": false,
+      "RkPo": 8,
+      "WLT": "",
+      "Result": "8.8100",
+      "ResDetail": "123.2",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Acc1",
+          "Pos": 0,
+          "Value": "3.600",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Tec1",
+          "Pos": 0,
+          "Value": "5.100",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Pre1",
+          "Pos": 0,
+          "Value": "5.460",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Pre2",
+          "Pos": 0,
+          "Value": "3.460",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Sum1",
+          "Pos": 0,
+          "Value": "9.060",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Sum2",
+          "Pos": 0,
+          "Value": "8.560",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "FinalScore",
+          "Pos": 0,
+          "Value": "8.8100",
+          "Extensions": []
+        }
+      ],
+      "Name": "LUI Ching Nam",
+      "NameS": "LUI CN",
+      "OrgDesc": "Hong Kong, China",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": ""
+    }
+  ],
+  "Legends": {
+    "records": [],
+    "irms": [],
+    "qs": []
+  }
+}

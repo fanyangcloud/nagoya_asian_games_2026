@@ -1,1 +1,559 @@
-null
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "TKW",
+    "DiscDesc": "Taekwondo",
+    "Key": "W.67KG--------------.FNL-.000100--",
+    "isH2H": true,
+    "Type": "A",
+    "Medal": "1",
+    "Status": "OFFICIAL",
+    "StatusDesc": "Official",
+    "DateTimeRaw": "2026-10-02T19:50:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "",
+    "HideLocation": false,
+    "Venue": "TYH",
+    "VenueDesc": "Toyohashi Gymnasium",
+    "VenueDescS": "Toyohashi Gymnasium",
+    "Loc": "TK2",
+    "LocDesc": "Toyohashi Gymnasium Mat 2",
+    "LocDescS": "Toyohashi Gymnasium Mat 2",
+    "Event": "W.67KG--------------",
+    "EventDesc": "Women -67kg",
+    "Phase": "W.67KG--------------.FNL-",
+    "PhaseOrder": 30,
+    "PhaseDesc": "Women -67kg Gold Medal Contest",
+    "PhaseDescS": "Women -67kg Gold Medal Contest",
+    "PhaseDescA": "Gold Medal Contest",
+    "UnitDesc": "Women -67kg Gold Medal Contest",
+    "UnitDescS": "Women -67kg Gold Medal Contest",
+    "UnitDescA": "Women -67kg Gold Medal Contest",
+    "EndDateTimeRaw": "",
+    "ActualEndDateTimeRaw": "",
+    "UnitNum": "227",
+    "IsLive": false,
+    "ShowResults": true,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "2-0",
+    "ResDetail": "8-8, 16-11",
+    "Duration": "",
+    "CurrentPeriod": 2,
+    "Current": "",
+    "Last": "",
+    "Extensions": [
+      {
+        "Type": "UNIT_INFO",
+        "Code": "CodDecision",
+        "Pos": 0,
+        "Value": "PTF -> Win by Final Score",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Decision",
+        "Pos": 0,
+        "Value": "Win by Final Score",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "InfoMatch",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "InfoTeam",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "RESULT",
+        "Code": "Register",
+        "Pos": 0,
+        "Value": "9305731",
+        "Extensions": []
+      },
+      {
+        "Type": "RESULT",
+        "Code": "RegisterOpp",
+        "Pos": 0,
+        "Value": "4979035",
+        "Extensions": []
+      },
+      {
+        "Type": "RESULT",
+        "Code": "Result",
+        "Pos": 0,
+        "Value": "2:0",
+        "Extensions": []
+      }
+    ],
+    "Periods": [
+      {
+        "Order": 1,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "8",
+        "ResAway": "8",
+        "TotHome": "1",
+        "TotAway": "0",
+        "Extensions": [],
+        "Desc": "Round 1",
+        "DescS": ""
+      },
+      {
+        "Order": 2,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "16",
+        "ResAway": "11",
+        "TotHome": "1",
+        "TotAway": "0",
+        "Extensions": [],
+        "Desc": "Round 2",
+        "DescS": ""
+      }
+    ],
+    "Officials": [
+      {
+        "Reg": "15444717",
+        "Org": "THA",
+        "Order": 101,
+        "Function": "TK04",
+        "Bib": "1971-08-22",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Thailand",
+        "Name": "HEMWONNO Jatuporn",
+        "NameS": "HEMWONNO J",
+        "FuncDesc": "Referee"
+      },
+      {
+        "Reg": "15440648",
+        "Org": "IND",
+        "Order": 102,
+        "Function": "TK05",
+        "Bib": "1991-07-03",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "India",
+        "Name": "SUKUMAR Dinesh Kumar",
+        "NameS": "SUKUMAR DK",
+        "FuncDesc": "Judge 1"
+      },
+      {
+        "Reg": "15442059",
+        "Org": "KOR",
+        "Order": 103,
+        "Function": "TK06",
+        "Bib": "1972-07-16",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Republic of Korea",
+        "Name": "HEO Seungjae",
+        "NameS": "HEO S",
+        "FuncDesc": "Judge 2"
+      },
+      {
+        "Reg": "15439813",
+        "Org": "BHU",
+        "Order": 104,
+        "Function": "TK07",
+        "Bib": "1977-03-03",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Bhutan",
+        "Name": "WANGCHUK Dema",
+        "NameS": "WANGCHUK D",
+        "FuncDesc": "Judge 3"
+      },
+      {
+        "Reg": "15440398",
+        "Org": "TPE",
+        "Order": 105,
+        "Function": "TK08",
+        "Bib": "1981-02-05",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Chinese Taipei",
+        "Name": "CHEN Hungyu",
+        "NameS": "CHEN H",
+        "FuncDesc": "Review Jury"
+      },
+      {
+        "Reg": "15444170",
+        "Org": "SRI",
+        "Order": 106,
+        "Function": "TK09",
+        "Bib": "1982-12-07",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Sri Lanka",
+        "Name": "KAHADUARACHCHIGEALAHAKOON C.",
+        "NameS": "KAHADUARACHCHIGEA.",
+        "FuncDesc": "Technical Assistant"
+      }
+    ],
+    "Paralympic": false
+  },
+  "Competitors": [
+    {
+      "Reg": "9305731",
+      "Bib": "604",
+      "Org": "IRI",
+      "StartOrder": "1",
+      "StartSortOrder": 1,
+      "Rk": "1",
+      "RkEq": false,
+      "RkPo": 1,
+      "WLT": "W",
+      "Result": "2",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "CodDecision",
+          "Pos": 0,
+          "Value": "PTF",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Colour",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Decision Round 1",
+          "Pos": 0,
+          "Value": "R-SUP",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Decision Round 2",
+          "Pos": 0,
+          "Value": "R-PTF",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Decision Round 3",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ExtraDecision",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Final Score",
+          "Pos": 0,
+          "Value": "0.0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Gamjeon",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "NProtests",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "MemberServer",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "Server",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        }
+      ],
+      "Stats": {
+        "ST_1PT": "",
+        "ST_2PT": "1",
+        "ST_3PT": "2",
+        "ST_4PT": "1",
+        "ST_6PT": "2",
+        "ST_GMJ": "1"
+      },
+      "Name": "MORADI SHEIKHLARI Saghar",
+      "NameS": "MORADI SHEIKHLARI S",
+      "OrgDesc": "Islamic Republic of Iran",
+      "Splits": [
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "8",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Stats": {
+            "ST_1PT": "",
+            "ST_2PT": "1",
+            "ST_3PT": "2",
+            "ST_4PT": "",
+            "ST_6PT": "",
+            "ST_GMJ": ""
+          },
+          "Extensions": []
+        },
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "16",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Stats": {
+            "ST_1PT": "",
+            "ST_2PT": "",
+            "ST_3PT": "",
+            "ST_4PT": "1",
+            "ST_6PT": "2",
+            "ST_GMJ": "2"
+          },
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_GOLD"
+    },
+    {
+      "Reg": "4979035",
+      "Bib": "614",
+      "Org": "UZB",
+      "StartOrder": "2",
+      "StartSortOrder": 2,
+      "Rk": "2",
+      "RkEq": false,
+      "RkPo": 2,
+      "WLT": "L",
+      "Result": "0",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "CodDecision",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Colour",
+          "Pos": 0,
+          "Value": "2",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Decision Round 1",
+          "Pos": 0,
+          "Value": "R-SUP",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Decision Round 2",
+          "Pos": 0,
+          "Value": "R-PTF",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Decision Round 3",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ExtraDecision",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Final Score",
+          "Pos": 0,
+          "Value": "0.0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Gamjeon",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "NProtests",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "MemberServer",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "Server",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        }
+      ],
+      "Stats": {
+        "ST_1PT": "",
+        "ST_2PT": "2",
+        "ST_3PT": "3",
+        "ST_4PT": "1",
+        "ST_6PT": "",
+        "ST_GMJ": ""
+      },
+      "Name": "SOBIRJONOVA Ozoda",
+      "NameS": "SOBIRJONOVA O",
+      "OrgDesc": "Uzbekistan",
+      "Splits": [
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "8",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Stats": {
+            "ST_1PT": "",
+            "ST_2PT": "1",
+            "ST_3PT": "2",
+            "ST_4PT": "",
+            "ST_6PT": "",
+            "ST_GMJ": ""
+          },
+          "Extensions": []
+        },
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "11",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Stats": {
+            "ST_1PT": "",
+            "ST_2PT": "1",
+            "ST_3PT": "1",
+            "ST_4PT": "1",
+            "ST_6PT": "",
+            "ST_GMJ": "1"
+          },
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_SILVER"
+    }
+  ],
+  "Legends": {
+    "records": [],
+    "irms": [],
+    "qs": []
+  }
+}

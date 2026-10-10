@@ -1,1 +1,539 @@
-null
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "VBV",
+    "DiscDesc": "Beach Volleyball",
+    "Key": "M.TEAM2-------------.FNL-.000100--",
+    "isH2H": true,
+    "Type": "D",
+    "Medal": "1",
+    "Status": "OFFICIAL",
+    "StatusDesc": "Official",
+    "DateTimeRaw": "2026-10-03T13:00:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "",
+    "HideLocation": false,
+    "Venue": "HRB",
+    "VenueDesc": "Hekinan Ryokuchi Beach Court",
+    "VenueDescS": "Hekinan Ryokuchi Beach Court",
+    "Loc": "VB1",
+    "LocDesc": "Hekinan Ryokuchi Beach Court Main-FOP",
+    "LocDescS": "Hekinan Ryokuchi Beach Court Main-FOP",
+    "Event": "M.TEAM2-------------",
+    "EventDesc": "Men's",
+    "Phase": "M.TEAM2-------------.FNL-",
+    "PhaseOrder": 13,
+    "PhaseDesc": "Men's Finals",
+    "PhaseDescS": "Men's Finals",
+    "PhaseDescA": "Finals",
+    "UnitDesc": "Men's Gold Medal Match",
+    "UnitDescS": "Men's Gold Medal Match",
+    "UnitDescA": "Men's Gold Medal Match",
+    "EndDateTimeRaw": "2026-10-03T14:08:45+09:00",
+    "ActualEndDateTimeRaw": "2026-10-03T14:08:45+09:00",
+    "UnitNum": "64",
+    "IsLive": false,
+    "ShowResults": true,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "2-1",
+    "ResDetail": "19-21, 21-16, 15-8",
+    "Duration": "00:53:00",
+    "CurrentPeriod": 3,
+    "Current": "",
+    "Last": "",
+    "Extensions": [
+      {
+        "Type": "GROUP_INFO",
+        "Code": "NSETS",
+        "Pos": 0,
+        "Value": "2",
+        "Extensions": []
+      }
+    ],
+    "Periods": [
+      {
+        "Order": 1,
+        "Duration": "00:19:00",
+        "Distance": "",
+        "ResHome": "19",
+        "ResAway": "21",
+        "TotHome": "19",
+        "TotAway": "21",
+        "Extensions": [],
+        "Desc": "Set 1",
+        "DescS": "Set 1"
+      },
+      {
+        "Order": 2,
+        "Duration": "00:19:00",
+        "Distance": "",
+        "ResHome": "21",
+        "ResAway": "16",
+        "TotHome": "40",
+        "TotAway": "37",
+        "Extensions": [],
+        "Desc": "Set 2",
+        "DescS": "Set 2"
+      },
+      {
+        "Order": 3,
+        "Duration": "00:15:00",
+        "Distance": "",
+        "ResHome": "15",
+        "ResAway": "8",
+        "TotHome": "55",
+        "TotAway": "45",
+        "Extensions": [],
+        "Desc": "Set 3",
+        "DescS": "Set 3"
+      }
+    ],
+    "Officials": [
+      {
+        "Reg": "12057250",
+        "Org": "JPN",
+        "Order": 1,
+        "Function": "1st Referee",
+        "Extensions": [],
+        "OrgDesc": "Japan",
+        "Name": "IMAIZUMI Takayuki",
+        "NameS": "IMAIZUMI T",
+        "FuncDesc": "1st Referee"
+      },
+      {
+        "Reg": "733038",
+        "Org": "CHN",
+        "Order": 2,
+        "Function": "2nd Referee",
+        "Extensions": [],
+        "OrgDesc": "People's Republic of China",
+        "Name": "LIU Hongyu",
+        "NameS": "LIU H",
+        "FuncDesc": "2nd Referee"
+      }
+    ],
+    "Paralympic": false
+  },
+  "Competitors": [
+    {
+      "Reg": "VBVMTEAM2------QAT01",
+      "Bib": "",
+      "Org": "QAT",
+      "MedClass": "",
+      "StartOrder": "1",
+      "StartSortOrder": 1,
+      "Rk": "1",
+      "RkEq": false,
+      "RkPo": 1,
+      "WLT": "W",
+      "Result": "2",
+      "ResDetail": "19, 21, 15",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "1",
+      "Diff": "",
+      "Extensions": [],
+      "Name": "SAMBA/JANKO",
+      "NameS": "SAMBA C / JANKO A",
+      "OrgDesc": "Qatar",
+      "Splits": [
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "19",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        },
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "21",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        },
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "15",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_GOLD",
+      "Members": [
+        {
+          "Reg": "6072629",
+          "Org": "QAT",
+          "Bib": "1",
+          "Function": "1",
+          "Position": "",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "1995-05-22",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "194.00/6'4\"",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "ShirtName",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestSpike",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestBlock",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ],
+          "Order": 1,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "SAMBA Cherif",
+          "NameS": "SAMBA C",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "6081358",
+          "Org": "QAT",
+          "Bib": "2",
+          "Function": "2",
+          "Position": "",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "1995-04-28",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "187.00/6'2\"",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "ShirtName",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestSpike",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestBlock",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ],
+          "Order": 2,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "JANKO Ahmed",
+          "NameS": "JANKO A",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        }
+      ]
+    },
+    {
+      "Reg": "VBVMTEAM2------INA01",
+      "Bib": "",
+      "Org": "INA",
+      "MedClass": "",
+      "StartOrder": "2",
+      "StartSortOrder": 2,
+      "Rk": "2",
+      "RkEq": false,
+      "RkPo": 0,
+      "WLT": "L",
+      "Result": "1",
+      "ResDetail": "21, 16, 8",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "3",
+      "Diff": "",
+      "Extensions": [],
+      "Name": "EFENDI/AKBAR",
+      "NameS": "EFENDI SR / AKBAR B",
+      "OrgDesc": "Indonesia",
+      "Splits": [
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "21",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        },
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "16",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        },
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "8",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_SILVER",
+      "Members": [
+        {
+          "Reg": "6992647",
+          "Org": "INA",
+          "Bib": "1",
+          "Function": "1",
+          "Position": "",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2003-04-06",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "191.00/6'3\"",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "ShirtName",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestSpike",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestBlock",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ],
+          "Order": 1,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "EFENDI Sofyan Rachman",
+          "NameS": "EFENDI SR",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        },
+        {
+          "Reg": "699548",
+          "Org": "INA",
+          "Bib": "2",
+          "Function": "2",
+          "Position": "",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2001-03-05",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "185.00/6'1\"",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "ShirtName",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestSpike",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "HighestBlock",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ],
+          "Order": 2,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "AKBAR Bintang",
+          "NameS": "AKBAR B",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        }
+      ]
+    }
+  ],
+  "Legends": {
+    "records": [],
+    "irms": [],
+    "qs": [],
+    "funcs": [
+      {
+        "DescS": "1",
+        "Desc": "Athlete"
+      },
+      {
+        "DescS": "2",
+        "Desc": "Athlete"
+      }
+    ]
+  }
+}

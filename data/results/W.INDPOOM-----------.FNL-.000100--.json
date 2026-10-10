@@ -1,1 +1,779 @@
-null
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "TKW",
+    "DiscDesc": "Taekwondo",
+    "Key": "W.INDPOOM-----------.FNL-.000100--",
+    "isH2H": false,
+    "Type": "A",
+    "Medal": "1",
+    "Status": "OFFICIAL",
+    "StatusDesc": "Official",
+    "DateTimeRaw": "2026-10-01T15:30:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "",
+    "HideLocation": false,
+    "Venue": "TYH",
+    "VenueDesc": "Toyohashi Gymnasium",
+    "VenueDescS": "Toyohashi Gymnasium",
+    "Loc": "TK2",
+    "LocDesc": "Toyohashi Gymnasium Mat 2",
+    "LocDescS": "Toyohashi Gymnasium Mat 2",
+    "Event": "W.INDPOOM-----------",
+    "EventDesc": "Women Individual Poomsae",
+    "Phase": "W.INDPOOM-----------.FNL-",
+    "PhaseOrder": 36,
+    "PhaseDesc": "Women Individual Poomsae Gold Medal Contest",
+    "PhaseDescS": "Women Ind. Poomsae Gold Medal Contest",
+    "PhaseDescA": "Gold Medal Contest",
+    "UnitDesc": "Women Individual Poomsae Gold Medal Contest",
+    "UnitDescS": "Women Ind. Poomsae Gold Medal Contest",
+    "UnitDescA": "Women Individual Poomsae Gold Medal Contest",
+    "EndDateTimeRaw": "2026-10-01T16:23:20+09:00",
+    "ActualEndDateTimeRaw": "2026-10-01T16:23:20+09:00",
+    "UnitNum": "205",
+    "IsLive": false,
+    "ShowResults": true,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "",
+    "ResDetail": "",
+    "Duration": "",
+    "CurrentPeriod": 0,
+    "Current": "",
+    "Last": "",
+    "Extensions": [],
+    "Periods": [],
+    "Officials": [
+      {
+        "Reg": "15444819",
+        "Org": "UZB",
+        "Order": 101,
+        "Function": "TK04",
+        "Bib": "1973-12-26",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Uzbekistan",
+        "Name": "KIM Dmitriy",
+        "NameS": "KIM D",
+        "FuncDesc": "Referee"
+      },
+      {
+        "Reg": "15442403",
+        "Org": "LBN",
+        "Order": 102,
+        "Function": "TK05",
+        "Bib": "1970-06-02",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Lebanon",
+        "Name": "CHERRO Elie",
+        "NameS": "CHERRO E",
+        "FuncDesc": "Judge 1"
+      },
+      {
+        "Reg": "15440286",
+        "Org": "TPE",
+        "Order": 103,
+        "Function": "TK06",
+        "Bib": "1968-01-24",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Chinese Taipei",
+        "Name": "TOU Feng Ming",
+        "NameS": "TOU FM",
+        "FuncDesc": "Judge 2"
+      },
+      {
+        "Reg": "15443952",
+        "Org": "KSA",
+        "Order": 104,
+        "Function": "TK07",
+        "Bib": "1977-05-30",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Saudi Arabia",
+        "Name": "SHEEKABOBAKOR Mujashia",
+        "NameS": "SHEEKABOBAKOR M",
+        "FuncDesc": "Judge 3"
+      },
+      {
+        "Reg": "15440509",
+        "Org": "HKG",
+        "Order": 105,
+        "Function": "TK10",
+        "Bib": "1966-11-30",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Hong Kong, China",
+        "Name": "WONG Po Shing",
+        "NameS": "WONG PS",
+        "FuncDesc": "Judge 4"
+      },
+      {
+        "Reg": "15440899",
+        "Org": "INA",
+        "Order": 106,
+        "Function": "TK11",
+        "Bib": "1982-01-03",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Indonesia",
+        "Name": "HARSONO Sanny",
+        "NameS": "HARSONO S",
+        "FuncDesc": "Judge 5"
+      },
+      {
+        "Reg": "15441952",
+        "Org": "KOR",
+        "Order": 107,
+        "Function": "TK12",
+        "Bib": "1970-11-02",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Republic of Korea",
+        "Name": "KIM Hyeonghwan",
+        "NameS": "KIM H",
+        "FuncDesc": "Judge 6"
+      }
+    ],
+    "Paralympic": false
+  },
+  "Competitors": [
+    {
+      "Reg": "16181471",
+      "Bib": "006",
+      "Org": "KOR",
+      "StartOrder": "8",
+      "StartSortOrder": 8,
+      "Rk": "1",
+      "RkEq": false,
+      "RkPo": 1,
+      "WLT": "",
+      "Result": "9.3100",
+      "ResDetail": "130.5",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Acc1",
+          "Pos": 0,
+          "Value": "3.700",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Tec1",
+          "Pos": 0,
+          "Value": "5.560",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Pre1",
+          "Pos": 0,
+          "Value": "5.620",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Pre2",
+          "Pos": 0,
+          "Value": "3.740",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Sum1",
+          "Pos": 0,
+          "Value": "9.320",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Sum2",
+          "Pos": 0,
+          "Value": "9.300",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "FinalScore",
+          "Pos": 0,
+          "Value": "9.3100",
+          "Extensions": []
+        }
+      ],
+      "Name": "JUNG Haeun",
+      "NameS": "JUNG H",
+      "OrgDesc": "Republic of Korea",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "ME_GOLD"
+    },
+    {
+      "Reg": "6525921",
+      "Bib": "012",
+      "Org": "PHI",
+      "StartOrder": "7",
+      "StartSortOrder": 7,
+      "Rk": "2",
+      "RkEq": false,
+      "RkPo": 2,
+      "WLT": "",
+      "Result": "9.1300",
+      "ResDetail": "127.4",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Acc1",
+          "Pos": 0,
+          "Value": "3.620",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Tec1",
+          "Pos": 0,
+          "Value": "5.400",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Pre1",
+          "Pos": 0,
+          "Value": "5.580",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Pre2",
+          "Pos": 0,
+          "Value": "3.660",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Sum1",
+          "Pos": 0,
+          "Value": "9.200",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Sum2",
+          "Pos": 0,
+          "Value": "9.060",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "FinalScore",
+          "Pos": 0,
+          "Value": "9.1300",
+          "Extensions": []
+        }
+      ],
+      "Name": "CANDELARIA Juliana Mykhail",
+      "NameS": "CANDELARIA JM",
+      "OrgDesc": "Philippines",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "ME_SILVER"
+    },
+    {
+      "Reg": "4835365",
+      "Bib": "014",
+      "Org": "THA",
+      "StartOrder": "6",
+      "StartSortOrder": 6,
+      "Rk": "3",
+      "RkEq": false,
+      "RkPo": 3,
+      "WLT": "",
+      "Result": "9.0400",
+      "ResDetail": "126.1",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Acc1",
+          "Pos": 0,
+          "Value": "3.600",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Tec1",
+          "Pos": 0,
+          "Value": "5.300",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Pre1",
+          "Pos": 0,
+          "Value": "5.580",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Pre2",
+          "Pos": 0,
+          "Value": "3.600",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Sum1",
+          "Pos": 0,
+          "Value": "9.180",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Sum2",
+          "Pos": 0,
+          "Value": "8.900",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "FinalScore",
+          "Pos": 0,
+          "Value": "9.0400",
+          "Extensions": []
+        }
+      ],
+      "Name": "KAEWOLANWASU Thitaree",
+      "NameS": "KAEWOLANWASU T",
+      "OrgDesc": "Thailand",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "ME_BRONZE"
+    },
+    {
+      "Reg": "10519735",
+      "Bib": "004",
+      "Org": "JPN",
+      "StartOrder": "2",
+      "StartSortOrder": 2,
+      "Rk": "4",
+      "RkEq": false,
+      "RkPo": 4,
+      "WLT": "",
+      "Result": "8.9100",
+      "ResDetail": "124.5",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Acc1",
+          "Pos": 0,
+          "Value": "3.560",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Tec1",
+          "Pos": 0,
+          "Value": "5.280",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Pre1",
+          "Pos": 0,
+          "Value": "5.460",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Pre2",
+          "Pos": 0,
+          "Value": "3.520",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Sum1",
+          "Pos": 0,
+          "Value": "9.020",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Sum2",
+          "Pos": 0,
+          "Value": "8.800",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "FinalScore",
+          "Pos": 0,
+          "Value": "8.9100",
+          "Extensions": []
+        }
+      ],
+      "Name": "NIWA Yuiko",
+      "NameS": "NIWA Y",
+      "OrgDesc": "Japan",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "ME_BRONZE"
+    },
+    {
+      "Reg": "9312771",
+      "Bib": "003",
+      "Org": "IRI",
+      "StartOrder": "5",
+      "StartSortOrder": 5,
+      "Rk": "5",
+      "RkEq": false,
+      "RkPo": 5,
+      "WLT": "",
+      "Result": "8.8500",
+      "ResDetail": "123.6",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Acc1",
+          "Pos": 0,
+          "Value": "3.560",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Tec1",
+          "Pos": 0,
+          "Value": "5.100",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Pre1",
+          "Pos": 0,
+          "Value": "5.540",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Pre2",
+          "Pos": 0,
+          "Value": "3.500",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Sum1",
+          "Pos": 0,
+          "Value": "9.100",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Sum2",
+          "Pos": 0,
+          "Value": "8.600",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "FinalScore",
+          "Pos": 0,
+          "Value": "8.8500",
+          "Extensions": []
+        }
+      ],
+      "Name": "LIMOUCHI Yasaman",
+      "NameS": "LIMOUCHI Y",
+      "OrgDesc": "Islamic Republic of Iran",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": ""
+    },
+    {
+      "Reg": "1781715",
+      "Bib": "007",
+      "Org": "MAC",
+      "StartOrder": "4",
+      "StartSortOrder": 4,
+      "Rk": "6",
+      "RkEq": false,
+      "RkPo": 6,
+      "WLT": "",
+      "Result": "8.8400",
+      "ResDetail": "122.6",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Acc1",
+          "Pos": 0,
+          "Value": "3.520",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Tec1",
+          "Pos": 0,
+          "Value": "5.260",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Pre1",
+          "Pos": 0,
+          "Value": "5.440",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Pre2",
+          "Pos": 0,
+          "Value": "3.460",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Sum1",
+          "Pos": 0,
+          "Value": "8.960",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Sum2",
+          "Pos": 0,
+          "Value": "8.720",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "FinalScore",
+          "Pos": 0,
+          "Value": "8.8400",
+          "Extensions": []
+        }
+      ],
+      "Name": "LAO I Ieng",
+      "NameS": "LAO II",
+      "OrgDesc": "Macao, China",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": ""
+    },
+    {
+      "Reg": "2172837",
+      "Bib": "009",
+      "Org": "MGL",
+      "StartOrder": "3",
+      "StartSortOrder": 3,
+      "Rk": "7",
+      "RkEq": false,
+      "RkPo": 7,
+      "WLT": "",
+      "Result": "8.7500",
+      "ResDetail": "122.3",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Acc1",
+          "Pos": 0,
+          "Value": "3.500",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Tec1",
+          "Pos": 0,
+          "Value": "5.080",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Pre1",
+          "Pos": 0,
+          "Value": "5.440",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Pre2",
+          "Pos": 0,
+          "Value": "3.480",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Sum1",
+          "Pos": 0,
+          "Value": "8.940",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Sum2",
+          "Pos": 0,
+          "Value": "8.560",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "FinalScore",
+          "Pos": 0,
+          "Value": "8.7500",
+          "Extensions": []
+        }
+      ],
+      "Name": "LKHAGVA Badam",
+      "NameS": "LKHAGVA B",
+      "OrgDesc": "Mongolia",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": ""
+    },
+    {
+      "Reg": "1911625",
+      "Bib": "016",
+      "Org": "VIE",
+      "StartOrder": "1",
+      "StartSortOrder": 1,
+      "Rk": "8",
+      "RkEq": false,
+      "RkPo": 8,
+      "WLT": "",
+      "Result": "8.5800",
+      "ResDetail": "119.4",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Acc1",
+          "Pos": 0,
+          "Value": "3.500",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Tec1",
+          "Pos": 0,
+          "Value": "4.880",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Pre1",
+          "Pos": 0,
+          "Value": "5.440",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Pre2",
+          "Pos": 0,
+          "Value": "3.340",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Sum1",
+          "Pos": 0,
+          "Value": "8.940",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Sum2",
+          "Pos": 0,
+          "Value": "8.220",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "FinalScore",
+          "Pos": 0,
+          "Value": "8.5800",
+          "Extensions": []
+        }
+      ],
+      "Name": "CHAU Ngoc Tuyet Sang",
+      "NameS": "CHAU NTS",
+      "OrgDesc": "Vietnam",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": ""
+    }
+  ],
+  "Legends": {
+    "records": [],
+    "irms": [],
+    "qs": []
+  }
+}

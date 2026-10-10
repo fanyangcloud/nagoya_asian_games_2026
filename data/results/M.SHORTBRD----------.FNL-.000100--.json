@@ -1,1 +1,799 @@
-null
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "SRF",
+    "DiscDesc": "Surfing",
+    "Key": "M.SHORTBRD----------.FNL-.000100--",
+    "isH2H": true,
+    "Type": "A",
+    "Medal": "1",
+    "Status": "OFFICIAL",
+    "StatusDesc": "Official",
+    "DateTimeRaw": "2026-09-29T14:05:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "Followed by",
+    "HideLocation": false,
+    "Venue": "PLB",
+    "VenueDesc": "Pacific Long Beach (Tahara, Aichi, Japan)",
+    "VenueDescS": "Long Beach (Tahara, Aichi, Japan)",
+    "Loc": "SRF",
+    "LocDesc": "Pacific Long Beach (Tahara, Aichi, Japan)",
+    "LocDescS": "Long Beach (Tahara, Aichi, Japan)",
+    "Event": "M.SHORTBRD----------",
+    "EventDesc": "Men's Shortboard",
+    "Phase": "M.SHORTBRD----------.FNL-",
+    "PhaseOrder": 6,
+    "PhaseDesc": "Men's Shortboard Finals",
+    "PhaseDescS": "Men's Shortboard Finals",
+    "PhaseDescA": "Finals",
+    "UnitDesc": "Men's Shortboard - Finals - Gold Medal Match",
+    "UnitDescS": "Men's Shortboard - Finals - Gold Medal Match",
+    "UnitDescA": "Gold Medal Match",
+    "EndDateTimeRaw": "2026-09-29T14:35:00+09:00",
+    "ActualEndDateTimeRaw": "2026-09-29T14:35:00+09:00",
+    "UnitNum": "1",
+    "IsLive": false,
+    "ShowResults": true,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "12.87 - 10.40",
+    "ResDetail": "12.87 - 10.40",
+    "Duration": "00:30:00",
+    "Current": "986273",
+    "Last": "12580840",
+    "Extensions": [
+      {
+        "Type": "QUALIFICATION",
+        "Code": "FROM_RANK",
+        "Pos": 1,
+        "Value": "SFNL",
+        "Extensions": []
+      }
+    ],
+    "Periods": [
+      {
+        "Order": 1,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [],
+        "Desc": "1st Period",
+        "DescS": "1st"
+      }
+    ],
+    "Officials": [
+      {
+        "Reg": "554693",
+        "Org": "CHN",
+        "Order": 1,
+        "Function": "J6",
+        "Extensions": [],
+        "OrgDesc": "People's Republic of China",
+        "Name": "HUANG",
+        "NameS": "HUANG",
+        "FuncDesc": "Judge 10"
+      },
+      {
+        "Reg": "10784095",
+        "Org": "AUS",
+        "Order": 1,
+        "Function": "J1",
+        "Extensions": [],
+        "OrgDesc": "Australia",
+        "Name": "SYMES",
+        "NameS": "SYMES",
+        "FuncDesc": "Judge 5"
+      },
+      {
+        "Reg": "1672356",
+        "Org": "NZL",
+        "Order": 1,
+        "Function": "J2",
+        "Extensions": [],
+        "OrgDesc": "New Zealand",
+        "Name": "KOSOOF",
+        "NameS": "KOSOOF",
+        "FuncDesc": "Judge 6"
+      },
+      {
+        "Reg": "1671494",
+        "Org": "USA",
+        "Order": 1,
+        "Function": "J3",
+        "Extensions": [],
+        "OrgDesc": "United States of America",
+        "Name": "NOLAN",
+        "NameS": "NOLAN",
+        "FuncDesc": "Judge 7"
+      },
+      {
+        "Reg": "14679295",
+        "Org": "JPN",
+        "Order": 1,
+        "Function": "J4",
+        "Extensions": [],
+        "OrgDesc": "Japan",
+        "Name": "HASHIMOTO",
+        "NameS": "HASHIMOTO",
+        "FuncDesc": "Judge 8"
+      }
+    ],
+    "Paralympic": false
+  },
+  "Competitors": [
+    {
+      "Reg": "12580840",
+      "Bib": "",
+      "Org": "INA",
+      "StartOrder": "1",
+      "StartSortOrder": 1,
+      "Rk": "2",
+      "RkEq": false,
+      "RkPo": 2,
+      "WLT": "L",
+      "Result": "10.40",
+      "ResDetail": "5.23,5.17",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "Lane": "",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "ER",
+          "Code": "BIB_COLOUR",
+          "Pos": 0,
+          "Value": "Red",
+          "Extensions": []
+        },
+        {
+          "Type": "ER",
+          "Code": "NEED",
+          "Pos": 0,
+          "Value": "7.65",
+          "Extensions": []
+        },
+        {
+          "Type": "ER",
+          "Code": "PTY_NOWAVE",
+          "Pos": 1,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "ER",
+          "Code": "RESURF",
+          "Pos": 0,
+          "Value": "N",
+          "Extensions": []
+        },
+        {
+          "Type": "ER",
+          "Code": "WAVE",
+          "Pos": 1,
+          "Value": "",
+          "Extensions": [
+            {
+              "Type": "WAVE",
+              "Code": "ARRIVE",
+              "Pos": 0,
+              "Value": "2"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 1,
+              "Value": "5.0"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 2,
+              "Value": "5.0"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 3,
+              "Value": "5.5"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 4,
+              "Value": "5.5"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 5,
+              "Value": "5.0"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "Value",
+              "Pos": 0,
+              "Value": "5.17"
+            }
+          ]
+        },
+        {
+          "Type": "ER",
+          "Code": "WAVE",
+          "Pos": 2,
+          "Value": "",
+          "Extensions": [
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 1,
+              "Value": "1.0"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 2,
+              "Value": "0.8"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 3,
+              "Value": "1.0"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 4,
+              "Value": "1.0"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 5,
+              "Value": "0.7"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "Value",
+              "Pos": 0,
+              "Value": "0.93"
+            }
+          ]
+        },
+        {
+          "Type": "ER",
+          "Code": "WAVE",
+          "Pos": 3,
+          "Value": "",
+          "Extensions": [
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 1,
+              "Value": "0.3"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 2,
+              "Value": "0.3"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 3,
+              "Value": "0.5"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 4,
+              "Value": "0.3"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 5,
+              "Value": "0.3"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "Value",
+              "Pos": 0,
+              "Value": "0.30"
+            }
+          ]
+        },
+        {
+          "Type": "ER",
+          "Code": "WAVE",
+          "Pos": 4,
+          "Value": "",
+          "Extensions": [
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 1,
+              "Value": "1.0"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 2,
+              "Value": "1.0"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 3,
+              "Value": "1.1"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 4,
+              "Value": "1.2"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 5,
+              "Value": "1.0"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "Value",
+              "Pos": 0,
+              "Value": "1.03"
+            }
+          ]
+        },
+        {
+          "Type": "ER",
+          "Code": "WAVE",
+          "Pos": 5,
+          "Value": "",
+          "Extensions": [
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 1,
+              "Value": "0.2"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 2,
+              "Value": "0.3"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 3,
+              "Value": "0.3"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 4,
+              "Value": "0.4"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 5,
+              "Value": "0.3"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "Value",
+              "Pos": 0,
+              "Value": "0.30"
+            }
+          ]
+        },
+        {
+          "Type": "ER",
+          "Code": "WAVE",
+          "Pos": 6,
+          "Value": "",
+          "Extensions": [
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 1,
+              "Value": "1.0"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 2,
+              "Value": "0.9"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 3,
+              "Value": "1.0"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 4,
+              "Value": "1.3"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 5,
+              "Value": "0.8"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "Value",
+              "Pos": 0,
+              "Value": "0.97"
+            }
+          ]
+        },
+        {
+          "Type": "ER",
+          "Code": "WAVE",
+          "Pos": 7,
+          "Value": "",
+          "Extensions": [
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 1,
+              "Value": "0.9"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 2,
+              "Value": "0.8"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 3,
+              "Value": "0.9"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 4,
+              "Value": "0.9"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 5,
+              "Value": "0.9"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "Value",
+              "Pos": 0,
+              "Value": "0.90"
+            }
+          ]
+        },
+        {
+          "Type": "ER",
+          "Code": "WAVE",
+          "Pos": 8,
+          "Value": "",
+          "Extensions": [
+            {
+              "Type": "WAVE",
+              "Code": "ARRIVE",
+              "Pos": 0,
+              "Value": "1"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 1,
+              "Value": "5.5"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 2,
+              "Value": "4.5"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 3,
+              "Value": "5.7"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 4,
+              "Value": "5.7"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 5,
+              "Value": "4.5"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "Value",
+              "Pos": 0,
+              "Value": "5.23"
+            }
+          ]
+        },
+        {
+          "Type": "ER",
+          "Code": "WAVE",
+          "Pos": 9,
+          "Value": "",
+          "Extensions": [
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 1,
+              "Value": "4.0"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 2,
+              "Value": "3.0"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 3,
+              "Value": "4.0"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 4,
+              "Value": "4.2"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 5,
+              "Value": "4.0"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "Value",
+              "Pos": 0,
+              "Value": "4.00"
+            }
+          ]
+        }
+      ],
+      "Name": "ARIYANA I Made Pajar",
+      "NameS": "ARIYANA IMP",
+      "OrgDesc": "Indonesia",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "ME_SILVER"
+    },
+    {
+      "Reg": "986273",
+      "Bib": "",
+      "Org": "JPN",
+      "StartOrder": "2",
+      "StartSortOrder": 2,
+      "Rk": "1",
+      "RkEq": false,
+      "RkPo": 1,
+      "WLT": "W",
+      "Result": "12.87",
+      "ResDetail": "6.67,6.20",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "Lane": "",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "ER",
+          "Code": "BIB_COLOUR",
+          "Pos": 0,
+          "Value": "Blue",
+          "Extensions": []
+        },
+        {
+          "Type": "ER",
+          "Code": "NEED",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "ER",
+          "Code": "PTY_NOWAVE",
+          "Pos": 1,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "ER",
+          "Code": "RESURF",
+          "Pos": 0,
+          "Value": "N",
+          "Extensions": []
+        },
+        {
+          "Type": "ER",
+          "Code": "WAVE",
+          "Pos": 1,
+          "Value": "",
+          "Extensions": [
+            {
+              "Type": "WAVE",
+              "Code": "ARRIVE",
+              "Pos": 0,
+              "Value": "1"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 1,
+              "Value": "7.0"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 2,
+              "Value": "6.5"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 3,
+              "Value": "6.5"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 4,
+              "Value": "6.5"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 5,
+              "Value": "7.0"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "Value",
+              "Pos": 0,
+              "Value": "6.67"
+            }
+          ]
+        },
+        {
+          "Type": "ER",
+          "Code": "WAVE",
+          "Pos": 2,
+          "Value": "",
+          "Extensions": [
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 1,
+              "Value": "0.5"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 2,
+              "Value": "0.5"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 3,
+              "Value": "0.5"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 4,
+              "Value": "0.5"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 5,
+              "Value": "0.5"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "Value",
+              "Pos": 0,
+              "Value": "0.50"
+            }
+          ]
+        },
+        {
+          "Type": "ER",
+          "Code": "WAVE",
+          "Pos": 3,
+          "Value": "",
+          "Extensions": [
+            {
+              "Type": "WAVE",
+              "Code": "ARRIVE",
+              "Pos": 0,
+              "Value": "2"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 1,
+              "Value": "6.0"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 2,
+              "Value": "6.0"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 3,
+              "Value": "6.3"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 4,
+              "Value": "6.3"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "J_SCORE",
+              "Pos": 5,
+              "Value": "6.5"
+            },
+            {
+              "Type": "WAVE",
+              "Code": "Value",
+              "Pos": 0,
+              "Value": "6.20"
+            }
+          ]
+        }
+      ],
+      "Name": "IGARASHI Kanoa",
+      "NameS": "IGARASHI K",
+      "OrgDesc": "Japan",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "ME_GOLD"
+    }
+  ],
+  "Legends": {
+    "records": [],
+    "irms": [],
+    "qs": []
+  }
+}

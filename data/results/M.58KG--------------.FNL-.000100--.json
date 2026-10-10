@@ -1,1 +1,559 @@
-null
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "TKW",
+    "DiscDesc": "Taekwondo",
+    "Key": "M.58KG--------------.FNL-.000100--",
+    "isH2H": true,
+    "Type": "A",
+    "Medal": "1",
+    "Status": "OFFICIAL",
+    "StatusDesc": "Official",
+    "DateTimeRaw": "2026-10-02T19:35:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "",
+    "HideLocation": false,
+    "Venue": "TYH",
+    "VenueDesc": "Toyohashi Gymnasium",
+    "VenueDescS": "Toyohashi Gymnasium",
+    "Loc": "TK2",
+    "LocDesc": "Toyohashi Gymnasium Mat 2",
+    "LocDescS": "Toyohashi Gymnasium Mat 2",
+    "Event": "M.58KG--------------",
+    "EventDesc": "Men -58kg",
+    "Phase": "M.58KG--------------.FNL-",
+    "PhaseOrder": 4,
+    "PhaseDesc": "Men -58kg Gold Medal Contest",
+    "PhaseDescS": "Men -58kg Gold Medal Contest",
+    "PhaseDescA": "Gold Medal Contest",
+    "UnitDesc": "Men -58kg Gold Medal Contest",
+    "UnitDescS": "Men -58kg Gold Medal Contest",
+    "UnitDescA": "Men -58kg Gold Medal Contest",
+    "EndDateTimeRaw": "",
+    "ActualEndDateTimeRaw": "",
+    "UnitNum": "226",
+    "IsLive": false,
+    "ShowResults": true,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "0-2",
+    "ResDetail": "14-16, 2-15",
+    "Duration": "",
+    "CurrentPeriod": 2,
+    "Current": "",
+    "Last": "",
+    "Extensions": [
+      {
+        "Type": "UNIT_INFO",
+        "Code": "CodDecision",
+        "Pos": 0,
+        "Value": "PTF -> Win by Final Score",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Decision",
+        "Pos": 0,
+        "Value": "Win by Final Score",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "InfoMatch",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "InfoTeam",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "RESULT",
+        "Code": "Register",
+        "Pos": 0,
+        "Value": "10120627",
+        "Extensions": []
+      },
+      {
+        "Type": "RESULT",
+        "Code": "RegisterOpp",
+        "Pos": 0,
+        "Value": "7577308",
+        "Extensions": []
+      },
+      {
+        "Type": "RESULT",
+        "Code": "Result",
+        "Pos": 0,
+        "Value": "0:2",
+        "Extensions": []
+      }
+    ],
+    "Periods": [
+      {
+        "Order": 1,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "14",
+        "ResAway": "16",
+        "TotHome": "0",
+        "TotAway": "1",
+        "Extensions": [],
+        "Desc": "Round 1",
+        "DescS": ""
+      },
+      {
+        "Order": 2,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "2",
+        "ResAway": "15",
+        "TotHome": "0",
+        "TotAway": "1",
+        "Extensions": [],
+        "Desc": "Round 2",
+        "DescS": ""
+      }
+    ],
+    "Officials": [
+      {
+        "Reg": "15440179",
+        "Org": "CHN",
+        "Order": 101,
+        "Function": "TK04",
+        "Bib": "1987-05-04",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "People's Republic of China",
+        "Name": "SHEN Ming",
+        "NameS": "SHEN M",
+        "FuncDesc": "Referee"
+      },
+      {
+        "Reg": "15439948",
+        "Org": "CAM",
+        "Order": 102,
+        "Function": "TK05",
+        "Bib": "1994-04-09",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Cambodia",
+        "Name": "YIV Vandy",
+        "NameS": "YIV V",
+        "FuncDesc": "Judge 1"
+      },
+      {
+        "Reg": "15442189",
+        "Org": "KOR",
+        "Order": 103,
+        "Function": "TK06",
+        "Bib": "1979-04-17",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Republic of Korea",
+        "Name": "LEE Hyungeun",
+        "NameS": "LEE H",
+        "FuncDesc": "Judge 2"
+      },
+      {
+        "Reg": "15443952",
+        "Org": "KSA",
+        "Order": 104,
+        "Function": "TK07",
+        "Bib": "1977-05-30",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Saudi Arabia",
+        "Name": "SHEEKABOBAKOR Mujashia",
+        "NameS": "SHEEKABOBAKOR M",
+        "FuncDesc": "Judge 3"
+      },
+      {
+        "Reg": "15444357",
+        "Org": "SYR",
+        "Order": 105,
+        "Function": "TK08",
+        "Bib": "1982-01-01",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Syrian Arab Republic",
+        "Name": "GAZALA Abdulwahed",
+        "NameS": "GAZALA A",
+        "FuncDesc": "Review Jury"
+      },
+      {
+        "Reg": "15440286",
+        "Org": "TPE",
+        "Order": 106,
+        "Function": "TK09",
+        "Bib": "1968-01-24",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Chinese Taipei",
+        "Name": "TOU Feng Ming",
+        "NameS": "TOU FM",
+        "FuncDesc": "Technical Assistant"
+      }
+    ],
+    "Paralympic": false
+  },
+  "Competitors": [
+    {
+      "Reg": "10120627",
+      "Bib": "312",
+      "Org": "PHI",
+      "StartOrder": "1",
+      "StartSortOrder": 1,
+      "Rk": "2",
+      "RkEq": false,
+      "RkPo": 2,
+      "WLT": "L",
+      "Result": "0",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "CodDecision",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Colour",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Decision Round 1",
+          "Pos": 0,
+          "Value": "R-PTF",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Decision Round 2",
+          "Pos": 0,
+          "Value": "R-PTF",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Decision Round 3",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ExtraDecision",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Final Score",
+          "Pos": 0,
+          "Value": "0.0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Gamjeon",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "NProtests",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "MemberServer",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "Server",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        }
+      ],
+      "Stats": {
+        "ST_1PT": "",
+        "ST_2PT": "5",
+        "ST_3PT": "1",
+        "ST_4PT": "",
+        "ST_6PT": "",
+        "ST_GMJ": "2"
+      },
+      "Name": "BARBOSA Kurt Bryan",
+      "NameS": "BARBOSA KB",
+      "OrgDesc": "Philippines",
+      "Splits": [
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "14",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Stats": {
+            "ST_1PT": "",
+            "ST_2PT": "4",
+            "ST_3PT": "1",
+            "ST_4PT": "",
+            "ST_6PT": "",
+            "ST_GMJ": "1"
+          },
+          "Extensions": []
+        },
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "2",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Stats": {
+            "ST_1PT": "",
+            "ST_2PT": "1",
+            "ST_3PT": "",
+            "ST_4PT": "",
+            "ST_6PT": "",
+            "ST_GMJ": "1"
+          },
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_SILVER"
+    },
+    {
+      "Reg": "7577308",
+      "Bib": "305",
+      "Org": "KAZ",
+      "StartOrder": "2",
+      "StartSortOrder": 2,
+      "Rk": "1",
+      "RkEq": false,
+      "RkPo": 1,
+      "WLT": "W",
+      "Result": "2",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "CodDecision",
+          "Pos": 0,
+          "Value": "PTF",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Colour",
+          "Pos": 0,
+          "Value": "2",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Decision Round 1",
+          "Pos": 0,
+          "Value": "R-PTF",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Decision Round 2",
+          "Pos": 0,
+          "Value": "R-PTF",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Decision Round 3",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ExtraDecision",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Final Score",
+          "Pos": 0,
+          "Value": "0.0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Gamjeon",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "NProtests",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "MemberServer",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "Server",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        }
+      ],
+      "Stats": {
+        "ST_1PT": "",
+        "ST_2PT": "8",
+        "ST_3PT": "4",
+        "ST_4PT": "",
+        "ST_6PT": "",
+        "ST_GMJ": "2"
+      },
+      "Name": "TLEULES Tamirlan",
+      "NameS": "TLEULES T",
+      "OrgDesc": "Kazakhstan",
+      "Splits": [
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "16",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Stats": {
+            "ST_1PT": "",
+            "ST_2PT": "6",
+            "ST_3PT": "1",
+            "ST_4PT": "",
+            "ST_6PT": "",
+            "ST_GMJ": "2"
+          },
+          "Extensions": []
+        },
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "15",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Stats": {
+            "ST_1PT": "",
+            "ST_2PT": "2",
+            "ST_3PT": "3",
+            "ST_4PT": "",
+            "ST_6PT": "",
+            "ST_GMJ": ""
+          },
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_GOLD"
+    }
+  ],
+  "Legends": {
+    "records": [],
+    "irms": [],
+    "qs": []
+  }
+}

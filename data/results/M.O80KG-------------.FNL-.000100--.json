@@ -1,1 +1,559 @@
-null
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "TKW",
+    "DiscDesc": "Taekwondo",
+    "Key": "M.O80KG-------------.FNL-.000100--",
+    "isH2H": true,
+    "Type": "A",
+    "Medal": "1",
+    "Status": "OFFICIAL",
+    "StatusDesc": "Official",
+    "DateTimeRaw": "2026-10-03T17:25:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "",
+    "HideLocation": false,
+    "Venue": "TYH",
+    "VenueDesc": "Toyohashi Gymnasium",
+    "VenueDescS": "Toyohashi Gymnasium",
+    "Loc": "TK2",
+    "LocDesc": "Toyohashi Gymnasium Mat 2",
+    "LocDescS": "Toyohashi Gymnasium Mat 2",
+    "Event": "M.O80KG-------------",
+    "EventDesc": "Men +80kg",
+    "Phase": "M.O80KG-------------.FNL-",
+    "PhaseOrder": 16,
+    "PhaseDesc": "Men +80kg Gold Medal Contest",
+    "PhaseDescS": "Men +80kg Gold Medal Contest",
+    "PhaseDescA": "Gold Medal Contest",
+    "UnitDesc": "Men +80kg Gold Medal Contest",
+    "UnitDescS": "Men +80kg Gold Medal Contest",
+    "UnitDescA": "Men +80kg Gold Medal Contest",
+    "EndDateTimeRaw": "",
+    "ActualEndDateTimeRaw": "",
+    "UnitNum": "227",
+    "IsLive": false,
+    "ShowResults": true,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "2-0",
+    "ResDetail": "26-4, 20-8",
+    "Duration": "",
+    "CurrentPeriod": 2,
+    "Current": "",
+    "Last": "",
+    "Extensions": [
+      {
+        "Type": "UNIT_INFO",
+        "Code": "CodDecision",
+        "Pos": 0,
+        "Value": "PTF -> Win by Final Score",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Decision",
+        "Pos": 0,
+        "Value": "Win by Final Score",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "InfoMatch",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "InfoTeam",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "RESULT",
+        "Code": "Register",
+        "Pos": 0,
+        "Value": "9295448",
+        "Extensions": []
+      },
+      {
+        "Type": "RESULT",
+        "Code": "RegisterOpp",
+        "Pos": 0,
+        "Value": "4978320",
+        "Extensions": []
+      },
+      {
+        "Type": "RESULT",
+        "Code": "Result",
+        "Pos": 0,
+        "Value": "2:0",
+        "Extensions": []
+      }
+    ],
+    "Periods": [
+      {
+        "Order": 1,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "26",
+        "ResAway": "4",
+        "TotHome": "1",
+        "TotAway": "0",
+        "Extensions": [],
+        "Desc": "Round 1",
+        "DescS": ""
+      },
+      {
+        "Order": 2,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "20",
+        "ResAway": "8",
+        "TotHome": "1",
+        "TotAway": "0",
+        "Extensions": [],
+        "Desc": "Round 2",
+        "DescS": ""
+      }
+    ],
+    "Officials": [
+      {
+        "Reg": "15441845",
+        "Org": "KOR",
+        "Order": 101,
+        "Function": "TK04",
+        "Bib": "1973-11-24",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Republic of Korea",
+        "Name": "CHOI Yongbae",
+        "NameS": "CHOI Y",
+        "FuncDesc": "Referee"
+      },
+      {
+        "Reg": "15441739",
+        "Org": "KAZ",
+        "Order": 102,
+        "Function": "TK05",
+        "Bib": "1988-05-05",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Kazakhstan",
+        "Name": "ZHANDAYEVA Malika",
+        "NameS": "ZHANDAYEVA M",
+        "FuncDesc": "Judge 1"
+      },
+      {
+        "Reg": "15442299",
+        "Org": "KGZ",
+        "Order": 103,
+        "Function": "TK06",
+        "Bib": "1993-07-27",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Kyrgyzstan",
+        "Name": "TAALAIBEKOVA Ryskul",
+        "NameS": "TAALAIBEKOVA R",
+        "FuncDesc": "Judge 2"
+      },
+      {
+        "Reg": "15440778",
+        "Org": "INA",
+        "Order": 104,
+        "Function": "TK07",
+        "Bib": "1982-10-02",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Indonesia",
+        "Name": "SOEITOE Irene",
+        "NameS": "SOEITOE I",
+        "FuncDesc": "Judge 3"
+      },
+      {
+        "Reg": "15442528",
+        "Org": "LBN",
+        "Order": 105,
+        "Function": "TK08",
+        "Bib": "1978-08-17",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Lebanon",
+        "Name": "KHORASSANDJIAN Daniel",
+        "NameS": "KHORASSANDJIAN D",
+        "FuncDesc": "Review Jury"
+      },
+      {
+        "Reg": "15443635",
+        "Org": "PLE",
+        "Order": 106,
+        "Function": "TK09",
+        "Bib": "1971-05-15",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Palestine",
+        "Name": "ABU HATAB Ahmad",
+        "NameS": "ABU HATAB A",
+        "FuncDesc": "Technical Assistant"
+      }
+    ],
+    "Paralympic": false
+  },
+  "Competitors": [
+    {
+      "Reg": "9295448",
+      "Bib": "903",
+      "Org": "IRI",
+      "StartOrder": "1",
+      "StartSortOrder": 1,
+      "Rk": "1",
+      "RkEq": false,
+      "RkPo": 1,
+      "WLT": "W",
+      "Result": "2",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "CodDecision",
+          "Pos": 0,
+          "Value": "PTF",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Colour",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Decision Round 1",
+          "Pos": 0,
+          "Value": "R-PTF",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Decision Round 2",
+          "Pos": 0,
+          "Value": "R-PTF",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Decision Round 3",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ExtraDecision",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Final Score",
+          "Pos": 0,
+          "Value": "0.0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Gamjeon",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "NProtests",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "MemberServer",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "Server",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        }
+      ],
+      "Stats": {
+        "ST_1PT": "",
+        "ST_2PT": "12",
+        "ST_3PT": "5",
+        "ST_4PT": "1",
+        "ST_6PT": "",
+        "ST_GMJ": ""
+      },
+      "Name": "SALIMI Arian",
+      "NameS": "SALIMI A",
+      "OrgDesc": "Islamic Republic of Iran",
+      "Splits": [
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "26",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Stats": {
+            "ST_1PT": "",
+            "ST_2PT": "6",
+            "ST_3PT": "3",
+            "ST_4PT": "1",
+            "ST_6PT": "",
+            "ST_GMJ": ""
+          },
+          "Extensions": []
+        },
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "20",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Stats": {
+            "ST_1PT": "",
+            "ST_2PT": "6",
+            "ST_3PT": "2",
+            "ST_4PT": "",
+            "ST_6PT": "",
+            "ST_GMJ": ""
+          },
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_GOLD"
+    },
+    {
+      "Reg": "4978320",
+      "Bib": "913",
+      "Org": "UZB",
+      "StartOrder": "2",
+      "StartSortOrder": 2,
+      "Rk": "2",
+      "RkEq": false,
+      "RkPo": 2,
+      "WLT": "L",
+      "Result": "0",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "CodDecision",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Colour",
+          "Pos": 0,
+          "Value": "2",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Decision Round 1",
+          "Pos": 0,
+          "Value": "R-PTF",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Decision Round 2",
+          "Pos": 0,
+          "Value": "R-PTF",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Decision Round 3",
+          "Pos": 0,
+          "Value": null,
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "ExtraDecision",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Final Score",
+          "Pos": 0,
+          "Value": "0.0",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Gamjeon",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "NProtests",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "MemberServer",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "SERVICE",
+          "Code": "Server",
+          "Pos": 0,
+          "Value": "false",
+          "Extensions": []
+        }
+      ],
+      "Stats": {
+        "ST_1PT": "",
+        "ST_2PT": "",
+        "ST_3PT": "",
+        "ST_4PT": "3",
+        "ST_6PT": "",
+        "ST_GMJ": "3"
+      },
+      "Name": "MAVLONOV Marat",
+      "NameS": "MAVLONOV M",
+      "OrgDesc": "Uzbekistan",
+      "Splits": [
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "4",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Stats": {
+            "ST_1PT": "",
+            "ST_2PT": "",
+            "ST_3PT": "",
+            "ST_4PT": "1",
+            "ST_6PT": "",
+            "ST_GMJ": "1"
+          },
+          "Extensions": []
+        },
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "8",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Stats": {
+            "ST_1PT": "",
+            "ST_2PT": "",
+            "ST_3PT": "",
+            "ST_4PT": "2",
+            "ST_6PT": "",
+            "ST_GMJ": "2"
+          },
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_SILVER"
+    }
+  ],
+  "Legends": {
+    "records": [],
+    "irms": [],
+    "qs": []
+  }
+}

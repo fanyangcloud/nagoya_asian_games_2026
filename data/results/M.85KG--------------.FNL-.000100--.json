@@ -1,1 +1,250 @@
-null
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "JJI",
+    "DiscDesc": "Jiu Jitsu",
+    "Key": "M.85KG--------------.FNL-.000100--",
+    "isH2H": true,
+    "Type": "A",
+    "Medal": "1",
+    "Status": "OFFICIAL",
+    "StatusDesc": "Official",
+    "DateTimeRaw": "2026-10-03T13:16:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "",
+    "HideLocation": false,
+    "Venue": "PMA",
+    "VenueDesc": "Aichi Prefectural Martial Arts Hall",
+    "VenueDescS": "Aichi Prefectural Martial Arts Hall",
+    "Loc": "JJ2",
+    "LocDesc": "Aichi Prefectural Martial Arts Hall Mat 2",
+    "LocDescS": "Aichi Prefectural Martial Arts Hall Mat 2",
+    "Event": "M.85KG--------------",
+    "EventDesc": "Men -85kg",
+    "Phase": "M.85KG--------------.FNL-",
+    "PhaseOrder": 60,
+    "PhaseDesc": "Men -85kg Final - Gold Medal",
+    "PhaseDescS": "Men -85kg Final - Gold Medal",
+    "PhaseDescA": "Final - Gold Medal",
+    "UnitDesc": "",
+    "UnitDescS": "",
+    "UnitDescA": "",
+    "EndDateTimeRaw": "2026-10-03T13:24:10+09:00",
+    "ActualEndDateTimeRaw": "2026-10-03T13:24:10+09:00",
+    "UnitNum": "2127",
+    "IsLive": false,
+    "ShowResults": true,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "7-0",
+    "ResDetail": "",
+    "Duration": "",
+    "Current": "",
+    "Last": "",
+    "Extensions": [
+      {
+        "Type": "UNIT_INFO",
+        "Code": "DecisionDesc",
+        "Pos": 0,
+        "Value": "PTS -> Win by Points",
+        "Extensions": []
+      }
+    ],
+    "Periods": [],
+    "Officials": [
+      {
+        "Reg": "8734575",
+        "Org": "MGL",
+        "Order": 39,
+        "Function": "JJ01",
+        "Bib": "1989-08-15",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Mongolia",
+        "Name": "BATTSOGT Buyandelger",
+        "NameS": "",
+        "FuncDesc": "Mat Referee"
+      }
+    ],
+    "Paralympic": false
+  },
+  "Competitors": [
+    {
+      "Reg": "13270512",
+      "Bib": "",
+      "Org": "KSA",
+      "MedClass": "",
+      "StartOrder": "",
+      "StartSortOrder": 0,
+      "Rk": "1",
+      "RkEq": false,
+      "RkPo": 1,
+      "WLT": "W",
+      "Result": "7",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "DecisionDesc",
+          "Pos": 0,
+          "Value": "PTS -> Win by Points",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Colour",
+          "Pos": 0,
+          "Value": "Red",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Winner",
+          "Pos": 0,
+          "Value": "W",
+          "Extensions": []
+        }
+      ],
+      "Stats": {
+        "ST_2PT": "0",
+        "ST_3PT": "1",
+        "ST_4PT": "1",
+        "ST_ADV": "4",
+        "ST_PEN": "2"
+      },
+      "Name": "NADA Abdullah Tariq N",
+      "NameS": "NADA ATN",
+      "OrgDesc": "Saudi Arabia",
+      "Splits": [
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "7",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Stats": {
+            "ST_2PT": "0",
+            "ST_3PT": "1",
+            "ST_4PT": "1",
+            "ST_ADV": "4",
+            "ST_PEN": "2"
+          },
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_GOLD"
+    },
+    {
+      "Reg": "13032420",
+      "Bib": "",
+      "Org": "KAZ",
+      "MedClass": "",
+      "StartOrder": "",
+      "StartSortOrder": 0,
+      "Rk": "2",
+      "RkEq": false,
+      "RkPo": 0,
+      "WLT": "L",
+      "Result": "0",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "DecisionDesc",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Colour",
+          "Pos": 0,
+          "Value": "Blue",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Winner",
+          "Pos": 0,
+          "Value": "L",
+          "Extensions": []
+        }
+      ],
+      "Stats": {
+        "ST_2PT": "0",
+        "ST_3PT": "0",
+        "ST_4PT": "0",
+        "ST_ADV": "1",
+        "ST_PEN": "2"
+      },
+      "Name": "KABDULLAYEV Merey",
+      "NameS": "KABDULLAYEV M",
+      "OrgDesc": "Kazakhstan",
+      "Splits": [
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "0",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Stats": {
+            "ST_2PT": "0",
+            "ST_3PT": "0",
+            "ST_4PT": "0",
+            "ST_ADV": "1",
+            "ST_PEN": "2"
+          },
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_SILVER"
+    }
+  ],
+  "Legends": {
+    "records": [],
+    "irms": [],
+    "qs": []
+  }
+}

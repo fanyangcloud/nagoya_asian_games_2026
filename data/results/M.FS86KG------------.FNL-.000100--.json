@@ -1,1 +1,754 @@
-null
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "WRE",
+    "DiscDesc": "Wrestling",
+    "Key": "M.FS86KG------------.FNL-.000100--",
+    "isH2H": true,
+    "Type": "A",
+    "Medal": "1",
+    "Status": "OFFICIAL",
+    "StatusDesc": "Official",
+    "DateTimeRaw": "2026-10-02T18:42:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "",
+    "HideLocation": false,
+    "Venue": "ISC",
+    "VenueDesc": "Nagoya City Inae Sports Center",
+    "VenueDescS": "Nagoya City Inae Sports Center",
+    "Loc": "IS2",
+    "LocDesc": "ISC  MAT B",
+    "LocDescS": "ISC  MAT B",
+    "Event": "M.FS86KG------------",
+    "EventDesc": "Men's Freestyle 86kg",
+    "Phase": "M.FS86KG------------.FNL-",
+    "PhaseOrder": 134,
+    "PhaseDesc": "Men's Freestyle 86kg Final",
+    "PhaseDescS": "MFS 86kg Final",
+    "PhaseDescA": "Final",
+    "UnitDesc": "Men's Freestyle 86kg Final",
+    "UnitDescS": "MFS 86kg Final",
+    "UnitDescA": "Men's Freestyle 86kg Final",
+    "EndDateTimeRaw": "2026-10-02T19:13:34+09:00",
+    "ActualEndDateTimeRaw": "2026-10-02T19:13:34+09:00",
+    "UnitNum": "199",
+    "IsLive": false,
+    "ShowResults": true,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "3-1",
+    "ResDetail": "2-0, 7-6",
+    "Duration": "00:06:00",
+    "CurrentPeriod": 2,
+    "Current": "",
+    "Last": "",
+    "Extensions": [
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Activity",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Challenge",
+        "Pos": 0,
+        "Value": "False",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "ResultDetail",
+        "Pos": 0,
+        "Value": "VPO1 (3-1 -> Victory by points - with point(s) scored by the opponent (3:1))",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Session",
+        "Pos": 0,
+        "Value": "WRE.SES.AFT.20261002",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "VictoryType",
+        "Pos": 0,
+        "Value": "VPO1",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Cpoint",
+        "Pos": 0,
+        "Value": "3-1",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "VictoryDescription",
+        "Pos": 0,
+        "Value": "Victory by points - with point(s) scored by the opponent (3:1)",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Weight",
+        "Pos": 0,
+        "Value": "86kg",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "WinnerTime",
+        "Pos": 0,
+        "Value": "6:00",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Tie",
+        "Pos": 0,
+        "Value": "False",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "TieDecision",
+        "Pos": 0,
+        "Value": "",
+        "Extensions": []
+      }
+    ],
+    "Periods": [
+      {
+        "Order": 1,
+        "Duration": "00:02:00",
+        "Distance": "",
+        "ResHome": "2",
+        "ResAway": "0",
+        "TotHome": "2",
+        "TotAway": "0",
+        "Extensions": [],
+        "Desc": "1",
+        "DescS": "1"
+      },
+      {
+        "Order": 2,
+        "Duration": "00:04:00",
+        "Distance": "",
+        "ResHome": "7",
+        "ResAway": "6",
+        "TotHome": "9",
+        "TotAway": "6",
+        "Extensions": [],
+        "Desc": "2",
+        "DescS": "2"
+      }
+    ],
+    "Officials": [
+      {
+        "Reg": "11084931",
+        "Org": "UZB",
+        "Order": 1,
+        "Function": "Referee",
+        "Extensions": [],
+        "FuncOrder": "3",
+        "OrgDesc": "Uzbekistan",
+        "Name": "ABDULLAEV Khayrulla",
+        "NameS": "ABDULLAEV K",
+        "FuncDesc": "Referee"
+      },
+      {
+        "Reg": "1700819",
+        "Org": "SRI",
+        "Order": 4,
+        "Function": "Judge",
+        "Extensions": [],
+        "FuncOrder": "4",
+        "OrgDesc": "Sri Lanka",
+        "Name": "THENNE GEDARA Lasantha Pradeep W.",
+        "NameS": "THENNE GEDARA LPW",
+        "FuncDesc": "Judge"
+      },
+      {
+        "Reg": "16412175",
+        "Org": "CHN",
+        "Order": 7,
+        "Function": "Mat Chairman",
+        "Extensions": [],
+        "FuncOrder": "2",
+        "OrgDesc": "People's Republic of China",
+        "Name": "LI Hai",
+        "NameS": "LI H",
+        "FuncDesc": "Mat Chairman"
+      }
+    ],
+    "Paralympic": false
+  },
+  "Competitors": [
+    {
+      "Reg": "1337499",
+      "Bib": "",
+      "Org": "IRI",
+      "MedClass": "",
+      "StartOrder": "1",
+      "StartSortOrder": 1,
+      "Rk": "1",
+      "RkEq": false,
+      "RkPo": 1,
+      "WLT": "W",
+      "Result": "9",
+      "ResDetail": "2, 7",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Activity",
+          "Pos": 0,
+          "Value": "False",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "ChallengeState",
+          "Pos": 0,
+          "Value": "2",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "ChallFlag",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "LastPoint",
+          "Pos": 0,
+          "Value": "2",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Position",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "UnitFrom",
+          "Pos": 0,
+          "Value": "False",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Warning",
+          "Pos": 0,
+          "Value": "True",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "ClassificationPoints",
+          "Pos": 0,
+          "Value": "3",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Winner",
+          "Pos": 0,
+          "Value": "True",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Tie",
+          "Pos": 0,
+          "Value": "False",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Tie Decision",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Colour",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "PREV_INFO",
+          "Code": "Register",
+          "Pos": 0,
+          "Value": "1337499",
+          "Extensions": []
+        },
+        {
+          "Type": "PREV_INFO",
+          "Code": "RegisterOpp",
+          "Pos": 0,
+          "Value": "1081221",
+          "Extensions": []
+        },
+        {
+          "Type": "PREV_INFO",
+          "Code": "Result",
+          "Pos": 0,
+          "Value": "4-0",
+          "Extensions": []
+        },
+        {
+          "Type": "PREV_INFO",
+          "Code": "Register",
+          "Pos": 1,
+          "Value": "1337499",
+          "Extensions": []
+        },
+        {
+          "Type": "PREV_INFO",
+          "Code": "RegisterOpp",
+          "Pos": 1,
+          "Value": "12230348",
+          "Extensions": []
+        },
+        {
+          "Type": "PREV_INFO",
+          "Code": "Result",
+          "Pos": 1,
+          "Value": "3-1",
+          "Extensions": []
+        },
+        {
+          "Type": "PREV_INFO",
+          "Code": "Register",
+          "Pos": 2,
+          "Value": "1337499",
+          "Extensions": []
+        },
+        {
+          "Type": "PREV_INFO",
+          "Code": "RegisterOpp",
+          "Pos": 2,
+          "Value": "7931170",
+          "Extensions": []
+        },
+        {
+          "Type": "PREV_INFO",
+          "Code": "Result",
+          "Pos": 2,
+          "Value": "4-1",
+          "Extensions": []
+        },
+        {
+          "Type": "PREV_INFO",
+          "Code": "Register",
+          "Pos": 3,
+          "Value": "1337499",
+          "Extensions": []
+        },
+        {
+          "Type": "PREV_INFO",
+          "Code": "RegisterOpp",
+          "Pos": 3,
+          "Value": "6566077",
+          "Extensions": []
+        },
+        {
+          "Type": "PREV_INFO",
+          "Code": "Result",
+          "Pos": 3,
+          "Value": "3-0",
+          "Extensions": []
+        }
+      ],
+      "Name": "NOKHODILARIMI Mohammad",
+      "NameS": "NOKHODILARIMI M",
+      "OrgDesc": "Islamic Republic of Iran",
+      "Splits": [
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "2",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": [
+            {
+              "Type": "SPLIT_INFO",
+              "Code": "Action 0",
+              "Pos": 0,
+              "Value": "2PT",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "7",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": [
+            {
+              "Type": "SPLIT_INFO",
+              "Code": "Action 0",
+              "Pos": 0,
+              "Value": "2PT",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_INFO",
+              "Code": "Action 1",
+              "Pos": 0,
+              "Value": "2PT",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_INFO",
+              "Code": "Action 2",
+              "Pos": 0,
+              "Value": "1PT",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_INFO",
+              "Code": "Action 3",
+              "Pos": 0,
+              "Value": "2PT",
+              "Extensions": []
+            }
+          ]
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_GOLD"
+    },
+    {
+      "Reg": "12230348",
+      "Bib": "",
+      "Org": "JPN",
+      "MedClass": "",
+      "StartOrder": "2",
+      "StartSortOrder": 2,
+      "Rk": "2",
+      "RkEq": false,
+      "RkPo": 0,
+      "WLT": "L",
+      "Result": "6",
+      "ResDetail": "0, 6",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Activity",
+          "Pos": 0,
+          "Value": "False",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "ChallengeState",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "ChallFlag",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "LastPoint",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Position",
+          "Pos": 0,
+          "Value": "2",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "UnitFrom",
+          "Pos": 0,
+          "Value": "False",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Warning",
+          "Pos": 0,
+          "Value": "False",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "ClassificationPoints",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Winner",
+          "Pos": 0,
+          "Value": "False",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Tie",
+          "Pos": 0,
+          "Value": "False",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Tie Decision",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Colour",
+          "Pos": 0,
+          "Value": "2",
+          "Extensions": []
+        },
+        {
+          "Type": "PREV_INFO",
+          "Code": "Register",
+          "Pos": 0,
+          "Value": "12230348",
+          "Extensions": []
+        },
+        {
+          "Type": "PREV_INFO",
+          "Code": "RegisterOpp",
+          "Pos": 0,
+          "Value": "10753982",
+          "Extensions": []
+        },
+        {
+          "Type": "PREV_INFO",
+          "Code": "Result",
+          "Pos": 0,
+          "Value": "3-1",
+          "Extensions": []
+        },
+        {
+          "Type": "PREV_INFO",
+          "Code": "Register",
+          "Pos": 1,
+          "Value": "12230348",
+          "Extensions": []
+        },
+        {
+          "Type": "PREV_INFO",
+          "Code": "RegisterOpp",
+          "Pos": 1,
+          "Value": "1337499",
+          "Extensions": []
+        },
+        {
+          "Type": "PREV_INFO",
+          "Code": "Result",
+          "Pos": 1,
+          "Value": "1-3",
+          "Extensions": []
+        },
+        {
+          "Type": "PREV_INFO",
+          "Code": "Register",
+          "Pos": 2,
+          "Value": "12230348",
+          "Extensions": []
+        },
+        {
+          "Type": "PREV_INFO",
+          "Code": "RegisterOpp",
+          "Pos": 2,
+          "Value": "3119942",
+          "Extensions": []
+        },
+        {
+          "Type": "PREV_INFO",
+          "Code": "Result",
+          "Pos": 2,
+          "Value": "4-0",
+          "Extensions": []
+        },
+        {
+          "Type": "PREV_INFO",
+          "Code": "Register",
+          "Pos": 3,
+          "Value": "12230348",
+          "Extensions": []
+        },
+        {
+          "Type": "PREV_INFO",
+          "Code": "RegisterOpp",
+          "Pos": 3,
+          "Value": "14082875",
+          "Extensions": []
+        },
+        {
+          "Type": "PREV_INFO",
+          "Code": "Result",
+          "Pos": 3,
+          "Value": "4-0",
+          "Extensions": []
+        }
+      ],
+      "Name": "ISHIGURO Hayato",
+      "NameS": "ISHIGURO H",
+      "OrgDesc": "Japan",
+      "Splits": [
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "0",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": []
+        },
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "6",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": [
+            {
+              "Type": "SPLIT_INFO",
+              "Code": "Action 0",
+              "Pos": 0,
+              "Value": "1PT",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_INFO",
+              "Code": "Action 1",
+              "Pos": 0,
+              "Value": "2PT",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_INFO",
+              "Code": "Action 2",
+              "Pos": 0,
+              "Value": "1PT",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_INFO",
+              "Code": "Action 3",
+              "Pos": 0,
+              "Value": "1PT",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_INFO",
+              "Code": "Action 4",
+              "Pos": 0,
+              "Value": "1PT",
+              "Extensions": []
+            }
+          ]
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_SILVER"
+    }
+  ],
+  "Legends": {
+    "records": [],
+    "irms": [],
+    "qs": []
+  }
+}

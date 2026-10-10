@@ -1,1 +1,527 @@
-null
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "KUR",
+    "DiscDesc": "Kurash",
+    "Key": "M.66KG--------------.FNL-.000100--",
+    "isH2H": true,
+    "Type": "A",
+    "Medal": "1",
+    "Status": "OFFICIAL",
+    "StatusDesc": "Official",
+    "DateTimeRaw": "2026-09-29T15:15:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "",
+    "HideLocation": false,
+    "Venue": "PMA",
+    "VenueDesc": "Aichi Prefectural Martial Arts Hall",
+    "VenueDescS": "Aichi Prefectural Martial Arts Hall",
+    "Loc": "KU2",
+    "LocDesc": "Aichi Prefectural Martial Arts Hall Gilam 2",
+    "LocDescS": "Aichi Prefectural Martial Arts Hall Gilam 2",
+    "Event": "M.66KG--------------",
+    "EventDesc": "Men -66kg",
+    "Phase": "M.66KG--------------.FNL-",
+    "PhaseOrder": 5,
+    "PhaseDesc": "Men -66kg Final",
+    "PhaseDescS": "Men -66kg Final",
+    "PhaseDescA": "Final",
+    "UnitDesc": "Men -66kg Final",
+    "UnitDescS": "Men -66kg Final",
+    "UnitDescA": "Men -66kg Final",
+    "EndDateTimeRaw": "2026-09-29T15:26:15+09:00",
+    "ActualEndDateTimeRaw": "2026-09-29T15:26:15+09:00",
+    "UnitNum": "214",
+    "IsLive": false,
+    "ShowResults": true,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "1-0",
+    "ResDetail": "",
+    "Duration": "08:30",
+    "Current": "",
+    "Last": "",
+    "Extensions": [],
+    "Periods": [
+      {
+        "Order": 1,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "1",
+        "ResAway": "0",
+        "TotHome": "1",
+        "TotAway": "0",
+        "Extensions": [],
+        "Desc": "1st Round",
+        "DescS": "R1"
+      }
+    ],
+    "Officials": [
+      {
+        "Reg": "6978498",
+        "Org": "UZB",
+        "Order": 1,
+        "Function": "",
+        "Bib": "1977-04-20",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Uzbekistan",
+        "Name": "PARDAEV Sobir",
+        "NameS": "PARDAEV S",
+        "FuncDesc": ""
+      },
+      {
+        "Reg": "6296861",
+        "Org": "AFG",
+        "Order": 2,
+        "Function": "",
+        "Bib": "1984-03-30",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Afghanistan",
+        "Name": "NEMAT Sadiqullah",
+        "NameS": "NEMAT S",
+        "FuncDesc": ""
+      },
+      {
+        "Reg": "13638584",
+        "Org": "KOR",
+        "Order": 3,
+        "Function": "",
+        "Bib": "1979-10-05",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Republic of Korea",
+        "Name": "KIM Hyeong Seok",
+        "NameS": "KIM HS",
+        "FuncDesc": ""
+      }
+    ],
+    "Paralympic": false
+  },
+  "Competitors": [
+    {
+      "Reg": "9052779",
+      "Bib": "",
+      "Org": "IRI",
+      "StartOrder": "1",
+      "StartSortOrder": 1,
+      "Rk": "1",
+      "RkEq": false,
+      "RkPo": 1,
+      "WLT": "W",
+      "Result": "1",
+      "ResDetail": "1",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Color",
+          "Pos": 0,
+          "Value": "BLUE",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "WorldRanking",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BestResult",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Khalol",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Yonbosh",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Chala",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Girrom",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Dakki",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Tanbekh",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        }
+      ],
+      "Name": "VAHID BARIMANLOU Majid",
+      "NameS": "VAHID BARIMANLOU M",
+      "OrgDesc": "Islamic Republic of Iran",
+      "Splits": [
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": [
+            {
+              "Type": "SPLIT_INFO",
+              "Code": "Color",
+              "Pos": 0,
+              "Value": "BLUE",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_INFO",
+              "Code": "WorldRanking",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_INFO",
+              "Code": "BestResult",
+              "Pos": 0,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_INFO",
+              "Code": "Khalol",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_INFO",
+              "Code": "Yonbosh",
+              "Pos": 0,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_INFO",
+              "Code": "Chala",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_INFO",
+              "Code": "Girrom",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_INFO",
+              "Code": "Dakki",
+              "Pos": 0,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_INFO",
+              "Code": "Tanbekh",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            }
+          ]
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_GOLD",
+      "Members": [
+        {
+          "Reg": "9052779",
+          "Org": "IRI",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Gender": "M",
+          "Order": 1,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "IRM": "",
+          "Result": "1",
+          "Extensions": [],
+          "Guides": [],
+          "Name": "VAHID BARIMANLOU Majid",
+          "NameS": "VAHID BARIMANLOU M",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        }
+      ]
+    },
+    {
+      "Reg": "335031",
+      "Bib": "",
+      "Org": "TJK",
+      "StartOrder": "2",
+      "StartSortOrder": 2,
+      "Rk": "2",
+      "RkEq": false,
+      "RkPo": 0,
+      "WLT": "L",
+      "Result": "0",
+      "ResDetail": "0",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Color",
+          "Pos": 0,
+          "Value": "GREEN",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "WorldRanking",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BestResult",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Khalol",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Yonbosh",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Chala",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Girrom",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Dakki",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Tanbekh",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        }
+      ],
+      "Name": "BOBOKALONOV Yosin",
+      "NameS": "BOBOKALONOV Y",
+      "OrgDesc": "Tajikistan",
+      "Splits": [
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": [
+            {
+              "Type": "SPLIT_INFO",
+              "Code": "Color",
+              "Pos": 0,
+              "Value": "GREEN",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_INFO",
+              "Code": "WorldRanking",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_INFO",
+              "Code": "BestResult",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_INFO",
+              "Code": "Khalol",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_INFO",
+              "Code": "Yonbosh",
+              "Pos": 0,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_INFO",
+              "Code": "Chala",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_INFO",
+              "Code": "Girrom",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_INFO",
+              "Code": "Dakki",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_INFO",
+              "Code": "Tanbekh",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            }
+          ]
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_SILVER",
+      "Members": [
+        {
+          "Reg": "335031",
+          "Org": "TJK",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Gender": "M",
+          "Order": 1,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "IRM": "",
+          "Result": "0",
+          "Extensions": [],
+          "Guides": [],
+          "Name": "BOBOKALONOV Yosin",
+          "NameS": "BOBOKALONOV Y",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        }
+      ]
+    }
+  ],
+  "Legends": {
+    "records": [],
+    "irms": [],
+    "qs": [],
+    "funcs": [
+      {
+        "DescS": "AA01",
+        "Desc": "Athlete"
+      }
+    ]
+  }
+}

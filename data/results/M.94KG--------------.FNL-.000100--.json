@@ -1,1 +1,250 @@
-null
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "JJI",
+    "DiscDesc": "Jiu Jitsu",
+    "Key": "M.94KG--------------.FNL-.000100--",
+    "isH2H": true,
+    "Type": "A",
+    "Medal": "1",
+    "Status": "OFFICIAL",
+    "StatusDesc": "Official",
+    "DateTimeRaw": "2026-10-02T15:10:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "",
+    "HideLocation": false,
+    "Venue": "PMA",
+    "VenueDesc": "Aichi Prefectural Martial Arts Hall",
+    "VenueDescS": "Aichi Prefectural Martial Arts Hall",
+    "Loc": "JJ2",
+    "LocDesc": "Aichi Prefectural Martial Arts Hall Mat 2",
+    "LocDescS": "Aichi Prefectural Martial Arts Hall Mat 2",
+    "Event": "M.94KG--------------",
+    "EventDesc": "Men -94kg",
+    "Phase": "M.94KG--------------.FNL-",
+    "PhaseOrder": 46,
+    "PhaseDesc": "Men -94kg Final - Gold Medal",
+    "PhaseDescS": "Men -94kg Final - Gold Medal",
+    "PhaseDescA": "Final - Gold Medal",
+    "UnitDesc": "",
+    "UnitDescS": "",
+    "UnitDescA": "",
+    "EndDateTimeRaw": "2026-10-02T15:17:19+09:00",
+    "ActualEndDateTimeRaw": "2026-10-02T15:17:19+09:00",
+    "UnitNum": "2098",
+    "IsLive": false,
+    "ShowResults": true,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "0-50",
+    "ResDetail": "",
+    "Duration": "",
+    "Current": "",
+    "Last": "",
+    "Extensions": [
+      {
+        "Type": "UNIT_INFO",
+        "Code": "DecisionDesc",
+        "Pos": 0,
+        "Value": "SUB -> Win by Submission",
+        "Extensions": []
+      }
+    ],
+    "Periods": [],
+    "Officials": [
+      {
+        "Reg": "15041101",
+        "Org": "RUS",
+        "Order": 42,
+        "Function": "JJ01",
+        "Bib": "1990-06-11",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Russian Federation",
+        "Name": "KUZNETSOV Maksim",
+        "NameS": "",
+        "FuncDesc": "Mat Referee"
+      }
+    ],
+    "Paralympic": false
+  },
+  "Competitors": [
+    {
+      "Reg": "3738595",
+      "Bib": "",
+      "Org": "KOR",
+      "MedClass": "",
+      "StartOrder": "",
+      "StartSortOrder": 0,
+      "Rk": "2",
+      "RkEq": false,
+      "RkPo": 0,
+      "WLT": "L",
+      "Result": "0",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "DecisionDesc",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Colour",
+          "Pos": 0,
+          "Value": "Red",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Winner",
+          "Pos": 0,
+          "Value": "L",
+          "Extensions": []
+        }
+      ],
+      "Stats": {
+        "ST_2PT": "0",
+        "ST_3PT": "0",
+        "ST_4PT": "0",
+        "ST_ADV": "0",
+        "ST_PEN": "0"
+      },
+      "Name": "PARK Sunghu",
+      "NameS": "PARK S",
+      "OrgDesc": "Republic of Korea",
+      "Splits": [
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "0",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Stats": {
+            "ST_2PT": "0",
+            "ST_3PT": "0",
+            "ST_4PT": "0",
+            "ST_ADV": "0",
+            "ST_PEN": "0"
+          },
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_SILVER"
+    },
+    {
+      "Reg": "12860095",
+      "Bib": "",
+      "Org": "KSA",
+      "MedClass": "",
+      "StartOrder": "",
+      "StartSortOrder": 0,
+      "Rk": "1",
+      "RkEq": false,
+      "RkPo": 1,
+      "WLT": "W",
+      "Result": "50",
+      "ResDetail": "",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "RESULT_INFO",
+          "Code": "DecisionDesc",
+          "Pos": 0,
+          "Value": "SUB -> Win by Submission",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Colour",
+          "Pos": 0,
+          "Value": "Blue",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Winner",
+          "Pos": 0,
+          "Value": "W",
+          "Extensions": []
+        }
+      ],
+      "Stats": {
+        "ST_2PT": "1",
+        "ST_3PT": "0",
+        "ST_4PT": "0",
+        "ST_ADV": "1",
+        "ST_PEN": "0"
+      },
+      "Name": "NADA Omar Tariq N",
+      "NameS": "NADA OTN",
+      "OrgDesc": "Saudi Arabia",
+      "Splits": [
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "AttResult": "",
+          "Result": "50",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Stats": {
+            "ST_2PT": "1",
+            "ST_3PT": "0",
+            "ST_4PT": "0",
+            "ST_ADV": "1",
+            "ST_PEN": "0"
+          },
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_GOLD"
+    }
+  ],
+  "Legends": {
+    "records": [],
+    "irms": [],
+    "qs": []
+  }
+}

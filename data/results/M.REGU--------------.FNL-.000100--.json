@@ -1,1 +1,722 @@
-null
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "SPK",
+    "DiscDesc": "Sepaktakraw",
+    "Key": "M.REGU--------------.FNL-.000100--",
+    "isH2H": true,
+    "Type": "T",
+    "Medal": "1",
+    "Status": "OFFICIAL",
+    "StatusDesc": "Official",
+    "DateTimeRaw": "2026-09-29T10:30:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "",
+    "HideLocation": false,
+    "Venue": "MPG",
+    "VenueDesc": "",
+    "VenueDescS": "",
+    "Loc": "SE2",
+    "LocDesc": "Nagoya City Mizuho Park Gymnasium - Court 2",
+    "LocDescS": "Court 2",
+    "Event": "M.REGU--------------",
+    "EventDesc": "Men's Regu",
+    "Phase": "M.REGU--------------.FNL-",
+    "PhaseOrder": 12,
+    "PhaseDesc": "Men's Regu Final",
+    "PhaseDescS": "Men's Regu Final",
+    "PhaseDescA": "Final",
+    "UnitDesc": "Men's Regu Gold Medal Match",
+    "UnitDescS": "Men's Regu Gold Medal Match",
+    "UnitDescA": "Men's Regu Gold Medal Match",
+    "EndDateTimeRaw": "2026-09-29T11:29:46+09:00",
+    "ActualEndDateTimeRaw": "2026-09-29T11:29:46+09:00",
+    "UnitNum": "MR9",
+    "IsLive": false,
+    "ShowResults": true,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "2-0",
+    "ResDetail": "15:9,15:8",
+    "Duration": "52",
+    "CurrentPeriod": 2,
+    "Current": "",
+    "Last": "",
+    "Extensions": [],
+    "Periods": [
+      {
+        "Order": 1,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "15",
+        "ResAway": "9",
+        "TotHome": "2",
+        "TotAway": "0",
+        "Extensions": [],
+        "Desc": "Set 1",
+        "DescS": "Set 1"
+      },
+      {
+        "Order": 2,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "15",
+        "ResAway": "8",
+        "TotHome": "2",
+        "TotAway": "0",
+        "Extensions": [],
+        "Desc": "Set 2",
+        "DescS": "Set 2"
+      }
+    ],
+    "Officials": [
+      {
+        "Reg": "175363",
+        "Org": "PHI",
+        "Function": "SE03",
+        "Bib": "",
+        "Extensions": [],
+        "OrgDesc": "Philippines",
+        "Name": "BENGCO Michael",
+        "NameS": "BENGCO M",
+        "FuncDesc": "Official Referee"
+      },
+      {
+        "Reg": "11772073",
+        "Org": "IND",
+        "Function": "SE03",
+        "Bib": "",
+        "Extensions": [],
+        "OrgDesc": "India",
+        "Name": "KUMAR Karunesh",
+        "NameS": "KUMAR K",
+        "FuncDesc": "Court Referee"
+      },
+      {
+        "Reg": "6008717",
+        "Org": "PHI",
+        "Function": "SE03",
+        "Bib": "",
+        "Extensions": [],
+        "OrgDesc": "Philippines",
+        "Name": "JOLLY Laboy",
+        "NameS": "JOLLY L",
+        "FuncDesc": "Referee"
+      },
+      {
+        "Reg": "3695836",
+        "Org": "SGP",
+        "Function": "SE03",
+        "Bib": "",
+        "Extensions": [],
+        "OrgDesc": "Singapore",
+        "Name": "BINTE MOHAMMED RADHI Nor Azura",
+        "NameS": "BINTE MOHAMMED RA.",
+        "FuncDesc": "Assistant Referee"
+      },
+      {
+        "Reg": "9976718",
+        "Org": "IND",
+        "Function": "SE03",
+        "Bib": "",
+        "Extensions": [],
+        "OrgDesc": "India",
+        "Name": "MANJUNATHA",
+        "NameS": "MANJUNATHA",
+        "FuncDesc": "Line Referee"
+      },
+      {
+        "Reg": "2543159",
+        "Org": "MYA",
+        "Function": "SE03",
+        "Bib": "",
+        "Extensions": [],
+        "OrgDesc": "Myanmar",
+        "Name": "MOE Kyaw Yar Za",
+        "NameS": "MOE KYZ",
+        "FuncDesc": "Line Referee"
+      },
+      {
+        "Reg": "11195701",
+        "Org": "CHN",
+        "Function": "SE03",
+        "Bib": "",
+        "Extensions": [],
+        "OrgDesc": "People's Republic of China",
+        "Name": "CHEN Jingguo",
+        "NameS": "CHEN J",
+        "FuncDesc": "Challenge Referee"
+      },
+      {
+        "Reg": "6651810",
+        "Org": "SGP",
+        "Function": "SE03",
+        "Bib": "",
+        "Extensions": [],
+        "OrgDesc": "Singapore",
+        "Name": "BIN KOSNAN Haron",
+        "NameS": "BIN KOSNAN H",
+        "FuncDesc": "Challenge Referee"
+      }
+    ],
+    "Paralympic": false
+  },
+  "Competitors": [
+    {
+      "Reg": "SPKMREGU-------THA01",
+      "Bib": "",
+      "Org": "THA",
+      "MedClass": "",
+      "StartOrder": "",
+      "StartSortOrder": 0,
+      "Rk": "1",
+      "RkEq": false,
+      "RkPo": 1,
+      "WLT": "W",
+      "Result": "2",
+      "ResDetail": "15, 15",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [],
+      "Name": "Thailand",
+      "NameS": "Thailand",
+      "OrgDesc": "Thailand",
+      "Splits": [
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "15",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OFFICIAL",
+          "Extensions": []
+        },
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "15",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OFFICIAL",
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_GOLD",
+      "Members": [
+        {
+          "Reg": "8191976",
+          "Org": "THA",
+          "Bib": "1",
+          "Function": "AA01",
+          "Position": "S",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "187.00",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2000-06-08",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 1,
+          "Substitute": true,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "SOPA Phutawan",
+          "NameS": "SOPA P",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Striker"
+        },
+        {
+          "Reg": "5056969",
+          "Org": "THA",
+          "Bib": "15",
+          "Function": "AA01",
+          "Position": "T",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "191.00",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "1995-10-03",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 15,
+          "Substitute": true,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "TINBANGBON Pornthep",
+          "NameS": "TINBANGBON P",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Tekong"
+        },
+        {
+          "Reg": "746115",
+          "Org": "THA",
+          "Bib": "22",
+          "Function": "AA01",
+          "Position": "S",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "177.00",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "1996-12-09",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 22,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": true,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "SAPYEN Tanaphon",
+          "NameS": "SAPYEN T",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Striker"
+        },
+        {
+          "Reg": "5056549",
+          "Org": "THA",
+          "Bib": "23",
+          "Function": "AA01",
+          "Position": "T",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "177.00",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "1992-11-27",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 23,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": true,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "NONTAKOTE Kritsanapong",
+          "NameS": "NONTAKOTE K",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Tekong"
+        },
+        {
+          "Reg": "5069713",
+          "Org": "THA",
+          "Bib": "25",
+          "Function": "AA01",
+          "Position": "F",
+          "Captain": true,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "168.00",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "2002-05-25",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 25,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": true,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "KAMSANOR Wuttinun",
+          "NameS": "KAMSANOR W",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Feeder"
+        }
+      ]
+    },
+    {
+      "Reg": "SPKMREGU-------MAS01",
+      "Bib": "",
+      "Org": "MAS",
+      "MedClass": "",
+      "StartOrder": "",
+      "StartSortOrder": 0,
+      "Rk": "2",
+      "RkEq": false,
+      "RkPo": 0,
+      "WLT": "L",
+      "Result": "0",
+      "ResDetail": "9, 8",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [],
+      "Name": "Malaysia",
+      "NameS": "Malaysia",
+      "OrgDesc": "Malaysia",
+      "Splits": [
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "9",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OFFICIAL",
+          "Extensions": []
+        },
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "8",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "OFFICIAL",
+          "Extensions": []
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_SILVER",
+      "Members": [
+        {
+          "Reg": "5752720",
+          "Org": "MAS",
+          "Bib": "5",
+          "Function": "AA01",
+          "Position": "S",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "169.00",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "1995-04-18",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 5,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": true,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "ALIAS Mohamad Azlan",
+          "NameS": "ALIAS MA",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Striker"
+        },
+        {
+          "Reg": "2274384",
+          "Org": "MAS",
+          "Bib": "10",
+          "Function": "AA01",
+          "Position": "T",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "180.00",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "1993-06-18",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 10,
+          "Substitute": true,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "ABD RAZAK Muhammad Zulkifli",
+          "NameS": "ABD RAZAK MZ",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Tekong"
+        },
+        {
+          "Reg": "8255766",
+          "Org": "MAS",
+          "Bib": "14",
+          "Function": "AA01",
+          "Position": "S",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "183.00",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "1992-09-26",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 14,
+          "Substitute": true,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "MOHD RAZALI Muhammad Afifuddin",
+          "NameS": "MOHD RAZALI MA",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Striker"
+        },
+        {
+          "Reg": "8257071",
+          "Org": "MAS",
+          "Bib": "17",
+          "Function": "AA01",
+          "Position": "F",
+          "Captain": true,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "173.00",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "1997-10-17",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 17,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": true,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "AZWAWI Aidil Aiman",
+          "NameS": "AZWAWI AA",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Feeder"
+        },
+        {
+          "Reg": "2263975",
+          "Org": "MAS",
+          "Bib": "23",
+          "Function": "AA01",
+          "Position": "T",
+          "Captain": false,
+          "Extensions": [
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "Height",
+              "Pos": 0,
+              "Value": "189.00",
+              "Extensions": []
+            },
+            {
+              "Type": "MEMBER_INFO",
+              "Code": "DateOfBirth",
+              "Pos": 0,
+              "Value": "1996-08-02",
+              "Extensions": []
+            }
+          ],
+          "Gender": "M",
+          "Order": 23,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": true,
+          "InFieldGK": false,
+          "Injured": false,
+          "Result": "",
+          "Guides": [],
+          "Name": "MOHD ROSDI Mohammad Syahir",
+          "NameS": "MOHD ROSDI MS",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": "Tekong"
+        }
+      ]
+    }
+  ],
+  "Legends": {
+    "records": [],
+    "irms": [],
+    "qs": [],
+    "funcs": [
+      {
+        "DescS": "AA01",
+        "Desc": "Athlete"
+      }
+    ],
+    "pos": [
+      {
+        "DescS": "S",
+        "Desc": "Striker"
+      },
+      {
+        "DescS": "T",
+        "Desc": "Tekong"
+      },
+      {
+        "DescS": "F",
+        "Desc": "Feeder"
+      }
+    ],
+    "captain": "legends.captain"
+  }
+}

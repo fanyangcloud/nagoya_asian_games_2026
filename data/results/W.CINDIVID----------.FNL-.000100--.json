@@ -1,1 +1,2358 @@
-null
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "ARC",
+    "DiscDesc": "Archery",
+    "Key": "W.CINDIVID----------.FNL-.000100--",
+    "isH2H": true,
+    "Type": "A",
+    "Medal": "1",
+    "Status": "OFFICIAL",
+    "StatusDesc": "Official",
+    "DateTimeRaw": "2026-10-01T11:01:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "",
+    "HideLocation": true,
+    "Venue": "OCM",
+    "VenueDesc": "Okazaki Chuo Sogo Park Multipurpose Square",
+    "VenueDescS": "Okazaki Chuo Sogo Park Multipurpose Sq.",
+    "Loc": "OCM",
+    "LocDesc": "Okazaki Chuso Park Multipurpose Sq.",
+    "LocDescS": "Okazaki Chuo Sogo Park Multipurpose Sq.",
+    "Event": "W.CINDIVID----------",
+    "EventDesc": "Compound Women's Individual",
+    "Phase": "W.CINDIVID----------.FNL-",
+    "PhaseOrder": 7,
+    "PhaseDesc": "Compound Women's Individual Finals",
+    "PhaseDescS": "Compound Women's Ind. Finals",
+    "PhaseDescA": "Finals",
+    "UnitDesc": "Compound Women's Individual Gold Medal Match",
+    "UnitDescS": "Compound Women's Ind. Gold Medal Match",
+    "UnitDescA": "Compound Women's Individual Gold Medal Match",
+    "EndDateTimeRaw": "2026-10-01T11:08:00+09:00",
+    "ActualEndDateTimeRaw": "2026-10-01T11:08:00+09:00",
+    "UnitNum": "332",
+    "IsLive": false,
+    "ShowResults": true,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "139-137",
+    "ResDetail": "139-137",
+    "Duration": "00:17:47",
+    "CurrentPeriod": 5,
+    "Current": "",
+    "Last": "",
+    "Extensions": [
+      {
+        "Type": "UNIT_INFO",
+        "Code": "Mixed",
+        "Pos": 0,
+        "Value": "N",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "ModeResult",
+        "Pos": 0,
+        "Value": "SPLIT_SCORES",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "NArrows",
+        "Pos": 0,
+        "Value": "3",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "NArrowsSO",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "NEnds",
+        "Pos": 0,
+        "Value": "5",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "NEndsSO",
+        "Pos": 0,
+        "Value": "1",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "NextPhaseStarted",
+        "Pos": 0,
+        "Value": "N",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "NSOSplits",
+        "Pos": 0,
+        "Value": "1",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "NSOSplitsPlayed",
+        "Pos": 0,
+        "Value": "0",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "NSplits",
+        "Pos": 0,
+        "Value": "5",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "NTotalArrows",
+        "Pos": 0,
+        "Value": "15",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "PhaseFinished",
+        "Pos": 0,
+        "Value": "Y",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "WindDirection",
+        "Pos": 0,
+        "Value": "",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "WindSpeed",
+        "Pos": 0,
+        "Value": "",
+        "Extensions": []
+      },
+      {
+        "Type": "UNIT_INFO",
+        "Code": "WindSpeedUnit",
+        "Pos": 0,
+        "Value": "",
+        "Extensions": []
+      }
+    ],
+    "Periods": [
+      {
+        "Order": 1,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "28",
+        "ResAway": "28",
+        "TotHome": "28",
+        "TotAway": "28",
+        "Extensions": [
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomePoints",
+            "Pos": 0,
+            "Value": "28",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeRank",
+            "Pos": 0,
+            "Value": "1",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeShootFirst",
+            "Pos": 0,
+            "Value": "N",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayPoints",
+            "Pos": 0,
+            "Value": "28",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayRank",
+            "Pos": 0,
+            "Value": "1",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayShootFirst",
+            "Pos": 0,
+            "Value": "N",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "Played",
+            "Pos": 0,
+            "Value": "Y",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ShootOff",
+            "Pos": 0,
+            "Value": "N",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "EndKey",
+            "Pos": 1,
+            "Value": "W.CINDIVID----------.FNL-.000100--.1.1",
+            "Extensions": [
+              {
+                "Type": "ARROWS_INFO",
+                "Code": "NArrows",
+                "Pos": 0,
+                "Value": "3"
+              }
+            ]
+          }
+        ],
+        "Desc": "End 1",
+        "DescS": "E1"
+      },
+      {
+        "Order": 2,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "27",
+        "ResAway": "26",
+        "TotHome": "55",
+        "TotAway": "54",
+        "Extensions": [
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomePoints",
+            "Pos": 0,
+            "Value": "27",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeRank",
+            "Pos": 0,
+            "Value": "1",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeShootFirst",
+            "Pos": 0,
+            "Value": "N",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayPoints",
+            "Pos": 0,
+            "Value": "26",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayRank",
+            "Pos": 0,
+            "Value": "2",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayShootFirst",
+            "Pos": 0,
+            "Value": "N",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "Played",
+            "Pos": 0,
+            "Value": "Y",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ShootOff",
+            "Pos": 0,
+            "Value": "N",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "EndKey",
+            "Pos": 1,
+            "Value": "W.CINDIVID----------.FNL-.000100--.2.1",
+            "Extensions": [
+              {
+                "Type": "ARROWS_INFO",
+                "Code": "NArrows",
+                "Pos": 0,
+                "Value": "3"
+              }
+            ]
+          }
+        ],
+        "Desc": "End 2",
+        "DescS": "E2"
+      },
+      {
+        "Order": 3,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "29",
+        "ResAway": "29",
+        "TotHome": "84",
+        "TotAway": "83",
+        "Extensions": [
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomePoints",
+            "Pos": 0,
+            "Value": "29",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeRank",
+            "Pos": 0,
+            "Value": "1",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeShootFirst",
+            "Pos": 0,
+            "Value": "N",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayPoints",
+            "Pos": 0,
+            "Value": "29",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayRank",
+            "Pos": 0,
+            "Value": "1",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayShootFirst",
+            "Pos": 0,
+            "Value": "N",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "Played",
+            "Pos": 0,
+            "Value": "Y",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ShootOff",
+            "Pos": 0,
+            "Value": "N",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "EndKey",
+            "Pos": 1,
+            "Value": "W.CINDIVID----------.FNL-.000100--.3.1",
+            "Extensions": [
+              {
+                "Type": "ARROWS_INFO",
+                "Code": "NArrows",
+                "Pos": 0,
+                "Value": "3"
+              }
+            ]
+          }
+        ],
+        "Desc": "End 3",
+        "DescS": "E3"
+      },
+      {
+        "Order": 4,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "26",
+        "ResAway": "27",
+        "TotHome": "110",
+        "TotAway": "110",
+        "Extensions": [
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomePoints",
+            "Pos": 0,
+            "Value": "26",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeRank",
+            "Pos": 0,
+            "Value": "2",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeShootFirst",
+            "Pos": 0,
+            "Value": "N",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayPoints",
+            "Pos": 0,
+            "Value": "27",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayRank",
+            "Pos": 0,
+            "Value": "1",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayShootFirst",
+            "Pos": 0,
+            "Value": "N",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "Played",
+            "Pos": 0,
+            "Value": "Y",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ShootOff",
+            "Pos": 0,
+            "Value": "N",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "EndKey",
+            "Pos": 1,
+            "Value": "W.CINDIVID----------.FNL-.000100--.4.1",
+            "Extensions": [
+              {
+                "Type": "ARROWS_INFO",
+                "Code": "NArrows",
+                "Pos": 0,
+                "Value": "3"
+              }
+            ]
+          }
+        ],
+        "Desc": "End 4",
+        "DescS": "E4"
+      },
+      {
+        "Order": 5,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "29",
+        "ResAway": "27",
+        "TotHome": "139",
+        "TotAway": "137",
+        "Extensions": [
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomePoints",
+            "Pos": 0,
+            "Value": "29",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeRank",
+            "Pos": 0,
+            "Value": "1",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "HomeShootFirst",
+            "Pos": 0,
+            "Value": "N",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayPoints",
+            "Pos": 0,
+            "Value": "27",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayRank",
+            "Pos": 0,
+            "Value": "2",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "AwayShootFirst",
+            "Pos": 0,
+            "Value": "N",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "Played",
+            "Pos": 0,
+            "Value": "Y",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "ShootOff",
+            "Pos": 0,
+            "Value": "N",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_INFO",
+            "Code": "EndKey",
+            "Pos": 1,
+            "Value": "W.CINDIVID----------.FNL-.000100--.5.1",
+            "Extensions": [
+              {
+                "Type": "ARROWS_INFO",
+                "Code": "NArrows",
+                "Pos": 0,
+                "Value": "3"
+              }
+            ]
+          }
+        ],
+        "Desc": "End 5",
+        "DescS": "E5"
+      }
+    ],
+    "Records": [
+      {
+        "EvCode": "W.CINDIVID----------",
+        "Desc": "Compound Women's Individual",
+        "DescS": "Compound Women's Individual",
+        "Records": [
+          {
+            "Result": "150",
+            "Equalled": false,
+            "Indicator": "WR",
+            "Indicator1": "WR",
+            "Desc": "World Record",
+            "AreaDesc": "World Record",
+            "Loc": "Medellin (COL)",
+            "DateTimeRaw": "2022-07-23T00:00:00+09:00",
+            "ShowLinkBio": false,
+            "Reg": "A612561000",
+            "Name": "LOPEZ Sara",
+            "Org": "COL",
+            "OrgDesc": "Colombia"
+          },
+          {
+            "Result": "150",
+            "Equalled": false,
+            "Indicator": "AR",
+            "Indicator1": "AR",
+            "Desc": "Asian Record",
+            "AreaDesc": "Asian Record",
+            "Loc": "Bangkok, Thailand (THA)",
+            "DateTimeRaw": "2025-02-20T00:00:00+09:00",
+            "ShowLinkBio": false,
+            "Reg": "A300136400",
+            "Name": "OH Yoohyun",
+            "Org": "KOR",
+            "OrgDesc": "Republic of Korea"
+          },
+          {
+            "Result": "150",
+            "Equalled": false,
+            "Indicator": "GR",
+            "Indicator1": "GR",
+            "Desc": "Asian Games Record",
+            "AreaDesc": "Asian Games Record",
+            "Loc": "Aichi-Nagoya  (JPN)",
+            "DateTimeRaw": "2026-09-28T14:16:55+09:00",
+            "Unit": "W.CINDIVID----------.8FNL.000100--",
+            "ResCode": "",
+            "UnitDesc": "Compound Women's Individual 1/8 Elimination",
+            "ResultCode": "W.CINDIVID----------.8FNL.000100--",
+            "ShowLinkBio": false,
+            "Reg": "10419144",
+            "Name": "KANG Yeonseo",
+            "Org": "KOR",
+            "OrgDesc": "Republic of Korea"
+          }
+        ]
+      }
+    ],
+    "Officials": [
+      {
+        "Reg": "4222714",
+        "Org": "CHN",
+        "Order": 1,
+        "Function": "Line Judge",
+        "Bib": "1987-08-17",
+        "FuncOrder": "17",
+        "Extensions": [],
+        "OrgDesc": "People's Republic of China",
+        "Name": "LI Xinping",
+        "NameS": "LI X",
+        "FuncDesc": "Line Judge"
+      },
+      {
+        "Reg": "13485957",
+        "Org": "TPE",
+        "Order": 2,
+        "Function": "Target Judge",
+        "Bib": "1981-05-31",
+        "FuncOrder": "18",
+        "Extensions": [],
+        "OrgDesc": "Chinese Taipei",
+        "Name": "PAN Yu Hsuan",
+        "NameS": "PAN YH",
+        "FuncDesc": "Target Judge"
+      }
+    ],
+    "Paralympic": false
+  },
+  "Competitors": [
+    {
+      "Reg": "10384183",
+      "Bib": "8",
+      "Org": "INA",
+      "StartOrder": "1",
+      "StartSortOrder": 1,
+      "Rk": "1",
+      "RkEq": false,
+      "RkPo": 1,
+      "WLT": "W",
+      "Result": "139",
+      "ResDetail": "139",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "1",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "PREV_RESULT",
+          "Code": "UNIT_KEY",
+          "Pos": 1,
+          "Value": " ",
+          "Extensions": [
+            {
+              "Type": "RESULT",
+              "Code": "Register",
+              "Pos": 1,
+              "Value": "10384183"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "RegisterOpp",
+              "Pos": 1,
+              "Value": "12325110"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "Result",
+              "Pos": 1,
+              "Value": "149-142"
+            }
+          ]
+        },
+        {
+          "Type": "PREV_RESULT",
+          "Code": "UNIT_KEY",
+          "Pos": 2,
+          "Value": " ",
+          "Extensions": [
+            {
+              "Type": "RESULT",
+              "Code": "Register",
+              "Pos": 2,
+              "Value": "10384183"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "RegisterOpp",
+              "Pos": 2,
+              "Value": "9057853"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "Result",
+              "Pos": 2,
+              "Value": "148-145"
+            }
+          ]
+        },
+        {
+          "Type": "PREV_RESULT",
+          "Code": "UNIT_KEY",
+          "Pos": 3,
+          "Value": " ",
+          "Extensions": [
+            {
+              "Type": "RESULT",
+              "Code": "Register",
+              "Pos": 3,
+              "Value": "10384183"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "RegisterOpp",
+              "Pos": 3,
+              "Value": "10528860"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "Result",
+              "Pos": 3,
+              "Value": "144-143"
+            }
+          ]
+        },
+        {
+          "Type": "PREV_RESULT",
+          "Code": "UNIT_KEY",
+          "Pos": 4,
+          "Value": " ",
+          "Extensions": [
+            {
+              "Type": "RESULT",
+              "Code": "Register",
+              "Pos": 4,
+              "Value": "10384183"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "RegisterOpp",
+              "Pos": 4,
+              "Value": "10419144"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "Result",
+              "Pos": 4,
+              "Value": "147-143"
+            }
+          ]
+        },
+        {
+          "Type": "PREV_RESULT",
+          "Code": "UNIT_KEY",
+          "Pos": 5,
+          "Value": " ",
+          "Extensions": [
+            {
+              "Type": "RESULT",
+              "Code": "Register",
+              "Pos": 5,
+              "Value": "10384183"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "RegisterOpp",
+              "Pos": 5,
+              "Value": "6086901"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "Result",
+              "Pos": 5,
+              "Value": "139-137"
+            }
+          ]
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "DisplayRank",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "EndConfirmed",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PB",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "SB",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PointToWin",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "TargetNumber",
+          "Pos": 0,
+          "Value": "24A",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "TargetPosition",
+          "Pos": 0,
+          "Value": "24A",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Tens",
+          "Pos": 0,
+          "Value": "6",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "XTens",
+          "Pos": 0,
+          "Value": "2",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "TieIndicator",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "WR",
+          "Pos": 0,
+          "Value": "81",
+          "Extensions": []
+        }
+      ],
+      "Name": "ASHRIFAH Nurisa Dian",
+      "NameS": "ASHRIFAH ND",
+      "OrgDesc": "Indonesia",
+      "Splits": [
+        {
+          "Rk": "1",
+          "RkEq": true,
+          "RkPo": 1,
+          "RkAcc": "",
+          "RkAccEq": true,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "28",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "28",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW",
+              "Pos": 1,
+              "Value": "10",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW",
+              "Pos": 2,
+              "Value": "9",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW",
+              "Pos": 3,
+              "Value": "9",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW_POSITION",
+              "Pos": 1,
+              "Value": "0:0|0|0|0|0|122",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW_POSITION",
+              "Pos": 2,
+              "Value": "0:0|0|0|0|0|122",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW_POSITION",
+              "Pos": 3,
+              "Value": "0:0|0|0|0|0|122",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "10384183",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "SetPoints",
+              "Pos": 0,
+              "Value": "28",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ShootFirst",
+              "Pos": 0,
+              "Value": "Y",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ShootOff",
+              "Pos": 0,
+              "Value": "N",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Tens",
+              "Pos": 0,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "XTens",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "SplitPlayed",
+              "Pos": 0,
+              "Value": "Y",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "CLOSEST_END",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Rk": "1",
+          "RkEq": false,
+          "RkPo": 1,
+          "RkAcc": "1",
+          "RkAccEq": false,
+          "RkAccPo": 1,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "27",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "55",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW",
+              "Pos": 1,
+              "Value": "8",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW",
+              "Pos": 2,
+              "Value": "9",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW",
+              "Pos": 3,
+              "Value": "X",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW_POSITION",
+              "Pos": 1,
+              "Value": "0:0|0|0|0|0|122",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW_POSITION",
+              "Pos": 2,
+              "Value": "0:0|0|0|0|0|122",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW_POSITION",
+              "Pos": 3,
+              "Value": "0:0|0|0|0|0|122",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "10384183",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "SetPoints",
+              "Pos": 0,
+              "Value": "27",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ShootFirst",
+              "Pos": 0,
+              "Value": "Y",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ShootOff",
+              "Pos": 0,
+              "Value": "N",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Tens",
+              "Pos": 0,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "XTens",
+              "Pos": 0,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "SplitPlayed",
+              "Pos": 0,
+              "Value": "Y",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "CLOSEST_END",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Rk": "1",
+          "RkEq": true,
+          "RkPo": 1,
+          "RkAcc": "1",
+          "RkAccEq": false,
+          "RkAccPo": 1,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "29",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "84",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW",
+              "Pos": 1,
+              "Value": "9",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW",
+              "Pos": 2,
+              "Value": "10",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW",
+              "Pos": 3,
+              "Value": "10",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW_POSITION",
+              "Pos": 1,
+              "Value": "0:0|0|0|0|0|122",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW_POSITION",
+              "Pos": 2,
+              "Value": "0:0|0|0|0|0|122",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW_POSITION",
+              "Pos": 3,
+              "Value": "0:0|0|0|0|0|122",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "10384183",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "SetPoints",
+              "Pos": 0,
+              "Value": "29",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ShootFirst",
+              "Pos": 0,
+              "Value": "N",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ShootOff",
+              "Pos": 0,
+              "Value": "N",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Tens",
+              "Pos": 0,
+              "Value": "2",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "XTens",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "SplitPlayed",
+              "Pos": 0,
+              "Value": "Y",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "CLOSEST_END",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Rk": "2",
+          "RkEq": false,
+          "RkPo": 2,
+          "RkAcc": "",
+          "RkAccEq": true,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "26",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "110",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW",
+              "Pos": 1,
+              "Value": "9",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW",
+              "Pos": 2,
+              "Value": "8",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW",
+              "Pos": 3,
+              "Value": "9",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW_POSITION",
+              "Pos": 1,
+              "Value": "0:0|0|0|0|0|122",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW_POSITION",
+              "Pos": 2,
+              "Value": "0:0|0|0|0|0|122",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW_POSITION",
+              "Pos": 3,
+              "Value": "0:0|0|0|0|0|122",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "10384183",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "SetPoints",
+              "Pos": 0,
+              "Value": "26",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ShootFirst",
+              "Pos": 0,
+              "Value": "N",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ShootOff",
+              "Pos": 0,
+              "Value": "N",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Tens",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "XTens",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "SplitPlayed",
+              "Pos": 0,
+              "Value": "Y",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "CLOSEST_END",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Rk": "1",
+          "RkEq": false,
+          "RkPo": 1,
+          "RkAcc": "1",
+          "RkAccEq": false,
+          "RkAccPo": 1,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "29",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "139",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW",
+              "Pos": 1,
+              "Value": "9",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW",
+              "Pos": 2,
+              "Value": "X",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW",
+              "Pos": 3,
+              "Value": "10",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW_POSITION",
+              "Pos": 1,
+              "Value": "0:0|0|0|0|0|122",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW_POSITION",
+              "Pos": 2,
+              "Value": "0:0|0|0|0|0|122",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW_POSITION",
+              "Pos": 3,
+              "Value": "0:0|0|0|0|0|122",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "10384183",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "SetPoints",
+              "Pos": 0,
+              "Value": "29",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ShootFirst",
+              "Pos": 0,
+              "Value": "Y",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ShootOff",
+              "Pos": 0,
+              "Value": "N",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Tens",
+              "Pos": 0,
+              "Value": "2",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "XTens",
+              "Pos": 0,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "SplitPlayed",
+              "Pos": 0,
+              "Value": "Y",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "CLOSEST_END",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_GOLD",
+      "TeamOfficials": [
+        {
+          "Reg": "10405415",
+          "Org": "INA",
+          "Order": 1,
+          "Function": "",
+          "Extensions": [],
+          "Name": "WIBOWO Permadi Sandra",
+          "NameS": "WIBOWO PS",
+          "FuncDesc": ""
+        }
+      ]
+    },
+    {
+      "Reg": "6086901",
+      "Bib": "28",
+      "Org": "PHI",
+      "StartOrder": "2",
+      "StartSortOrder": 2,
+      "Rk": "2",
+      "RkEq": false,
+      "RkPo": 2,
+      "WLT": "L",
+      "Result": "137",
+      "ResDetail": "137",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "2",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "PREV_RESULT",
+          "Code": "UNIT_KEY",
+          "Pos": 1,
+          "Value": " ",
+          "Extensions": [
+            {
+              "Type": "RESULT",
+              "Code": "Register",
+              "Pos": 1,
+              "Value": "6086901"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "RegisterOpp",
+              "Pos": 1,
+              "Value": "10814101"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "Result",
+              "Pos": 1,
+              "Value": "145-145"
+            }
+          ]
+        },
+        {
+          "Type": "PREV_RESULT",
+          "Code": "UNIT_KEY",
+          "Pos": 2,
+          "Value": " ",
+          "Extensions": [
+            {
+              "Type": "RESULT",
+              "Code": "Register",
+              "Pos": 2,
+              "Value": "6086901"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "RegisterOpp",
+              "Pos": 2,
+              "Value": "11851287"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "Result",
+              "Pos": 2,
+              "Value": "146-143"
+            }
+          ]
+        },
+        {
+          "Type": "PREV_RESULT",
+          "Code": "UNIT_KEY",
+          "Pos": 3,
+          "Value": " ",
+          "Extensions": [
+            {
+              "Type": "RESULT",
+              "Code": "Register",
+              "Pos": 3,
+              "Value": "6086901"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "RegisterOpp",
+              "Pos": 3,
+              "Value": "10558147"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "Result",
+              "Pos": 3,
+              "Value": "146-135"
+            }
+          ]
+        },
+        {
+          "Type": "PREV_RESULT",
+          "Code": "UNIT_KEY",
+          "Pos": 4,
+          "Value": " ",
+          "Extensions": [
+            {
+              "Type": "RESULT",
+              "Code": "Register",
+              "Pos": 4,
+              "Value": "6086901"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "RegisterOpp",
+              "Pos": 4,
+              "Value": "10418207"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "Result",
+              "Pos": 4,
+              "Value": "142-141"
+            }
+          ]
+        },
+        {
+          "Type": "PREV_RESULT",
+          "Code": "UNIT_KEY",
+          "Pos": 5,
+          "Value": " ",
+          "Extensions": [
+            {
+              "Type": "RESULT",
+              "Code": "Register",
+              "Pos": 5,
+              "Value": "6086901"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "RegisterOpp",
+              "Pos": 5,
+              "Value": "10384183"
+            },
+            {
+              "Type": "RESULT",
+              "Code": "Result",
+              "Pos": 5,
+              "Value": "137-139"
+            }
+          ]
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "DisplayRank",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "EndConfirmed",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PB",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "SB",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "PointToWin",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "TargetNumber",
+          "Pos": 0,
+          "Value": "23D",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "TargetPosition",
+          "Pos": 0,
+          "Value": "23D",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "Tens",
+          "Pos": 0,
+          "Value": "4",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "XTens",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "TieIndicator",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "RESULT_INFO",
+          "Code": "WR",
+          "Pos": 0,
+          "Value": "217",
+          "Extensions": []
+        }
+      ],
+      "Name": "COJUANGCO Amaya Amparo",
+      "NameS": "COJUANGCO AA",
+      "OrgDesc": "Philippines",
+      "Splits": [
+        {
+          "Rk": "1",
+          "RkEq": true,
+          "RkPo": 1,
+          "RkAcc": "",
+          "RkAccEq": true,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "28",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "28",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW",
+              "Pos": 1,
+              "Value": "9",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW",
+              "Pos": 2,
+              "Value": "X",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW",
+              "Pos": 3,
+              "Value": "9",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW_POSITION",
+              "Pos": 1,
+              "Value": "0:0|0|0|0|0|122",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW_POSITION",
+              "Pos": 2,
+              "Value": "0:0|0|0|0|0|122",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW_POSITION",
+              "Pos": 3,
+              "Value": "0:0|0|0|0|0|122",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "6086901",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "SetPoints",
+              "Pos": 0,
+              "Value": "28",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ShootFirst",
+              "Pos": 0,
+              "Value": "N",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ShootOff",
+              "Pos": 0,
+              "Value": "N",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Tens",
+              "Pos": 0,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "XTens",
+              "Pos": 0,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "SplitPlayed",
+              "Pos": 0,
+              "Value": "Y",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "CLOSEST_END",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Rk": "2",
+          "RkEq": false,
+          "RkPo": 2,
+          "RkAcc": "2",
+          "RkAccEq": false,
+          "RkAccPo": 2,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "26",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "54",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW",
+              "Pos": 1,
+              "Value": "8",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW",
+              "Pos": 2,
+              "Value": "10",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW",
+              "Pos": 3,
+              "Value": "8",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW_POSITION",
+              "Pos": 1,
+              "Value": "0:0|0|0|0|0|122",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW_POSITION",
+              "Pos": 2,
+              "Value": "0:0|0|0|0|0|122",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW_POSITION",
+              "Pos": 3,
+              "Value": "0:0|0|0|0|0|122",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "6086901",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "SetPoints",
+              "Pos": 0,
+              "Value": "26",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ShootFirst",
+              "Pos": 0,
+              "Value": "N",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ShootOff",
+              "Pos": 0,
+              "Value": "N",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Tens",
+              "Pos": 0,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "XTens",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "SplitPlayed",
+              "Pos": 0,
+              "Value": "Y",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "CLOSEST_END",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Rk": "1",
+          "RkEq": true,
+          "RkPo": 1,
+          "RkAcc": "2",
+          "RkAccEq": false,
+          "RkAccPo": 2,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "29",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "83",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW",
+              "Pos": 1,
+              "Value": "10",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW",
+              "Pos": 2,
+              "Value": "10",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW",
+              "Pos": 3,
+              "Value": "9",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW_POSITION",
+              "Pos": 1,
+              "Value": "0:0|0|0|0|0|122",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW_POSITION",
+              "Pos": 2,
+              "Value": "0:0|0|0|0|0|122",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW_POSITION",
+              "Pos": 3,
+              "Value": "0:0|0|0|0|0|122",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "6086901",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "SetPoints",
+              "Pos": 0,
+              "Value": "29",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ShootFirst",
+              "Pos": 0,
+              "Value": "Y",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ShootOff",
+              "Pos": 0,
+              "Value": "N",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Tens",
+              "Pos": 0,
+              "Value": "2",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "XTens",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "SplitPlayed",
+              "Pos": 0,
+              "Value": "Y",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "CLOSEST_END",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Rk": "1",
+          "RkEq": false,
+          "RkPo": 1,
+          "RkAcc": "",
+          "RkAccEq": true,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "27",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "110",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW",
+              "Pos": 1,
+              "Value": "9",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW",
+              "Pos": 2,
+              "Value": "9",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW",
+              "Pos": 3,
+              "Value": "9",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW_POSITION",
+              "Pos": 1,
+              "Value": "0:0|0|0|0|0|122",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW_POSITION",
+              "Pos": 2,
+              "Value": "0:0|0|0|0|0|122",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW_POSITION",
+              "Pos": 3,
+              "Value": "0:0|0|0|0|0|122",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "6086901",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "SetPoints",
+              "Pos": 0,
+              "Value": "27",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ShootFirst",
+              "Pos": 0,
+              "Value": "Y",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ShootOff",
+              "Pos": 0,
+              "Value": "N",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Tens",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "XTens",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "SplitPlayed",
+              "Pos": 0,
+              "Value": "Y",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "CLOSEST_END",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        },
+        {
+          "Rk": "2",
+          "RkEq": false,
+          "RkPo": 2,
+          "RkAcc": "2",
+          "RkAccEq": false,
+          "RkAccPo": 2,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "27",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "137",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": [
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW",
+              "Pos": 1,
+              "Value": "9",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW",
+              "Pos": 2,
+              "Value": "9",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW",
+              "Pos": 3,
+              "Value": "9",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW_POSITION",
+              "Pos": 1,
+              "Value": "0:0|0|0|0|0|122",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW_POSITION",
+              "Pos": 2,
+              "Value": "0:0|0|0|0|0|122",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ARROW_POSITION",
+              "Pos": 3,
+              "Value": "0:0|0|0|0|0|122",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "MemberReg",
+              "Pos": 0,
+              "Value": "6086901",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "SetPoints",
+              "Pos": 0,
+              "Value": "27",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ShootFirst",
+              "Pos": 0,
+              "Value": "N",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "ShootOff",
+              "Pos": 0,
+              "Value": "N",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "Tens",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "XTens",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "SplitPlayed",
+              "Pos": 0,
+              "Value": "Y",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_RESULT",
+              "Code": "CLOSEST_END",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            }
+          ]
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_SILVER",
+      "TeamOfficials": [
+        {
+          "Reg": "6260596",
+          "Org": "PHI",
+          "Order": 1,
+          "Function": "",
+          "Extensions": [],
+          "Name": "HONG Sung Chil",
+          "NameS": "HONG SC",
+          "FuncDesc": ""
+        }
+      ]
+    }
+  ],
+  "Legends": {
+    "records": [],
+    "irms": [],
+    "qs": []
+  }
+}

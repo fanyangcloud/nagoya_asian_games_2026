@@ -1,1 +1,693 @@
-null
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "BOX",
+    "DiscDesc": "Boxing",
+    "Key": "M.80KG--------------.FNL-.000100--",
+    "isH2H": true,
+    "Type": "A",
+    "Medal": "1",
+    "Status": "OFFICIAL",
+    "StatusDesc": "Official",
+    "DateTimeRaw": "2026-10-02T18:15:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "",
+    "HideLocation": false,
+    "Venue": "NIS",
+    "VenueDesc": "Nishio Gymnasium",
+    "VenueDescS": "Nishio Gymnasium",
+    "Loc": "NIS",
+    "LocDesc": "Ring 1",
+    "LocDescS": "Ring 1",
+    "Event": "M.80KG--------------",
+    "EventDesc": "Men's 80kg",
+    "Phase": "M.80KG--------------.FNL-",
+    "PhaseOrder": 4,
+    "PhaseDesc": "Men's 80KG Final",
+    "PhaseDescS": "Men's 80KG Final",
+    "PhaseDescA": "Final",
+    "UnitDesc": "Men's 80KG - Final - Match 01",
+    "UnitDescS": "80KG - Final - Match 01",
+    "UnitDescA": "",
+    "EndDateTimeRaw": "2026-10-02T18:30:00+09:00",
+    "ActualEndDateTimeRaw": "2026-10-02T18:30:00+09:00",
+    "UnitNum": "178",
+    "IsLive": false,
+    "ShowResults": true,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "4 - 0",
+    "ResDetail": "",
+    "Duration": "",
+    "CurrentPeriod": 1,
+    "Current": "8600061",
+    "Last": "303709",
+    "Extensions": [],
+    "Periods": [
+      {
+        "Order": 1,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "BlueKnockdowns",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "BlueScore",
+            "Pos": 1,
+            "Value": "9",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "BlueScore",
+            "Pos": 2,
+            "Value": "10",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "BlueScore",
+            "Pos": 3,
+            "Value": "9",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "BlueScore",
+            "Pos": 4,
+            "Value": "9",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "BlueScore",
+            "Pos": 5,
+            "Value": "9",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "BlueWarnings",
+            "Pos": 0,
+            "Value": "1",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "RedKnockdowns",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "RedScore",
+            "Pos": 1,
+            "Value": "10",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "RedScore",
+            "Pos": 2,
+            "Value": "9",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "RedScore",
+            "Pos": 3,
+            "Value": "10",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "RedScore",
+            "Pos": 4,
+            "Value": "10",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "RedScore",
+            "Pos": 5,
+            "Value": "10",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "RedWarnings",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          }
+        ],
+        "Desc": "Round 1",
+        "DescS": "R 1"
+      },
+      {
+        "Order": 2,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "BlueKnockdowns",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "BlueScore",
+            "Pos": 1,
+            "Value": "9",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "BlueScore",
+            "Pos": 2,
+            "Value": "9",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "BlueScore",
+            "Pos": 3,
+            "Value": "9",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "BlueScore",
+            "Pos": 4,
+            "Value": "9",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "BlueScore",
+            "Pos": 5,
+            "Value": "9",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "BlueWarnings",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "RedKnockdowns",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "RedScore",
+            "Pos": 1,
+            "Value": "10",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "RedScore",
+            "Pos": 2,
+            "Value": "10",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "RedScore",
+            "Pos": 3,
+            "Value": "10",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "RedScore",
+            "Pos": 4,
+            "Value": "10",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "RedScore",
+            "Pos": 5,
+            "Value": "10",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "RedWarnings",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          }
+        ],
+        "Desc": "Round 2",
+        "DescS": "R 2"
+      },
+      {
+        "Order": 3,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "",
+        "ResAway": "",
+        "TotHome": "",
+        "TotAway": "",
+        "Extensions": [
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "BlueKnockdowns",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "BlueScore",
+            "Pos": 1,
+            "Value": "9",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "BlueScore",
+            "Pos": 2,
+            "Value": "10",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "BlueScore",
+            "Pos": 3,
+            "Value": "9",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "BlueScore",
+            "Pos": 4,
+            "Value": "9",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "BlueScore",
+            "Pos": 5,
+            "Value": "9",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "BlueWarnings",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "RedKnockdowns",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "RedScore",
+            "Pos": 1,
+            "Value": "10",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "RedScore",
+            "Pos": 2,
+            "Value": "9",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "RedScore",
+            "Pos": 3,
+            "Value": "10",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "RedScore",
+            "Pos": 4,
+            "Value": "10",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "RedScore",
+            "Pos": 5,
+            "Value": "10",
+            "Extensions": []
+          },
+          {
+            "Type": "SPLIT_RESULT",
+            "Code": "RedWarnings",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          }
+        ],
+        "Desc": "Round 3",
+        "DescS": "R 3"
+      }
+    ],
+    "Officials": [
+      {
+        "Reg": "10538365",
+        "Org": "HUN",
+        "Function": "RE",
+        "Extensions": [
+          {
+            "Type": "OFFICIAL_INFO",
+            "Code": "TotalRedScore",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "OFFICIAL_INFO",
+            "Code": "TotalRedScorePref",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "OFFICIAL_INFO",
+            "Code": "TotalBlueScore",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          },
+          {
+            "Type": "OFFICIAL_INFO",
+            "Code": "TotalBlueScorePref",
+            "Pos": 0,
+            "Value": "0",
+            "Extensions": []
+          }
+        ],
+        "Bib": "",
+        "OrgDesc": "Hungary",
+        "Name": "JONAS Adam Ivan",
+        "NameS": "JONAS AI",
+        "FuncDesc": "Referee"
+      },
+      {
+        "Reg": "10521343",
+        "Org": "BUL",
+        "Function": "J1",
+        "Extensions": [
+          {
+            "Type": "OFFICIAL_INFO",
+            "Code": "TotalRedScore",
+            "Pos": 0,
+            "Value": "30",
+            "Extensions": []
+          },
+          {
+            "Type": "OFFICIAL_INFO",
+            "Code": "TotalRedScorePref",
+            "Pos": 0,
+            "Value": "30",
+            "Extensions": []
+          },
+          {
+            "Type": "OFFICIAL_INFO",
+            "Code": "TotalBlueScore",
+            "Pos": 0,
+            "Value": "26",
+            "Extensions": []
+          },
+          {
+            "Type": "OFFICIAL_INFO",
+            "Code": "TotalBlueScorePref",
+            "Pos": 0,
+            "Value": "26",
+            "Extensions": []
+          }
+        ],
+        "Bib": "",
+        "OrgDesc": "Bulgaria",
+        "Name": "POPOV Ivan Tsvetanov",
+        "NameS": "POPOV IT",
+        "FuncDesc": "Judge 1"
+      },
+      {
+        "Reg": "6482792",
+        "Org": "UZB",
+        "Function": "J2",
+        "Extensions": [
+          {
+            "Type": "OFFICIAL_INFO",
+            "Code": "TotalRedScore",
+            "Pos": 0,
+            "Value": "28",
+            "Extensions": []
+          },
+          {
+            "Type": "OFFICIAL_INFO",
+            "Code": "TotalRedScorePref",
+            "Pos": 0,
+            "Value": "28",
+            "Extensions": []
+          },
+          {
+            "Type": "OFFICIAL_INFO",
+            "Code": "TotalBlueScore",
+            "Pos": 0,
+            "Value": "28",
+            "Extensions": []
+          },
+          {
+            "Type": "OFFICIAL_INFO",
+            "Code": "TotalBlueScorePref",
+            "Pos": 0,
+            "Value": "28",
+            "Extensions": []
+          }
+        ],
+        "Bib": "",
+        "OrgDesc": "Uzbekistan",
+        "Name": "URDUSHEV Maruf",
+        "NameS": "URDUSHEV M",
+        "FuncDesc": "Judge 2"
+      },
+      {
+        "Reg": "6501726",
+        "Org": "MAR",
+        "Function": "J3",
+        "Extensions": [
+          {
+            "Type": "OFFICIAL_INFO",
+            "Code": "TotalRedScore",
+            "Pos": 0,
+            "Value": "30",
+            "Extensions": []
+          },
+          {
+            "Type": "OFFICIAL_INFO",
+            "Code": "TotalRedScorePref",
+            "Pos": 0,
+            "Value": "30",
+            "Extensions": []
+          },
+          {
+            "Type": "OFFICIAL_INFO",
+            "Code": "TotalBlueScore",
+            "Pos": 0,
+            "Value": "26",
+            "Extensions": []
+          },
+          {
+            "Type": "OFFICIAL_INFO",
+            "Code": "TotalBlueScorePref",
+            "Pos": 0,
+            "Value": "26",
+            "Extensions": []
+          }
+        ],
+        "Bib": "",
+        "OrgDesc": "Morocco",
+        "Name": "MOUSHINE Souilmi",
+        "NameS": "MOUSHINE S",
+        "FuncDesc": "Judge 3"
+      },
+      {
+        "Reg": "8352080",
+        "Org": "AUS",
+        "Function": "J4",
+        "Extensions": [
+          {
+            "Type": "OFFICIAL_INFO",
+            "Code": "TotalRedScore",
+            "Pos": 0,
+            "Value": "30",
+            "Extensions": []
+          },
+          {
+            "Type": "OFFICIAL_INFO",
+            "Code": "TotalRedScorePref",
+            "Pos": 0,
+            "Value": "30",
+            "Extensions": []
+          },
+          {
+            "Type": "OFFICIAL_INFO",
+            "Code": "TotalBlueScore",
+            "Pos": 0,
+            "Value": "26",
+            "Extensions": []
+          },
+          {
+            "Type": "OFFICIAL_INFO",
+            "Code": "TotalBlueScorePref",
+            "Pos": 0,
+            "Value": "26",
+            "Extensions": []
+          }
+        ],
+        "Bib": "",
+        "OrgDesc": "Australia",
+        "Name": "WADE Steven John",
+        "NameS": "WADE SJ",
+        "FuncDesc": "Judge 4"
+      },
+      {
+        "Reg": "1503294",
+        "Org": "TUN",
+        "Function": "J5",
+        "Extensions": [
+          {
+            "Type": "OFFICIAL_INFO",
+            "Code": "TotalRedScore",
+            "Pos": 0,
+            "Value": "30",
+            "Extensions": []
+          },
+          {
+            "Type": "OFFICIAL_INFO",
+            "Code": "TotalRedScorePref",
+            "Pos": 0,
+            "Value": "30",
+            "Extensions": []
+          },
+          {
+            "Type": "OFFICIAL_INFO",
+            "Code": "TotalBlueScore",
+            "Pos": 0,
+            "Value": "26",
+            "Extensions": []
+          },
+          {
+            "Type": "OFFICIAL_INFO",
+            "Code": "TotalBlueScorePref",
+            "Pos": 0,
+            "Value": "26",
+            "Extensions": []
+          }
+        ],
+        "Bib": "",
+        "OrgDesc": "Tunisia",
+        "Name": "BOUHLEL Sarra",
+        "NameS": "BOUHLEL S",
+        "FuncDesc": "Judge 5"
+      }
+    ],
+    "Paralympic": false
+  },
+  "Competitors": [
+    {
+      "Reg": "8600061",
+      "Bib": "",
+      "Org": "IND",
+      "StartOrder": "1",
+      "StartSortOrder": 1,
+      "Rk": "1",
+      "RkEq": false,
+      "RkPo": 1,
+      "WLT": "W",
+      "Result": "4",
+      "ResDetail": "W",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "Q",
+      "Lane": "",
+      "Diff": "",
+      "Extensions": [],
+      "Name": "ANKUSH",
+      "NameS": "ANKUSH",
+      "OrgDesc": "India",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "ME_GOLD"
+    },
+    {
+      "Reg": "303709",
+      "Bib": "",
+      "Org": "KOR",
+      "StartOrder": "2",
+      "StartSortOrder": 2,
+      "Rk": "2",
+      "RkEq": false,
+      "RkPo": 2,
+      "WLT": "L",
+      "Result": "0",
+      "ResDetail": "L",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "Lane": "",
+      "Diff": "",
+      "Extensions": [],
+      "Name": "KIM Minseong",
+      "NameS": "KIM M",
+      "OrgDesc": "Republic of Korea",
+      "Splits": [],
+      "FreeResInfo": "",
+      "Medal": "ME_SILVER"
+    }
+  ],
+  "Legends": {
+    "records": [],
+    "irms": [],
+    "qs": [
+      {
+        "Desc": "legends.BOX.Q",
+        "DescS": "Q"
+      }
+    ]
+  }
+}

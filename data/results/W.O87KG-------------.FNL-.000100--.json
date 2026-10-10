@@ -1,1 +1,527 @@
-null
+{
+  "Info": {
+    "IsPhase": false,
+    "Disc": "KUR",
+    "DiscDesc": "Kurash",
+    "Key": "W.O87KG-------------.FNL-.000100--",
+    "isH2H": true,
+    "Type": "A",
+    "Medal": "1",
+    "Status": "OFFICIAL",
+    "StatusDesc": "Official",
+    "DateTimeRaw": "2026-09-29T15:00:00+09:00",
+    "HideStartDate": false,
+    "Estimated": false,
+    "EstText": "",
+    "HideLocation": false,
+    "Venue": "PMA",
+    "VenueDesc": "Aichi Prefectural Martial Arts Hall",
+    "VenueDescS": "Aichi Prefectural Martial Arts Hall",
+    "Loc": "KU2",
+    "LocDesc": "Aichi Prefectural Martial Arts Hall Gilam 2",
+    "LocDescS": "Aichi Prefectural Martial Arts Hall Gilam 2",
+    "Event": "W.O87KG-------------",
+    "EventDesc": "Women +87kg",
+    "Phase": "W.O87KG-------------.FNL-",
+    "PhaseOrder": 30,
+    "PhaseDesc": "Women +87kg Final",
+    "PhaseDescS": "Women +87kg Final",
+    "PhaseDescA": "Final",
+    "UnitDesc": "Women +87kg Final",
+    "UnitDescS": "Women +87kg Final",
+    "UnitDescA": "Women +87kg Final",
+    "EndDateTimeRaw": "2026-09-29T15:11:51+09:00",
+    "ActualEndDateTimeRaw": "2026-09-29T15:11:51+09:00",
+    "UnitNum": "213",
+    "IsLive": false,
+    "ShowResults": true,
+    "HasActions": false,
+    "HasActionsSumm": false,
+    "HasSummary": false,
+    "HasFleetOverall": false,
+    "HasStats": false
+  },
+  "Results": {
+    "Result": "0-5",
+    "ResDetail": "",
+    "Duration": "08:53",
+    "Current": "",
+    "Last": "",
+    "Extensions": [],
+    "Periods": [
+      {
+        "Order": 1,
+        "Duration": "",
+        "Distance": "",
+        "ResHome": "0",
+        "ResAway": "5",
+        "TotHome": "0",
+        "TotAway": "5",
+        "Extensions": [],
+        "Desc": "1st Round",
+        "DescS": "R1"
+      }
+    ],
+    "Officials": [
+      {
+        "Reg": "10003",
+        "Org": "IRI",
+        "Order": 1,
+        "Function": "",
+        "Bib": "1990-04-24",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Islamic Republic of Iran",
+        "Name": "RANJKESH Amir Abbas",
+        "NameS": "RANJKESH AA",
+        "FuncDesc": ""
+      },
+      {
+        "Reg": "6289883",
+        "Org": "TJK",
+        "Order": 2,
+        "Function": "",
+        "Bib": "1984-10-01",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "Tajikistan",
+        "Name": "SAIDKHOJAEV Abdullo",
+        "NameS": "SAIDKHOJAEV A",
+        "FuncDesc": ""
+      },
+      {
+        "Reg": "6265198",
+        "Org": "IND",
+        "Order": 3,
+        "Function": "",
+        "Bib": "1992-03-27",
+        "FuncOrder": "0",
+        "Extensions": [],
+        "OrgDesc": "India",
+        "Name": "MISHRA Parichay",
+        "NameS": "MISHRA P",
+        "FuncDesc": ""
+      }
+    ],
+    "Paralympic": false
+  },
+  "Competitors": [
+    {
+      "Reg": "8048932",
+      "Bib": "",
+      "Org": "TPE",
+      "StartOrder": "1",
+      "StartSortOrder": 1,
+      "Rk": "",
+      "RkEq": false,
+      "RkPo": 0,
+      "WLT": "L",
+      "Result": "0",
+      "ResDetail": "0",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Color",
+          "Pos": 0,
+          "Value": "BLUE",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "WorldRanking",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BestResult",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Khalol",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Yonbosh",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Chala",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Girrom",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Dakki",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Tanbekh",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        }
+      ],
+      "Name": "SHIH Liu Li-ling",
+      "NameS": "SHIH LL",
+      "OrgDesc": "Chinese Taipei",
+      "Splits": [
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": [
+            {
+              "Type": "SPLIT_INFO",
+              "Code": "Color",
+              "Pos": 0,
+              "Value": "BLUE",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_INFO",
+              "Code": "WorldRanking",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_INFO",
+              "Code": "BestResult",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_INFO",
+              "Code": "Khalol",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_INFO",
+              "Code": "Yonbosh",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_INFO",
+              "Code": "Chala",
+              "Pos": 0,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_INFO",
+              "Code": "Girrom",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_INFO",
+              "Code": "Dakki",
+              "Pos": 0,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_INFO",
+              "Code": "Tanbekh",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            }
+          ]
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_SILVER",
+      "Members": [
+        {
+          "Reg": "8048932",
+          "Org": "TPE",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Gender": "W",
+          "Order": 1,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "IRM": "",
+          "Result": "0",
+          "Extensions": [],
+          "Guides": [],
+          "Name": "SHIH Liu Li-ling",
+          "NameS": "SHIH LL",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        }
+      ]
+    },
+    {
+      "Reg": "14116703",
+      "Bib": "",
+      "Org": "KOR",
+      "StartOrder": "2",
+      "StartSortOrder": 2,
+      "Rk": "",
+      "RkEq": false,
+      "RkPo": 1,
+      "WLT": "W",
+      "Result": "5",
+      "ResDetail": "5",
+      "ResInfo": "",
+      "IRM": "OK",
+      "Qualified": "",
+      "RecordInd": "",
+      "RecordBest": "",
+      "Lane": "",
+      "Seed": "0",
+      "Diff": "",
+      "Extensions": [
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Color",
+          "Pos": 0,
+          "Value": "GREEN",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "WorldRanking",
+          "Pos": 0,
+          "Value": "",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "BestResult",
+          "Pos": 0,
+          "Value": "5",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Khalol",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Yonbosh",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Chala",
+          "Pos": 0,
+          "Value": "1",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Girrom",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Dakki",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        },
+        {
+          "Type": "COMPETITOR_INFO",
+          "Code": "Tanbekh",
+          "Pos": 0,
+          "Value": "0",
+          "Extensions": []
+        }
+      ],
+      "Name": "KIM Minyoung",
+      "NameS": "KIM M",
+      "OrgDesc": "Republic of Korea",
+      "Splits": [
+        {
+          "Rk": "",
+          "RkEq": false,
+          "RkPo": 0,
+          "RkAcc": "",
+          "RkAccEq": false,
+          "RkAccPo": 0,
+          "LegRk": "",
+          "LegRkEq": false,
+          "LegRkPo": 0,
+          "AttResult": "",
+          "Result": "",
+          "Diff": "",
+          "LegResult": "",
+          "AcumulatedResult": "",
+          "AcumulatedDiff": "",
+          "IRM": "",
+          "Status": "",
+          "Extensions": [
+            {
+              "Type": "SPLIT_INFO",
+              "Code": "Color",
+              "Pos": 0,
+              "Value": "GREEN",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_INFO",
+              "Code": "WorldRanking",
+              "Pos": 0,
+              "Value": "",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_INFO",
+              "Code": "BestResult",
+              "Pos": 0,
+              "Value": "5",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_INFO",
+              "Code": "Khalol",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_INFO",
+              "Code": "Yonbosh",
+              "Pos": 0,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_INFO",
+              "Code": "Chala",
+              "Pos": 0,
+              "Value": "1",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_INFO",
+              "Code": "Girrom",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_INFO",
+              "Code": "Dakki",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            },
+            {
+              "Type": "SPLIT_INFO",
+              "Code": "Tanbekh",
+              "Pos": 0,
+              "Value": "0",
+              "Extensions": []
+            }
+          ]
+        }
+      ],
+      "FreeResInfo": "",
+      "Medal": "ME_GOLD",
+      "Members": [
+        {
+          "Reg": "14116703",
+          "Org": "KOR",
+          "Bib": "",
+          "Function": "AA01",
+          "Position": "",
+          "Captain": false,
+          "Gender": "W",
+          "Order": 1,
+          "Substitute": false,
+          "Convoke": false,
+          "InField": false,
+          "InFieldGK": false,
+          "Injured": false,
+          "IRM": "",
+          "Result": "5",
+          "Extensions": [],
+          "Guides": [],
+          "Name": "KIM Minyoung",
+          "NameS": "KIM M",
+          "MedClass": "",
+          "FuncDesc": "Athlete",
+          "PosDesc": ""
+        }
+      ]
+    }
+  ],
+  "Legends": {
+    "records": [],
+    "irms": [],
+    "qs": [],
+    "funcs": [
+      {
+        "DescS": "AA01",
+        "Desc": "Athlete"
+      }
+    ]
+  }
+}
